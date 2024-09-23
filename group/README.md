@@ -1,3 +1,3 @@
-# Micro Reflections
+# Group Discussions
 
-Small end-of-day contemplations on material choices.
+A source of reference for various posts soliciting discussion.
