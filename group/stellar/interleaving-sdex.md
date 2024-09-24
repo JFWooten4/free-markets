@@ -40,6 +40,18 @@ On Efficient Markets
 
 ---
 
+Financial markets thrive because of liquidity. It's the grease in the wheels, so to speak, of a global payments system. Stellar is one of the very few platforms that accounts for liquidity at scale with no centralized party.
+
+The [founders](https://stellar.org/blog/foundation-news/introducing-stellar) of the network, particularly Jed McCaleb, understood firsthand the quandaries of centralized [order books](https://wikipedia.org/wiki/Order_book). In 2012, Jed [wrote](https://bitcointalk.org/index.php?topic=108782.msg1182508#msg1182508): "One thing you can do with it is exchange bitcoins for fiat without the need for a centralized market such as Mt. Gox. Which will be very useful for Bitcoin" when discussing preliminary ideas for Stellar.
+
+This [prescient](https://x.com/JFWooten4/status/1809667647040327949) perspective led to the creation of a distributed exchange, as it was [originally named](https://web.archive.org/web/20170415141617/https://www.stellar.org/developers/guides/concepts/exchange.html). The core concept, released in the [first version](https://discord.com/channels/897514728459468821/907476473739354153/1158791737565782199) of the protocol, still operates today. However, for phonetic reasons, we will hereafter refer to it as the Stellar Decentralized Exchange or SDEX.
+
+> Multiple exchanges will only increase volatility since each market will be thinner. The only thing that will decrease volatility is liquidity. &mdash[Jed McCaleb](https://bitcointalk.org/index.php?topic=16032.msg212418#msg212418)
+
+Since any account can send an order to the SDEX, its order book is uniquely egalitarian in that all market participants follow the same rules, treatment, and pricing. You receive the same exchange rate whetehr you are a major European bank or a rural Kenyan farmer.. Ubdeed, the [throughout](REF_SPEEDEX-inclACcc?) enabled by [SCP](REF_DOCS_SCP_PAGE) means you can specify exactly how much you pay for conversions.
+
+---
+
 ## Uniqueness of SDEX
 ^need to establish how fucked up the system is first
 Special because it is the only real distributed order book, reference 
