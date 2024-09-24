@@ -52,6 +52,88 @@ Since any account can send an order to the SDEX, its order book is uniquely egal
 
 ---
 
+Stellar goals:
+
+# Goal Alignment
+
+> The Stellar Network should be secure and reliable, and should bias towards safety, simplicity, reliability, and performance over new functionality.
+
+## Reliable Safety
+
+## Execution/Routing Simplicity
+
+## Priotizing Performance
+
+raw inputs v conmpo
+
+
+
+
+## Transactional Efficiency
+
+> The Stellar Network should run at scale and at low cost to all participants of the network.
+
+cost of soroban is higher than classic
+
+same ass shit
+
+> the Stellar Network should support off-chain transactions, e.g. Starlight
+
+this is literally speedex sorta
+
+
+
+
+## Triplicate Implications
+
+> The Stellar Network should enable cross-border payments, i.e. payments via exchange of assets, throughout the globe, enabling users to make payments between assets in a manner that is fast, cheap, and highly usable.
+
+
+
+## Interoperability Standard
+
+> The Stellar Network should facilitate simplicity and interoperability with other protocols and networks.
+
+antithical to wierd propritary routing functions
+^ standardizing this would basically be communism forcing all permissionless devs to do the same ass shit
+
+
+## Global Simplicity
+
+> the Stellar Network should support an orderbook that values simplicity over functionality, and one that primarily serves to enable cross-border payments.
+
+
+> The Stellar Network should enable users to **easily** exchange their non-Stellar based assets to Stellar-based assets, and vice versa.
+_[emphasis added]_
+
+
+> The Stellar Network should make it easy for developers of Stellar projects to create highly usable products.
+
+highly usable doesn't mean DEX aggregators
+"The Stellar Network" doesn't mean a centralized router on Soroban, despite upgradability <-- ONLY REFERENCE TO SOROBAN UPGRADABILITY
+
+## Liquidity Mandate
+
+> In support of this, the Stellar Network should facilitate liquidity as a means to enabling cross-border payments.
+
+
+not fucking possible if fragmented
+refer to forex broker ECN model v. `var` accounts
+
+
+## Values Contemplation
+
+> The Stellar Network should support decentralization wherever possible, but not at the expense of the majority of its values.
+
+sum up with "if we really support [egalitarianism](EXCLUSIVE_VALUES_HREF to https://github.com/stellar/stellar-protocol/blob/master/core/README.md#stellar-network-goals) and everyone participating on the [same playing field](https://www.youtube.com/watch?v=iIMgaUyiEho&list=PLWUFvhKuc_5tD62OdZIv3HUaf4eBaQzG8), then might we contemplate further the competative advantages of interleaving the SDEX with native AMMs? 💭
+
+
+The Stellar Network should make it easy for developers of Stellar projects to create highly usable products.
+
+
+
+---
+
 ## Uniqueness of SDEX
 ^need to establish how fucked up the system is first
 Special because it is the only real distributed order book, reference 
