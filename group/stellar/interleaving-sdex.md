@@ -50,6 +50,22 @@ This [prescient](https://x.com/JFWooten4/status/1809667647040327949) perspective
 
 Since any account can send an order to the SDEX, its order book is uniquely egalitarian in that all market participants follow the same rules, treatment, and pricing. You receive the same exchange rate whetehr you are a major European bank or a rural Kenyan farmer.. Ubdeed, the [throughout](REF_SPEEDEX-inclACcc?) enabled by [SCP](REF_DOCS_SCP_PAGE) means you can specify exactly how much you pay for conversions.
 
+
+---
+
+Developer goals
+
+# Value Alignment
+
+> The Stellar Protocol should be clear, concise, and opinionated.
+
+> New operations and functionality should be opinionated, and straightforward to use.
+
+> There should ideally be only one obvious way to accomplish a given task.
+
+> **The Stellar Protocol should bias towards user safety.**
+see 87% GME internalization rate at GME_RH_INT_RATE_LINK_HERE
+
 ---
 
 Stellar goals:
@@ -194,7 +210,7 @@ Proactively see how others improve (which has been effectively nil) and incorpor
 
 We want users to have the most financial success. Let's do it together!
 
-
+idk somewhere should reference https://www.reddit.com/r/Crypto_com/comments/igh4t3/where_does_cash_back_cro_come_from/ which has internalization discussion at https://www.reddit.com/r/Crypto_com/comments/igh4t3/comment/g2uoo57/ in re _TS_ on torubled broker business models (maybe https://www.listennotes.com/podcasts/taking-stock-whydrsorg-cinl5YDNPCJ/)
 
 INIMICAL WITH THE sdex
 
