@@ -6,7 +6,7 @@ dialog: https://github.com/JFWooten4/free-markets/issues/7
 
 # 💱 Interleaving the SDEX & AMMs
 
-This discussion extends decentralization points made in [note 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504), [SCP#25](https://github.com/stellar/scp-proofs/issues/25), and [Cede](https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company) [timeframe](https://groups.google.com/g/stellar-dev/c/vSsf75cYi5Q/m/AaIjpmC4BAAJ#:~:text=Whether,years). It also nullifies incumbent business models employed by a number of community members that have directly helped me over the years. For that, I'm sorry.
+This discussion extends decentralization points made in [note 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504), [SCP#25](https://github.com/stellar/scp-proofs/issues/25), and [Cede](https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company) [timeframe](https://groups.google.com/g/stellar-dev/c/vSsf75cYi5Q/m/AaIjpmC4BAAJ#:~:text=Whether,years). Its principles nullify incumbent business models employed by community members that have directly helped me over the years. Sorry about that, but keep [innovating](LINKEDIN_INNOVATOR_POST?)!
 
 ---
 
@@ -26,21 +26,42 @@ To answer this question in the narrow case of the SDEX, might we contemplate the
 [^ecn-q]: _See supra_ note 1. The parallel of ECNs to Stellar would be a UniswapV4-style Soroban order book, except you can pay [kickbacks]() and other [bribes]() to [fragment the market](GARY_97%_CONGRESS_TALK_DIRECT_TIMESTAMP). The end result of these schenanigans is the plutocracy governing our extractive American stock market.[^America]
 [^America]: My diction is quite sentimentatal to my hoome nation, as these inescapable "decentralizing" centralization problems reached our market xyz. explain something here on global impact and being blocked out from investing. But if you live elsewere, (especially somewhere less developed) then you may not even have access to these markets in the first place&mdash;which is the promise the network offers to everyone once ubiquitous.
 
+### Price Competition
+
+In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](ANKIT_<MARKET_STRUCUTRE_POST_LINKEDIN) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
+
+[![complex-trading-birdnest](With yellowpaper image https://blocktransfer.com/.well-known/XYZ.png)](https://blocktransfer.com/.well-known/yellowpaper.pdf)
+
+
+
+
+
 On Efficient Markets
 
 ---
 
 ## Uniqueness of SDEX
-Special because it is the only real distributed order book, reference https://blocktransfer.com/.well-known/thesis.pdf
+^need to establish how fucked up the system is first
+Special because it is the only real distributed order book, reference 
 
 ## Decentralization of Rules
+^need to first contextualize how impoertant this is per: https://x.com/JFWooten4/status/1838612974325412246
 A crucial differentiator from explicit contract rules, implications: https://wooten.link/uniswap
 
 ## Efficient Direct States
 Reference how it manages the ledger through explicit and defined patterns without external state.
+more of a technical thing, prob need to dive into the Herder if time
 
 ## Transparent Access Patterns
 A universal set of standards for interoperation, reporting, and modifications.
+^showcase traditional market API costs, incl. DSTOQ, and flawed long-term approach
+discuss explicit REG SHO fee caps with links to the three tenths page in a formal PDF
+charts and studies on that if time allows 
+
+
+
+
+
 
 # Significance
 On markets as one of the base functionalities of a capitalist financial system, like `payments`.
@@ -55,7 +76,7 @@ By separating the base trading functions so intertwined with the network, we can
 We want to promote innovation but understand the past of fragmenting liquidity via ATS evolutions.
 
 ### Extensively Complicated Systems
-With yellowpaper image https://blocktransfer.com/.well-known/XYZ.png, detail the implications of `routing` brokers / parallel to newfound DEX aggregators.
+detail the implications of `routing` brokers / parallel to newfound DEX aggregators.
 
 ### Popular Chain Problems
 How this applies to all the trading applications on legacy smart contracts because of fragmentation.
@@ -81,6 +102,6 @@ We want users to have the most financial success. Let's do it together!
 
 
 
-
+INIMICAL WITH THE sdex
 
 commend osmething.... probably garand? i really liked his recent explainers on state expiration
