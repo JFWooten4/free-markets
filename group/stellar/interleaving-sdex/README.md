@@ -175,8 +175,8 @@ discuss explicit REG SHO fee caps with links to the three tenths page in a forma
 charts and studies on that if time allows 
 
 
-
-[![overlay-meme-sdex-as-so-foundational;ly-important-that-it-IS-so-so-stellar-much]()](https://youtu.be/nOh-7SzI6gM)
+## material 
+[![overlay-meme-sdex-as-so-foundational;ly-important-that-it-IS-so-so-stellar-much](imgs/centralized-design-principles.png)](https://youtu.be/nOh-7SzI6gM)
 
 "21 million is not a feature of Bitcoin. It is Bitcoin." [src](https://youtu.be/W2oRRGVo9xs)
 
