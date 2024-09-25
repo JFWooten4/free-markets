@@ -6,10 +6,35 @@ dialog: https://github.com/stellar/stellar-protocol/discussions/new?category=cor
 
 # 💱 Interleaving the SDEX & AMMs
 
-This discussion extends decentralization points made in [note 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504), [SCP#25](https://github.com/stellar/scp-proofs/issues/25), and [Cede](https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company) [timeframe](https://groups.google.com/g/stellar-dev/c/vSsf75cYi5Q/m/AaIjpmC4BAAJ#:~:text=Whether,years). Its principles nullify incumbent business models employed by community members that have directly helped me over the years. Sorry about that, but keep [innovating](LINKEDIN_INNOVATOR_POST?)!
+Hello, my name is John, and I am a little obsessed with [order books](https://ninetonoonsecrets.com/manuscript.pdf#page=97). It all started as a small research idea while I worked and went to school. But over the years, it become something [foundationa](https://wooten.link/thesis) to my life's purpose of building real savings and retirements for masses of people.
+
+To understand my perspective, could I share with you a very brief overview of my trading journey? 
+
+
+
+It started potentially how you'd expect: young kid wants to make some money and tries their hand at the stock market. I'll admit, that was the case&mdash;a raw sense of wanting someting better and beliving in the market as a path to get there.
+
+If you've ever invested (and I think we're all pretty deep in lumens), maybe this was a similar call to your start? Wanting to amass wealth through the investment vehicles touted by society. That was the view I had when I quit my job to trade stocks full time.
+
+In the first two weeks of a paper thinkorswim demo, I made more than the entire year prior working minimum wage. 
+
+
+
+
+[^decentralize]: This discussion extends decentralization points made in [note 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504), [SCP#25](https://github.com/stellar/scp-proofs/issues/25), and [Cede](https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company) [timeframe](https://groups.google.com/g/stellar-dev/c/vSsf75cYi5Q/m/AaIjpmC4BAAJ#:~:text=Whether,years). Its principles nullify incumbent business models employed by community members that have directly helped me over the years. Sorry about that, but keep [innovating](LINKEDIN_INNOVATOR_POST?)!
+
+## Accessable Education Breakthroughs
+
+Before diving into feature @SirTyson for his outstanding recent informational videos.[^main-g-ref] It's rare to find a developer of such high caliber as Garand that can also explain their work [in plain English](https://stellar.org/blog/developers/introducing-state-archival-the-solution-to-state-bloat-on-stellar). This ongoing treat
+
+focus on innovation on the permissionless side
+mgith want to actually move the n2n OB reference here from #723
+
+[^main-g-ref]: Do the info links 
+
+
 
 ---
-
 An efficient market to me means the most value possible given to all participants. If there's a `payment` taking place, it means the lowest [requisite](DISCORD_BT_ALPHA_WHITEPAPR_THREAD) trabsaction cost. And if it's a digital marketplace of buyers and sellers, it means [quite the same](https://wooten.link/gnu).
 
 A middlemen, call them the New York Stock Exchange, charging an extra fee to "authorize" and effectuate a transaction? Well that sounds like an antiquated[^thesis] business model to me. And indeed, at XYZ billion dollars [in value](SEC_AYAHOO_FINANCE_OR_ANNUAL_REPORT), these are profitable business models.
@@ -22,7 +47,7 @@ Namely, might we focus on trade, the essense of en efficient capilistt society? 
 To answer this question in the narrow case of the SDEX, might we contemplate the history of traditional centralized financial marketsd? It's my interpration of history that, in the long run, all intermediaries go bankrupt.[^jerry] Namelt, the evoliution of ECNs[^ecn-q] presents a compelling case for the race to zero.
 
 [^thesis]: _See_ Block Transfer's [foundational thesis](https://wooten.link/thesis).
-[^jerry]: _See, e.g.,_ [STUDY_1](), [executive sentiments](GITHUB_BT_LINK_STOPSIGN), and [STUDY_2]().
+[^jerry]: _See, e.g.,_ [STUDY_1](), [executive sentiments](https://github.com/blocktransfer#eliminating-intermediaries-%EF%B8%8F), and [STUDY_2]().
 [^ecn-q]: _See supra_ note 1. The parallel of ECNs to Stellar would be a UniswapV4-style Soroban order book, except you can pay [kickbacks]() and other [bribes]() to [fragment the market](GARY_97%_CONGRESS_TALK_DIRECT_TIMESTAMP). The end result of these schenanigans is the plutocracy governing our extractive American stock market.[^America]
 [^America]: My diction is quite sentimentatal to my hoome nation, as these inescapable "decentralizing" centralization problems reached our market xyz. explain something here on global impact and being blocked out from investing. But if you live elsewere, (especially somewhere less developed) then you may not even have access to these markets in the first place&mdash;which is the promise the network offers to everyone once ubiquitous.
 
@@ -38,6 +63,22 @@ In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees l
 
 
 On Efficient Markets
+
+
+
+
+
+
+When you convert one currency to another in traditional financial markets, your trade happens because of limit orders. [These orders] specify how much someone will pay for a certain amount of any asset. Thus, when you need to convert your dollars to yen, e.g., their order to sell yen for dollars counteracts and "fulfills" your trade.
+
+## Market Depth
+
+The more orders available to transact against, the more currency you can convert at any time without [moving the market](https://dollarendgame.substack.com/p/gamestopped?r=3bnvyi). Stellar stores these open orders as `offer` [objects](https://developers.stellar.org/docs/data/horizon/api-reference/resources/offers/object) directly on chain. XYZ_ONE_SENT_HERE_WITH_HREF_ON_TRADING—maybe SpeedEx post.
+
+## Fill Prices
+
+The network and by extension its [validators](https://stellarbeat.io/) match orders based on the protocol rules of [Stellar Core](https://github.com/stellar/stellar-core/blob/fbb53d8ad42dcc12a046c9be949d654821a24d38/src/transactions/OfferExchange.cpp#L227-L550). SENTENCE_HERE_ON_SAME_PRICE_OR_BETTER SENTENCE_BEST_EXEC (#ref-more-later-on-per-ledger-match-matching).
+
 
 ---
 
@@ -229,7 +270,7 @@ commend osmething.... probably garand? i really liked his recent explainers on s
 https://www.youtube.com/watch?v=H-crrmpLjV4&list=PLD_o9ntBnmGam9BuoTr_4cjPOksi1Dl1A
 which was across socials
 potentially href https://discord.com/channels/897514728459468821/907476473739354153/1262848253796286530 re [google img here maybe, if time to incorporate monpoly implciations from s7-24-15]
-- [Historical Education](https://youtu.be/Xhyjp-UVYRU)
+- [Historical Education](https://stellar.org/blog/developers/data-structure-bucketlistdb)
 - "Soroban has so many use cases. Use cases that the people building it haven't even begun to imagine yet... Truly, the sky is the limit." [release](https://x.com/StellarOrg/status/1811498824910930300)
 ^mentions AMMs on soroban and should explicitly reference extended conversation on _May 30?_ per [Sec 3.3](https://github.com/stellar/stellar-protocol/discussions/1504) which ties into [^egalitarian/**engineering** sentiments](https://lnns.co/YqRntTfvmuF/2132)
 see if youtube - https://x.com/StellarOrg/status/1814017394660229367
