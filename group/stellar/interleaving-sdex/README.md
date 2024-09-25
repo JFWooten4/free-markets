@@ -28,7 +28,7 @@ Garand's sentiments in [this short release](https://x.com/StellarOrg/status/1811
 
 > Soroban has so many use cases. Use cases that the people building it haven't even begun to imagine yet... Truly, the sky is the limit.
 
-These groundbreaking applications can be so much more than another trading avenue. Specifically, our extended conversation on May 30[^30] dove into trade routing inneficiencies, which ties directly into [egalitarian engineering sentiments](https://lnns.co/YqRntTfvmuF/2132).
+These groundbreaking applications can be so much more than another trading avenue. Specifically, our extended conversation on May 30[^30] dove into trade routing inneficiencies, which ties directly into egalitarian [engineering sentiments](https://lnns.co/YqRntTfvmuF/2132).
 
 
 
@@ -47,12 +47,16 @@ These groundbreaking applications can be so much more than another trading avenu
 
 ## Market Fragmentation
 
-Hello, my name is John, and I am a little obsessed with [order books](https://ninetonoonsecrets.com/manuscript.pdf#page=97). It all started as a small research idea while I worked and went to school. But over the years, it become something [foundational](https://wooten.link/thesis) to my life's purpose of building real savings and retirements for masses of people.
+Hello, my name is John,[^hey] and I am a little obsessed with [order books](https://ninetonoonsecrets.com/manuscript.pdf#page=97). It all started as a small research idea while I worked and went to school.[^lot] But over the years, it become something [foundational](https://wooten.link/thesis) to my life's purpose of building real savings and retirements for masses of people.
 
 To understand my perspective, could I share with you a very brief overview of my trading journey? Namely, might I share with you why exactly the American stock market is [broken](https://dollarendgame.substack.com/p/gamestopped?r=3bnvyi)? It's my opinion that the history buried here tells a compelling tale for controlled decentralization, as promoted by our network values.
 
-Our discussion starts with understanding [for-profit](tZero_this_week_X_link_href) exchanges. Particularly, did you know that the U.S. has nearly 100 stock exchanges?[^ats]
+Our discussion starts with understanding [for-profit](tZero_this_week_X_link_href) exchanges. Particularly, did you know that the U.S. has nearly 100 stock exchanges?[^ats] These competitors each offer effectively the same order liquidity, but they continually undercut each other in fees or [kickbacks]().
 
+
+[^hey]: I've been building on Stellar around the SDEX for just over three years because I whoelheartedly believe the network will be the efficient finanicial system the world so desperately needs. I've been helping around on the docs lately while our community organizes to work on mainstream frontend interfaces.
+
+[^lot]: Okay, it natrually grew into a huge passion of mine, but I also saw firsthand the damage of fragmentation. The turning point for me was when a third of my [biggest trade ever](https://wooten.link/bitcoin) went to a brokerage in commissions and fees. Even if you're trading less leveraged assets without derivatives, the small transaction costs created by markets [can really add up](https://github.com/JFWooten4/drip-fee-impact).
 
 [^ats]: _See_ 24 [national exchanges](https://www.sec.gov/about/divisions-offices/division-trading-markets/national-securities-exchanges), [internalizing brokers](https://www.sec.gov/foia-services/frequently-requested-documents/company-information-about-active-broker-dealers), and 72 [dark pools](https://www.sec.gov/foia-services/frequently-requested-documents/alternative-trading-system-ats-list).
 
