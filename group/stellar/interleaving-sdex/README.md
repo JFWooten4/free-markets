@@ -10,7 +10,7 @@ This discussion extends decentralization points made in [note 2.1.1](https://git
 
 The inspiration for this post came from the [FxDAO](https://youtu.be/ZT9o_cK3_O4?t=514) [community](https://discord.gg/t7PMNQVJV5). Last week, Soroban AMM developers [upgraded](https://stellar.expert/explorer/public/tx/aa38d1e4ea97228bed1010dfcfb9e4a1c95cf8427238e928e146e00a671dc04d) a contract running all the platform's liquidity pools. This stopped users from withdrawing their funds and placed all deposits at risk.[^bug]
 
-[^bug]: The actual bug this immediate, unanounced migration fixed allowed attackers to drain a pool's entire reward reserves. Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. But the entire protocol deployed new routers, pool identifiers, and duplicate tokens.
+[^bug]: The immediate, unanounced migration fixed a bug that let attackers empty a pool's reward reserves. Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. But the entire liquidity protocol had to deploy new routers, pool identifiers, and duplicate tokens.
 
 
 
@@ -20,34 +20,27 @@ The inspiration for this post came from the [FxDAO](https://youtu.be/ZT9o_cK3_O4
 
 ## Accessable Education Breakthroughs
 
-But before we dive into the implications, I'd like to highlight @SirTyson for his outstanding recent informational videos.[^main-g-ref] It's rare to find a developer of such high caliber as Garand that can also explain their work [in plain English](https://stellar.org/blog/developers/introducing-state-archival-the-solution-to-state-bloat-on-stellar). This ongoing treat stands strongly as a magnet for [new users](https://youtu.be/W4PXPzmzn0A)
-
-focus on innovation on the permissionless side
-mgith want to actually move the n2n OB reference here from #723
-
-[^main-g-ref]: Do the info links 
+Speaking of Soroban news, I'd like to highlight @SirTyson for his outstanding recent informational videos.[^main-g-ref] It's rare to find a developer of such high caliber as Garand that can also explain their work [in plain English](https://stellar.org/blog/developers/introducing-state-archival-the-solution-to-state-bloat-on-stellar). This ongoing treat stands strongly as a magnet for [new users](https://youtu.be/W4PXPzmzn0A) discovering the network.[^permissionless] 🧲
 
 [<img width="450" alt="garand-eloquent" src="https://github.com/user-attachments/assets/af4ba303-f9b7-45b8-9661-3b1acae2f4e4">](https://consensus2024.coindesk.com/agenda/event/-performance-meets-scale-state-archival-and-multidimensional-fees-355)[^drs-discord]
+
+Garand's sentiments in [this short release](https://x.com/StellarOrg/status/1811498824910930300) captured the wide array of applications we can build:
+
+> Soroban has so many use cases. Use cases that the people building it haven't even begun to imagine yet... Truly, the sky is the limit.
+
+These groundbreaking applications can be so much more than another trading avenue. Specifically, our extended conversation on May 30[^30] dove into trade routing inneficiencies, which ties directly into [egalitarian engineering sentiments](https://lnns.co/YqRntTfvmuF/2132).
+
+
+
+[^30]: _See_ [Sec 3.3](https://github.com/stellar/stellar-protocol/discussions/1504) at event discussing cross-exchange arbitrge.
+
+[^main-g-ref]: _See_ tremendous [state expiration explainer](https://www.youtube.com/watch?v=H-crrmpLjV4&list=PLD_o9ntBnmGam9BuoTr_4cjPOksi1Dl1A), [informative technical specifications](https://github.com/stellar/stellar-protocol/blob/master/core/cap-0046-12.md), and [historical data education](https://stellar.org/blog/developers/data-structure-bucketlistdb).
+
+[^permissionless]: I'm continually impressed by the permissionless, comprehensive, and public nature of Garand's posts. They break down innovations for everyone to understand and implement, no doubt after countless months of development. Hopefully, more pupils from @stanford-scs will join network development efforts. 🌌
+
+[^dao-ing]: We've been [discussing](https://discord.com/channels/897514728459468821/907476473739354153/1262848253796286530) the challenges of marketing open source development for weeks as our community [adopts GitHub](https://github.com/WhyDRS/DAO-docs).
+
 [^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1118990437684875357/1288454624566841376) in [WhyDRS Discord](https://wooten.link/join)
-
-
-commend osmething.... probably garand? i really liked his recent explainers on state expiration
-https://www.youtube.com/watch?v=H-crrmpLjV4&list=PLD_o9ntBnmGam9BuoTr_4cjPOksi1Dl1A
-which was across socials
-potentially href https://discord.com/channels/897514728459468821/907476473739354153/1262848253796286530 re [google img here maybe, if time to incorporate monpoly implciations from s7-24-15]
-- [Historical Education](https://stellar.org/blog/developers/data-structure-bucketlistdb)
-- "Soroban has so many use cases. Use cases that the people building it haven't even begun to imagine yet... Truly, the sky is the limit." [release](https://x.com/StellarOrg/status/1811498824910930300)
-^mentions AMMs on soroban and should explicitly reference extended conversation on _May 30?_ per [Sec 3.3](https://github.com/stellar/stellar-protocol/discussions/1504) which ties into [^egalitarian/**engineering** sentiments](https://lnns.co/YqRntTfvmuF/2132)
-see if youtube - https://x.com/StellarOrg/status/1814017394660229367
-
-
-
-
-
-
-
-
-
 
 
 
