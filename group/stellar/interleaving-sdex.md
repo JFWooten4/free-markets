@@ -1,7 +1,7 @@
 ```
 status: Draft
 submit: 27 Sep 2024
-dialog: https://github.com/JFWooten4/free-markets/issues/7
+dialog: https://github.com/stellar/stellar-protocol/discussions/new?category=core-advancement-proposals
 ```
 
 # 💱 Interleaving the SDEX & AMMs
@@ -64,7 +64,13 @@ Developer goals
 > There should ideally be only one obvious way to accomplish a given task.
 
 > **The Stellar Protocol should bias towards user safety.**
-see 87% GME internalization rate at GME_RH_INT_RATE_LINK_HERE
+probably remove the added emphasis lol
+
+see 87% GME internalization rate[^gme]
+[^int-r]
+
+[^gme]: intro report https://drive.blocktransfer.com/external/c92760595ae796e46e327b16a2ccd3633cba94e36997ee1ca16ef1443427d058#page=21
+[^int-r]: _See supra_ note XYZ at 21.
 
 ---
 
@@ -170,8 +176,9 @@ charts and studies on that if time allows
 
 
 
+[![overlay-meme-sdex-as-so-foundational;ly-important-that-it-IS-so-so-stellar-much]()](https://youtu.be/nOh-7SzI6gM)
 
-
+"21 million is not a feature of Bitcoin. It is Bitcoin." [src](https://youtu.be/W2oRRGVo9xs)
 
 # Significance
 On markets as one of the base functionalities of a capitalist financial system, like `payments`.
@@ -215,3 +222,9 @@ idk somewhere should reference https://www.reddit.com/r/Crypto_com/comments/igh4
 INIMICAL WITH THE sdex
 
 commend osmething.... probably garand? i really liked his recent explainers on state expiration
+https://www.youtube.com/watch?v=H-crrmpLjV4&list=PLD_o9ntBnmGam9BuoTr_4cjPOksi1Dl1A
+which was across socials
+potentially href https://discord.com/channels/897514728459468821/907476473739354153/1262848253796286530 re [google img here maybe, if time to incorporate monpoly implciations from s7-24-15]
+- [Historical Education](https://youtu.be/Xhyjp-UVYRU)
+- https://x.com/StellarOrg/status/1811498824910930300
+^mentions AMMs on soroban and should explicitly reference extended conversation on _May 30?_ per [Sec 3.3](https://github.com/stellar/stellar-protocol/discussions/1504) which ties into [^egalitarian/**engineering** sentiments](https://lnns.co/YqRntTfvmuF/2132)
