@@ -30,7 +30,8 @@ To answer this question in the narrow case of the SDEX, might we contemplate the
 
 In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](ANKIT_<MARKET_STRUCUTRE_POST_LINKEDIN) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
 
-[![complex-trading-birdnest](With yellowpaper image https://blocktransfer.com/.well-known/XYZ.png)](https://blocktransfer.com/.well-known/yellowpaper.pdf)
+
+[<img width="450" alt="routing-birdsnest" src="https://blocktransfer.com/.well-known/post-internalization.png" style="border-radius: 64pt;">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
 
 
 
@@ -229,10 +230,11 @@ https://www.youtube.com/watch?v=H-crrmpLjV4&list=PLD_o9ntBnmGam9BuoTr_4cjPOksi1D
 which was across socials
 potentially href https://discord.com/channels/897514728459468821/907476473739354153/1262848253796286530 re [google img here maybe, if time to incorporate monpoly implciations from s7-24-15]
 - [Historical Education](https://youtu.be/Xhyjp-UVYRU)
-- "Soroban has so many use cases. Use cases that the people building it haven't even begin to imagine yet... Truly, the sky is the limit." [release](https://x.com/StellarOrg/status/1811498824910930300)
+- "Soroban has so many use cases. Use cases that the people building it haven't even begun to imagine yet... Truly, the sky is the limit." [release](https://x.com/StellarOrg/status/1811498824910930300)
 ^mentions AMMs on soroban and should explicitly reference extended conversation on _May 30?_ per [Sec 3.3](https://github.com/stellar/stellar-protocol/discussions/1504) which ties into [^egalitarian/**engineering** sentiments](https://lnns.co/YqRntTfvmuF/2132)
+see if youtube - https://x.com/StellarOrg/status/1814017394660229367
 
 # make this horizontally scaled half at most
 
 [<img width="450" alt="garand-eloquent" src="imgs/garand-tyson-meme.png">](https://consensus2024.coindesk.com/agenda/event/-performance-meets-scale-state-archival-and-multidimensional-fees-355)[^drs-discord]
-[^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1102309240741310503/1213889696841736192) in [WhyDRS Discord](https://wooten.link/join)
+[^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1118990437684875357/1288454624566841376) in [WhyDRS Discord](https://wooten.link/join)
