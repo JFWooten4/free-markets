@@ -208,29 +208,42 @@ Developer goals
 
 ### Value Alignment
 
-> The Stellar Protocol should be clear, concise, and opinionated.
+I respectfully submit to the community that interleaving the SDEX with AMMs furthers our just principles since doing so makes the Stellar Protocol clear, concise, and opinionated;[^values-1] introduces new functionality that is opinionated and straightforward to use;[^values-2] isolates only one obvious way to accomplish a given task;[^values-3] biases the Stellar Protocol towards user **safety,**[^values-4] makes the Stellar network secure and reliable;[^values-5] biases the Stellar network towards safety, simplicity, reliability, and performance over new functionality;[^values-6] allows the Stellar network to run at scale and at low cost to all participants of the network;[^values-7] could help the Stellar Network support off-chain transactions, e.g. Starlight, should SPEEDEX develop [in parallel](something_here_idk_only thing I can think is like end of wooten./link/TS because other speedex mentions are offline and prop;..........could link to IDEX L2 SOL or maybe just maybe Shapeshift dao, extremely carefully tho; needs explicit rollups);[^values-8] enables the Stellar network to power cross-border payments, i.e. payments via **exchange** of assets, throughout the globe, enabling users to make payments between assets in a manner that is fast, cheap, and highly usable;[^values-9] facilitates simplicity and interoperability with other protocols and networks;[^values-10] allows the Stellar network to support an orderbook that values simplicity over functionality, and one that primarily serves to enable cross-border payments;[^values-11] allows the Stellar network to make it easy for developers of Stellar projects to create highly usable products;[^values-12] and facilitates **liquidity** as a means to enabling cross-border payments throughout the Stellar network.[^values-13]
 
-> New operations and functionality should be opinionated, and straightforward to use.
+[^values-3]: utter confusion from Silence in discord on how tf route path payments, other community memebrs, all [discord](lol the discord song by eurobeat?idk kinda fun {🤷‍🤷)
 
-> There should ideally be only one obvious way to accomplish a given task.
-
-> **The Stellar Protocol should bias towards user safety.**
-probably remove the added emphasis lol
-
-see 87% GME internalization rate[^gme]
-[^int-r]
-
-[^gme]: intro report https://wooten.link/report
-[^int-r]: _See supra_ note XYZ at 21.
+[^values-4]: see 87% GME internalization rate,[^int-r] [Congressional investigation](#page=), and XYZ [report](whydrs/chives details/article: what does drs have to do with gme)
 
 _See also_ [SEC investigation](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf#page=38) uncovering manipulative centralization.
 
+end with teh argument on rules consensus: https://x.com/BurCapital/status/1839383174033654075
 
-### Stellar goals:
+[^int-r]: _See supra_ [https://wooten.link/report] note XYZ at 21.
 
-# Goal Alignment
 
-> The Stellar Network should be secure and reliable, and should bias towards safety, simplicity, reliability, and performance over new functionality.
+[^values-7]: Soroban txns cost more in every conceivable way
+
+[^values-8]: Depends on link above, this is literally speedex sorta
+
+[^values-9]: do refernece to studies on percent of itnernation payments including urrneyc conversion; humantiairna shit/that aid project they did; use the link to the releif tweet wherever the fuck it is
+
+[^values-10]: Since point of reference liek the NBBO instead of requisirng a consolidation monopoly as in https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whistleblower-eric-hunsader-750000
+_see_ raw inputs v [conmpotition](https://www.blocktransfer.com/blog/post/investor-to-investor-direct-trading)
+also there will alwyas be competiting dex aggregators because smart contracts have inherit competative nature[^elaborate_on_competeming_smart_contracts-as-routing-brokers_context_nreq-if-time]
+literally fuckiung antithical to wierd propritary routing functions
+^ standardizing this would basically be communism forcing all permissionless devs to do the same ass shit[^consensus-sma]
+
+[^consensus-sma]: I respectfully submit to the commuinity that this process would, in all likelihood, be no more efficient than pushing through a CAP introducing a new fee band to native AMMs, for example.
+
+[^values-11]: Huamn rights again, ietf? 
+
+[^values-12]: highly usable doesn't mean DEX aggregators
+"The Stellar Network" doesn't mean a centralized router on Soroban, despite upgradability <-- ONLY REFERENCE TO SOROBAN UPGRADABILITY
+
+[^values-13]: 
+not fucking possible if fragmented
+refer to forex broker ECN model v. `var` accounts
+I dont think I hae the brokerage statements , but it could be worth checkign if time
 
 ## Reliable Safety
 
@@ -238,70 +251,23 @@ _See also_ [SEC investigation](https://www.sec.gov/files/staff-report-equity-opt
 
 ## Priotizing Performance
 
-raw inputs v conmpo
-
-
-
 ## Transactional Efficiency
-
-> The Stellar Network should run at scale and at low cost to all participants of the network.
-
-cost of soroban is higher than classic
-
-same ass shit
-
-> the Stellar Network should support off-chain transactions, e.g. Starlight
-
-this is literally speedex sorta
-
-
-
 
 ## Triplicate Implications
 
-> The Stellar Network should enable cross-border payments, i.e. payments via exchange of assets, throughout the globe, enabling users to make payments between assets in a manner that is fast, cheap, and highly usable.
-
-
-
 ## Interoperability Standard
-
-> The Stellar Network should facilitate simplicity and interoperability with other protocols and networks.
-
-antithical to wierd propritary routing functions
-^ standardizing this would basically be communism forcing all permissionless devs to do the same ass shit
-
 
 ## Global Simplicity
 
-> the Stellar Network should support an orderbook that values simplicity over functionality, and one that primarily serves to enable cross-border payments.
-
-
-> The Stellar Network should enable users to **easily** exchange their non-Stellar based assets to Stellar-based assets, and vice versa.
-_[emphasis added]_
-
-
-> The Stellar Network should make it easy for developers of Stellar projects to create highly usable products.
-
-highly usable doesn't mean DEX aggregators
-"The Stellar Network" doesn't mean a centralized router on Soroban, despite upgradability <-- ONLY REFERENCE TO SOROBAN UPGRADABILITY
-
 ## Liquidity Mandate
 
-> In support of this, the Stellar Network should facilitate liquidity as a means to enabling cross-border payments.
 
-
-not fucking possible if fragmented
-refer to forex broker ECN model v. `var` accounts
-
-
-## Values Contemplation
+# Values Contemplation
 
 > The Stellar Network should support decentralization wherever possible, but not at the expense of the majority of its values.
 
 sum up with "if we really support [egalitarianism](EXCLUSIVE_VALUES_HREF to https://github.com/stellar/stellar-protocol/blob/master/core/README.md#stellar-network-goals) and everyone participating on the [same playing field](https://www.youtube.com/watch?v=iIMgaUyiEho&list=PLWUFvhKuc_5tD62OdZIv3HUaf4eBaQzG8), then might we contemplate further the competative advantages of interleaving the SDEX with native AMMs? 💭
 
-
-The Stellar Network should make it easy for developers of Stellar projects to create highly usable products.
 
 
 
@@ -378,8 +344,6 @@ I believe whgoleheartedly that [SPEEDEX]() will fundamentally transform capitlis
 
 
 drive to the point that you would need one AMM protocl for it to be efficient, so at that point it should be done by the man validators
-
-on rules consensus: https://x.com/BurCapital/status/1839383174033654075
 
 https://www.youtube.com/watch?v=Sm17SAZO9hY&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t&t=702
 
