@@ -28,7 +28,7 @@ Garand's sentiments in [this short release](https://x.com/StellarOrg/status/1811
 
 > Soroban has so many use cases. Use cases that the people building it haven't even begun to imagine yet... Truly, the sky is the limit.
 
-These groundbreaking applications can be so much more than another trading avenue. Specifically, our extended conversation on May 30[^30] dove into trade routing inneficiencies, which ties directly into egalitarian [engineering sentiments](https://lnns.co/YqRntTfvmuF/2132).
+These [groundbreaking applications](https://medium.com/clickpesa-debt-fund/introducing-the-clickpesa-debt-fund-transforming-sme-finance-in-sub-saharan-africa-3e9e7afebf4e) can be so much more than another trading avenue. Specifically, our extended conversation on May 30[^30] dove into trade routing inneficiencies, which ties directly into egalitarian [engineering sentiments](https://lnns.co/YqRntTfvmuF/2132).
 
 
 
@@ -51,7 +51,7 @@ Hello, my name is John,[^hey] and I am a little obsessed with [order books](http
 
 To understand my perspective, could I share with you a very brief overview of my trading journey? Namely, might I share with you why exactly the American stock market is [broken](https://dollarendgame.substack.com/p/gamestopped?r=3bnvyi)? It's my opinion that the history buried here tells a compelling tale for controlled decentralization, as promoted by our network values.
 
-Our discussion starts with understanding [for-profit](tZero_this_week_X_link_href) exchanges. Particularly, did you know that the U.S. has nearly 100 stock exchanges?[^ats] These competitors each offer effectively the same order liquidity, but they continually undercut each other in fees or [kickbacks]().
+Our discussion starts with understanding [for-profit](tZero_this_week_X_link_href) exchanges. Particularly, did you know that the U.S. has nearly 100 stock exchanges?[^ats] These competitors each offer effectively the same order liquidity, but they continually undercut each other in fees or [kickbacks](https://bettermarkets.org/wp-content/uploads/2022/03/Better_Markets_Payment_for_Order_Flow_Long_02-21-2021.pdf).
 
 
 [^hey]: I've been building on Stellar around the SDEX for just over three years because I whoelheartedly believe the network will be the efficient finanicial system the world so desperately needs. I've been helping around on the docs lately while our community organizes to work on mainstream frontend interfaces.
@@ -64,6 +64,15 @@ Our discussion starts with understanding [for-profit](tZero_this_week_X_link_hre
 
 
 
+### Independent Authonomy
+
+This plethora of trading venues, akin to different AMMs, presents a tangible difficulty for routing trades. In these last few weeks, we've already seen the emmergance of multiple products that promise to capture the best exchange rate across native and Soroban pools.[^types] And these systems, many of which are closed-source,[^secret] face fundamental rent-extraction ioncetives to skim off each trade.
+
+Might I ask: if the goal here is empowering anyone anywhere to invest in their future, then should our underlying market tooling to complicate trading for the sake of profits? I respectfully submit that smart contracts on other chains have had years to mature, but they still barely offer anything not present on the native chain or easily possible. While we are early in web3, we are not early in markets.[^VOC]
+
+Accordingly, might we look to the long-term implications of interleaving the SDEX with AMMs under the frame of how markets evolved?[^mm2]
+
+Do you see any innovation surface across these contracts aside from taking liquidity away from the network to isolate on 
 
 It started potentially how you'd expect: young kid wants to make some money and tries their hand at the stock market. I'll admit, that was the case&mdash;a raw sense of wanting someting better and beliving in the market as a path to get there.
 
@@ -72,9 +81,13 @@ If you've ever invested (and I think we're all pretty deep in lumens), maybe thi
 In the first two weeks of a paper thinkorswim demo, I made more than the entire year prior working minimum wage. 
 
 
+[^types]: _See, e.g.,_ services splitting path payments into optimal chunks, splitting orders between three equivalent AMM contracts, and quantifying aggregated LP depth statistics.
 
+[^secret]: _See_ proprietary software [secrecy risks](https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf#page=47), especially for foundational financial infrastructure.
 
+[^VOC]: _See_ [discussion](https://lnns.co/0clzI2NVtmk/2520), [study](https://pure.uva.nl/ws/files/1427391/85961_thesis.pdf), and [explainer](https://www.youtube.com/watch?v=YUwqzeaR1lA&list=PLWUFvhKuc_5trr9i5vEpdWZ6ZNZzHM3Nb&t=23) of earlky emmergine brokerages around the Dutch East Indies Copmany.
 
+[^mm2]: _Id. See also generally_ [expansion framework](https://wooten.link/ts)
 
 
 
@@ -315,7 +328,7 @@ charts and studies on that if time allows
 ## Storied Guiding Principles
 
 As someone who needs no context, Jed un
-
+@jedmccaleb
 
 The [founders](https://stellar.org/blog/foundation-news/introducing-stellar) of the network, particularly Jed McCaleb, understood firsthand the quandaries of centralized [order books](https://wikipedia.org/wiki/Order_book). In 2012, Jed [wrote](https://bitcointalk.org/index.php?topic=108782.msg1182508#msg1182508): "One thing you can do with it is exchange bitcoins for fiat without the need for a centralized market such as Mt. Gox. Which will be very useful for Bitcoin" when discussing preliminary ideas for Stellar.
 
