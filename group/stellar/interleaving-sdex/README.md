@@ -8,9 +8,9 @@ dialog: https://github.com/stellar/stellar-protocol/discussions/new?category=cor
 
 This discussion extends decentralization points made in [note 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504), [SCP#25](https://github.com/stellar/scp-proofs/issues/25), and [Cede](https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company) [timeframe](https://groups.google.com/g/stellar-dev/c/vSsf75cYi5Q/m/AaIjpmC4BAAJ#:~:text=Whether,years). Its principles nullify incumbent business models employed by community members that have directly helped me over the years. Sorry about that, but keep [innovating](https://www.linkedin.com/pulse/from-trader-trailblazer-web3-stock-investments-sec-review-john-wooten-zvxbc/)!
 
-The inspiration for this post came from the [FxDAO](https://youtu.be/ZT9o_cK3_O4?t=514) [community](https://discord.gg/t7PMNQVJV5). Last week, Soroban AMM developers [upgraded](https://stellar.expert/explorer/public/tx/aa38d1e4ea97228bed1010dfcfb9e4a1c95cf8427238e928e146e00a671dc04d) a contract running all the platform's liquidity pools. This stopped users from withdrawing their funds and placed all deposits at risk.[^bug]
+The inspiration for this post came from the [FxDAO](https://youtu.be/ZT9o_cK3_O4?t=514) [community](https://discord.gg/t7PMNQVJV5). Last week, Soroban AMM developers [upgraded](https://stellar.expert/explorer/public/tx/aa38d1e4ea97228bed1010dfcfb9e4a1c95cf8427238e928e146e00a671dc04d) a contract running the platform's liquidity pools. This stopped users from withdrawing their funds and placed all deposits at risk.[^bug] 😐
 
-[^bug]: The immediate, unanounced migration fixed a bug that let attackers empty a pool's reward reserves. Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. But the entire liquidity protocol had to deploy new routers, pool identifiers, and duplicate tokens.
+[^bug]: The immediate, unanounced migration fixed a bug that let attackers empty a pool's reward reserves. 🕷️ Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. 😌 But the entire liquidity protocol had to deploy new routers, pool identifiers, and token duplicates. 🤔
 
 
 
@@ -149,11 +149,23 @@ Financial markets thrive because of liquidity. It's the grease in the wheels, so
 ## Competative Interleaving
 
 
-## Interleaving 
+## Interleaving
+
+## Need to frame liquidity
 
 [![contract-risks](https://github.com/user-attachments/assets/5824aacc-a47f-46de-8720-9b080a6ffe66)](https://youtu.be/nOh-7SzI6gM)
 
-"21 million is not a feature of Bitcoin. It is Bitcoin." [src](https://youtu.be/W2oRRGVo9xs)
+xyz [src](https://youtu.be/W2oRRGVo9xs) says:
+
+> "21 million is not a feature of Bitcoin. It is Bitcoin."
+
+Might I respectfully suggest that, as the hglobe's financial system and given the materiality of liquidity in the global financial system:
+
+> "Liquidity is not a feature of Stellar. It is Stellar."
+
+## next section fat end here
+
+
 
 # Significance
 On markets as one of the base functionalities of a capitalist financial system, like `payments`.
@@ -352,3 +364,23 @@ We want users to have the most financial success. Let's do it together!
 idk somewhere should reference https://www.reddit.com/r/Crypto_com/comments/igh4t3/where_does_cash_back_cro_come_from/ which has internalization discussion at https://www.reddit.com/r/Crypto_com/comments/igh4t3/comment/g2uoo57/ in re _TS_ on torubled broker business models (maybe https://www.listennotes.com/podcasts/taking-stock-whydrsorg-cinl5YDNPCJ/)
 
 INIMICAL WITH THE sdex
+
+
+I believe whgoleheartedly that [SPEEDEX]() will fundamentally transform capitlism, empowering:
+
+- Small busiensses to  xyz 
+- Investors to abc, and
+- Anyone, anywehre, at anytime to build real savings and retirements.
+
+[the prominent use case](href speedex post highlight text prominent use, also I think i said this in the dev discord)
+
+
+
+
+drive to the point that you would need one AMM protocl for it to be efficient, so at that point it should be done by the man validators
+
+on rules consensus: https://x.com/BurCapital/status/1839383174033654075
+
+https://www.youtube.com/watch?v=Sm17SAZO9hY&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t&t=702
+
+fast innovation = bad safety per Titanic sub guy https://youtu.be/e0YJBAJdVoc?t=911
