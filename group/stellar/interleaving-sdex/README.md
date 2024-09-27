@@ -16,7 +16,8 @@ The nuances of these developments are still [very new](https://www.youtube.com/w
 
 This post explains that perspective as clearly as I can with five days to write it. Ideally, it's the start of a wider conversation, as there is certainly nothing I can do to stop you from deploying anything you want on Soroban. It's part of the endless debate of [decentralization quandaries](https://www.youtube.com/watch?v=JaMJi1_1tkA&list=PLWUFvhKuc_5uICfadww4PR76Rd2bl2MdT) that [I believe](https://www.youtube.com/watch?v=2b8me4_u6fA&list=PLWUFvhKuc_5sf6xhDONTEPOyrDtEn3wwm&t=2361) SCP so eloquently balances.
 
-[^DAO]: commend decentralization, communtiy efforts https://youtu.be/ZT9o_cK3_O4?t=514 and ddeveloper advocacy https://youtu.be/KKbU7xZqNmw
+[^DAO]: I won't pretend to understand completely everyone's unique and interesting projects 
+Enrique has made increadible progress developing on Soroban with [fast reactions](https://discord.com/channels/1172621167400599582/1172621168197509135/1286790654957060128), an ongoing decentralization ethos of [communtiy efforts](https://youtu.be/ZT9o_cK3_O4?t=514), and grassroots developer advocacy [within events](https://youtu.be/KKbU7xZqNmw).
 
 [^single]: When I say "only," I don't mean that this is the single source of any liquidity. Inherently, anybody approved by an issuer when applicable can post a native [offer](https://stellar.expert/explorer/public/tx/b9dc5ccfbb3e1012ba32711828c49fb73b5956feca4ee3e4630d96f618600eec) or deposit into a [liquidity pool](https://horizon.stellar.org/liquidity_pools/332b1f85f668a9b8f109207f97cde908b98a32ea6b7f427c620ee242f05a5f38). But it was the only pool selected for additional [governance token incentves](https://fxdao.io/docs/pools-and-rewards). 💸
 
@@ -41,7 +42,7 @@ These [groundbreaking applications](https://medium.com/clickpesa-debt-fund/intro
 
 [^dao-ing]: We've been [discussing](https://discord.com/channels/897514728459468821/907476473739354153/1262848253796286530) the challenges of marketing open source development for weeks as our community [adopts GitHub](https://github.com/WhyDRS/DAO-docs).
 
-[^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1118990437684875357/1288454624566841376) in [WhyDRS Discord](https://wooten.link/join), sourcing from @bibicjr.
+[^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1118990437684875357/1288454624566841376) in [WhyDRS Discord](https://wooten.link/join), sourcing from @bibicjr and feature @bobmahalo.
 
 ### Latency Sensitive Background
 
@@ -51,7 +52,7 @@ While Garand might simplify it down to "kernel hacking" on his LinkedIn, he was 
 
 These business models rely on the extremely convoluted [market strucutre](https://youtu.be/lEBiyNojTqY) for American trading, which we will get into specifically in 2.XYZ.XYZ. I respectfully submit that we can further the network's goals by understanding lightly how this work allows for the kind or [risk-free trading](https://youtu.be/tDzMgtcJI0o) Garad saw at Coinbase.[^cb] Given the fragmentation of today's liquid exchange vanues, this [latency](https://youtu.be/1ltjnbBaFok) is vierually impossible to remove.
 
-[^cb]: It is my present understanding based on this conversation that Garand ingeniously developed a latency arbitrage strategy whereby he identified, via one-way ping laternbcy, which of three cloud providers used by Coinbase hosted the order book for an asset. Next, he spun up an instance at the identiefied data center and, using his proprietary latency tests, kept refreshing the instance until his virtual instance was initialized on the same rack as the Coinbase server. Once he was on the same Ethernet swithc, his connection to Coinbase was so fast that it was trivial to execute arbitrage against other popular crypto exchanges wit pro accounts.
+[^cb]: It is my present understanding based on this conversation that Garand ingeniously developed a latency arbitrage strategy whereby he identified, via one-way ping laternbcy, which of three cloud providers used by Coinbase hosted the order book for an asset. Next, he spun up an instance at the identiefied data center and, using his proprietary latency tests, kept refreshing the instance until his virtual instance was initialized on the same rack as the Coinbase server. ⚡ Once he was on the same Ethernet swithc, his connection to Coinbase was so fast that it was trivial to execute arbitrage against other popular crypto exchanges wit pro accounts.
 
 ### A Fresh Start
 
@@ -63,7 +64,7 @@ Based on the work everyone like Garand does to simplify and accurately explain S
 
 [^dex1]: _See, e.g.,_ [public discussion](https://www.blocktransfer.com/blog/post/investor-to-investor-direct-trading), ceasation of DSTOQ operations through Liechtenstein custodian, and [pending conflicts](https://x.com/JFWooten4/status/1778787218041032865).
 
-[^disc]: This is my present understanding, which [the Syndicate](https://www.blocktransfer.com/about/values) bases its [regulatory filings](https://www.sec.gov/edgar/browse/?CIK=1846058) along. However, it is subject to change and should not be taken as professional advice. We're [actively working](https://github.com/WhyDRS/DAO-docs/blame/main/comments/S7-27-15/README.md#L187) to clarify the narrative for other Stellar assets, especially tokenized mutual funds.
+[^disc]: This is my present understanding, which [the Syndicate](https://www.blocktransfer.com/about/values) bases its [regulatory filings](https://www.sec.gov/edgar/browse/?CIK=1846058) along. 📜 However, it is subject to change and should not be taken as professional advice. We're [actively working](https://github.com/WhyDRS/DAO-docs/blame/main/comments/S7-27-15/README.md#L187) to clarify the narrative for other Stellar assets, especially tokenized mutual funds.
 
 
 ## Market Fragmentation
@@ -74,9 +75,9 @@ To understand my perspective, could I share with you a very brief overview of my
 
 Our discussion starts with understanding [for-profit](https://x.com/i/spaces/1gqxvNBZoeBxB) exchanges. Particularly, did you know that the U.S. has nearly 100 stock exchanges?[^ats] These competitors each offer effectively the same order liquidity, but they continually undercut each other in fees or [kickbacks](https://bettermarkets.org/wp-content/uploads/2022/03/Better_Markets_Payment_for_Order_Flow_Long_02-21-2021.pdf).
 
-[^hey]: I've been building on Stellar around the SDEX for just over three years because I whoelheartedly believe the network will be the efficient finanicial system the world so desperately needs. I've been helping around on the docs lately while our community organizes to work on mainstream frontend interfaces.
+[^hey]: I've been building on Stellar around the SDEX for just over three years because I whoelheartedly believe the network will be the efficient finanicial system the world so desperately needs. I've been helping around on the docs lately while our community organizes to work on mainstream frontend interfaces. 📃 Accordignly, organizing our approach to consolodates liquidity seems pressing to preserve a clear, direct, and efficient order execution path.
 
-[^lot]: Okay, it natrually grew into a huge passion of mine, but I also saw firsthand the damage of fragmentation. The turning point for me was when a third of my [biggest trade ever](https://wooten.link/bitcoin) went to a brokerage in commissions and fees. Even if you're trading less leveraged assets without derivatives, the small transaction costs created by markets [can really add up](https://github.com/JFWooten4/drip-fee-impact).
+[^lot]: Trading natrually grew into a huge passion of mine, where I saw firsthand the damage of fragmentation. The turning point for me was when a third of my [biggest trade ever](https://wooten.link/bitcoin) went to a brokerage in commissions and fees. Even if you're trading less leveraged assets without derivatives, the small transaction costs created by markets [can really add up](https://github.com/JFWooten4/drip-fee-impact).
 
 [^ats]: _See_ 24 [national exchanges](https://www.sec.gov/about/divisions-offices/division-trading-markets/national-securities-exchanges), [internalizing brokers](https://www.sec.gov/foia-services/frequently-requested-documents/company-information-about-active-broker-dealers), and 72 [dark pools](https://www.sec.gov/foia-services/frequently-requested-documents/alternative-trading-system-ats-list).
 
@@ -94,7 +95,7 @@ Once liquidity becomes diversively spread across the market, there is almost no 
 
 It seems the network aims for similar goals: empowering anyone to invest, transact, and capitalise on basic capitalistic financial infrastructure. I just don't want you or someone you care for to join the network to instantly face a hidden tax each operation because liquidity is not efficiently organized. Seven years ago, I quit my job to trade full time to amass wealth through the investment vehicles touted by society, not enrich a select few.
 
-This is why I'm so concerned about the emmergance of non-protocol DEXes across the industry which naturally compete. In the spirirt of open-source, might I suggest that the best approach follow's the organic and neccesary axiom that one source of liquidity lets us best match all orders between all parties fairly? Contrastingly, we can let new options compete for trading interest and follow the footsteps of Wall St:
+This is why I'm so concerned about the emmergance of non-protocol DEXes across the industry which naturally compete. In the spirirt of open-source, might I suggest that the best approach follow's the organic and neccesary axiom that one source of liquidity lets us best match all orders between all parties fairly? Contrastingly, we can let new options compete for trading interest and follow the footsteps of Wall Street:
 
 [<img width="640" alt="introducing-routers" src="https://github.com/user-attachments/assets/8745849f-a66a-4839-a9cc-ad69562c13fc">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
 
@@ -104,11 +105,31 @@ This is why I'm so concerned about the emmergance of non-protocol DEXes across t
 
 [^VOC]: _See_ [discussion](https://lnns.co/0clzI2NVtmk/2520), [study](https://pure.uva.nl/ws/files/1427391/85961_thesis.pdf), and [explainer](https://www.youtube.com/watch?v=YUwqzeaR1lA&list=PLWUFvhKuc_5trr9i5vEpdWZ6ZNZzHM3Nb&t=23) of earlky emmergine brokerages around the Dutch East Indies Copmany.
 
+### Requisite Routing Function
+
+The red circle above is effectively what DEX aggregators do in the context of traditional centralized liqudiity pools that are not central exchanges. This is what the Soroban AMMs are, parallelling "exchange ECNs" and "dark ATSs." Again, the porblem here is that you have to compare between vast amounts of disparate liquitiy pools for every transaction or get a worse price.
+
+I've seen this happen across finncial markets for years, and ti always leads to a gatekeep eventuallity where only a select few middlmen can access the best pricing. 😞 From what I've seen on other chains, which looks remarkable similar to our trajectory, the exact same is slowly happening to web3. The immediate question for me is whetehr or not we should protect something so fundamental to human life like trade itself.
+
+If we can agree that everyone should get the same best access to liquidity, then what do you think about unifing markets? Namely, might we focus on exchange, the essense of en efficient capilistt society? Should we leave something so fundamental to our advanced, developed, and practoiced ideals of specialization up to the whims of a [select](http://www.nanex.net/aqck2/4311.html) [few](https://web.archive.org/web/20170422040311/https://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor) [middlemen](https://usceconreview.com/2023/04/18/the-making-of-big-insulin-in-the-united-states/)?
+
+### Price Competition
+
+In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](https://www.linkedin.com/pulse/pipe-dreams-dollar-schemes-financial-world-xxim-c9eec) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
+
+
+To answer this question in the narrow case of the SDEX, might we contemplate the history of traditional centralized financial marketsd? It's my interpration of history that, in the long run, all intermediaries go bankrupt.[^jerry] Namelt, the evoliution of ECNs[^ecn-q] presents a compelling case for the race to zero.
+
+[^thesis]: _See_ Block Transfer's [foundational thesis](https://wooten.link/thesis).
+[^jerry]: _See, e.g.,_ [STUDY_1](), [executive sentiments](https://github.com/blocktransfer#eliminating-intermediaries-%EF%B8%8F), and [STUDY_2]().
+[^ecn-q]: _See supra_ note 1. The parallel of ECNs to Stellar would be a UniswapV4-style Soroban order book, except you can pay [kickbacks]() and other [bribes]() to [fragment the market](https://www.youtube.com/live/XLc4c7vL3rM?t=2593). The end result of these schenanigans is the plutocracy governing our extractive American stock market.[^America]
+[^America]: My diction is quite sentimentatal to my hoome nation, as these inescapable "decentralizing" centralization problems reached our market xyz. explain something here on global impact and being blocked out from investing. But if you live elsewere, (especially somewhere less developed) then you may not even have access to these markets in the first place&mdash;which is the promise the network offers to everyone once ubiquitous.
 
 
 
+this is a very very very bad thing, and it's exactly what Wall Street [wants](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). 
 
-
+we cannot play into their hand, they will destroy the network iojjvioc xj
 
 
 
@@ -131,29 +152,6 @@ https://github.com/stellar/stellar-protocol/blob/master/core/cap-0038.md#clawbac
 [^bridging]: As the communtiy knows, xyz yay instuttions
 
 protocol deals with [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to instutional adoption
-
-## Free Markets
-
-The immediate question for me is whetehr or not we should allow something so fundamental to human life like trade itself
-Namely, might we focus on trade, the essense of en efficient capilistt society? The immediate question: should we leave something so fundamental to our advanced, developed, and practoiced ideals of specialization up to the whims of a [select](http://www.nanex.net/aqck2/4311.html) [few](https://web.archive.org/web/20170422040311/https://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor) [middlemen](https://usceconreview.com/2023/04/18/the-making-of-big-insulin-in-the-united-states/)?
-
-To answer this question in the narrow case of the SDEX, might we contemplate the history of traditional centralized financial marketsd? It's my interpration of history that, in the long run, all intermediaries go bankrupt.[^jerry] Namelt, the evoliution of ECNs[^ecn-q] presents a compelling case for the race to zero.
-
-[^thesis]: _See_ Block Transfer's [foundational thesis](https://wooten.link/thesis).
-[^jerry]: _See, e.g.,_ [STUDY_1](), [executive sentiments](https://github.com/blocktransfer#eliminating-intermediaries-%EF%B8%8F), and [STUDY_2]().
-[^ecn-q]: _See supra_ note 1. The parallel of ECNs to Stellar would be a UniswapV4-style Soroban order book, except you can pay [kickbacks]() and other [bribes]() to [fragment the market](GARY_97%_CONGRESS_TALK_DIRECT_TIMESTAMP). The end result of these schenanigans is the plutocracy governing our extractive American stock market.[^America]
-[^America]: My diction is quite sentimentatal to my hoome nation, as these inescapable "decentralizing" centralization problems reached our market xyz. explain something here on global impact and being blocked out from investing. But if you live elsewere, (especially somewhere less developed) then you may not even have access to these markets in the first place&mdash;which is the promise the network offers to everyone once ubiquitous.
-
-### Price Competition
-
-In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](https://www.linkedin.com/pulse/pipe-dreams-dollar-schemes-financial-world-xxim-c9eec) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
-
-
-
-
-this is a very very very bad thing, and it's exactly what Wall Street [wants](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). 
-
-we cannot play into their hand, they will destroy the network iojjvioc xjiovjcxlv
 
 
 
@@ -189,13 +187,6 @@ I need to work in and end on this picture very subtly, in an effort to frame the
 
 ## Need to frame liquidity
 
-[![contract-risks](https://github.com/user-attachments/assets/5824aacc-a47f-46de-8720-9b080a6ffe66)](https://youtu.be/nOh-7SzI6gM)
-
-
-### frame upgradability (requiste to software)
-
-[](https://revoke.cash/exploits/stablemagnet?chainId=56)
-on contract backdoor for 27M in BNB DEX
 
 
 
@@ -212,8 +203,6 @@ Might I respectfully suggest that, as the hglobe's financial system and given th
 
 
 
-# Significance
-On markets as one of the base functionalities of a capitalist financial system, like `payments`.
 
 ## Direct AMM Comparisons
 Order book limits compete explicitly with crowdsourced liquidity pools.
@@ -223,9 +212,6 @@ By separating the base trading functions so intertwined with the network, we can
 
 ### Legacy Market Evolutions
 We want to promote innovation but understand the past of fragmenting liquidity via ATS evolutions.
-
-### Extensively Complicated Systems
-detail the implications of `routing` brokers / parallel to newfound DEX aggregators.
 
 ### Popular Chain Problems
 How this applies to all the trading applications on legacy smart contracts because of fragmentation.
@@ -251,67 +237,6 @@ Proactively see how others improve (which has been effectively nil) and incorpor
 
 Developer goals
 
-### Value Alignment
-
-I respectfully submit to the community that interleaving the SDEX with AMMs furthers our just principles since doing so makes the Stellar Protocol clear, concise, and opinionated;[^values-1] introduces new functionality that is opinionated and straightforward to use;[^values-2] isolates only one obvious way to accomplish a given task;[^values-3] biases the Stellar Protocol towards user **safety,**[^values-4] makes the Stellar network secure and reliable;[^values-5] biases the Stellar network towards safety, simplicity, reliability, and performance over new functionality;[^values-6] allows the Stellar network to run at scale and at low cost to all participants of the network;[^values-7] could help the Stellar Network support off-chain transactions, e.g. Starlight, should SPEEDEX develop [in parallel](something_here_idk_only thing I can think is like end of wooten./link/TS because other speedex mentions are offline and prop;..........could link to IDEX L2 SOL or maybe just maybe Shapeshift dao, extremely carefully tho; needs explicit rollups);[^values-8] enables the Stellar network to power cross-border payments, i.e. payments via **exchange** of assets, throughout the globe, enabling users to make payments between assets in a manner that is fast, cheap, and highly usable;[^values-9] facilitates simplicity and interoperability with other protocols and networks;[^values-10] allows the Stellar network to support an orderbook that values simplicity over functionality, and one that primarily serves to enable cross-border payments;[^values-11] allows the Stellar network to make it easy for developers of Stellar projects to create highly usable products;[^values-12] and facilitates **liquidity** as a means to enabling cross-border payments throughout the Stellar network.[^values-13]
-
-Given more time, I'd be happy to elaborate further on any of these points either in writing or orally.
-
-[^values-3]: utter confusion from Silence in discord on how tf route path payments, other community memebrs, all [discord](lol the discord song by eurobeat?idk kinda fun {🤷‍🤷)
-
-[^values-4]: see 87% GME internalization rate,[^int-r] [Congressional investigation](#page=), and XYZ [report](whydrs/chives details/article: what does drs have to do with gme)
-
-_See also_ [SEC investigation](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf#page=38) uncovering manipulative centralization.
-
-[^int-r]: _See supra_ [https://wooten.link/report] note XYZ at 21.
-
-
-[^values-7]: Soroban txns cost more in every conceivable way
-
-[^values-8]: Depends on link above, this is literally speedex sorta
-
-[^values-9]: do refernece to studies on percent of itnernation payments including urrneyc conversion; humantiairna shit/that aid project they did; use the link to the releif tweet wherever the fuck it is
-
-[^values-10]: Since point of reference liek the NBBO instead of requisirng a consolidation monopoly as in https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whistleblower-eric-hunsader-750000
-_see_ raw inputs v [conmpotition
-also there will alwyas be competiting dex aggregators because smart contracts have inherit competative nature[^elaborate_on_competeming_smart_contracts-as-routing-brokers_context_nreq-if-time]
-literally fuckiung antithical to wierd propritary routing functions
-^ standardizing this would basically be communism forcing all permissionless devs to do the same ass shit[^consensus-sma]
-
-[^consensus-sma]: I respectfully submit to the commuinity that this process would, in all likelihood, be no more efficient than pushing through a CAP introducing a new fee band to native AMMs, for example.
-
-[^values-11]: Huamn rights again, ietf? 
-
-[^values-12]: highly usable doesn't mean DEX aggregators
-"The Stellar Network" doesn't mean a centralized router on Soroban, despite upgradability <-- ONLY REFERENCE TO SOROBAN UPGRADABILITY
-
-[^values-13]: 
-not fucking possible if fragmented
-refer to forex broker ECN model v. `var` accounts
-I dont think I hae the brokerage statements , but it could be worth checkign if time
-
-## Reliable Safety
-
-## Execution/Routing Simplicity
-
-## Priotizing Performance
-
-## Transactional Efficiency
-
-## Triplicate Implications
-
-## Interoperability Standard
-
-## Global Simplicity
-
-## Liquidity Mandate
-
-
-# Values Contemplation
-
-
-
-sum up with "if we really support [egalitarianism](EXCLUSIVE_VALUES_HREF to https://github.com/stellar/stellar-protocol/blob/master/core/README.md#stellar-network-goals) and everyone participating on the [same playing field](https://www.youtube.com/watch?v=iIMgaUyiEho&list=PLWUFvhKuc_5tD62OdZIv3HUaf4eBaQzG8), then might we contemplate further the competative advantages of interleaving the SDEX with native AMMs? 💭
 
 
 
@@ -331,6 +256,59 @@ Reference how it manages the ledger through explicit and defined patterns withou
 more of a technical thing, prob need to dive into the Herder if time
 
 ## Transparent Access Patterns
+
+
+
+
+
+
+### Value Alignment
+
+[![contract-risks](https://github.com/user-attachments/assets/5824aacc-a47f-46de-8720-9b080a6ffe66)](https://youtu.be/nOh-7SzI6gM)
+
+I respectfully submit to the community that interleaving the SDEX with AMMs furthers our just principles since doing so:
+- makes the Stellar Protocol clear, concise, and opinionated;[^values-1]
+- introduces new functionality that is opinionated and straightforward to use;[^values-2]
+- isolates only one obvious way to accomplish a given task;[^values-3]
+- biases the Stellar Protocol towards user **safety,**[^values-4]
+- makes the Stellar network secure and reliable;[^values-5]
+- biases the Stellar network towards safety, simplicity, reliability, and performance over new functionality;[^values-6]
+- allows the Stellar network to run at scale and at low cost to all participants of the network;[^values-7]
+- could help the Stellar Network support off-chain transactions, e.g. Starlight;[^values-8]
+- enables the Stellar network to power cross-border payments, i.e. payments via **exchange** of assets, throughout the globe, enabling users to make payments between assets in a manner that is fast, cheap, and highly usable;[^values-9]
+- facilitates simplicity and interoperability with other protocols and networks;[^values-10] allows the Stellar network to support an orderbook that values simplicity over functionality, and one that primarily serves to enable cross-border payments;[^values-11]
+- allows the Stellar network to make it easy for developers of Stellar projects to create highly usable products;[^values-12]
+- and facilitates **liquidity** as a means to enabling cross-border payments throughout the Stellar network.[^values-13]
+
+Given more time, I'd be happy to elaborate further on any of these points either in writing or orally. Might the best work here extend to advancing the protocol for the whole network rather than a few central interests?
+
+[^values-1]: _See supra_ note [ceasation of DSTOQ operationsNOTE NUMBER] regaurding convoluted trade history reporting for IDEX contracts. Even with modest standardization, developers will need to implement contract, function, and data standards for each and every unique liquidity poosl. Might it be simpler for end users to follow the existing native liquidity pool execution standards?
+
+[^values-2]: Interleaving has been [vocally spearheaded](https://stellar.expert/blog/stellar-amms-at-crossroads-between-triumph-and-disaster) even before the present masses of circular path payments. We want users to have the most financial success, and this might be challenging without [natural understanding](https://discord.com/channels/897514728459468821/907476473739354153/1278056912742518866). Let's do it together through a common exceptional protocol process!
+
+[^values-3]: _Id._ We can give users a standardized, clear, and shared source of all execution with validator-level interleaving optimization. Wallets should not need to independently route large path payments through different routes to guess at specification optimizations. Similarly, trades with comprehensive price optimization obviate interface size arbitraging overhead.
+
+[^values-4]: Without an entirely automated best flow, users risk proprietary systms like the internalization that plagues traditional markets. _See also_ 87% internalization in note XYZ[https://wooten.link/report REF #] at 21, [SEC investigation](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf#page=38), and [liquidity report](https://www.whydrs.org/post/how-is-a-short-squeeze-of-gamestop-related-to-the-drs).
+
+[^values-5]: Users get maximum security when only they hpol the keys to their assets, which can't happen with upgradable contract software development. While I'm not suggesting anything like that might happen in our community, it is a [fundamental weaknesss](https://revoke.cash/exploits/stablemagnet?chainId=56) solved exclusively through netowrk consensus. Do you thing collective scrutiny keeps funds securely processed?
+
+[^values-6]: Reliability and performance can greatly transform without extensively complicated systems built on the frontend wallet side to extract spreads. Without the need to route between disparete sourceso f liquidity or transaction processing, might whole network best employ validation resources? It seem the aggregation logic in particular could signifcantly expend ongoing Soroaban computational resources.
+
+[^values-7]: The material base functionalities of core embody a universal financial system, like efficient `payment` performance. But employing Soroban transctions cost more from all deployment, management, and processing standpoints. Might we focus on the existing efficeinceis in the protocol;s liquidty pools?
+
+[^values-8]: As [SPEEDEX develops](https://arxiv.org/pdf/2404.03201), future scaling can include liquidity pools in a comprehensive efficient system. This continuing the empowering decentralization promises of automated liquidity participation so that anyone can inclusively help build SDEX liquidity at [below transaction rates](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/GvEF7R4UAQAJ). Since this innovation emboldens the native liquidity functyions, might the best path forward become a CAP bringing native liquidiry to scale all together?
+
+[^values-9]: With native liquidity in one place, might all migrants and global transfers benefit from the best rates based on all avaliable liquidityy? Optimizations here can keep currency conversion at its lowest so that money gets to the places that truly [need it most](https://stellar.org/case-studies/irc). Wouldn't this be a better destination than an arbitrage bot, price slippage, or optimization miss?
+
+[^values-10]: As a destination for liquidity, the network becomes much easier to reference when assets have a single point of reference similar to a cohesive best bid or offer. Requisirng a pricing consolidation into a [single point of failure](https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whistleblower-eric-hunsader-750000) unnecesarily seperates offer inputs across needleslly coppetinig liqudity venues. There will alwyas be competiting dex aggregators because smart contracts have inherit competative nature absent from the protocol.
+
+[^values-11]: Without interleavign as a best system, smart contracts with prprietary routing can donminate discovery. But forcing permissionless developer standardization would be imporssible without the extensive transparent consensus around prtocol upgrades. I respectfully submit to the commuinity that synchronizing disparate Soroban contracts would, in all likelihood, be no more efficient than pushing through a CAP introducing a new fee band to native liquidity pools, for example.
+
+[^values-12]: Do you think direct protocol functions in Horizon are easier to use than a DEX aggregators contract? It's my interpreation that "the Stellar network" doesn't mean a centralized router on Soroban, despite upgradability. Alone, any interprioerable governance standard here again just becomes as important as on network prtocol.
+
+[^values-13]: Might liquifity be most effective as present consolodated on the global SDEX? By combining liquidity pool optimiazations, we can bypass traditional finaincal mishaps from brokers approximating spreads. Could a single native standard ought best synchornize all users with a simple pool of capital?
+
+If we really support [egalitarianism](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#stellar-network-goals) and everyone participating on the [same playing field](https://www.youtube.com/watch?v=iIMgaUyiEho&list=PLWUFvhKuc_5tD62OdZIv3HUaf4eBaQzG8), then might we contemplate further the competative advantages of interleaving the SDEX with native AMMs so that liquidity stays core to the protocol? 💭
 
 
 
@@ -361,17 +339,6 @@ perspective led to the creation of a distributed exchange, as it was [originally
 > Multiple exchanges will only increase volatility since each market will be thinner. The only thing that will decrease volatility is liquidity. &mdash[Jed McCaleb](https://bitcointalk.org/index.php?topic=16032.msg212418#msg212418)
 
 Since any account can send an order to the SDEX, its order book is uniquely egalitarian in that all market participants follow the same rules, treatment, and pricing. You receive the same exchange rate whetehr you are a major European bank or a rural Kenyan farmer.. Ubdeed, the [throughout](REF_SPEEDEX-inclACcc?) enabled by [SCP](REF_DOCS_SCP_PAGE) means you can specify exactly how much you pay for conversions.
-
-
-
-Speedex future scaling work: https://arxiv.org/pdf/2404.03201
-built as cap improving native!
-
-heres my perspective on the txn fees: https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/GvEF7R4UAQAJ
-
-orbit post at https://stellar.expert/blog/stellar-amms-at-crossroads-between-triumph-and-disaster
-^ i think we want to keep this light but it could be worth mentioning @orbitlens
-We want users to have the most financial success. Let's do it together!
 
 
 
