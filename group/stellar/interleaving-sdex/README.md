@@ -115,25 +115,13 @@ If we can agree that everyone should get the same best access to liquidity, then
 
 ### Price Competition
 
-In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](https://www.linkedin.com/pulse/pipe-dreams-dollar-schemes-financial-world-xxim-c9eec) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
+The founding document of the NYSE was a price-fixing agreemtn between Wall Street. Brokers pays backend fees like these to the [plethora](https://www.linkedin.com/pulse/pipe-dreams-dollar-schemes-financial-world-xxim-c9eec) of middlemen in the present market system. Do you think extracting values through commissions like these via "smarter trade routing" should be enabled by the SDEX?
 
+To answer this question in the narrow case of the SDEX, might we contemplate the history of traditional centralized financial marketsd? It's my interpration of history that, in the long run, all intermediaries go bankrupt. Namelt, the evoliution of ECNs[^ecn-q] presents a compelling case for the [race to zero](https://github.com/blocktransfer#eliminating-intermediaries-%EF%B8%8F).
 
-To answer this question in the narrow case of the SDEX, might we contemplate the history of traditional centralized financial marketsd? It's my interpration of history that, in the long run, all intermediaries go bankrupt.[^jerry] Namelt, the evoliution of ECNs[^ecn-q] presents a compelling case for the race to zero.
-
-[^thesis]: _See_ Block Transfer's [foundational thesis](https://wooten.link/thesis).
-[^jerry]: _See, e.g.,_ [STUDY_1](), [executive sentiments](https://github.com/blocktransfer#eliminating-intermediaries-%EF%B8%8F), and [STUDY_2]().
-[^ecn-q]: _See supra_ note 1. The parallel of ECNs to Stellar would be a UniswapV4-style Soroban order book, except you can pay [kickbacks]() and other [bribes]() to [fragment the market](https://www.youtube.com/live/XLc4c7vL3rM?t=2593). The end result of these schenanigans is the plutocracy governing our extractive American stock market.[^America]
-[^America]: My diction is quite sentimentatal to my hoome nation, as these inescapable "decentralizing" centralization problems reached our market xyz. explain something here on global impact and being blocked out from investing. But if you live elsewere, (especially somewhere less developed) then you may not even have access to these markets in the first place&mdash;which is the promise the network offers to everyone once ubiquitous.
-
-
-
-this is a very very very bad thing, and it's exactly what Wall Street [wants](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). 
-
-we cannot play into their hand, they will destroy the network iojjvioc xj
-
-
-
-
+The parallel of displaced orders would be a UniswapV4-style Soroban order book, where you can pay kickbacks or
+ direct bribes to [fragment the market](https://www.youtube.com/live/XLc4c7vL3rM?t=2593). The end result of 
+these schenanigans is a plutocracy where governance can self-fulfill perpetual illiquiidty across [centralized matchmakers](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). Might we make investing most accessable and performant for real users instead of circular path payments bots, as insightfully predicted by @orbitlens _infra_ note [VALUES_2_"vocally spearheaded"].
 
 ### Classic Operations
 
@@ -141,19 +129,13 @@ An efficient market to me means the most value possible given to all participant
 
 A middlemen, call them the New York Stock Exchange, charging an extra fee to "authorize" and effectuate a transaction? Well that sounds like an antiquated[^thesis] business model to me. And indeed, at $90 billion dollars [in value](https://finance.yahoo.com/quote/ICE/), these are profitable business models.
 
-
+Do you think we should block masses of people in developing coutnrues from investing. Transaction costs alone mean many never even have access to these markets in the first place&mdash;which is the promise the network offers to everyone. Can't this goal be most efficiently reached with native operation performance?
 
 ## Regulatoryt Compliance
 
-consider briefly the case of executing a [reverse stock split](https://github.com/blocktransfer/py-tad3-horizon/blob/main/investors/stockSplit.py), a functioanl require for all agents as well understood by brilliant traditional market advocate @jonjove.[^bridging]
-https://github.com/stellar/stellar-protocol/blob/master/core/cap-0038.md#clawback-assets-from-a-pool
+Consider briefly the case of executing a [reverse stock split](https://github.com/blocktransfer/py-tad3-horizon/blob/main/investors/stockSplit.py) using clawbacks, where users have deposited into liquidity pools. Early on, brilliant traditional market advocate @jonjove identified this requisite use case for institutional adoption. And the functionality was [expertly integrated](https://github.com/stellar/stellar-protocol/blob/master/core/cap-0038.md#clawback-assets-from-a-pool) into univeral liquidity pools with due consideration.
 
-
-[^bridging]: As the communtiy knows, xyz yay instuttions
-
-protocol deals with [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to instutional adoption
-
-
+The protocol best deals with these [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to basic finanical functions like liquidity, which drive instutional adoption. I wholeheatrtdly believe that we need native participation to decentralize [tje rules](https://x.com/JFWooten4/status/1838612974325412246) rather than delegate delicate trading edge cases to explicit contract rules. Might we best achieve comprehsnive liquidty with this collective existing [rules consensus](https://x.com/BurCapital/status/1839383174033654075) so that certain core financial innovations stay withing our collective regulatory scope of [safe oversight](https://youtu.be/e0YJBAJdVoc?t=911)?
 
 https://www.linkedin.com/pulse/blockchain-trading-high-frequency-firms-symbiotic-ethical-john-wooten-bsedc
 
@@ -199,57 +181,13 @@ Might I respectfully suggest that, as the hglobe's financial system and given th
 
 > "Liquidity is not a feature of Stellar. It is Stellar."
 
-## next section fat end here
-
-
-
-
-## Direct AMM Comparisons
-Order book limits compete explicitly with crowdsourced liquidity pools.
-
-## Compounding Fragmentation Perils
-By separating the base trading functions so intertwined with the network, we can introduce extractive attack vectors by the nature of rent-seeking.
-
-### Legacy Market Evolutions
-We want to promote innovation but understand the past of fragmenting liquidity via ATS evolutions.
-
-### Popular Chain Problems
-How this applies to all the trading applications on legacy smart contracts because of fragmentation.
-
-## Enabling Equal Efficiency
-Certain processes are already extracting value as commission on smarter trade routing.
-
-need to heavily push back on building a "sophisticated DEX"
-same as shit
-
-# Combination Remedies
-Introduce per CAP37, making orders work at the validator level.
-
-## Eliminating Redundancies
-The prediction of all the circular path payments was correct.
-
-## Protecting Users
-Know they get the best execution with concentrated liquidity; redundant fragmentation eliminated.
-
-## Adapt Insights
-Proactively see how others improve (which has been effectively nil) and incorporate into network upgrades.
-
-
-Developer goals
-
 
 
 
 
 ## Uniqueness of SDEX
-^need to establish how fucked up the system is first
 Special because it is the only real distributed order book, reference 
 
-## Decentralization of Rules
-^need to first contextualize how impoertant this is per: https://x.com/JFWooten4/status/1838612974325412246
-A crucial differentiator from explicit contract rules
-end with teh argument on rules consensus: https://x.com/BurCapital/status/1839383174033654075
-fast innovation = bad safety per Titanic sub guy https://youtu.be/e0YJBAJdVoc?t=911
 
 ## Efficient Direct States
 Reference how it manages the ledger through explicit and defined patterns without external state.
@@ -346,6 +284,7 @@ also here is there direct link to the original interleaving info graphic:
 
 https://github.com/stellar/stellar-protocol/blob/master/core/cap-0037.md#semantic-changes-for-existing-operations
 
+Hopefully one day we can get to a liquidity singularoity point where all traders want to execute on the SDEX because it provides the most comprehsnvie set of decentralized orders. 
 👍📌
 
 
