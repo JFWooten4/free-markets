@@ -10,7 +10,7 @@ This discussion extends decentralization points made in [note 2.1.1](https://git
 
 The inspiration for this post came from @earrietadev's @FxDAO [community](https://discord.gg/t7PMNQVJV5).[^DAO] Last week, Soroban AMM troubles emmerged after a [contract upgrade](https://stellar.expert/explorer/public/tx/aa38d1e4ea97228bed1010dfcfb9e4a1c95cf8427238e928e146e00a671dc04d) running the platform's only liquidity pool.[^single] This stopped users from withdrawing their funds and placed all deposits at risk.[^bug] 😐
 
-The nuances of these developments are still [very new](https://www.youtube.com/watch?v=Sm17SAZO9hY&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t&t=807) to society at large, likely because so few presently understand the immense centralization of risk in the trading markets. It's my understand that this is why DEX aggregation hasn't been widely discussed across the industry; it's clearly no fault of any Stellar developers. That said, it drives directly into one of our shared objectives:
+The nuances of these developments are still [very new](https://www.youtube.com/watch?v=Sm17SAZO9hY&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t&t=807) to society at large, likely because so few presently understand the [immense centralization](https://x.com/xximcapital/status/1835990569954246837) of risk in the trading markets. It's my understand that this is why DEX aggregation hasn't been widely discussed across the industry; it's clearly no fault of any Stellar developers. That said, it drives directly into one of our shared objectives:
 
 > The Stellar Network should support decentralization wherever possible, but not at the expense of the majority of its values.
 
@@ -68,12 +68,11 @@ Based on the work everyone like Garand does to simplify and accurately explain S
 
 ## Market Fragmentation
 
-Hello, my name is John,[^hey] and I am a little obsessed with [order books](https://ninetonoonsecrets.com/manuscript.pdf#page=97). It all started as a small research idea while I worked and went to school.[^lot] But over the years, it become something [foundational](https://wooten.link/thesis) to my life's purpose of building real savings and retirements for masses of people.
+Hello, my name is John,[^hey] and I am a little obsessed with [order books](https://ninetonoonsecrets.com/manuscript.pdf#page=97). It all started as a small research idea while I worked and went to school.[^lot] But over the years, it become something [foundational](https://wooten.link/thesis) to my life's purpose of building real savings and retirements for masses of people. 🤝
 
 To understand my perspective, could I share with you a very brief overview of my trading journey? Namely, might I share with you why exactly the American stock market is [broken](https://dollarendgame.substack.com/p/gamestopped?r=3bnvyi)? It's my opinion that the history buried here tells a compelling tale for controlled decentralization, as promoted by our network values.
 
-Our discussion starts with understanding [for-profit](tZero_this_week_X_link_href) exchanges. Particularly, did you know that the U.S. has nearly 100 stock exchanges?[^ats] These competitors each offer effectively the same order liquidity, but they continually undercut each other in fees or [kickbacks](https://bettermarkets.org/wp-content/uploads/2022/03/Better_Markets_Payment_for_Order_Flow_Long_02-21-2021.pdf).
-
+Our discussion starts with understanding [for-profit](https://x.com/i/spaces/1gqxvNBZoeBxB) exchanges. Particularly, did you know that the U.S. has nearly 100 stock exchanges?[^ats] These competitors each offer effectively the same order liquidity, but they continually undercut each other in fees or [kickbacks](https://bettermarkets.org/wp-content/uploads/2022/03/Better_Markets_Payment_for_Order_Flow_Long_02-21-2021.pdf).
 
 [^hey]: I've been building on Stellar around the SDEX for just over three years because I whoelheartedly believe the network will be the efficient finanicial system the world so desperately needs. I've been helping around on the docs lately while our community organizes to work on mainstream frontend interfaces.
 
@@ -81,34 +80,36 @@ Our discussion starts with understanding [for-profit](tZero_this_week_X_link_hre
 
 [^ats]: _See_ 24 [national exchanges](https://www.sec.gov/about/divisions-offices/division-trading-markets/national-securities-exchanges), [internalizing brokers](https://www.sec.gov/foia-services/frequently-requested-documents/company-information-about-active-broker-dealers), and 72 [dark pools](https://www.sec.gov/foia-services/frequently-requested-documents/alternative-trading-system-ats-list).
 
-
-
-
-
 ### Independent Authonomy
 
-This plethora of trading venues, akin to different AMMs, presents a tangible difficulty for routing trades. In these last few weeks, we've already seen the emmergance of multiple products that promise to capture the best exchange rate across native and Soroban pools.[^types] And these systems, many of which are closed-source,[^secret] face fundamental rent-extraction ioncetives to skim off each trade.
+This plethora of trading venues, akin to different liquidity pools, presents a tangible difficulty for routing trades. In these last few weeks, we've already seen the emmergance of multiple products that promise to capture the best exchange rate across native and Soroban liquidity pools.[^types] And these systems face fundamental rent-extraction ioncetives to skim off each trade.[^secret]
 
-Might I ask: if the goal here is empowering anyone anywhere to invest in their future, then should our underlying market tooling to complicate trading for the sake of profits? I respectfully submit that smart contracts on other chains have had years to mature, but they still barely offer anything not present on the native chain or easily possible. While we are early in web3, we are not early in markets.[^VOC]
+Might I ask: if the goal here is empowering anyone anywhere to invest in their future, then should our underlying market tooling to complicate trading for the sake of profits? I respectfully submit that smart contracts on other chains have had years to mature, but they still barely offer anything not present on the native chain or easily possible. While we are early in web3, we are not early in markets, which have naturally developed to serve a select few.[^VOC]
 
-Accordingly, might we look to the long-term implications of interleaving the SDEX with AMMs under the frame of how markets evolved?[^mm2]
+Accordingly, might we look to the long-term implications of interleaving the SDEX with AMMs under the frame of how markets evolved and [can now expand](https://wooten.link/ts)? I'm quite frightned by how other decentralized exchanges developed because they bring the same problemed past of siloed liquidity spread across disparate proprietary venues. In fact, some DEXes like dYdX have already started down the sloipper slope of implementing maker-taker fees.
 
-Do you see any innovation surface across these contracts aside from taking liquidity away from the network to isolate on 
+### A Liquidity Singularity
 
-It started potentially how you'd expect: young kid wants to make some money and tries their hand at the stock market. I'll admit, that was the case&mdash;a raw sense of wanting someting better and beliving in the market as a path to get there.
+Once liquidity becomes diversively spread across the market, there is almost no way to "put the genie back in the bootle." Do you see any innovation surface across these contracts, or only isolated clubs? I started trading because I believed in the market as a path to a more abunt life, not a means to pay some broker huge fees.
 
-If you've ever invested (and I think we're all pretty deep in lumens), maybe this was a similar call to your start? Wanting to amass wealth through the investment vehicles touted by society. That was the view I had when I quit my job to trade stocks full time.
+It seems the network aims for similar goals: empowering anyone to invest, transact, and capitalise on basic capitalistic financial infrastructure. I just don't want you or someone you care for to join the network to instantly face a hidden tax each operation because liquidity is not efficiently organized. Seven years ago, I quit my job to trade full time to amass wealth through the investment vehicles touted by society, not enrich a select few.
 
-In the first two weeks of a paper thinkorswim demo, I made more than the entire year prior working minimum wage. 
+This is why I'm so concerned about the emmergance of non-protocol DEXes across the industry which naturally compete. In the spirirt of open-source, might I suggest that the best approach follow's the organic and neccesary axiom that one source of liquidity lets us best match all orders between all parties fairly? Contrastingly, we can let new options compete for trading interest and follow the footsteps of Wall St:
 
+[<img width="640" alt="introducing-routers" src="https://github.com/user-attachments/assets/8745849f-a66a-4839-a9cc-ad69562c13fc">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
 
 [^types]: _See, e.g.,_ services splitting path payments into optimal chunks, splitting orders between three equivalent AMM contracts, and quantifying aggregated LP depth statistics.
 
-[^secret]: _See_ proprietary software [secrecy risks](https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf#page=47), especially for foundational financial infrastructure.
+[^secret]: Further, many of these routiung systems are closed-source proprietary software with material [secrecy risks](https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf#page=47), especially for foundational financial infrastructure.
 
 [^VOC]: _See_ [discussion](https://lnns.co/0clzI2NVtmk/2520), [study](https://pure.uva.nl/ws/files/1427391/85961_thesis.pdf), and [explainer](https://www.youtube.com/watch?v=YUwqzeaR1lA&list=PLWUFvhKuc_5trr9i5vEpdWZ6ZNZzHM3Nb&t=23) of earlky emmergine brokerages around the Dutch East Indies Copmany.
 
-[^mm2]: _Id. See also generally_ [expansion framework](https://wooten.link/ts)
+
+
+
+
+
+
 
 
 
@@ -148,7 +149,7 @@ To answer this question in the narrow case of the SDEX, might we contemplate the
 In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](https://www.linkedin.com/pulse/pipe-dreams-dollar-schemes-financial-world-xxim-c9eec) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
 
 
-[<img width="640" alt="introducing-routers" src="https://github.com/user-attachments/assets/8745849f-a66a-4839-a9cc-ad69562c13fc">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
+
 
 this is a very very very bad thing, and it's exactly what Wall Street [wants](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). 
 
@@ -262,8 +263,6 @@ Given more time, I'd be happy to elaborate further on any of these points either
 
 _See also_ [SEC investigation](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf#page=38) uncovering manipulative centralization.
 
-end with teh argument on rules consensus: https://x.com/BurCapital/status/1839383174033654075
-
 [^int-r]: _See supra_ [https://wooten.link/report] note XYZ at 21.
 
 
@@ -324,6 +323,8 @@ Special because it is the only real distributed order book, reference
 ## Decentralization of Rules
 ^need to first contextualize how impoertant this is per: https://x.com/JFWooten4/status/1838612974325412246
 A crucial differentiator from explicit contract rules
+end with teh argument on rules consensus: https://x.com/BurCapital/status/1839383174033654075
+fast innovation = bad safety per Titanic sub guy https://youtu.be/e0YJBAJdVoc?t=911
 
 ## Efficient Direct States
 Reference how it manages the ledger through explicit and defined patterns without external state.
@@ -402,6 +403,3 @@ I believe whgoleheartedly that [SPEEDEX]() will fundamentally transform capitlis
 
 drive to the point that you would need one AMM protocl for it to be efficient, so at that point it should be done by the man validators
 
-https://www.youtube.com/watch?v=Sm17SAZO9hY&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t&t=702
-
-fast innovation = bad safety per Titanic sub guy https://youtu.be/e0YJBAJdVoc?t=911
