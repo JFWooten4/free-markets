@@ -112,7 +112,7 @@ To answer this question in the narrow case of the SDEX, might we contemplate the
 
 ### Price Competition
 
-In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](ANKIT_<MARKET_STRUCUTRE_POST_LINKEDIN) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
+In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](https://www.linkedin.com/pulse/pipe-dreams-dollar-schemes-financial-world-xxim-c9eec) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
 
 
 [<img width="450" alt="routing-birdsnest" src="https://blocktransfer.com/.well-known/post-internalization.png" style="border-radius: 64pt;">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
@@ -121,7 +121,7 @@ In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees l
 
 
 
-
+https://www.linkedin.com/pulse/blockchain-trading-high-frequency-firms-symbiotic-ethical-john-wooten-bsedc
 
 When you convert one currency to another in traditional financial markets, your trade happens because of limit orders. [These orders] specify how much someone will pay for a certain amount of any asset. Thus, when you need to convert your dollars to yen, e.g., their order to sell yen for dollars counteracts and "fulfills" your trade.
 
@@ -310,7 +310,9 @@ As someone who needs no context, Jed un
 
 The [founders](https://stellar.org/blog/foundation-news/introducing-stellar) of the network, particularly Jed McCaleb, understood firsthand the quandaries of centralized [order books](https://wikipedia.org/wiki/Order_book). In 2012, Jed [wrote](https://bitcointalk.org/index.php?topic=108782.msg1182508#msg1182508): "One thing you can do with it is exchange bitcoins for fiat without the need for a centralized market such as Mt. Gox. Which will be very useful for Bitcoin" when discussing preliminary ideas for Stellar.
 
-This [prescient](https://x.com/JFWooten4/status/1809667647040327949) perspective led to the creation of a distributed exchange, as it was [originally named](https://web.archive.org/web/20170415141617/https://www.stellar.org/developers/guides/concepts/exchange.html). The core concept, released in the [first version](https://discord.com/channels/897514728459468821/907476473739354153/1158791737565782199) of the protocol, still operates today. However, for phonetic reasons, we will hereafter refer to it as the Stellar Decentralized Exchange or SDEX.
+This [prescient](https://x.com/JFWooten4/status/1809667647040327949)
+^ "liquidity begets liquidity"
+perspective led to the creation of a distributed exchange, as it was [originally named](https://web.archive.org/web/20170415141617/https://www.stellar.org/developers/guides/concepts/exchange.html). The core concept, released in the [first version](https://discord.com/channels/897514728459468821/907476473739354153/1158791737565782199) of the protocol, still operates today. However, for phonetic reasons, we will hereafter refer to it as the Stellar Decentralized Exchange or SDEX.
 
 > Multiple exchanges will only increase volatility since each market will be thinner. The only thing that will decrease volatility is liquidity. &mdash[Jed McCaleb](https://bitcointalk.org/index.php?topic=16032.msg212418#msg212418)
 
