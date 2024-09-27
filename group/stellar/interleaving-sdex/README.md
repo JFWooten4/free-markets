@@ -6,13 +6,22 @@ dialog: https://github.com/stellar/stellar-protocol/discussions/new?category=cor
 
 # 💱 Interleaving the SDEX & AMMs
 
-This discussion extends decentralization points made in [note 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504), [SCP#25](https://github.com/stellar/scp-proofs/issues/25), and [Cede](https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company) [timeframe](https://groups.google.com/g/stellar-dev/c/vSsf75cYi5Q/m/AaIjpmC4BAAJ#:~:text=Whether,years). Its principles nullify incumbent business models employed by community members that have directly helped me over the years. Sorry about that, but keep [innovating](https://www.linkedin.com/pulse/from-trader-trailblazer-web3-stock-investments-sec-review-john-wooten-zvxbc/)!
+This discussion extends decentralization points made in [note 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504), [SCP#25](https://github.com/stellar/scp-proofs/issues/25), and [Cede](https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company) [timeframe](https://groups.google.com/g/stellar-dev/c/vSsf75cYi5Q/m/AaIjpmC4BAAJ#:~:text=Whether,years). Its principles nullify incumbent business models employed by community members that have directly helped me over the years. Sorry about that, but keep [innovating](https://www.linkedin.com/pulse/from-trader-trailblazer-web3-stock-investments-sec-review-john-wooten-zvxbc/) because you all are incredible people! 🤝
 
-The inspiration for this post came from the [FxDAO](https://youtu.be/ZT9o_cK3_O4?t=514) [community](https://discord.gg/t7PMNQVJV5). Last week, Soroban AMM developers [upgraded](https://stellar.expert/explorer/public/tx/aa38d1e4ea97228bed1010dfcfb9e4a1c95cf8427238e928e146e00a671dc04d) a contract running the platform's liquidity pools. This stopped users from withdrawing their funds and placed all deposits at risk.[^bug] 😐
+The inspiration for this post came from @earrietadev's @FxDAO [community](https://discord.gg/t7PMNQVJV5).[^DAO] Last week, Soroban AMM troubles emmerged after a [contract upgrade](https://stellar.expert/explorer/public/tx/aa38d1e4ea97228bed1010dfcfb9e4a1c95cf8427238e928e146e00a671dc04d) running the platform's only liquidity pool.[^single] This stopped users from withdrawing their funds and placed all deposits at risk.[^bug] 😐
 
-[^bug]: The immediate, unanounced migration fixed a bug that let attackers empty a pool's reward reserves. 🕷️ Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. 😌 But the entire liquidity protocol had to deploy new routers, pool identifiers, and token duplicates. 🤔
+[^DAO]: commend decentralization, communtiy efforts https://youtu.be/ZT9o_cK3_O4?t=514 and ddeveloper advocacy https://youtu.be/KKbU7xZqNmw
+
+[^single]: When I say "only," I don't mean that this is the single source of any liquidity. Inherently, anybody approved by an issuer when applicable can post a native [offer](https://stellar.expert/explorer/public/tx/b9dc5ccfbb3e1012ba32711828c49fb73b5956feca4ee3e4630d96f618600eec) or deposit into a [liquidity pool](https://horizon.stellar.org/liquidity_pools/332b1f85f668a9b8f109207f97cde908b98a32ea6b7f427c620ee242f05a5f38). But it was the only pool selected for additional [governance token incentves](https://fxdao.io/docs/pools-and-rewards). 💸
+
+[^bug]: The immediate, unanounced migration fixed a bug that let attackers empty a pool's reward reserves. 🕷️ Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. 😌 But the entire liquidity protocol had to deploy new routers, pool identifiers, and balances. 🤔
 
 
+The nuances of these developments are still [very new](https://www.youtube.com/watch?v=Sm17SAZO9hY&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t&t=807) to society at large, likely because so few presently understand the immense centralization of risk in the trading markets. It's my understand that this is why DEX aggregation hasn't been widely discussed across the industry; it's clearly no fault of any Stellar developers. That said, it drives directly into one of our shared objectives:
+
+> The Stellar Network should support decentralization wherever possible, but not at the expense of the majority of its values.
+
+This post explains that perspective as clearly as I can with five days to write it. Ideally, it's the start of a wider conversation, as there is certainly nothing I can do to stop you from deploying anything you want on Soroban. It's part of the endless debate of [decentralization quandaries](https://www.youtube.com/watch?v=JaMJi1_1tkA&list=PLWUFvhKuc_5uICfadww4PR76Rd2bl2MdT) that [I believe](https://www.youtube.com/watch?v=2b8me4_u6fA&list=PLWUFvhKuc_5sf6xhDONTEPOyrDtEn3wwm&t=2361) SCP so eloquently balances.
 
 
 
@@ -42,6 +51,28 @@ These [groundbreaking applications](https://medium.com/clickpesa-debt-fund/intro
 
 [^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1118990437684875357/1288454624566841376) in [WhyDRS Discord](https://wooten.link/join)
 
+### Latency Sensitive Background
+
+As he's publicly communicated, Garand is a huge security nerd (over simplified). I don't want to put any words in his mouth, but I will tell my recollection of the only conversation we've had as communicated in #1504. Namely, certain directive aspects of his work at a [major hedge fund](https://www.sec.gov/newsroom/press-releases/2023-213) may [seem "greedy"](https://www.quora.com/Are-bankers-as-greedy-as-they-are-often-portrayed-in-the-news-and-popular-culture-Take-films-like-Wall-Street-which-depict-them-as-a-group-of-grubbing-piglets-How-true-is-this/answers/25153079), but [I've done](https://stellar.expert/explorer/public/account/GDRM3MK6KMHSYIT4E2AG2S2LWTDBJNYXE4H72C7YTTRWOWX5ZBECFWO7?filter=trades&order=desc) quite the same and materially respect him for it&mdash;this is just for context.
+
+While Garand might simplify it down to "kernel hacking" on his LinkedIn, he was working on hardware-enabled [high frequency trading](https://wikipedia.org/wiki/Flash_Boys) enabled by centralized exchanges. Naemly, the technology he worked on let his emplower make trades that htey [can't lose](https://blog.everstrike.io/the-0-hft-strategy/) (or at least almost never lose). 🧐
+
+These business models rely on the extremely convoluted [market strucutre](https://youtu.be/lEBiyNojTqY) for American trading, which we will get into specifically in 2.XYZ.XYZ. I respectfully submit that we can further the network's goals by understanding lightly how this work allows for the kind or [risk-free trading](https://youtu.be/tDzMgtcJI0o) Garad saw at Coinbase.[^cb] Given the fragmentation of today's liquid exchange vanues, this [latency](https://youtu.be/1ltjnbBaFok) is vierually impossible to remove.
+
+[^cb]: It is my present understanding based on this conversation that Garand ingeniously developed a latency arbitrage strategy whereby he identified, via one-way ping laternbcy, which of three cloud providers used by Coinbase hosted the order book for an asset. Next, he spun up an instance at the identiefied data center and, using his proprietary latency tests, kept refreshing the instance until his virtual instance was initialized on the same rack as the Coinbase server. Once he was on the same Ethernet swithc, his connection to Coinbase was so fast that it was trivial to execute arbitrage against other popular crypto exchanges wit pro accounts.
+
+### A Fresh Start
+
+But we have a unique opporiuntiy with the SDEX to imagine how we might build markets _as they should be_ rather than as they have been. While most of the networks liquidity today revolves around a few trading pairs, it may just power all the world's assets tmmorow. Given we're designing the netwrok for the next billion lumenauts, might we briefly appreciate appreciate the extremely unique position of the SDEX?
+
+If we agree that we want stocks and bonds on Stellar, then it's counterproductive to ignore American securtiies laws. naely, it is our interpration after extensive diligence that virtually all other "decentralized" exchange platforms can be classified under existing centralized exchange regulatory.[^dex1] I will say that this opinion is not formalized, and the SEC does not have an explicit stance on DEXes to my understanding outside of present enforcement actions, as I confiemd with two Commission staff on Monday
+
+[^dex1]: _See, e.g., [public discussion](https://www.blocktransfer.com/blog/post/investor-to-investor-direct-trading), ceasation of DSTOQ operations through Liechtenstein custodian, and [pending conflicts](https://x.com/JFWooten4/status/1778787218041032865).
+
+A universal set of standards for interoperation, reporting, and modifications.
+^showcase traditional market API costs, incl. DSTOQ, and flawed long-term approach
+discuss explicit REG SHO fee caps with links to the three tenths page in a formal PDF
+charts and studies on that if time allows 
 
 
 
@@ -97,6 +128,17 @@ In the first two weeks of a paper thinkorswim demo, I made more than the entire 
 An efficient market to me means the most value possible given to all participants. If there's a `payment` taking place, it means the lowest [requisite](https://discord.com/channels/897514728459468821/1268550807335211059/1268596815251640445) trabsaction cost. And if it's a digital marketplace of buyers and sellers, it means [quite the same](https://wooten.link/gnu).
 
 A middlemen, call them the New York Stock Exchange, charging an extra fee to "authorize" and effectuate a transaction? Well that sounds like an antiquated[^thesis] business model to me. And indeed, at $90 billion dollars [in value](https://finance.yahoo.com/quote/ICE/), these are profitable business models.
+
+
+
+## Regulatoryt Compliance
+
+consider briefly the case of executing a [reverse stock split](https://github.com/blocktransfer/py-tad3-horizon/blob/main/investors/stockSplit.py), a functioanl require for all agents as well understood by brilliant traditional market advocate @jonjove.[^bridging]
+https://github.com/stellar/stellar-protocol/blob/master/core/cap-0038.md#clawback-assets-from-a-pool
+
+
+[^bridging]: As the communtiy knows, xyz yay instuttions
+
 
 ## Free Markets
 
@@ -221,6 +263,8 @@ Developer goals
 
 I respectfully submit to the community that interleaving the SDEX with AMMs furthers our just principles since doing so makes the Stellar Protocol clear, concise, and opinionated;[^values-1] introduces new functionality that is opinionated and straightforward to use;[^values-2] isolates only one obvious way to accomplish a given task;[^values-3] biases the Stellar Protocol towards user **safety,**[^values-4] makes the Stellar network secure and reliable;[^values-5] biases the Stellar network towards safety, simplicity, reliability, and performance over new functionality;[^values-6] allows the Stellar network to run at scale and at low cost to all participants of the network;[^values-7] could help the Stellar Network support off-chain transactions, e.g. Starlight, should SPEEDEX develop [in parallel](something_here_idk_only thing I can think is like end of wooten./link/TS because other speedex mentions are offline and prop;..........could link to IDEX L2 SOL or maybe just maybe Shapeshift dao, extremely carefully tho; needs explicit rollups);[^values-8] enables the Stellar network to power cross-border payments, i.e. payments via **exchange** of assets, throughout the globe, enabling users to make payments between assets in a manner that is fast, cheap, and highly usable;[^values-9] facilitates simplicity and interoperability with other protocols and networks;[^values-10] allows the Stellar network to support an orderbook that values simplicity over functionality, and one that primarily serves to enable cross-border payments;[^values-11] allows the Stellar network to make it easy for developers of Stellar projects to create highly usable products;[^values-12] and facilitates **liquidity** as a means to enabling cross-border payments throughout the Stellar network.[^values-13]
 
+Given more time, I'd be happy to elaborate further on any of these points either in writing or orally.
+
 [^values-3]: utter confusion from Silence in discord on how tf route path payments, other community memebrs, all [discord](lol the discord song by eurobeat?idk kinda fun {🤷‍🤷)
 
 [^values-4]: see 87% GME internalization rate,[^int-r] [Congressional investigation](#page=), and XYZ [report](whydrs/chives details/article: what does drs have to do with gme)
@@ -239,7 +283,7 @@ end with teh argument on rules consensus: https://x.com/BurCapital/status/183938
 [^values-9]: do refernece to studies on percent of itnernation payments including urrneyc conversion; humantiairna shit/that aid project they did; use the link to the releif tweet wherever the fuck it is
 
 [^values-10]: Since point of reference liek the NBBO instead of requisirng a consolidation monopoly as in https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whistleblower-eric-hunsader-750000
-_see_ raw inputs v [conmpotition](https://www.blocktransfer.com/blog/post/investor-to-investor-direct-trading)
+_see_ raw inputs v [conmpotition
 also there will alwyas be competiting dex aggregators because smart contracts have inherit competative nature[^elaborate_on_competeming_smart_contracts-as-routing-brokers_context_nreq-if-time]
 literally fuckiung antithical to wierd propritary routing functions
 ^ standardizing this would basically be communism forcing all permissionless devs to do the same ass shit[^consensus-sma]
@@ -275,7 +319,7 @@ I dont think I hae the brokerage statements , but it could be worth checkign if 
 
 # Values Contemplation
 
-> The Stellar Network should support decentralization wherever possible, but not at the expense of the majority of its values.
+
 
 sum up with "if we really support [egalitarianism](EXCLUSIVE_VALUES_HREF to https://github.com/stellar/stellar-protocol/blob/master/core/README.md#stellar-network-goals) and everyone participating on the [same playing field](https://www.youtube.com/watch?v=iIMgaUyiEho&list=PLWUFvhKuc_5tD62OdZIv3HUaf4eBaQzG8), then might we contemplate further the competative advantages of interleaving the SDEX with native AMMs? 💭
 
@@ -288,17 +332,14 @@ Special because it is the only real distributed order book, reference
 
 ## Decentralization of Rules
 ^need to first contextualize how impoertant this is per: https://x.com/JFWooten4/status/1838612974325412246
-A crucial differentiator from explicit contract rules, implications: https://wooten.link/uniswap
+A crucial differentiator from explicit contract rules
 
 ## Efficient Direct States
 Reference how it manages the ledger through explicit and defined patterns without external state.
 more of a technical thing, prob need to dive into the Herder if time
 
 ## Transparent Access Patterns
-A universal set of standards for interoperation, reporting, and modifications.
-^showcase traditional market API costs, incl. DSTOQ, and flawed long-term approach
-discuss explicit REG SHO fee caps with links to the three tenths page in a formal PDF
-charts and studies on that if time allows 
+
 
 
 
@@ -334,11 +375,23 @@ Since any account can send an order to the SDEX, its order book is uniquely egal
 Speedex future scaling work: https://arxiv.org/pdf/2404.03201
 built as cap improving native!
 
+heres my perspective on the txn fees: https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/GvEF7R4UAQAJ
 
-
-
-
+orbit post at https://stellar.expert/blog/stellar-amms-at-crossroads-between-triumph-and-disaster
+^ i think we want to keep this light but it could be worth mentioning @orbitlens
 We want users to have the most financial success. Let's do it together!
+
+
+
+also here is there direct link to the original interleaving info graphic:
+
+https://github.com/stellar/stellar-protocol/blob/master/core/cap-0037.md#semantic-changes-for-existing-operations
+
+👍📌
+
+
+
+
 
 idk somewhere should reference https://www.reddit.com/r/Crypto_com/comments/igh4t3/where_does_cash_back_cro_come_from/ which has internalization discussion at https://www.reddit.com/r/Crypto_com/comments/igh4t3/comment/g2uoo57/ in re _TS_ on torubled broker business models (maybe https://www.listennotes.com/podcasts/taking-stock-whydrsorg-cinl5YDNPCJ/)
 
