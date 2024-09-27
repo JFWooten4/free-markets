@@ -10,21 +10,17 @@ This discussion extends decentralization points made in [note 2.1.1](https://git
 
 The inspiration for this post came from @earrietadev's @FxDAO [community](https://discord.gg/t7PMNQVJV5).[^DAO] Last week, Soroban AMM troubles emmerged after a [contract upgrade](https://stellar.expert/explorer/public/tx/aa38d1e4ea97228bed1010dfcfb9e4a1c95cf8427238e928e146e00a671dc04d) running the platform's only liquidity pool.[^single] This stopped users from withdrawing their funds and placed all deposits at risk.[^bug] 😐
 
-[^DAO]: commend decentralization, communtiy efforts https://youtu.be/ZT9o_cK3_O4?t=514 and ddeveloper advocacy https://youtu.be/KKbU7xZqNmw
-
-[^single]: When I say "only," I don't mean that this is the single source of any liquidity. Inherently, anybody approved by an issuer when applicable can post a native [offer](https://stellar.expert/explorer/public/tx/b9dc5ccfbb3e1012ba32711828c49fb73b5956feca4ee3e4630d96f618600eec) or deposit into a [liquidity pool](https://horizon.stellar.org/liquidity_pools/332b1f85f668a9b8f109207f97cde908b98a32ea6b7f427c620ee242f05a5f38). But it was the only pool selected for additional [governance token incentves](https://fxdao.io/docs/pools-and-rewards). 💸
-
-[^bug]: The immediate, unanounced migration fixed a bug that let attackers empty a pool's reward reserves. 🕷️ Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. 😌 But the entire liquidity protocol had to deploy new routers, pool identifiers, and balances. 🤔
-
-
 The nuances of these developments are still [very new](https://www.youtube.com/watch?v=Sm17SAZO9hY&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t&t=807) to society at large, likely because so few presently understand the immense centralization of risk in the trading markets. It's my understand that this is why DEX aggregation hasn't been widely discussed across the industry; it's clearly no fault of any Stellar developers. That said, it drives directly into one of our shared objectives:
 
 > The Stellar Network should support decentralization wherever possible, but not at the expense of the majority of its values.
 
 This post explains that perspective as clearly as I can with five days to write it. Ideally, it's the start of a wider conversation, as there is certainly nothing I can do to stop you from deploying anything you want on Soroban. It's part of the endless debate of [decentralization quandaries](https://www.youtube.com/watch?v=JaMJi1_1tkA&list=PLWUFvhKuc_5uICfadww4PR76Rd2bl2MdT) that [I believe](https://www.youtube.com/watch?v=2b8me4_u6fA&list=PLWUFvhKuc_5sf6xhDONTEPOyrDtEn3wwm&t=2361) SCP so eloquently balances.
 
+[^DAO]: commend decentralization, communtiy efforts https://youtu.be/ZT9o_cK3_O4?t=514 and ddeveloper advocacy https://youtu.be/KKbU7xZqNmw
 
+[^single]: When I say "only," I don't mean that this is the single source of any liquidity. Inherently, anybody approved by an issuer when applicable can post a native [offer](https://stellar.expert/explorer/public/tx/b9dc5ccfbb3e1012ba32711828c49fb73b5956feca4ee3e4630d96f618600eec) or deposit into a [liquidity pool](https://horizon.stellar.org/liquidity_pools/332b1f85f668a9b8f109207f97cde908b98a32ea6b7f427c620ee242f05a5f38). But it was the only pool selected for additional [governance token incentves](https://fxdao.io/docs/pools-and-rewards). 💸
 
+[^bug]: The immediate, unanounced migration fixed a bug that let attackers empty a pool's reward reserves. 🕷️ Luckily, nobody drained any deposited funds before @rahimklaber found the exploit. 😌 But the entire liquidity protocol had to deploy new routers, pool identifiers, and balances. 🤔
 
 
 ## Accessable Education Breakthroughs
@@ -37,11 +33,7 @@ Garand's sentiments in [this short release](https://x.com/StellarOrg/status/1811
 
 > Soroban has so many use cases. Use cases that the people building it haven't even begun to imagine yet... Truly, the sky is the limit.
 
-These [groundbreaking applications](https://medium.com/clickpesa-debt-fund/introducing-the-clickpesa-debt-fund-transforming-sme-finance-in-sub-saharan-africa-3e9e7afebf4e) can be so much more than another trading avenue. Specifically, our extended conversation on May 30[^30] dove into trade routing inneficiencies, which ties directly into egalitarian [engineering sentiments](https://lnns.co/YqRntTfvmuF/2132).
-
-
-
-[^30]: _See_ [Sec 3.3](https://github.com/stellar/stellar-protocol/discussions/1504) at event discussing cross-exchange arbitrge.
+These [groundbreaking applications](https://medium.com/clickpesa-debt-fund/introducing-the-clickpesa-debt-fund-transforming-sme-finance-in-sub-saharan-africa-3e9e7afebf4e) can be so much more than another trading avenue. Per [Sec 3.3](https://github.com/stellar/stellar-protocol/discussions/1504), these new applications can tie directly into egalitarian [engineering sentiments](https://lnns.co/YqRntTfvmuF/2132). Hopefully we can get more industry understanding around the stellar work Garand and the rest of the network's constributors have recently pioneered.
 
 [^main-g-ref]: _See_ tremendous [state expiration explainer](https://www.youtube.com/watch?v=H-crrmpLjV4&list=PLD_o9ntBnmGam9BuoTr_4cjPOksi1Dl1A), [informative technical specifications](https://github.com/stellar/stellar-protocol/blob/master/core/cap-0046-12.md), and [historical data education](https://stellar.org/blog/developers/data-structure-bucketlistdb).
 
@@ -49,7 +41,7 @@ These [groundbreaking applications](https://medium.com/clickpesa-debt-fund/intro
 
 [^dao-ing]: We've been [discussing](https://discord.com/channels/897514728459468821/907476473739354153/1262848253796286530) the challenges of marketing open source development for weeks as our community [adopts GitHub](https://github.com/WhyDRS/DAO-docs).
 
-[^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1118990437684875357/1288454624566841376) in [WhyDRS Discord](https://wooten.link/join)
+[^drs-discord]: _See_ [original material](https://discord.com/channels/1102309240145707049/1118990437684875357/1288454624566841376) in [WhyDRS Discord](https://wooten.link/join), sourcing from @bibicjr.
 
 ### Latency Sensitive Background
 
@@ -65,16 +57,14 @@ These business models rely on the extremely convoluted [market strucutre](https:
 
 But we have a unique opporiuntiy with the SDEX to imagine how we might build markets _as they should be_ rather than as they have been. While most of the networks liquidity today revolves around a few trading pairs, it may just power all the world's assets tmmorow. Given we're designing the netwrok for the next billion lumenauts, might we briefly appreciate appreciate the extremely unique position of the SDEX?
 
-If we agree that we want stocks and bonds on Stellar, then it's counterproductive to ignore American securtiies laws. naely, it is our interpration after extensive diligence that virtually all other "decentralized" exchange platforms can be classified under existing centralized exchange regulatory.[^dex1] This opinion is not yet formalized, and the SEC does not have an explicit stance on DEXes outside of present enforcement actions, as affrmed with two Commission staff on Monday.[^disc]
+If we agree that we want stocks and bonds on Stellar, then it's counterproductive to ignore American securtiies laws. naely, it is our interpration after extensive diligence that virtually all other "decentralized" exchange platforms can be classified under existing centralized exchange regulatory.[^dex1] This opinion is not yet formalized, and the SEC does not have an explicit stance on DEXes outside of present enforcement actions, as I affrmed with two Commission staff on Monday.[^disc]
+
+Based on the work everyone like Garand does to simplify and accurately explain Stellar, it wholeheartecdlyl believe we can establish a universal set of netowrk interoperability, reporting, and modification standards. Alongisde the exceptional on-ramping and redemption flows we've built, might we focus also on the trading functionality so gravely needed for cross-currency remitances? Perhaps our long-term approach on this front can obviate the presently costsly market access, interface, and reporting costs.
 
 [^dex1]: _See, e.g.,_ [public discussion](https://www.blocktransfer.com/blog/post/investor-to-investor-direct-trading), ceasation of DSTOQ operations through Liechtenstein custodian, and [pending conflicts](https://x.com/JFWooten4/status/1778787218041032865).
 
 [^disc]: This is my present understanding, which [the Syndicate](https://www.blocktransfer.com/about/values) bases its [regulatory filings](https://www.sec.gov/edgar/browse/?CIK=1846058) along. However, it is subject to change and should not be taken as professional advice. We're [actively working](https://github.com/WhyDRS/DAO-docs/blame/main/comments/S7-27-15/README.md#L187) to clarify the narrative for other Stellar assets, especially tokenized mutual funds.
 
-Based on the work everyone like Garand does to simplify and accurately explain Stellar, it wholeheartecdlyl believe we can establish a universal set of netowrk interoperability, reporting, and modification standards. Alongisde the exceptional on-ramping and redemption flows we've built, might we focus also on the trading functionality so gravely needed for cross-currency remitances? Perhaps our long-term approach on this front can obviate the presently costsly market access, interface, and reporting costs.
-
-
-protocol deals with [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to instutional adoption
 
 ## Market Fragmentation
 
@@ -139,6 +129,7 @@ https://github.com/stellar/stellar-protocol/blob/master/core/cap-0038.md#clawbac
 
 [^bridging]: As the communtiy knows, xyz yay instuttions
 
+protocol deals with [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to instutional adoption
 
 ## Free Markets
 
