@@ -115,9 +115,11 @@ To answer this question in the narrow case of the SDEX, might we contemplate the
 In the 70's, the NYSE charged $XYZ per stock trade. Your broker pays many fees like these to the [plethora](https://www.linkedin.com/pulse/pipe-dreams-dollar-schemes-financial-world-xxim-c9eec) of middlemen in the present market system. For context, here's just a small part of existing trade clearing and settlement labrynths:
 
 
-[<img width="450" alt="routing-birdsnest" src="https://blocktransfer.com/.well-known/post-internalization.png" style="border-radius: 64pt;">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
+[<img width="640" alt="routing-birdsnest" src="https://blocktransfer.com/.well-known/post-internalization.png">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
 
+this is a very very very bad thing, and it's exactly what Wall Street [wants](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). 
 
+we cannot play into their hand, they will destroy the network iojjvioc xjiovjcxlv
 
 
 
@@ -154,6 +156,15 @@ Financial markets thrive because of liquidity. It's the grease in the wheels, so
 ## Need to frame liquidity
 
 [![contract-risks](https://github.com/user-attachments/assets/5824aacc-a47f-46de-8720-9b080a6ffe66)](https://youtu.be/nOh-7SzI6gM)
+
+
+### frame upgradability (requiste to software)
+
+[](https://revoke.cash/exploits/stablemagnet?chainId=56)
+on contract backdoor for 27M in BNB DEX
+
+
+
 
 xyz [src](https://youtu.be/W2oRRGVo9xs) says:
 
