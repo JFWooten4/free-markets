@@ -65,16 +65,16 @@ These business models rely on the extremely convoluted [market strucutre](https:
 
 But we have a unique opporiuntiy with the SDEX to imagine how we might build markets _as they should be_ rather than as they have been. While most of the networks liquidity today revolves around a few trading pairs, it may just power all the world's assets tmmorow. Given we're designing the netwrok for the next billion lumenauts, might we briefly appreciate appreciate the extremely unique position of the SDEX?
 
-If we agree that we want stocks and bonds on Stellar, then it's counterproductive to ignore American securtiies laws. naely, it is our interpration after extensive diligence that virtually all other "decentralized" exchange platforms can be classified under existing centralized exchange regulatory.[^dex1] I will say that this opinion is not formalized, and the SEC does not have an explicit stance on DEXes to my understanding outside of present enforcement actions, as I confiemd with two Commission staff on Monday
+If we agree that we want stocks and bonds on Stellar, then it's counterproductive to ignore American securtiies laws. naely, it is our interpration after extensive diligence that virtually all other "decentralized" exchange platforms can be classified under existing centralized exchange regulatory.[^dex1] This opinion is not yet formalized, and the SEC does not have an explicit stance on DEXes outside of present enforcement actions, as affrmed with two Commission staff on Monday.[^disc]
 
-[^dex1]: _See, e.g., [public discussion](https://www.blocktransfer.com/blog/post/investor-to-investor-direct-trading), ceasation of DSTOQ operations through Liechtenstein custodian, and [pending conflicts](https://x.com/JFWooten4/status/1778787218041032865).
+[^dex1]: _See, e.g.,_ [public discussion](https://www.blocktransfer.com/blog/post/investor-to-investor-direct-trading), ceasation of DSTOQ operations through Liechtenstein custodian, and [pending conflicts](https://x.com/JFWooten4/status/1778787218041032865).
 
-A universal set of standards for interoperation, reporting, and modifications.
-^showcase traditional market API costs, incl. DSTOQ, and flawed long-term approach
-discuss explicit REG SHO fee caps with links to the three tenths page in a formal PDF
-charts and studies on that if time allows 
+[^disc]: This is my present understanding, which [the Syndicate](https://www.blocktransfer.com/about/values) bases its [regulatory filings](https://www.sec.gov/edgar/browse/?CIK=1846058) along. However, it is subject to change and should not be taken as professional advice. We're [actively working](https://github.com/WhyDRS/DAO-docs/blame/main/comments/S7-27-15/README.md#L187) to clarify the narrative for other Stellar assets, especially tokenized mutual funds.
+
+Based on the work everyone like Garand does to simplify and accurately explain Stellar, it wholeheartecdlyl believe we can establish a universal set of netowrk interoperability, reporting, and modification standards. Alongisde the exceptional on-ramping and redemption flows we've built, might we focus also on the trading functionality so gravely needed for cross-currency remitances? Perhaps our long-term approach on this front can obviate the presently costsly market access, interface, and reporting costs.
 
 
+protocol deals with [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to instutional adoption
 
 ## Market Fragmentation
 
