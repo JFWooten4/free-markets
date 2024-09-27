@@ -3,7 +3,8 @@ status: Published
 submit: 13 Oct 2023
 dialog: https://www.linkedin.com/pulse/blockchain-trading-high-frequency-firms-symbiotic-ethical-john-wooten-bsedc
 ```
-https://media.licdn.com/dms/image/v2/D5612AQEVaByhuHXjow/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1697197849621?e=1732752000&v=beta&t=WebZuvI3fWN3vHwS730-56OPvBTopFcuCvytiHYXYz8
+
+![cover-image](https://media.licdn.com/dms/image/v2/D5612AQEVaByhuHXjow/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1697197849621?e=1732752000&v=beta&t=WebZuvI3fWN3vHwS730-56OPvBTopFcuCvytiHYXYz8)
 
 Again (foprmatting), whatever/not now.
 
