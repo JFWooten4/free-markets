@@ -121,7 +121,7 @@ To answer this question in the narrow case of the SDEX, might we contemplate the
 
 The parallel of displaced orders would be a UniswapV4-style Soroban order book, where you can pay kickbacks or
  direct bribes to [fragment the market](https://www.youtube.com/live/XLc4c7vL3rM?t=2593). The end result of 
-these schenanigans is a plutocracy where governance can self-fulfill perpetual illiquiidty across [centralized matchmakers](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). Might we make investing most accessable and performant for real users instead of circular path payments bots, as insightfully predicted by @orbitlens _infra_ note [VALUES_2_"vocally spearheaded"].
+these schenanigans is a plutocracy where governance can self-fulfill perpetual illiquiidty across [centralized matchmakers](https://www.sec.gov/comments/s7-25-20/s72520-8569142-230826.pdf#page=13). Might we make investing most [accessable and performant](https://github.com/stellar/stellar-protocol/blob/master/core/cap-0037.md#semantic-changes-for-existing-operations) for real users instead of circular path payments bots, as insightfully predicted by @orbitlens _infra_ note [VALUES_2_"vocally spearheaded"].
 
 ### Classic Operations
 
@@ -133,26 +133,21 @@ Do you think we should block masses of people in developing coutnrues from inves
 
 ## Regulatoryt Compliance
 
-Financial markets thrive because of liquidity, which we can most easily use when concentrated. It's the grease in the wheels empoweing of a global payments system. If we want to bring this liquidity to scale iwth no centralized party, might I suggest that the core trading functions must stay under classic tranparency?
+Financial markets thrive because of liquidity, which we can most easily use when concentrated in the hands of the people. It's the grease in the wheels empoweing of a global payments system, which is why I believe me must protect it from middlmeen at all costs. If we want to bring this liquidity to scale iwth no centralized party, might I suggest that the core trading functions must stay under classic tranparency?
 
 Consider briefly the case of executing a [reverse stock split](https://github.com/blocktransfer/py-tad3-horizon/blob/main/investors/stockSplit.py) using clawbacks, where users have deposited into liquidity pools. Early on, brilliant traditional market advocate @jonjove identified this requisite use case for institutional adoption. And the functionality was [expertly integrated](https://github.com/stellar/stellar-protocol/blob/master/core/cap-0038.md#clawback-assets-from-a-pool) into univeral liquidity pools with due consideration.
 
-The protocol best deals with these [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to basic finanical functions like liquidity, which drive instutional adoption. I wholeheatrtdly believe that we need native participation to decentralize [tje rules](https://x.com/JFWooten4/status/1838612974325412246) rather than delegate delicate trading edge cases to explicit contract rules. Might we best achieve comprehsnive liquidty with this collective existing [rules consensus](https://x.com/BurCapital/status/1839383174033654075) so that certain core financial innovations stay withing our collective regulatory scope of [safe oversight](https://youtu.be/e0YJBAJdVoc?t=911)?
+The stable protocol best deals with these [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to basic finanical functions like liquidity, which drives safe instutional adoption. I wholeheatrtdly believe that we need native participation to decentralize [tje rules](https://x.com/JFWooten4/status/1838612974325412246) rather than delegate delicate trading edge cases to explicit contract rules. Might we best achieve comprehsnive liquidty with this collective existing [rules consensus](https://x.com/BurCapital/status/1839383174033654075) so that certain core financial innovations stay withing our collective regulatory scope of [safe oversight](https://youtu.be/e0YJBAJdVoc?t=911)?
 
 
+## Unique Values
+
+There seems to be no ther truly decentralized, distributed, and permissionless order book. Do you think this makes the SDEX something special and worth all protections to continue exp[licitly managing the ledger's lioqudity without extenal states? 
+
+[![contract-risks](https://github.com/user-attachments/assets/5824aacc-a47f-46de-8720-9b080a6ffe66)](https://youtu.be/nOh-7SzI6gM)
 
 
-
-
-I need to work in and end on this picture very subtly, in an effort to frame the future as something so much more than rent-seeking.
-
-## Need to frame liquidity
-
-
-
-
-
-xyz [src](https://youtu.be/W2oRRGVo9xs) says:
+Nakamoto's [unkept promise](https://github.com/user-attachments/assets/b4b34d6b-94ea-40e3-8dfd-beb0239e5e9e) was an escape from the tyranny of centralized control. But the liquidity questions plaguing the industry around central exchanges still leaves true ownership entirely up in the air. They only achieved new [monetary standards](https://youtu.be/W2oRRGVo9xs) since:
 
 > "21 million is not a feature of Bitcoin. It is Bitcoin."
 
@@ -160,28 +155,7 @@ Might I respectfully suggest that, as the hglobe's financial system and given th
 
 > "Liquidity is not a feature of Stellar. It is Stellar."
 
-
-
-
-
-## Uniqueness of SDEX
-Special because it is the only real distributed order book, reference 
-
-
-## Efficient Direct States
-Reference how it manages the ledger through explicit and defined patterns without external state.
-more of a technical thing, prob need to dive into the Herder if time
-
-## Transparent Access Patterns
-
-
-
-
-
-
-### Value Alignment
-
-[![contract-risks](https://github.com/user-attachments/assets/5824aacc-a47f-46de-8720-9b080a6ffe66)](https://youtu.be/nOh-7SzI6gM)
+---
 
 I respectfully submit to the community that interleaving the SDEX with AMMs furthers our just principles since doing so:
 - makes the Stellar Protocol clear, concise, and opinionated;[^values-1]
@@ -213,7 +187,7 @@ Given more time, I'd be happy to elaborate further on any of these points either
 
 [^values-7]: The material base functionalities of core embody a universal financial system, like efficient `payment` performance. But employing Soroban transctions cost more from all deployment, management, and processing standpoints. Might we focus on the existing efficeinceis in the protocol;s liquidty pools?
 
-[^values-8]: As [SPEEDEX develops](https://arxiv.org/pdf/2404.03201), future scaling can include liquidity pools in a comprehensive efficient system. This continuing the empowering decentralization promises of automated liquidity participation so that anyone can inclusively help build SDEX liquidity at [below transaction rates](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/GvEF7R4UAQAJ). Since this innovation emboldens the native liquidity functyions, might the best path forward become a CAP bringing native liquidiry to scale all together?
+[^values-8]: As [SPEEDEX develops](https://arxiv.org/pdf/2404.03201), future scaling can include liquidity pools in a comprehensive efficient system. This continuing the empowering decentralization promises of automated liquidity participation so that anyone can inclusively help build SDEX liquidity as a [dominent use case](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/GvEF7R4UAQAJ). Since this innovation emboldens the native liquidity functyions, might the best path forward become a CAP bringing native liquidiry to scale all together?
 
 [^values-9]: With native liquidity in one place, might all migrants and global transfers benefit from the best rates based on all avaliable liquidityy? Optimizations here can keep currency conversion at its lowest so that money gets to the places that truly [need it most](https://stellar.org/case-studies/irc). Wouldn't this be a better destination than an arbitrage bot, price slippage, or optimization miss?
 
@@ -228,63 +202,25 @@ Given more time, I'd be happy to elaborate further on any of these points either
 If we really support [egalitarianism](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#stellar-network-goals) and everyone participating on the [same playing field](https://www.youtube.com/watch?v=iIMgaUyiEho&list=PLWUFvhKuc_5tD62OdZIv3HUaf4eBaQzG8), then might we contemplate further the competative advantages of interleaving the SDEX with native AMMs so that liquidity stays core to the protocol? 💭
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Storied Guiding Principles
 
-As someone who needs no context, Jed un
-@jedmccaleb
+As someone deeply involved with early crypto liquidity, might @jedmccaleb understand firsthand the quandaries of disparate liquidity pools? In 2012, Jed [wrote](https://bitcointalk.org/index.php?topic=108782.msg1182508#msg1182508): "One thing you can do with it is exchange bitcoins for fiat without the need for a centralized market such as Mt. Gox. Which will be very useful for Bitcoin" when discussing preliminary ideas for Stellar. This [prescient](https://x.com/JFWooten4/status/1809667647040327949) viewopint introduced me to the foundational ethos that "liquidity begets liquidity."
 
-The [founders](https://stellar.org/blog/foundation-news/introducing-stellar) of the network, particularly Jed McCaleb, understood firsthand the quandaries of centralized [order books](https://wikipedia.org/wiki/Order_book). In 2012, Jed [wrote](https://bitcointalk.org/index.php?topic=108782.msg1182508#msg1182508): "One thing you can do with it is exchange bitcoins for fiat without the need for a centralized market such as Mt. Gox. Which will be very useful for Bitcoin" when discussing preliminary ideas for Stellar.
+Might we continue champoining the network's distributed exchange, as it was [originally named](https://web.archive.org/web/20170415141617/https://www.stellar.org/developers/guides/concepts/exchange.html)? Specifically, can we continue innovating on the exceptional core concept released in the [first version](https://discord.com/channels/897514728459468821/907476473739354153/1158791737565782199) of the protocol? Namely, interleaving liquidity pools ought protect users since:
 
-This [prescient](https://x.com/JFWooten4/status/1809667647040327949)
-^ "liquidity begets liquidity"
-perspective led to the creation of a distributed exchange, as it was [originally named](https://web.archive.org/web/20170415141617/https://www.stellar.org/developers/guides/concepts/exchange.html). The core concept, released in the [first version](https://discord.com/channels/897514728459468821/907476473739354153/1158791737565782199) of the protocol, still operates today. However, for phonetic reasons, we will hereafter refer to it as the Stellar Decentralized Exchange or SDEX.
+> Multiple exchanges will only increase volatility since each market will be thinner. The only thing that will decrease volatility is liquidity. &mdash;[Jed McCaleb](https://bitcointalk.org/index.php?topic=16032.msg212418#msg212418)
 
-> Multiple exchanges will only increase volatility since each market will be thinner. The only thing that will decrease volatility is liquidity. &mdash[Jed McCaleb](https://bitcointalk.org/index.php?topic=16032.msg212418#msg212418)
-
-Since any account can send an order to the SDEX, its order book is uniquely egalitarian in that all market participants follow the same rules, treatment, and pricing. You receive the same exchange rate whetehr you are a major European bank or a rural Kenyan farmer.. Ubdeed, the [throughout](REF_SPEEDEX-inclACcc?) enabled by [SCP](REF_DOCS_SCP_PAGE) means you can specify exactly how much you pay for conversions.
+Since any account can send an order to the SDEX, its order book is uniquely egalitarian in that all market participants follow the same rules, treatment, and pricing. You receive the same exchange rate whetehr you are a major European bank or a rural Kenyan farmer. Perhaps the [equal execution](https://www.scs.stanford.edu/~geoff/papers/speedex.pdf#page=4) enabled by SCP and primed to scale can best empower global, inclusive, and decentralized liquidity?
 
 
 
-also here is there direct link to the original interleaving info graphic:
-
-https://github.com/stellar/stellar-protocol/blob/master/core/cap-0037.md#semantic-changes-for-existing-operations
 
 Hopefully one day we can get to a liquidity singularoity point where all traders want to execute on the SDEX because it provides the most comprehsnvie set of decentralized orders. 
-👍📌
-
-
-
-
 
 idk somewhere should reference https://www.reddit.com/r/Crypto_com/comments/igh4t3/where_does_cash_back_cro_come_from/ which has internalization discussion at https://www.reddit.com/r/Crypto_com/comments/igh4t3/comment/g2uoo57/ in re _TS_ on torubled broker business models (maybe https://www.listennotes.com/podcasts/taking-stock-whydrsorg-cinl5YDNPCJ/)
-
-INIMICAL WITH THE sdex
-
 
 I believe whgoleheartedly that [SPEEDEX]() will fundamentally transform capitlism, empowering:
 
 - Small busiensses to  xyz 
 - Investors to abc, and
 - Anyone, anywehre, at anytime to build real savings and retirements.
-
-[the prominent use case](href speedex post highlight text prominent use, also I think i said this in the dev discord)
-
-
-
-
-drive to the point that you would need one AMM protocl for it to be efficient, so at that point it should be done by the man validators
-
