@@ -133,24 +133,11 @@ Do you think we should block masses of people in developing coutnrues from inves
 
 ## Regulatoryt Compliance
 
+Financial markets thrive because of liquidity, which we can most easily use when concentrated. It's the grease in the wheels empoweing of a global payments system. If we want to bring this liquidity to scale iwth no centralized party, might I suggest that the core trading functions must stay under classic tranparency?
+
 Consider briefly the case of executing a [reverse stock split](https://github.com/blocktransfer/py-tad3-horizon/blob/main/investors/stockSplit.py) using clawbacks, where users have deposited into liquidity pools. Early on, brilliant traditional market advocate @jonjove identified this requisite use case for institutional adoption. And the functionality was [expertly integrated](https://github.com/stellar/stellar-protocol/blob/master/core/cap-0038.md#clawback-assets-from-a-pool) into univeral liquidity pools with due consideration.
 
 The protocol best deals with these [regulated edge cases](https://youtu.be/wcjzKdo0xS8?t=1057) key to basic finanical functions like liquidity, which drive instutional adoption. I wholeheatrtdly believe that we need native participation to decentralize [tje rules](https://x.com/JFWooten4/status/1838612974325412246) rather than delegate delicate trading edge cases to explicit contract rules. Might we best achieve comprehsnive liquidty with this collective existing [rules consensus](https://x.com/BurCapital/status/1839383174033654075) so that certain core financial innovations stay withing our collective regulatory scope of [safe oversight](https://youtu.be/e0YJBAJdVoc?t=911)?
-
-https://www.linkedin.com/pulse/blockchain-trading-high-frequency-firms-symbiotic-ethical-john-wooten-bsedc
-
-When you convert one currency to another in traditional financial markets, your trade happens because of limit orders. [These orders] specify how much someone will pay for a certain amount of any asset. Thus, when you need to convert your dollars to yen, e.g., their order to sell yen for dollars counteracts and "fulfills" your trade.
-
-## Market Depth
-
-The more orders available to transact against, the more currency you can convert at any time without [moving the market](https://dollarendgame.substack.com/p/gamestopped?r=3bnvyi). Stellar stores these open orders as `offer` [objects](https://developers.stellar.org/docs/data/horizon/api-reference/resources/offers/object) directly on chain. XYZ_ONE_SENT_HERE_WITH_HREF_ON_TRADING—maybe SpeedEx post.
-
-## Fill Prices
-
-The network and by extension its [validators](https://stellarbeat.io/) match orders based on the protocol rules of [Stellar Core](https://github.com/stellar/stellar-core/blob/fbb53d8ad42dcc12a046c9be949d654821a24d38/src/transactions/OfferExchange.cpp#L227-L550). SENTENCE_HERE_ON_SAME_PRICE_OR_BETTER SENTENCE_BEST_EXEC (#ref-more-later-on-per-ledger-match-matching).
-
-
-Financial markets thrive because of liquidity. It's the grease in the wheels, so to speak, of a global payments system. Stellar is one of the very few platforms that accounts for liquidity at scale with no centralized party.
 
 
 
@@ -158,14 +145,6 @@ Financial markets thrive because of liquidity. It's the grease in the wheels, so
 
 
 I need to work in and end on this picture very subtly, in an effort to frame the future as something so much more than rent-seeking.
-
-
-
-
-## Competative Interleaving
-
-
-## Interleaving
 
 ## Need to frame liquidity
 
