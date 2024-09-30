@@ -1,5 +1,5 @@
 ```
-status: Submitted
+status: Published
 submit: 27 Sep 2024
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558
 ```
