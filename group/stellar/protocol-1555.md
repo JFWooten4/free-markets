@@ -1,11 +1,10 @@
 ```
 status: Draft
 submit: after docs #723, before TAR letter
-dialog: https://github.com/stellar/stellar-docs/issues/864
+dialog: https://github.com/stellar/stellar-protocol/pull/1555
 ```
 
-This is a comment responding to the actions taked by leigh in re some style refreshes.
-
+Comments in re formalizing policies for regulatory review through transparent protocol amendments.
 
 
 ## context
