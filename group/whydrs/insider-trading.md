@@ -4,6 +4,8 @@ submit: 6 Mar 2024
 dialog: https://lemmy.whynotdrs.org/post/1166651 & https://discord.com/channels/1102309240145707049/1217829665545130044/1217830234582421565 (https://discord.gg/pn3GcVKJ6j)
 ```
 
+# Community Discussion: Preventing Insider Trading 🚫📉
+
 I wrote this post in an airport lounge, where I’m leeching off the buffet for 10 hours before my flight. Might not be as fun as exploring LA, but it saves a few bucks to go towards rent. 🏠
 
 Whether we like it or not, the government knows a lot about us. They know when and where you fly. 🛩️ They theoretically know how much you earn, the stability of that income, and where it comes from. 💼 They know what kind of car you drive, how many traffic tickets you’ve racked up, and of course where you live (at least unless it’s in a [separate entity](https://www.nytimes.com/2024/03/03/us/politics/judge-ruling-corporate-transparenct-act.html)). And that’s not even mentioning *Snowden*.
