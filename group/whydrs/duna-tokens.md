@@ -1,5 +1,5 @@
 ```
-status: Published
+status: Draft
 submit: after DAO docs, before TAR letter (for incorporation specification)
 dialog: https://lemmy.whynotdrs.org/post/TBD & https://discord.com/channels/1102309240145707049/1262090921688961034/1284219424189976710 (https://discord.gg/pn3GcVKJ6j)
 ```
