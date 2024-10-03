@@ -4,7 +4,10 @@ submit: 7 May 2024
 dialog: https://lemmy.whynotdrs.org/post/1421770 & https://discord.com/channels/1102309240145707049/1237574931655430216/1237575186950389863 (https://discord.gg/pn3GcVKJ6j)
 ```
 
-![cover](https://lemmy.whynotdrs.org/pictrs/image/d478c769-4dac-43f9-a52e-e9146113eaba.webp)
+# Re: Discord Community Developments & Our Nonprofit Growth
+
+<!--- make landscape if you can AI expand here --->
+![cover](https://lemmy.whynotdrs.org/pictrs/image/d478c769-4dac-43f9-a52e-e9146113eaba.webp) 
 
 It's been a very active week as many of us turn to WhyDRS with increasing fervor. 🤝 From what I've seen, that means more time, effort, and thought put into our next steps. There's a long road ahead, as we've all discovered these past few years imo. Incredible to think how much we can all accomplish together. 🛤
 
