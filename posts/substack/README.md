@@ -1,3 +1,9 @@
+```
+todo: move to group discussions per #9
+same heading format... due 1 Nov 2024
+submit: (ideally nakamoto.com, prob need it to them by Oct 23 in re events)
+```
+
 # First post
 
 Nobody wants to write about a few things I care immensely about. Guess that only leaves on person to explain it.
