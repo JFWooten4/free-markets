@@ -31,3 +31,10 @@ https://github.com/sponsors
 ### Asking the market to pay you for good work
 
 It can be done without the administrative crap
+
+# fiar pay for fair work: comes natirua;;ly (but word this well lol)
+
+implicate the _Compensation_ arguments deeply embedded in T&GR (have at least 3 references thereto in a footnote, ideally two raw hrefs (one on the intro, one in a popular vid) ) 
+for material amounts (let;s go aheafd and frame out hte $10 thing in the context of stripe as a replicate to substack): https://discord.com/channels/761985725453303838/761985725453303841/1291833577239216229
+^ THIS IMPLICATES AND REQUIRES FINISHED TAR FIRST IN RE SCAPEGHOST
+fuck this wont happen on time
