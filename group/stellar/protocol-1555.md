@@ -24,3 +24,9 @@ I should talk a little on how some CAPs don't present all the XDR changes
 Learn the xdr 😔
 
 [^symb]: Using `§` will probably look more authoritative.
+
+## censorship implications allowbale inherently my unp[ermissionless upgradable contracts
+
+_See_ `2d32c9f6ea1baf2bf3fbe051346a42d8d1917c911aa4f4c171915cb0eebf910a` physical notes
+
+https://discord.com/channels/761985725453303838/761985725453303841/1292007869851631700 as requisite need to moderate whats happening from the [frontend](https://wooten.link/uniswap) and inherit brokering responsabilities, which are untennable with web3 (but phrase it more diplomatically)
