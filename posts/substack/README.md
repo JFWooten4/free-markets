@@ -38,3 +38,5 @@ implicate the _Compensation_ arguments deeply embedded in T&GR (have at least 3 
 for material amounts (let;s go aheafd and frame out hte $10 thing in the context of stripe as a replicate to substack): https://discord.com/channels/761985725453303838/761985725453303841/1291833577239216229
 ^ THIS IMPLICATES AND REQUIRES FINISHED TAR FIRST IN RE SCAPEGHOST
 fuck this wont happen on time
+
+also re the unkept promise thing from stellar protocol 1558 should implicate  https://x.com/JFWooten4/status/1826734250001088619
