@@ -5,7 +5,7 @@ dialog: https://lemmy.whynotdrs.org/post/TBD & https://discord.com/channels/1102
 ```
 
 last tiem ill do the [joint publication](https://github.com/JFWooten4/free-markets/commit/a4f28578a93ac29b01259dd84c9b1ce22d6d67e5) thing like this
-
+start of labor implications ; - there's [work](https://www.blocktransfer.com/blog/post/private-placement-startup-fundraising) and [amrketing](https://drive.blocktransfer.com/external/86c6601a688d1a04bb58a9694ae7ebc849820f71c18d39d48b6e1971147590dc) [your](https://drive.blocktransfer.com/external/e6d3aea8f0c7b4524ad217da3601e4412729ea6899804d053ffb2911e4f5666d) [work](https://drive.blocktransfer.com/external/7111b901ac531118f9675525baaed7523243b1ac38ddfa03e4bb023dc7315aa8) - which are completely different thigns; can we let peers value? what if ytou could just do it without [asking someone permission](https://github.com/stellar/stellar-docs/issues/797#issuecomment-2256315945) if you really think it'd make an impact?
 
 ## last whyntors lemmy post
 
