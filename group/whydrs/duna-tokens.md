@@ -15,3 +15,8 @@ lightly implicate this section, prob a sentence or two at most[^fnm]
 [^fnm]: WITH THIS FOOTNOTE: _See, e.g., [note XYZ](https://wooten.link/edgar), something idk (TAR commit href?), and [note ABC](https://wooten.link/occ). cont framing in the scrope of regulatory context 
 
 very light seo implications, something on a better search engine more [aligned](https://www.reddit.com/r/technology/comments/1cywm12/google_is_paying_reddit_60_million_for_fucksmith/) iwht communtiy?
+
+## Voting / locking mech
+
+Expand the prior discussions, ideally href the actual DAO meetings so let's certianly get that set up prior
+https://www.coingecko.com/learn/vetokens-and-vetokenomics
