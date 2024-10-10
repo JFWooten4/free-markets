@@ -30,3 +30,5 @@ Learn the xdr 😔
 _See_ `2d32c9f6ea1baf2bf3fbe051346a42d8d1917c911aa4f4c171915cb0eebf910a` physical notes
 
 https://discord.com/channels/761985725453303838/761985725453303841/1292007869851631700 as requisite need to moderate whats happening from the [frontend](https://wooten.link/uniswap) and inherit brokering responsabilities, which are untennable with web3 (but phrase it more diplomatically)
+
+really riff on the compounding fees per [merk](_supra_ note 11) in re [sentiments](https://discord.com/channels/761985725453303838/761985725453303841/1293804844196565002) across thread on alts "Easy Routes"
