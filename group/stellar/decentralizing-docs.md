@@ -57,6 +57,8 @@ Here are some places reffering to CAPs as formal specifications
 - [Sec. 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504)[^symb]
 - https://github.com/stellar/stellar-protocol/pull/1516
 
+_see also_ [various sources](https://github.com/JFWooten4/free-markets/issues/11)
+
 ## change scopes
 
 I should talk a little on how some CAPs don't present all the XDR changes
@@ -73,3 +75,4 @@ Learn the xdr 😔
 https://discord.com/channels/761985725453303838/761985725453303841/1292007869851631700 as requisite need to moderate whats happening from the [frontend](https://wooten.link/uniswap) and inherit brokering responsabilities, which are untennable with web3 (but phrase it more diplomatically)
 
 really riff on the compounding fees per [merk](_supra_ note 11) in re [sentiments](https://discord.com/channels/761985725453303838/761985725453303841/1293804844196565002) across thread on alts "Easy Routes"
+
