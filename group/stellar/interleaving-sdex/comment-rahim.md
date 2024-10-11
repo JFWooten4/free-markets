@@ -18,6 +18,9 @@ in re smart swap and such for the elabroation on protprietarity, incorpoatate "w
 [^fragmentation2]: [Base asset differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269)
 [^fragmentation3]: Synch the argument with the material difficulty of [reconciling segmented assets](https://github.com/user-attachments/files/17347723/inften__20200407094352_82382.pdf)
 
+the data implciatiosn originally references at wooten.link/amzn in src § 2.3
+https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whistleblower-eric-hunsader-750000/
+
 ## Confidence
 
 re the reputation game
