@@ -1,6 +1,6 @@
 ```
 status: Draft
-submit: 11 Oct 2024
+submit: 13 Oct 2024
 dialog: https://github.com/stellar/stellar-docs/pull/723
 ```
 
@@ -30,10 +30,17 @@ Indeed, most of the challenges in this particular example come from an unfinishe
 
 That's why I really appreciate your impromptu review...
 
+## Efficiency for The Poor
 
+Low net worth is a temporary status, and I'm obsessed with how we might empower masses of people to change that state via Stellar. Yesterday I was looking to schedule some flights back home/to family for holidays&mdash;[Thanksgiving](https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf#page=11) in particualr. I needed to confirm some times iwth my partner and such, so I waited till this morning to buy the tickets since she was at work. 
 
+But when I went back to secure my flight, the price for one leg increased by 80% just this morning. Comparatively, avaiation [used to be](https://lnns.co/o1pmTaZBF2_) regulated down to a specific cost per mile, so as to promote equal access opportunities.[^air] Without an efficeint American rail system, I'll indeed be at the whims of the oiligopoilies of how much of my rent savings go towards this particular trip, albeit at my fault partially for not confirming some family event dates earlier.
 
+Thankfully, Stellar seems to fall on the more considerate side of this scale. INdeed, it's the dramatic [efficiency](https://sorobandomains.org/docs/limits_and_fees) baked into [native operations](https://github.com/stellar/stellar-protocol/discussions/1504) which so effortlessly empow the masses to employ the financial system, not the other way around via a [select few middlemen](https://github.com/stellar/stellar-protocol/discussions/1558).[^wallst] 
 
+[^wallst]: _See also generally_ discussions on the quandaries of central intermediaries in [Stellar Stackexchange](), [BitcoinTalk forum](jed_mtgox_link_future_btc), and Stellar Protocol](). # others should be community member srcs, notcoredev
+
+[^air]: Compare mandated approval for airline routes upon the contingency that they [accepted less popular destination](HREF_THE_"DRAFT"_POOL) with the present shareholder-extraction modile which [prioritizes profits](https://news.aa.com/news/news-details/2024/American-Airlines-reports-second-quarter-2024-financial-results-CORP-FI-07/) so much that htey [extort cities for service](HREF_CAYANNE_WY_GARUNTEES_MINIMUM_REV_BRIBE_CITY_GOV_SITE).
 
 
 
