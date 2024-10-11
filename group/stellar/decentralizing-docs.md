@@ -6,6 +6,12 @@ dialog: https://github.com/stellar/stellar-docs/pull/723
 
 Hi @silence48, thank you for the thoughtful review of that last js example draft! It's been an inspiring week per some stellar feedback from regulators and community developments. Working on those likely till Sunday, and I'll be back to respond to the specifics early next week. 🤝📅
 
+As I'm writing this, I see someone out my window mowing yards on a riding lawn mower which must cost at least $5,000. Indeed, this professional works only to mow lawns and offer other such yardwork in the area. It's this longstanding specialization that enables expottential social progress, progress which can [too easily](https://teapowered.dev/posts/demoralization-capitalism/) be haulted by monopolization.
+
+It's in this context that I ask if we might further advocacte for specialized open-source work? Namely, it's [our understanding](https://github.com/orgs/WhyDRS/discussions/1) that true sustainability for community members like yourself to just [do stellar work](https://tyler.yak.farm/personal-ZS5pWDdaYXZHeHVqUEZ3aGpPWmNRczl1bEhrYnZpejNJMm15cnQ1a3l1eXMxTjlLY05qYQ/how-to-make-more-money-c3dGbU81RVBPQVprT1BHU2FUY2xI) and receive fair compensation. It's in this context that I'd appreciate the opportunity to share some thoughts on decentralizing our documentation, the very tool which widely introduced me to Stellar in the first place.[^cb]
+
+[^cb]: After watching the inagural [Lumenaut videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-) through Coinbase Earn in 2017, making [some trades](https://wooten.link/scam), and reading the [whitepaper](https://whitepaper.io/document/2/stellar-whitepaper).
+
 # Background
 
 Your brief review points bring up some material background which seem relevant in the context of this PR and other discussions or issues previously referencing it. Accordingly, might I sharte my overarching throughts about the specific items you brought up? 💬 SNamely, I am not and do not consider myself to be a coder. 
