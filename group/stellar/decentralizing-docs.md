@@ -30,7 +30,7 @@ Indeed, most of the challenges in this particular example come from an unfinishe
 
 That's why I really appreciate your impromptu review...
 
-## Efficiency for The Poor
+## Efficiency for the Impoverished
 
 Low net worth is a temporary status, and I'm obsessed with how we might empower masses of people to change that state via Stellar. Yesterday I was looking to schedule some flights back home/to family for holidays&mdash;[Thanksgiving](https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf#page=11) in particualr. I needed to confirm some times iwth my partner and such, so I waited till this morning to buy the tickets since she was at work. 
 
@@ -44,6 +44,9 @@ Thankfully, Stellar seems to fall on the more considerate side of this scale. IN
 
 
 
+## Developing NAtions somthign
+
+As someone that didn't attend Merridian [due to cost](https://discord.com/channels/761985725453303838/1275450859404267612/1282436597715042307), xyz usarfhguid
 
 
 Comments in re formalizing policies for regulatory review through transparent protocol amendments.
