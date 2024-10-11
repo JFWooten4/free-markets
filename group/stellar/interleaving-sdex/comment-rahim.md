@@ -15,7 +15,7 @@ in re smart swap and such for the elabroation on protprietarity, incorpoatate "w
 [^lolpcs]: [instanet_history_comic.pdf](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf)
 
 [^fragmentation1]: [quandaries_of_fragmentation.pdf](https://github.com/user-attachments/files/17347675/quandaries_of_fragmentation.pdf)
-
+[^fragmentation2]: [Base asset differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269)
 
 ## Confidence
 
