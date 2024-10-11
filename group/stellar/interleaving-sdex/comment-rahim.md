@@ -32,7 +32,7 @@ _See, e.g. supra_ note 22, [demo execution RAM](), and _supra_ note 23.
 
 
 
-Implicate very deeply in re `2d32c9f6ea1baf2bf3fbe051346a42d8d1917c911aa4f4c171915cb0eebf910a`:
+Implicate very deeply https://www.youtube.com/watch?v=QafkIh2nvY0&list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9
 https://x.com/JFWooten4/status/1815083374744334340
 
 again, discuss the custody implications and href to the not you keys part and such in the nicehash arguments first introdiuced per https://discord.com/channels/761985725453303838/761985725453303841/1293775764830814350
