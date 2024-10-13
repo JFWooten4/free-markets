@@ -36,12 +36,27 @@ Low net worth is a temporary status, and I'm obsessed with how we might empower 
 
 But when I went back to secure my flight, the price for one leg increased by 80% just this morning. Comparatively, avaiation [used to be](https://lnns.co/o1pmTaZBF2_) regulated down to a specific cost per mile, so as to promote equal access opportunities.[^air] Without an efficeint American rail system, I'll indeed be at the whims of the oiligopoilies of how much of my rent savings go towards this particular trip, albeit at my fault partially for not confirming some family event dates earlier.
 
-Thankfully, Stellar seems to fall on the more considerate side of this scale. INdeed, it's the dramatic [efficiency](https://sorobandomains.org/docs/limits_and_fees) baked into [native operations](https://github.com/stellar/stellar-protocol/discussions/1504) which so effortlessly empow the masses to employ the financial system, not the other way around via a [select few middlemen](https://github.com/stellar/stellar-protocol/discussions/1558).[^wallst] 
+Thankfully, Stellar seems to fall on the more considerate side of this scale. INdeed, it's the dramatic [efficiency](https://sorobandomains.org/docs/limits_and_fees) baked into [native operations](https://github.com/stellar/stellar-protocol/discussions/1504) which so effortlessly empow the masses to employ the financial system, not the other way around via a [select few middlemen](https://github.com/stellar/stellar-protocol/discussions/1558).[^wallst] I find this particularly inspirational given the precedent of blockchain rent-extrctors copying [major innovations](https://github.com/Uniswap/v2-core) for the sake of short-term profits at the expense of long-term sustainability.
 
 [^wallst]: _See also generally_ discussions on the quandaries of central intermediaries in [Stellar Stackexchange](), [BitcoinTalk forum](jed_mtgox_link_future_btc), and Stellar Protocol](). # others should be community member srcs, notcoredev
 
 [^air]: Compare mandated approval for airline routes upon the contingency that they [accepted less popular destination](HREF_THE_"DRAFT"_POOL) with the present shareholder-extraction modile which [prioritizes profits](https://news.aa.com/news/news-details/2024/American-Airlines-reports-second-quarter-2024-financial-results-CORP-FI-07/) so much that htey [extort cities for service](HREF_CAYANNE_WY_GARUNTEES_MINIMUM_REV_BRIBE_CITY_GOV_SITE).
 
+## Shared, Nonproprietary Market Upgrades
+
+I wholeheartedyl belive that only together do we stand a chance at freeing our market's from Wall Street's tight oiligopic grasp. And if we elect to act in unison, it seems like we might just give investors the saving grace htey didn't knwo they needed. Might we act collectvieyl amist this great [turning point](MUST_ACT_NOW_HREF_PER_COMMUINITY) so that the next great financial system doesn't face the [quadnaries of todays](https://github.com/stellar/stellar-docs/issues/1013)?
+
+Indeed, if we are all sincerely "driven by technology that helps people to [truly own what is theirs](https://youtu.be/5wUhyR94rho)," then it seems natural that the network's documentation itself ought live at the whim of [the community](https://discord.gg/stellardev). Do you find this perspective particularly material, given:
+
+> 99% of regular people don’t know that they don’t own a piece of all the companies they’re paying for.
+> 
+> First they have to understand that, then they have to decide if they prefer convenience or ownership.
+> 
+> &mdash; [6days1week](https://x.com/6days1week)
+
+## Ownership for All
+
+As inspired by our community an deeply evidend inthe Netowrk's design, might we continue advocating for the foundational promise of usable self-custody? It's my view that this mission starts at the core of our open-source advocacy, advnacements, and accessability. Namely, it's only when changes are [clicks away](SICLENCE_HREF_SMALL_TYPO_FIX_JS_SDK) that the dispersead, imrpoverished, and devellpoing citizens spread across this vast wrold might coherently collaborate towards our grander mission. [TOCKET]
 
 
 ## Developing NAtions somthign
