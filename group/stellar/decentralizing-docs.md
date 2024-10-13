@@ -54,6 +54,9 @@ Comments in re formalizing policies for regulatory review through transparent pr
 
 ## context
 
+community input into original thoughts regarding overall scope
+https://chatgpt.com/share/670bd0da-d364-8010-8754-ae5035b50a37
+
 Here are some places reffering to CAPs as formal specifications
 
 - https://github.com/stellar/stellar-docs/issues/864
