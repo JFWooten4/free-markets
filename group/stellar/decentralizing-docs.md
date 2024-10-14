@@ -44,7 +44,7 @@ Thankfully, Stellar seems to fall on the more considerate side of this scale. IN
 
 ## Shared, Nonproprietary Market Upgrades
 
-I wholeheartedyl belive that only together do we stand a chance at freeing our market's from Wall Street's tight oiligopic grasp. And if we elect to act in unison, it seems like we might just give investors the saving grace htey didn't knwo they needed. Might we act collectvieyl amist this great [turning point](MUST_ACT_NOW_HREF_PER_COMMUINITY) so that the next great financial system doesn't face the [quadnaries of todays](https://github.com/stellar/stellar-docs/issues/1013)?
+I wholeheartedyl belive that only together do we stand a chance at freeing our market's from Wall Street's tight oiligopic grasp. And if we elect to act in unison, it seems like we might just give investors the saving grace htey didn't knwo they needed. Might we act collectvieyl amist this great [turning point](https://github.com/user-attachments/assets/45d7d0ea-e9fe-45f4-bf2a-ae3c82c31c24) so that the next great financial system doesn't face the [quadnaries of todays](https://github.com/stellar/stellar-docs/issues/1013)?
 
 Indeed, if we are all sincerely "driven by technology that helps people to [truly own what is theirs](https://youtu.be/5wUhyR94rho)," then it seems natural that the network's documentation itself ought live at the whim of [the community](https://discord.gg/stellardev). Do you find this perspective particularly material, given:
 
