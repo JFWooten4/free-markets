@@ -60,7 +60,7 @@ As inspired by our community an deeply evidend inthe Netowrk's design, might we 
 
 Do you thjink it's possible and worthwile to engineer these free markets? Migth the crowdsourcing ethos so evidend in prtocol dfevlopment itself spread to the key responsability of widespread education through the docs themselves? 📖 This is what I think of when contemplateing your generous, unsolicited, and pertinent feedback, Silcence.
 
-[img? could be a little much](who not thou, maybe from a consensus img or deck not propogated)
+[<img src="https://github.com/user-attachments/assets/a000c103-9b40-41e6-9d5b-216a2b95027c" alt="centralized-stock-exchange-quandaries" width="640"/>](https://deoccupywallst.com)
 
 We're tackling an unprecedented common enemy with a unique ability to buy their way out of every past catastrophie. As someone that didn't attend Merridian [due to cost](https://discord.com/channels/761985725453303838/1275450859404267612/1282436597715042307), I believe so wholeheartedly that the unique XYZ employed by Stellar can sincrely replace their broker monopolies. Might we ABC?
 
