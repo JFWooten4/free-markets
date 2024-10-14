@@ -12,7 +12,7 @@ It's in this context that I ask if we might further advocacte for specialized op
 
 [^cb]: After watching the inagural [Lumenaut videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-) through Coinbase Earn in 2017, making [some trades](https://wooten.link/scam), and reading the [whitepaper](https://whitepaper.io/document/2/stellar-whitepaper).
 
-# Initial Reactions
+# 1. Initial Reactions
 
 Your brief review points bring up some material background which seem relevant in the context of this PR and other discussions or issues previously referencing it. Accordingly, might I sharte my overarching throughts about the specific items you brought up? 💬 SNamely, I am not and do not consider myself to be a coder. 
 
@@ -20,11 +20,11 @@ All of the production applications I've wetritten are in Pyhton, which is why I 
 
 Like other community embers, I am much more of a writer and strategist, outside of my true call in asset management. And I belive these educational skillsets are crucial to widespread aoption of the network. Given the sunsetting of SCF education grands `by my present understanding`, might I share some more thoughts on the documentation, governance, and progress of Stellar? 🌌
 
-# An Abundant Network Opportunity
+# 2. An Abundant Network Opportunity
 
 I think you more than anyone have seen firsthand just how creative our communiy can be given adequate resources. Particularly, it's my understanding that many projects solicit your consultation because of your active, generous, and timely support on Discord. 💜 The incredible reality of this work is that it enables specialization, a tool so crucial to efficiecnt capitlist society.[^xdr]
 
-## Fostering Directness
+## 2.1 Fostering Directness
 
 Indeed, most of the challenges in this particular example come from an [unfinished draft](https://x.com/JFWooten4/status/1780623146724290616) incorporating the AI response into the page. However, I ran out of time that night, and just 'saved' my progress with an incomplete comit, per the added line spacing seperation. 💾 In fact, I was quite struggling with the inheritence part, as that's something I've always had a tough time with in javascript.
 
@@ -32,7 +32,7 @@ I think we [buidl better](https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIF
 
 Namely, it can be challenging to comprehend the operations of some stellar production applications based on their souce code alone. Indeed, I intrinsically believe that the onyl way to end "back-room deals" is for all stakeholders to apply the "cleansing sunlight of transparency" praised by President [Barack Obama](https://sunlightfoundation.com/2013/01/22/a-decidedly-different-obama-on-transparency/). ANd in the sense of [open](https://github.com/stellar/stellar-docs/issues/864) [source](https://github.com/stellar/stellar-protocol/pull/1516) [free](https://github.com/JFWooten4/free-markets/issues/11) communities, well, that happens to be all of humanity. 🌍
 
-## Efficiency for the Impoverished
+## 2.2 Efficiency for the Impoverished
 
 Low net worth is a temporary status, and I'm obsessed with how we might empower masses of people to change that state via Stellar.[^long-term-thinking] A couple dats ago, I was looking to schedule some flights back home/to family for holidays&mdash;Thanksgiving in particualr. I needed to confirm some times iwth my partner and such, so I waited till this morning to buy the tickets since she was at work. 
 
@@ -42,9 +42,9 @@ Thankfully, our diverse, brilliant, and hardworking community seems to fall on t
 
 [^wallst]: _See also generally_ discussions on the quandaries of central intermediaries in [Stack Exchange](https://stellar.stackexchange.com/questions/2096/how-does-stellar-manage-to-cut-the-cost-of-remittances), [Bitcoin Forum](https://bitcointalk.org/index.php?topic=108782.msg1182508#msg1182508), and [Stellar Protocol](https://github.com/stellar/stellar-protocol/discussions/1528).
 
-[^air]: Compare mandated approval for airline routes upon the contingency that they [accepted less popular destination](HREF_THE_"DRAFT"_POOL) with the present shareholder-extraction modile which [prioritizes profits](https://news.aa.com/news/news-details/2024/American-Airlines-reports-second-quarter-2024-financial-results-CORP-FI-07/) so much that htey [extort cities for service](https://time.com/6247052/airlines-deregulation-american-inequality/).[^censorship]
+[^air]: _Compare_ mandated approval for airline routes upon the contingency that they [accepted less popular destination](HREF_THE_"DRAFT"_POOL) with the present shareholder-extraction modile which [prioritizes profits](https://news.aa.com/news/news-details/2024/American-Airlines-reports-second-quarter-2024-financial-results-CORP-FI-07/) so much that htey [extort cities for service](https://time.com/6247052/airlines-deregulation-american-inequality/).[^censorship]
 
-## Shared, Nonproprietary Market Upgrades
+## 2.3 Shared, Nonproprietary Market Upgrades
 
 I wholeheartedyl belive that only together do we stand a chance at freeing our market's from Wall Street's tight oiligopic grasp. And if we elect to act in unison, it seems like we might just give investors the saving grace htey didn't knwo they needed. Might we act collectvieyl amist this great [turning point](https://github.com/user-attachments/assets/45d7d0ea-e9fe-45f4-bf2a-ae3c82c31c24) so that the next great financial system doesn't face the [quadnaries of todays](https://github.com/stellar/stellar-docs/issues/1013)?
 
@@ -56,7 +56,7 @@ Indeed, if we are all sincerely "driven by technology that helps people to [trul
 > 
 > &mdash; [6days1week](https://x.com/6days1week)
 
-# Ownership for All
+# 3. Ownership for All
 
 As inspired by our community an deeply evidend inthe Netowrk's design, might we continue advocating for the foundational promise of usable self-custody? It's my view that this mission starts at the core of our open-source advocacy, advnacements, and accessability. Namely, it's only when changes are [clicks away](https://github.com/stellar/js-stellar-base/pull/605) that the dispersead, imrpoverished, and devellpoing citizens spread across this vast wrold might coherently collaborate towards our grander mission. 🚀
 
@@ -70,4 +70,4 @@ We're tackling an unprecedented common enemy with a unique ability to buy their 
 
 [^censorship]: https://discord.com/channels/761985725453303838/761985725453303841/1292007869851631700 as requisite need to moderate whats happening from the [frontend](https://wooten.link/uniswap) and inherit brokering responsabilities, which are untennable with web3 (but phrase it more diplomatically)
 
-[^long-term-thinking]: really riff on the compounding fees per [merk](_supra_ note 11) in re [sentiments](https://discord.com/channels/761985725453303838/761985725453303841/1293804844196565002) across thread on alts "Easy Routes". while the easy answer mnight asniofcdshuif;lh jdsuicif centralization implications in re buidling open source wall st but it has to explicitly not mention me in any way whatsoever. let's do raw text here only and implkicate extensivelbyl the communtiy
+[^long-term-thinking]: _See, e.g.,_ conundrums of taking shortcuts _supra_ § 2.3, as expressed on a [permissionless basis](https://discordapp.com/channels/1102309240145707049/1102309240741310503/1295050690774696017) by someone whom I do not know the real name of. lol bad sentencne ending but keep it in the depepdnent clause. end on 3sent only really riff on the compounding fees per [merk](_supra_ note 11) in re [sentiments](https://discord.com/channels/761985725453303838/761985725453303841/1293804844196565002) across thread on alts "Easy Routes". while the easy answer mnight asniofcdshuif;lh jdsuicif centralization implications in re buidling open source wall st but it has to explicitly not mention me in any way whatsoever. let's do raw text here only and implkicate extensivelbyl the communtiy
