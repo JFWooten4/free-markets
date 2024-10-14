@@ -28,10 +28,10 @@ I think you more than anyone have seen firsthand just how creative our communiy 
 
 Indeed, most of the challenges in this particular example come from an unfinished draft incorporating the AI response into the page. However, I ran out of time that night, and just 'saved' my progress with an incomplete comit, per the added line spacing seperation. 💾 In fact, I was quite struggling with the inheritence part, as that's something I've always had a tough time with in javascript.
 
+I think we [buidl better](https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIFOYuFj2jyGkaE7IQpFX)
+
+
 That's why I really appreciate your impromptu review... [prob redundant if we want to finish the fdlow on the main poinrts. otherwise insers the advocacy stuff here] ###
-
-
-
 
 I should talk a little on how some CAPs don't present all the XDR changes
 
@@ -83,22 +83,6 @@ We're tackling an unprecedented common enemy with a unique ability to buy their 
 
 [^xdr]: _See, e.g.,_ initial instinct to learn the specific [xdr](https://github.com/stellar/stellar-xdr) [implementations](https://github.com/stellar/stellar-core) affecting transparent protocol amendments when starting [these thoughts](https://github.com/JFWooten4/free-markets/commit/95a8f2ff7ff124bcfeeee08da3af20089f4894f7). This puts speicifc understanding further up on my timeline despite the business reality that I will end up down this rabbit hole regarding disucssions, defences, and diaglogue across industry. But don't you think the true division of labor fostering stellar protocol developments should and does comes from remarkable community members like you?
 
+[^censorship]: https://discord.com/channels/761985725453303838/761985725453303841/1292007869851631700 as requisite need to moderate whats happening from the [frontend](https://wooten.link/uniswap) and inherit brokering responsabilities, which are untennable with web3 (but phrase it more diplomatically)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://discord.com/channels/761985725453303838/761985725453303841/1292007869851631700 as requisite need to moderate whats happening from the [frontend](https://wooten.link/uniswap) and inherit brokering responsabilities, which are untennable with web3 (but phrase it more diplomatically)
-
-really riff on the compounding fees per [merk](_supra_ note 11) in re [sentiments](https://discord.com/channels/761985725453303838/761985725453303841/1293804844196565002) across thread on alts "Easy Routes"
-
+[^long-term-thinking]: really riff on the compounding fees per [merk](_supra_ note 11) in re [sentiments](https://discord.com/channels/761985725453303838/761985725453303841/1293804844196565002) across thread on alts "Easy Routes". while the easy answer mnight asniofcdshuif;lh jdsuicif centralization implications in re buidling open source wall st but it has to explicitly not mention me in any way whatsoever. let's do raw text here only and implkicate extensivelbyl the communtiy
