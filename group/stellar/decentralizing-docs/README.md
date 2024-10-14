@@ -30,6 +30,23 @@ Indeed, most of the challenges in this particular example come from an unfinishe
 
 That's why I really appreciate your impromptu review... [prob redundant if we want to finish the fdlow on the main poinrts. otherwise insers the advocacy stuff here] ###
 
+
+
+
+I should talk a little on how some CAPs don't present all the XDR changes
+
+Here are some places reffering to CAPs as formal specifications
+
+- https://github.com/stellar/stellar-docs/issues/864
+- [Sec. 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504)[^symb]
+- https://github.com/stellar/stellar-protocol/pull/1516
+
+_see also_ [various sources](https://github.com/JFWooten4/free-markets/issues/11)
+
+
+
+
+
 ## Efficiency for the Impoverished
 
 Low net worth is a temporary status, and I'm obsessed with how we might empower masses of people to change that state via Stellar. Yesterday I was looking to schedule some flights back home/to family for holidays&mdash;[Thanksgiving](https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf#page=11) in particualr. I needed to confirm some times iwth my partner and such, so I waited till this morning to buy the tickets since she was at work. 
@@ -54,7 +71,7 @@ Indeed, if we are all sincerely "driven by technology that helps people to [trul
 > 
 > &mdash; [6days1week](https://x.com/6days1week)
 
-## Ownership for All
+# Ownership for All
 
 As inspired by our community an deeply evidend inthe Netowrk's design, might we continue advocating for the foundational promise of usable self-custody? It's my view that this mission starts at the core of our open-source advocacy, advnacements, and accessability. Namely, it's only when changes are [clicks away](https://github.com/stellar/js-stellar-base/pull/605) that the dispersead, imrpoverished, and devellpoing citizens spread across this vast wrold might coherently collaborate towards our grander mission. 🚀
 
@@ -64,25 +81,21 @@ Do you thjink it's possible and worthwile to engineer these free markets? Migth 
 
 We're tackling an unprecedented common enemy with a unique ability to buy their way out of every past catastrophie. As someone that didn't attend Merridian [due to cost](https://discord.com/channels/761985725453303838/1275450859404267612/1282436597715042307), I believe so wholeheartedly that the unique XYZ employed by Stellar can sincrely replace their broker monopolies. Might we ABC?
 
-
-Comments in re formalizing policies for regulatory review through transparent protocol amendments.
-
-
-I should talk a little on how some CAPs don't present all the XDR changes
-
-Here are some places reffering to CAPs as formal specifications
-
-- https://github.com/stellar/stellar-docs/issues/864
-- [Sec. 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504)[^symb]
-- https://github.com/stellar/stellar-protocol/pull/1516
-
-_see also_ [various sources](https://github.com/JFWooten4/free-markets/issues/11)
+[^xdr]: _See, e.g.,_ initial instinct to learn the specific [xdr](https://github.com/stellar/stellar-xdr) [implementations](https://github.com/stellar/stellar-core) affecting transparent protocol amendments when starting [these thoughts](https://github.com/JFWooten4/free-markets/commit/95a8f2ff7ff124bcfeeee08da3af20089f4894f7). This puts speicifc understanding further up on my timeline despite the business reality that I will end up down this rabbit hole regarding disucssions, defences, and diaglogue across industry. But don't you think the true division of labor fostering stellar protocol developments should and does comes from remarkable community members like you?
 
 
 
-[^xdr]: _See, e.g.,_ initial instinct to learn the specific [xdr](https://github.com/stellar/stellar-xdr) [implementations](https://github.com/stellar/stellar-core) relations re starting [these thoughts](https://github.com/JFWooten4/free-markets/commit/95a8f2ff7ff124bcfeeee08da3af20089f4894f7). This puts speicifc understanding further up on my timeline despite the business reality that I will end up down this rabbit hole regarding disucssions, defences, and (industry and Congressional) diaglogue. But don't you think the true division of labor fostering stellar protocol developments should and does comes from remarkable community members like you?
 
-## censorship implications allowbale inherently my unp[ermissionless upgradable contracts
+
+
+
+
+
+
+
+
+
+
 
 
 https://discord.com/channels/761985725453303838/761985725453303841/1292007869851631700 as requisite need to moderate whats happening from the [frontend](https://wooten.link/uniswap) and inherit brokering responsabilities, which are untennable with web3 (but phrase it more diplomatically)
