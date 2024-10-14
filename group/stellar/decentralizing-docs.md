@@ -28,7 +28,7 @@ I think you more than anyone have seen firsthand just how creative our communiy 
 
 Indeed, most of the challenges in this particular example come from an unfinished draft incorporating the AI response into the page. However, I ran out of time that night, and just 'saved' my progress with an incomplete comit, per the added line spacing seperation. 💾 In fact, I was quite struggling with the inheritence part, as that's something I've always had a tough time with in javascript.
 
-That's why I really appreciate your impromptu review...
+That's why I really appreciate your impromptu review... [prob redundant if we want to finish the fdlow on the main poinrts. otherwise insers the advocacy stuff here] ###
 
 ## Efficiency for the Impoverished
 
@@ -38,9 +38,9 @@ But when I went back to secure my flight, the price for one leg increased by 80%
 
 Thankfully, Stellar seems to fall on the more considerate side of this scale. INdeed, it's the dramatic [efficiency](https://sorobandomains.org/docs/limits_and_fees) baked into [native operations](https://github.com/stellar/stellar-protocol/discussions/1504) which so effortlessly empow the masses to employ the financial system, not the other way around via a [select few middlemen](https://github.com/stellar/stellar-protocol/discussions/1558).[^wallst] I find this particularly inspirational given the precedent of blockchain rent-extrctors copying [major innovations](https://github.com/Uniswap/v2-core) for the sake of short-term profits at the expense of long-term sustainability.
 
-[^wallst]: _See also generally_ discussions on the quandaries of central intermediaries in [Stellar Stackexchange](), [BitcoinTalk forum](jed_mtgox_link_future_btc), and Stellar Protocol](). # others should be community member srcs, notcoredev
+[^wallst]: _See also generally_ discussions on the quandaries of central intermediaries in [Stack Exchange](https://stellar.stackexchange.com/questions/2096/how-does-stellar-manage-to-cut-the-cost-of-remittances), [Bitcoin Forum](https://bitcointalk.org/index.php?topic=108782.msg1182508#msg1182508), and [Stellar Protocol](https://github.com/stellar/stellar-protocol/discussions/1528).
 
-[^air]: Compare mandated approval for airline routes upon the contingency that they [accepted less popular destination](HREF_THE_"DRAFT"_POOL) with the present shareholder-extraction modile which [prioritizes profits](https://news.aa.com/news/news-details/2024/American-Airlines-reports-second-quarter-2024-financial-results-CORP-FI-07/) so much that htey [extort cities for service](HREF_CAYANNE_WY_GARUNTEES_MINIMUM_REV_BRIBE_CITY_GOV_SITE).
+[^air]: Compare mandated approval for airline routes upon the contingency that they [accepted less popular destination](HREF_THE_"DRAFT"_POOL) with the present shareholder-extraction modile which [prioritizes profits](https://news.aa.com/news/news-details/2024/American-Airlines-reports-second-quarter-2024-financial-results-CORP-FI-07/) so much that htey [extort cities for service](https://time.com/6247052/airlines-deregulation-american-inequality/).
 
 ## Shared, Nonproprietary Market Upgrades
 
@@ -56,7 +56,12 @@ Indeed, if we are all sincerely "driven by technology that helps people to [trul
 
 ## Ownership for All
 
-As inspired by our community an deeply evidend inthe Netowrk's design, might we continue advocating for the foundational promise of usable self-custody? It's my view that this mission starts at the core of our open-source advocacy, advnacements, and accessability. Namely, it's only when changes are [clicks away](SICLENCE_HREF_SMALL_TYPO_FIX_JS_SDK) that the dispersead, imrpoverished, and devellpoing citizens spread across this vast wrold might coherently collaborate towards our grander mission. [TOCKET]
+As inspired by our community an deeply evidend inthe Netowrk's design, might we continue advocating for the foundational promise of usable self-custody? It's my view that this mission starts at the core of our open-source advocacy, advnacements, and accessability. Namely, it's only when changes are [clicks away](https://github.com/stellar/js-stellar-base/pull/605) that the dispersead, imrpoverished, and devellpoing citizens spread across this vast wrold might coherently collaborate towards our grander mission. 🚀
+
+Do you thjink it's possible and worthwile to engineer these free markets? Migth the crowdsourcing ethos so evidend in prtocol dfevlopment itself spread to the key responsability of widespread education through the docs themselves? 📖 This is what I think of when contemplateing your generous, unsolicited, and pertinent feedback, Silcence.
+
+[img? could be a little much](who not thou, maybe from a consensus img or deck not propogated)
+
 
 
 ## Developing NAtions somthign
