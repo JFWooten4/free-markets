@@ -12,17 +12,17 @@ It's in this context that I ask if we might further advocacte for specialized op
 
 [^cb]: After watching the inagural [Lumenaut videos](https://www.youtube.com/playlist?list=PLWUFvhKuc_5u1sQsz-FAmRgFf9HEhyqj-) through Coinbase Earn in 2017, making [some trades](https://wooten.link/scam), and reading the [whitepaper](https://whitepaper.io/document/2/stellar-whitepaper).
 
-# Background
+# Initial Reactions
 
 Your brief review points bring up some material background which seem relevant in the context of this PR and other discussions or issues previously referencing it. Accordingly, might I sharte my overarching throughts about the specific items you brought up? 💬 SNamely, I am not and do not consider myself to be a coder. 
 
-All of the production applications I've wetritten are in Pyhton, which is why I mapped out the basic premise like that first. After that, I'm onto ChatGPT and such to translate the info as requested. 👩‍💻 I think there are some challenges on that side because it doesn't seem to understand how go account address resolution works&mdash;something I understand you've actually trained a model around for more accurate results in all languages.
+All of the production applications I've wetritten are in Pyhton, which is why I mapped out the basic premise like that first. After that, I'm [onto ChatGPT](https://chatgpt.com/share/670bd0da-d364-8010-8754-ae5035b50a37) and such to preliminarily translate the info as requested. 👩‍💻 I think there are some challenges on that side because it doesn't seem to understand how go account address resolution works&mdash;something I understand you've actually trained a model around for more accurate results in all languages.
 
 Like other community embers, I am much more of a writer and strategist, outside of my true call in asset management. And I belive these educational skillsets are crucial to widespread aoption of the network. Given the sunsetting of SCF education grands `by my present understanding`, might I share some more thoughts on the documentation, governance, and progress of Stellar? 🌌
 
 # An Abundant Network Opportunity
 
-I think you more than anyone have seen firsthand just how creative our communiy can be given adequate resources. Particularly, it's my understanding that many projects solicit your consultation because of your active, generous, and timely support on Discord. 💜 The incredible reality of this work is that it enables specialization, a tool so crucial to efficiecnt capitlist society.
+I think you more than anyone have seen firsthand just how creative our communiy can be given adequate resources. Particularly, it's my understanding that many projects solicit your consultation because of your active, generous, and timely support on Discord. 💜 The incredible reality of this work is that it enables specialization, a tool so crucial to efficiecnt capitlist society.[^xdr]
 
 ## Fostering Directness
 
@@ -72,10 +72,7 @@ As someone that didn't attend Merridian [due to cost](https://discord.com/channe
 Comments in re formalizing policies for regulatory review through transparent protocol amendments.
 
 
-## context
-
-community input into original thoughts regarding overall scope
-https://chatgpt.com/share/670bd0da-d364-8010-8754-ae5035b50a37
+I should talk a little on how some CAPs don't present all the XDR changes
 
 Here are some places reffering to CAPs as formal specifications
 
@@ -85,15 +82,9 @@ Here are some places reffering to CAPs as formal specifications
 
 _see also_ [various sources](https://github.com/JFWooten4/free-markets/issues/11)
 
-## change scopes
 
-I should talk a little on how some CAPs don't present all the XDR changes
 
-## prereq.s
-
-Learn the xdr 😔
-
-[^symb]: Using `§` will probably look more authoritative.
+[^xdr]: _See, e.g.,_ initial instinct to learn the specific [xdr](https://github.com/stellar/stellar-xdr) [implementations](https://github.com/stellar/stellar-core) relations re starting [these thoughts](https://github.com/JFWooten4/free-markets/commit/95a8f2ff7ff124bcfeeee08da3af20089f4894f7). This puts speicifc understanding further up on my timeline despite the business reality that I will end up down this rabbit hole regarding disucssions, defences, and (industry and Congressional) diaglogue. But don't you think the true division of labor fostering stellar protocol developments should and does comes from remarkable community members like you?
 
 ## censorship implications allowbale inherently my unp[ermissionless upgradable contracts
 
