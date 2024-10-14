@@ -28,24 +28,9 @@ I think you more than anyone have seen firsthand just how creative our communiy 
 
 Indeed, most of the challenges in this particular example come from an unfinished draft incorporating the AI response into the page. However, I ran out of time that night, and just 'saved' my progress with an incomplete comit, per the added line spacing seperation. 💾 In fact, I was quite struggling with the inheritence part, as that's something I've always had a tough time with in javascript.
 
-I think we [buidl better](https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIFOYuFj2jyGkaE7IQpFX)
+I think we [buidl better](https://www.youtube.com/playlist?list=PL9SrRYIjnam2aIFOYuFj2jyGkaE7IQpFX) when everyone can learn, reference, and iterate on prior research. There doesn't seem, to be any reason in my mind that composability ought dissapear when we enter the relm of decision making, as is so often the case in mammouth policy releases from a select few middlemen. If we agree that anyone anywhere ought be able to develop their problem-solving skills, might we develop a collective strategy to make our choices more open to public review? 👁️
 
-
-That's why I really appreciate your impromptu review... [prob redundant if we want to finish the fdlow on the main poinrts. otherwise insers the advocacy stuff here] ###
-
-I should talk a little on how some CAPs don't present all the XDR changes
-
-Here are some places reffering to CAPs as formal specifications
-
-- https://github.com/stellar/stellar-docs/issues/864
-- [Sec. 2.1.1](https://github.com/stellar/stellar-protocol/discussions/1504)[^symb]
-- https://github.com/stellar/stellar-protocol/pull/1516
-
-_see also_ [various sources](https://github.com/JFWooten4/free-markets/issues/11)
-
-
-
-
+Namely, it can be challenging to comprehend the operations of some stellar production applications based on their souce code alone. Indeed, I intrinsically believe that the onyl way to end "back-room deals" is for all stakeholders to . ANd in the sense of [open](https://github.com/stellar/stellar-docs/issues/864) [source](https://github.com/stellar/stellar-protocol/pull/1516) [free](https://github.com/JFWooten4/free-markets/issues/11) XYZ, well that happens to be all of humanity. 🌍
 
 ## Efficiency for the Impoverished
 
