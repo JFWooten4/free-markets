@@ -62,11 +62,7 @@ Do you thjink it's possible and worthwile to engineer these free markets? Migth 
 
 [img? could be a little much](who not thou, maybe from a consensus img or deck not propogated)
 
-
-
-## Developing NAtions somthign
-
-As someone that didn't attend Merridian [due to cost](https://discord.com/channels/761985725453303838/1275450859404267612/1282436597715042307), xyz usarfhguid
+We're tackling an unprecedented common enemy with a unique ability to buy their way out of every past catastrophie. As someone that didn't attend Merridian [due to cost](https://discord.com/channels/761985725453303838/1275450859404267612/1282436597715042307), I believe so wholeheartedly that the unique XYZ employed by Stellar can sincrely replace their broker monopolies. Might we ABC?
 
 
 Comments in re formalizing policies for regulatory review through transparent protocol amendments.
