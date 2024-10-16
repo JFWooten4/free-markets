@@ -25,6 +25,12 @@ https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whis
 
 re the reputation game
 
+---
+
+the problem is their revenue, popoularity, and indeed sustainability comes from attracting ever-increasing trading volumes, which presents a [direct conflict of interest](https://youtu.be/YUwqzeaR1lA?t=63) with the [investing public](https://www.reddit.com/r/Bogleheads/comments/ug32km/can_someone_explain_to_me_what_revenue_from/?rdt=55563)[^investing-public]
+
+[^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 per GUH and the kid that killed himself
+
 ## Our Opportunity
 
 - https://x.com/JFWooten4/status/1842296919160144159
