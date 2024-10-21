@@ -4,6 +4,8 @@ submit: TBD, after validators spun up, given SEC approval/noreply T+60
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
+first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
+
 it's not performant if you're doing like 4 txns to min/max the system
 
 Reply with data (src here orignally prob) from running validator, tracking Soroban liquidity-related txn execution time v. paralell interleaved best execution/
