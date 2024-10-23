@@ -4,4 +4,4 @@ _See, e.g._ restrictions on banking services, brokerage services, and "lottery" 
 
 obvs introduce the mcdonalds (1yr_ limelight horizon argument
 
-[^r]: _See, e.g._ "Romeo and Juliet" laws, underage/child labor exploitation, and poisoning yourself with horsepiss.
+[^r]: _See, e.g._ "Romeo and Juliet" laws, underage/child labor exploitation, and poisoning yourself with [piss](https://www.youtube.com/watch?v=UCekG0O21wQ).
