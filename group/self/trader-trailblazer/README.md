@@ -59,7 +59,7 @@ What do you think? 🤔 I'd appreciate any and all perspectives in the comments.
 
 ## Learn More 📚
 
-- [_Nine to Noon_](https://ninetonoonsecrets.com/free-book) - Your Handbook to Trading and Investing - Buy Now
+- [_Nine to Noon_](https://ninetonoonsecrets.com/free-book) - Your Handbook to Trading and Investing - Read Now
 - [_Stock Market Secrets_](https://stockmarketsecretsexposed.com/) - Investing Masterclass for Novices - Watch Now
 - [_Dark Pool Secrets_](https://www.darkpoolsecrets.com/) - Exposing and Profiting from Insiders - Buy Now
 - [_DPS Training_](https://www.youtube.com/playlist?list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9) - Demystifying the Stellar Trading Strategies - Watch Now
