@@ -1,7 +1,7 @@
 ```
 status: Published
 submit: 4 Dec 2023
-dialog: https://www.linkedin.com/pulse/from-trader-trailblazer-web3-stock-investments-sec-review-john-wooten-zvxbc/
+dialog: https://www.linkedin.com/pulse/from-trader-trailblazer-web3-stock-investments-sec-review-john-wooten-zvxbc
 ```
 
 ![mockup-cover-image](https://media.licdn.com/dms/image/v2/D5612AQHYcmKsbulF8A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1701678921280?e=1732752000&v=beta&t=9HrkOOEC3eUYWNP4Vc-aBJtLXqo3oUmgJp8LtRXiy4o)
