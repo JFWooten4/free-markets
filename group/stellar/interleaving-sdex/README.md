@@ -172,7 +172,7 @@ I respectfully submit to the community that interleaving the SDEX with AMMs furt
 
 [^values-2]: Interleaving has been [vocally spearheaded](https://stellar.expert/blog/stellar-amms-at-crossroads-between-triumph-and-disaster) even before the present masses of circular path payments. We want users to have the most financial success, and this might be challenging without [natural understanding](https://discord.com/channels/897514728459468821/907476473739354153/1278056912742518866). Let's do it together through a common exceptional protocol process! 💬
 
-[^values-3]: _Id._ We can give users a standardized, clear, and shared source of all execution with validator-level interleaving optimization. Wallets should not need to independently route large path payments through different routes to guess at specification optimizations. Similarly, trades with comprehensive price optimization obviate interface size arbitraging overhead.
+[^values-3]: _Id._ We can give users a standardized, clear, and shared source of all execution with validator-level interleaving optimization. Wallets should not need to independently route large path payments through different routes to guess at specification optimizations. Similarly, trades with comprehensive price optimization obviates interface size-arbitraging overhead.
 
 [^values-4]: Without an entirely automated best flow, users risk proprietary systems like the internalization that plagues traditional markets. _See also_ [internalization rate](https://wooten.link/report) at 21, [SEC investigation](https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf#page=38), and [liquidity report](https://www.whydrs.org/post/how-is-a-short-squeeze-of-gamestop-related-to-the-drs).
 
