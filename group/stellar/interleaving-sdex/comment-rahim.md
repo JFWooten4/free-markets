@@ -35,6 +35,9 @@ the problem is their revenue, popoularity, and indeed sustainability comes from 
 
 [^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 per GUH and the kid that killed himself
 
+
+S 2 should start with https://www.youtube.com/watch?v=HQZg0ZY-Amg&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t at a tiemstamp or /ED_
+
 ## Our Opportunity
 
 - https://x.com/JFWooten4/status/1842296919160144159
