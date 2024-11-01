@@ -4,6 +4,11 @@ submit: TBD, after validators spun up, given SEC approval/noreply T+60
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
+new native AMMs release as benefit on narrowing at https://youtu.be/FiYKWQyLAuE?&t=1118
+"with AMMs ... you're only p[aying 50 basis points. That is "[AMMs create] a 33% imporvement on your cost... When we're thinking about cross-boarder payments, I think we can envision some future state where this is... all different fiat assets that are tokenized into stablecoins. And these AMM pools are enabling cheaper and more efficient FX transactions" &mdash; Phil Meng @ a the SDF
+
+--
+
 first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
 
 it's not performant if you're doing like 4 txns to min/max the system
