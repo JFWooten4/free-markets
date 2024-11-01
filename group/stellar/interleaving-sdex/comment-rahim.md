@@ -4,10 +4,65 @@ submit: TBD, after validators spun up, given SEC approval/noreply T+60
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
+
+
+Framing efficient "data strcutures" v. fukn "markets"
+
+re Jayrome collab at https://youtu.be/KTH85egVSzw?t=388
+
+They mention a simulation of moving AQUA rewards away from the SDEX, which implicates central power over protocol liquidity in the hands of a relatively opaque and historiucallty contextual oprg
+
+## Jed
+
+originally for the dex
+
+"[it will] evolve"
+
+"needs to be replaced by [somethign]"
+
+"the basic functionality still needs to exist _within Stellar_" [emphasis added]
+
+## Tomer
+
+ooriginally comments that the order book is extremely efficient
+
+now for "replacing" the DEX
+
+says "one way" is soroban 0x/uniswap v4 protocols
+
+"another option" is "people like Garand" with SPEEDEX or SPEEDEX-like "liquidity aggregators" with parallization and concurrent trade ex
+
+long-tail unliquid assets "better off on AMMs" suggested/asserted, but not how real markets work outside of a traditional data management model
+implicate the only fkn long-tail assets whic are equities, and as such there are material introductoryh practices enshrined in law quich require pricing via explicit parties rather than an AMM
+
+mentions cusotmized stableswap pairs which again trivial addition of a bonding curve withing the pathfind (again requisistes teh xdr from prtocol-1555)
+
+as he identitfied, it takes much less assets to build liquidity through an order book for long0-taukl assets
+
+> 0x style is illegal, uncomposable zk = prorietary connections
+
+"you can't call classic order books from Soroban" so let's worry about that and fix it since contracts are trivial to implement as connecting data struct market participant (given already holding classic assets) but like researched
+it is very very much worth it to "put a lot of effort into that" and doable
+
+
+### re AQUA hack/bug fix by Rahim:
+
+"There is no certainty. At the end of the day, it doesn't matter how many audits you go through; it doesn't matter how much testing you do. Sometimes there are bugs.[^bug-20] ny bug bounties you go through.
+
+
+
+[^bug-20]: Very very very heavily implicate the community's satefty approach in re https://youtu.be/rbjFjda3_UI?t=7080. re id might we "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" [like done in re the p20 bug delay community-wide decision] which requisities framign disinterop re earely early convo from _Anuxya?_ about interaction between native/soroab n for liq (butt careful b/c now we're implicating another thing which is materially expansive, albeit related implicately)
+
+## Justin Rice
+
+"transfer it"
+
+---
+
 new native AMMs release as benefit on narrowing at https://youtu.be/FiYKWQyLAuE?&t=1118
 "with AMMs ... you're only p[aying 50 basis points. That is "[AMMs create] a 33% imporvement on your cost... When we're thinking about cross-boarder payments, I think we can envision some future state where this is... all different fiat assets that are tokenized into stablecoins. And these AMM pools are enabling cheaper and more efficient FX transactions" &mdash; Phil Meng @ a the SDF
 
---
+---
 
 first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
 
