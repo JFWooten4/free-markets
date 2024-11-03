@@ -12,6 +12,15 @@ open for upgrades, collective growth rather than single propr gatelkeeping re ht
 - https://www.youtube.com/live/aHZQfcIdmoQ?t=1067
 - https://stellar.org/blog/developers/amms-in-the-stellar-ecosystem
 
+can also imp[licate the extensive public discussion voer a network feature that is so _key to basic capitalistic tooling_ (but worded more eloquently)
+
+- https://stellar.org/blog/developers/the-principles-behind-protocol-design-amms-stellar
+- https://stellar.org/learn/swap-functionality-and-amms (is this a stable link?)
+- https://stellar.org/blog/developers/liquidity-liquidity-liquidity
+
+
+"Stellar has a near-zero-fee Decentralized Exchange built into the protocol, which allows you to trade any token pair and list your tokens without any listing fees or restrictions."
+&mdash; [Nikhil Saraf](https://stellar.org/blog/developers/kelp-why-we-built-it-the-liquidity-problem) on [kelp](https://discordapp.com/channels/761985725453303838/1292523643900919951/1301969206081753178)
 
 ---
 
