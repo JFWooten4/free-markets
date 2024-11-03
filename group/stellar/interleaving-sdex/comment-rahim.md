@@ -4,7 +4,16 @@ submit: TBD, after validators spun up, given SEC approval/noreply T+60
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
+some fnotes and context around both wooten.link/bad (subtle but materially readable, optiopnally by drastically limiting all other footnotes, inclining the _supra_ xyzDs) [can you customize the numbering to start at 30, upto 32?]
 
+open for upgrades, collective growth rather than single propr gatelkeeping re https://discordapp.com/channels/1172621167400599582/1172621168197509135/1286721830211813449
+
+- https://www.youtube.com/watch?v=wcjzKdo0xS8
+- https://www.youtube.com/live/aHZQfcIdmoQ?t=1067
+- https://stellar.org/blog/developers/amms-in-the-stellar-ecosystem
+
+
+---
 
 Framing efficient "data strcutures" v. fukn "markets"
 
