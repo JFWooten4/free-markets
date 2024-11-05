@@ -4,6 +4,22 @@ submit: TBD, after validators spun up, given SEC approval/noreply T+60
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
+relevant face:
+
+need to clarify very explicitly that this is Not Enqiue's fault (or the fxdao community_ but rather a fundamnetal flaw in the endgame of these contracts
+
+emphasize the last clause in re upgradable or not based on the underlying strucutre of the entity operating the order book itself (this can introduce the interview via https://x.com/JFWooten4/status/1853607712111624481)
+
+migrate this into the AQUA requesrds program in Lobstr,. based on a proporietary codebase you can I can't contribute to, help understna,d or even xyz (let's be carefil here iwth social implications)
+
+extrapolate to natural process or the entity ot org or community, whatever around the project as requiring some kind of reward for their "innovation"
+
+_compare_ a turly nonprofit financial systme built for its users to minimie rents in re https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746
+
+aprecite the reptatuion based "fast" benefits in _Id._ at 1-4, but emlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
+
+---
+
 some fnotes and context around both wooten.link/bad (subtle but materially readable, optiopnally by drastically limiting all other footnotes, inclining the _supra_ xyzDs) [can you customize the numbering to start at 30, upto 32?]
 
 open for upgrades, collective growth rather than single propr gatelkeeping re https://discordapp.com/channels/1172621167400599582/1172621168197509135/1286721830211813449
