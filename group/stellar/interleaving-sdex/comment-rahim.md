@@ -248,3 +248,7 @@ aksi naybe in re ^ we want to href
 - https://www.google.com/search?q=%22dencetralized+robinhood%22&oq=%22dencetralized+robinhood%22 at supra, implicating very explicitly the interview intro congratulations with coderipper and then this very obviously introduces the corporate entity argument above
 - idk this shit fuck em https://app.hyperliquid.xyz/trade as per core arguments from https://hyperliquid.gitbook.io/hyperliquid-docs (dont fuckuing cite these assholes)
 okay they're probab;ly good people, but i  mena it in the sense of it being sytemically flawed, so i should communicate that dman
+
+
+gov things
+- https://github.com/stellar/stellar-protocol/blob/master/core/cap-0044.md
