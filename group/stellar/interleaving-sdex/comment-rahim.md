@@ -4,6 +4,40 @@ submit: asap, worst case Fri is reasonable. I need to move into tar17
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
+Hi @rahimklaber,
+
+Thank you for your thoughts, both here and shared on Discord. It was inspiring to hear via DMs how you got into the network, largely for humanitarian/real-world use cases. Over the years, I've found this to be a common thread linking us together.
+
+In an effort to further these foundational principles that uniquely belowng to the network, might I quickly review my own understanding of these ethos? Chiefly, I understand that the founders wanted a decentralized payments network that was cheap, fast, and inclusive based on personal identity, not computing power. We seen uniquely adept to provide such a system given the legarthy, centralization, and gatekeeping present in other financial systems.
+
+I'm writing this as someone who just wants the most efficient technology possible under our stewardship because I've felt so keenly the vast inadequacies of legacy markets for practically my whole life. They have ripped apart my family, taken nearly every drop of opportunity I've identified right out of my hands, and pulverized my aspirations as a mainstream asset manager.[^self] There is nothing I want more than for the network to succeed, and I believe wholeheatedly that we will triumph enormously over other technologies given the proper execution of scalable, decentralized, egalitarian markets. 🫱🏻‍🫲🏿
+
+
+[^self]: This is not a reply about myself, but I just want to share my openly-disclosed "stake at the table." I have aproximately $3,000 in both my checking account and Roth IRA; everything else is in [john.xlm](https://stellar.expert/explorer/public/account/GC5TUPFLOXCINDYHQVYYLLVYP6GKHT65ELB2Q2WLFTGN63YYIXPQTDFJ). I sold the vast majority of my assets three years ago for [$30,000](WHYDRS_TRADING_HREF_T), which I've been using to build the stock market on Stellar ever sense.
+
+# 1. Extensive Recent Community Actions
+
+Since this post, quite the collective discussion has popped up on the subject. Perhaps most relevantly, you were rightly given accolades for uncover in the deadly bug.[^yays] 🎖️ The context under which this occured is materially-relevant to the rest of this discussion, so I will link it here:
+
+
+[^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3.
+<!-- this works as long as we only ref PREVs in the footnotes -->
+
+[![meridian-2024-ama](yay from Jayrom img thumnail,with playh button)](https://youtu.be/KTH85egVSzw?t=388)
+
+Also, we wouldn't have heard live about your expert white-hatting if it weren't for [Jayrome](spellcheck name throughpouit, use discord ID link to 769062410518134874`), whom kindly reached out to community members to solicit AMA questions before the event. Jayrome relentlessly contributes their time, expertise, and consideration throughout open disucussions, prudent facilitation, and [news aggregation](https://communityfund.stellar.org/project/lumen-loop). And they did an unbelievably-tremendous job asking with relevant tone-setting context from 2022, genuine tact for differing perspectives, and an open mind towards possible solutions.
+
+I believe so earnestly that these open communal disucssions are the secret instrument we can leverge to overtake entranched incumbent interests. Indeed, might the optimal solution for these network-wide quandaries come from the artful, attributable, and permissionless Discussions we've already seen lead to stellar outcomes in CAPs [51](https://github.com/stellar/stellar-protocol/discussions/1435), [53](https://github.com/stellar/stellar-protocol/discussions/1447), and [56](https://github.com/stellar/stellar-protocol/discussions/1460
+)?
+
+## 1.1 
+
+
+
+
+
+
+
 
 intor should pin as trying to delay as i was prior to get actual data, but that;s presently outside my scpoe of poeprational capabilities across organizations *href free-markets comment NUM draft start)
 this shoudl implicate htat who i am as a normal person shouldn't matter in contemplating the weight of my args since [good args (but not worded as args) can come from anyone (maybe policy)  ](href some other taking stock where chat on this)
@@ -85,7 +119,10 @@ now for "replacing" the DEX
 
 says "one way" is soroban 0x/uniswap v4 protocols
 
+
 "another option" is "people like Garand" with SPEEDEX or SPEEDEX-like "liquidity aggregators" with parallization and concurrent trade ex
+
+here r my contemplating [speedex principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) re public discussion
 
 long-tail unliquid assets "better off on AMMs" suggested/asserted, but not how real markets work outside of a traditional data management model
 implicate the only fkn long-tail assets whic are equities, and as such there are material introductoryh practices enshrined in law quich require pricing via explicit parties rather than an AMM
