@@ -1,6 +1,6 @@
 ```
 status: Draft
-submit: asap, worst case Fri is reasonable. I need to move into tar17
+submit: 14 Nov 2024
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
@@ -30,21 +30,91 @@ Also, we wouldn't have heard live about your expert white-hatting if it weren't 
 I believe so earnestly that these open communal disucssions are the secret instrument we can leverge to overtake entranched incumbent interests. Indeed, might the optimal solution for these network-wide quandaries come from the artful, attributable, and permissionless Discussions we've already seen lead to stellar outcomes in CAPs [51](https://github.com/stellar/stellar-protocol/discussions/1435), [53](https://github.com/stellar/stellar-protocol/discussions/1447), and [56](https://github.com/stellar/stellar-protocol/discussions/1460
 )?
 
-## 1.1 
+## 1.1 Previous Mobile Working Advancements
+
+Before diving into the nuances, I'd like to applaud you longstanding efforts to bridge different platforms to stellar with [a single SDK](https://github.com/rahimklaber/stellar_kt). 👏 Too often, work might not see the light of mainnet despite the material efforts behind its development. But many of our long-term challenges can be overcome seamlessly thanks to those key thoughts, incremental imporvements, and persistant bug fixes.
+
+As I've [tried to express](723_POL_COMMENT), I might not be intimately familiar with the particular nuances of JS/Native/JVM implementations and their core XDR (not Horiozn)&mdash;just yet at least. But it's clear to see that you're making [ongoing progress](https://github.com/rahimklaber/stellar_kt/issues) on what just might be the next big community project. And it's quite inspirational for me at least, to think that you're able to do all that on top of traditional work.
+
+## 1.2 as introducing communal discussion and quotes
+
+Unfortunately, much of this [thinking work](https://github.com/rahimklaber/soroban_token_dao) can get lost in the fast pace of release schedules. In the spirit of documenting [AMM design choices](HREF_PROTOOL_21_meeting?), I'll append some discussions from the [Stellar Global](https://stellarglobal.community) Discord. Namely, most of these messages stem from [shared concerns](https://discordapp.com/channels/761985725453303838/1292523643900919951/1301285580310839367) over a network participant's transparency, integrity, and liquidity governance influence.
+
+### 1.2.1 Execution Materiality
+
+> without the sdex isnt stellar just another smart contract blockchain that only resolves at 5 sec
+> like what makes it special once yo ditch the best part?
+> ...with smart contracts we have black boxes... and no way to find fair value until its too late
+> 
+> &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302004862170435674)
+
+> 
+> 
+> &mdash;[]()
+
+> 
+> 
+> &mdash;[]()
+
+### 1.2.2 Order Book Isolation
+
+> I agree we need to get rid of the AMMs and maybe just keep the orderbook
+> 
+> &mdash;[earrietadev.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302005325678907462)
+
+> 
+> 
+> &mdash;[]()
+
+> 
+> 
+> &mdash;[]()
+
+### 1.2.3
+
+> 
+> 
+> &mdash;[]()
+
+> 
+> 
+> &mdash;[]()
+
+> 
+> 
+> &mdash;[]()
 
 
 
 
 
+relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc EA
 
 
+
+
+
+## 1.3 Appreciated Thought-Provoking Perspective
+
+repl here on info
+
+praise:
+
+- https://github.com/rahimklaber/SStream
+- https://github.com/rahimklaber/stellar-accounts-as-a-service
+- https://github.com/rahimklaber/galactic-wizard as origins
+
+
+
+
+
+# 2. 
 
 intor should pin as trying to delay as i was prior to get actual data, but that;s presently outside my scpoe of poeprational capabilities across organizations *href free-markets comment NUM draft start)
 this shoudl implicate htat who i am as a normal person shouldn't matter in contemplating the weight of my args since [good args (but not worded as args) can come from anyone (maybe policy)  ](href some other taking stock where chat on this)
 
 
 
-relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc EA
 
 this should frame as a collaborative effort to explore other opetions not revelaed in my 1 v 2 hypothecation since theres so many incredibly-intelligent believers in network with genius ieas etrc decenbtralized (this implicates the points amde to Shaptic and adopted by in https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899)
 
