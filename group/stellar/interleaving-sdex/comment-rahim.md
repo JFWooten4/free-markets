@@ -1,10 +1,10 @@
 ```
 status: Draft
-submit: TBD, after validators spun up, given SEC approval/noreply T+60
+submit: asap, worst case Fri is reasonable. I need to move into tar17
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
-relevant face:
+relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc
 
 need to clarify very explicitly that this is Not Enqiue's fault (or the fxdao community_ but rather a fundamnetal flaw in the endgame of these contracts
 
