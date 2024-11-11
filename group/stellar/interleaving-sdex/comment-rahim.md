@@ -4,7 +4,24 @@ submit: asap, worst case Fri is reasonable. I need to move into tar17
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
-relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc
+
+intor should pin as trying to delay as i was prior to get actual data, but that;s presently outside my scpoe of poeprational capabilities across organizations *href free-markets comment NUM draft start)
+this shoudl implicate htat who i am as a normal person shouldn't matter in contemplating the weight of my args since [good args (but not worded as args) can come from anyone (maybe policy)  ](href some other taking stock where chat on this)
+
+
+
+relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc EA
+
+this should frame as a collaborative effort to explore other opetions not revelaed in my 1 v 2 hypothecation since theres so many incredibly-intelligent believers in network with genius ieas etrc decenbtralized (this implicates the points amde to Shaptic and adopted by in https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899)
+
+
+1.2
+
+let's commend the move away from pow
+
+
+
+
 
 need to clarify very explicitly that this is Not Enqiue's fault (or the fxdao community_ but rather a fundamnetal flaw in the endgame of these contracts
 
@@ -37,6 +54,10 @@ can also imp[licate the extensive public discussion voer a network feature that 
 
 "Stellar has a near-zero-fee Decentralized Exchange built into the protocol, which allows you to trade any token pair and list your tokens without any listing fees or restrictions."
 &mdash; [Nikhil Saraf](https://stellar.org/blog/developers/kelp-why-we-built-it-the-liquidity-problem) on [kelp](https://discordapp.com/channels/761985725453303838/1292523643900919951/1301969206081753178)
+
+---
+
+maybe laight gas arg if reelvant in any maningul fn
 
 ---
 
@@ -151,3 +172,59 @@ again, discuss the custody implications and href to the not you keys part and su
 - arbitrary limits [discussed] in re _Compare_:
   - https://discord.com/channels/761985725453303838/761985725453303841/1293804598368145449
   - https://discord.com/channels/761985725453303838/761985725453303841/1293770598891389060
+
+
+
+
+### reasonable ppl in a menainguful debtaet
+we have a very very very limited window of time to introduce this material functionality befdore the netowrk faces enough adoption that something like it would be impossible going forwared (maybe maybe maybe href the chat dir in discord on what tomer said abotu how it's poissible b/c that was really solid its at https://discordapp.com/channels/761985725453303838/1302004423483981924/1302262610409951275)
+### requisite central plan or not, and omplications re introductory network value
+
+### some fincnaila-sector implications alongside the central regs in place now
+
+
+
+## Expanding the Locust of Trust
+
+there are very legitimnate centralization implications in upgradable smart contracts having hteir keys get hacked, as we see so commonly
+
+i know there is soroswap (prob dont mention expckityl;)_ which does this without upgradability
+but this segways directly inbto the very foundational argument that andy upggrade (and ther ewill be fucking upgrasdes _see unsiwap vers FN_) goes through the process of creating a new source of liqudiity
+the only way to fix this is to have it at the protocol level so that upgrades continue preserving the existing lokced-up liquidity
+&&
+this will implicate making the argument against deposit locks as discussed on both sides of the agenda
+
+
+
+### 
+some of the args around being able to centrally control the liqudity, which is very very fucking bad
+
+this was something that was brought up by XYZ FF/engineering in Discord convo (dir link here)
+
+
+obvs we need to frame the whole thing around the args, let's start with some src quoite framing at the intro for 2.
+but actual info in 2.1 for ref
+
+
+---
+also we should ahve soemthing implicating the use of p[eople as the arbiters for trust in central regs , which precisely cucking translets to these contracts re wooten.link/uniswap
+
+and obvs with this, you are very explicitly assuming liability to earn trust, whcih is exactly what fucking SCP is supposed to handle
+i should have a fn harping on this and use it as pressure for SCP#25
+
+
+
+---
+long-term centraliztion implications
+
+even if we can momentarily agree that the "best" Sorobvan DEX(es) will attract a large amount of liqudiity, which dominates the network, this leaves the power over democratic trading in the hands of a select few organizations
+
+presently, the instutitons which run these technologies are centralied, legal, for-profit corporations
+
+this presents the very clear path for "traction" in terms of user funds locked to lead to VC interest
+
+and VCS ARE FUCKING CENTRALIZED AND WILL DO WHAT THEY FUCKING DID TO 0X HOLY SHIT
+this is a goddamn untennable posititon
+like fduck you wall st
+
+this shoud get framed in the very relevant context of S XYZ (thesis) in link NUM from S ABC in origingal work (which we should declare in the intro as "ABC/D")
