@@ -23,7 +23,7 @@ Since this post, quite the collective discussion has popped up on the subject. P
 [^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3.
 <!-- this works as long as we only ref PREVs in the footnotes -->
 
-[![meridian-2024-ama](yay from Jayrom img thumnail,with playh button)](https://youtu.be/KTH85egVSzw?t=388)
+[![meridian-2024-ama](imgs/comments/builders-bridge-thumbnail.png)](https://youtu.be/KTH85egVSzw?t=388)
 
 Also, we wouldn't have heard live about your expert white-hatting if it weren't for [Jayrome](https://discordapp.com/users/769062410518134874), whom kindly reached out to community members to solicit AMA questions before the event. Jayrome relentlessly contributes their time, expertise, and consideration throughout open disucussions, prudent facilitation, and [news aggregation](https://communityfund.stellar.org/project/lumen-loop). And they did an unbelievably-tremendous job asking with relevant tone-setting context from 2022, genuine tact for differing perspectives, and an open mind towards possible solutions.
 
@@ -125,19 +125,20 @@ praise:
 
 # 2. Enabling Trusted Global Liquidity
 
-Part of Stellar I find so incredible is the heavy lifting done by community validators behind the scenes. The diligent and selfless contributions bring accessable transactions to all. In this light, I [originally]() wanted to have our own nodes spun up to try testing for the simulated ongoing execution burdens.
+Part of Stellar I find so incredible is the heavy lifting done by community validators behind the scenes. The diligent and selfless contributions bring accessable transactions to all. In this light, I [originally](https://github.com/JFWooten4/free-markets/commit/9b8c125b955594c1d73d1ace031146f9588a05fa) wanted to have our own nodes spun up to try testing for the simulated ongoing execution burdens.
 
-intor should pin as trying to delay as i was prior to get actual data, but that;s presently outside my scpoe of poeprational capabilities across organizations *href free-markets comment NUM draft start)
-this shoudl implicate htat who i am as a normal person shouldn't matter in contemplating the weight of my args since [good args (but not worded as args) can come from anyone (maybe policy)  ](href some other taking stock where chat on this)
+Part of the reason for this logic is that I don't want to sit here asking for something for nothing. Namely, I'm only a motherboard, CPU, and NVMe drive away from getting things spun up.[^test] But that;s presently outside my scpoe of poeprational capabilities across organizations per survivability contraints _supra_ note 1.
+
+[^test]: I particularly want to mimic some of the original SPEEDEX paper's results on a modern Threadripper. With some actual data, I can more meaningfully contribute to the conversation going forward. Albeit the precise configuration work is outside my meximal area of expertise.
+
+That said, can we all agree that the contemplation given to my beliefs ought be weighed independently of my present socioeconomic standing? As I've tried to shortly capture, the beaty of the network really shines when it shares the best industry tech with all the classes of society. Could introducing "loyalty tiers" as is so common on central exchanges run counter to the ethos that genius can [can come from anyone](https://lnns.co/ZT-4HtxlXVK)?
 
 
+## 2.1 Network Design CXYZ Considerations
 
 
 this should frame as a collaborative effort to explore other opetions not revelaed in my 1 v 2 hypothecation since theres so many incredibly-intelligent believers in network with genius ieas etrc decenbtralized (this implicates the points amde to Shaptic and adopted by in https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899)
 
-
-
-## 2.1 Network Design CXYZ Considerations
 
 as discussed, this introduced the questions of
 frame in the light of an alternative using contracts
