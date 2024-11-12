@@ -222,8 +222,9 @@ of a relatively opaque and historiucallty contextual oprg
 but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
 
 
+## 3. Smart Contract Trading Systems
 
-## X. Off-Chain Order Book Systems
+### 3.1 Off-Chain Order Book Systems
 
 ![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
 
@@ -240,6 +241,17 @@ In the example from S 2.1.1, I paid at least three times the trading market rate
 Despite attempting to transact with such hidden sources of liquidity
 
 then dive into the interface quandaries, ebcause **this is more than interface implicationls**
+
+
+
+### 3.2 ZKrolls and such
+
+
+
+### 3.3 Specified as like uni v4
+
+constant on the limits of other chains to not actually register true offers
+maybe here "staked my career on SPEEDEX"
 
 
 ------
@@ -488,6 +500,30 @@ gov things
 ### footnotes
 
 Enrique: let's commend the move away from PoW per mining implications
+
+
+
+
+
+# 4.
+
+
+
+
+
+
+Might we defend the DEX as the last bastion of a free financial market?
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
