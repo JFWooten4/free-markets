@@ -161,28 +161,34 @@ Might we emphasize Jed's brief remarks on thep anel given their precedential his
 
 Can we agree that this steadfast committment to form refreshingly positions the network in an industry where some leaders are so improperly influenced by Wall Street? Namely, might we best align with our mission to better humanity through the nonprofit nature of SCP combined with the decnentralized governance it implies? While [alternative systems](https://lnns.co/zox1f6-_G4F) serve to enrich a select few, might we objectively ask what could best serve users, absent external business interests?
 
-To bring this point to light, I [recently executed](https://stellar.expert/explorer/public/tx/2d32c9f6ea1baf2bf3fbe051346a42d8d1917c911aa4f4c171915cb0eebf910a) an offer to buy an asset from an issuer I like. However, a majority of the liquidity for this asset lives in Soroban AMM contracts, so I learned after later consultation. 
+To bring this point to light, I [recently executed](https://stellar.expert/explorer/public/tx/2d32c9f6ea1baf2bf3fbe051346a42d8d1917c911aa4f4c171915cb0eebf910a) an offer to buy an asset from an issuer I like. However, a majority of the liquidity for this asset lives in Soroban AMM contracts, so I learned after later consultation. Might we jointly develop a scaling solution that doesn't incur at least 80% slippage?
 
 
+### 2.1.2 @tomerweller: Seeking Efficient Replacement
+
+Tomer's concise comments constructively focused on collective new technologies that could best usher in a new era of network liquidity.
 
 
-Despite attempting to transact with such hidden sources of liquidity
-
-### 2.1.2 @tomerweller: 
-
-In the last example, I paid at least three times the trading market rate because today's liquidity venues silo orders into contracts. Despite attempting to use centralized frontends to these services, the process to transact in them
-
-
-
-
-
+p.1 giving his position
+both replacing and first option
 
 
 
 
 now for "replacing" the DEX
 
-says "one way" is soroban 0x/uniswap v4 protocols
+says "one way" is soroban 0x/uniswap v4 protocols (for more granuality)
+
+
+
+
+
+p.2 affirming [nothing to add](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302276394356703232)
+personal analysis of 0x[^capture]
+question of v4 just being due to the limits of slower chains without OBs
+
+
+[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
 
 "another option" is "people like Garand" with SPEEDEX or SPEEDEX-like "liquidity aggregators" with parallization and concurrent trade ex
 
@@ -211,6 +217,28 @@ of a relatively opaque and historiucallty contextual oprg
 ---
 
 
+
+
+
+
+
+## X. Off-Chain Order Book Systems
+
+![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
+
+ex of needing to remove specific items
+https://www.cftc.gov/PressRoom/PressReleases/8774-23
+
+
+
+
+
+
+In the example from S 2.1.1, I paid at least three times the trading market rate because today's liquidity venues silo orders into contracts. Despite attempting to use centralized frontends to these services, the process to transact in them
+
+Despite attempting to transact with such hidden sources of liquidity
+
+then dive into the interface quandaries, ebcause **this is more than interface implicationls**
 
 
 ------
@@ -244,6 +272,8 @@ as he identitfied, it takes much less assets to build liquidity through an order
 
 > 0x style is illegal, uncomposable zk = prorietary connections
 
+see thesis at 10.4 if relev
+
 "you can't call classic order books from Soroban" so let's worry about that and fix it since contracts are trivial to implement as connecting data struct market participant (given already holding classic assets) but like researched
 it is very very much worth it to "put a lot of effort into that" and doable
 
@@ -252,7 +282,7 @@ it is very very much worth it to "put a lot of effort into that" and doable
 
 "There is no certainty. At the end of the day, it doesn't matter how many audits you go through; it doesn't matter how much testing you do. Sometimes there are bugs.[^bug-20] ny bug bounties you go through.
 
-
+compare with direct "there will be bugs (NOT VERBAITM)" affirming software mindset to somethign [as important](https://stellar.expert/blog/tiny-things-matter-or-detective-novel-featuring-stellar-dex) as markets.
 
 [^bug-20]: Very very very heavily implicate the community's satefty approach in re https://youtu.be/rbjFjda3_UI?t=7080. re id might we "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" [like done in re the p20 bug delay community-wide decision] which requisities framign disinterop re earely early convo from _Anuxya?_ about interaction between native/soroab n for liq (butt careful b/c now we're implicating another thing which is materially expansive, albeit related implicately)
 
