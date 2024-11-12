@@ -125,6 +125,8 @@ praise:
 
 # 2. Enabling Trusted Global Liquidity
 
+Part of Stellar I find so incredible is the heavy lifting done by community validators behind the scenes. The diligent and selfless contributions bring accessable transactions to all. In this light, I [originally]() wanted to have our own nodes spun up to try testing for the simulated ongoing execution burdens.
+
 intor should pin as trying to delay as i was prior to get actual data, but that;s presently outside my scpoe of poeprational capabilities across organizations *href free-markets comment NUM draft start)
 this shoudl implicate htat who i am as a normal person shouldn't matter in contemplating the weight of my args since [good args (but not worded as args) can come from anyone (maybe policy)  ](href some other taking stock where chat on this)
 
