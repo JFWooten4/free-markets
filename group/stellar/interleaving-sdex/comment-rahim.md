@@ -159,30 +159,75 @@ Might we emphasize Jed's brief remarks on thep anel given their precedential his
 
 > The basic functionality still needs to exist within Stellar.
 
+Can we agree that this steadfast committment to form refreshingly positions the network in an industry where some leaders are so improperly influenced by Wall Street? Namely, might we best align with our mission to better humanity through the nonprofit nature of SCP combined with the decnentralized governance it implies? While [alternative systems](https://lnns.co/zox1f6-_G4F) serve to enrich a select few, might we objectively ask what could best serve users, absent external business interests?
 
+To bring this point to light, I [recently executed](https://stellar.expert/explorer/public/tx/2d32c9f6ea1baf2bf3fbe051346a42d8d1917c911aa4f4c171915cb0eebf910a) an offer to buy an asset from an issuer I like. However, a majority of the liquidity for this asset lives in Soroban AMM contracts, so I learned after later consultation. 
+
+
+
+
+Despite attempting to transact with such hidden sources of liquidity
 
 ### 2.1.2 @tomerweller: 
 
-alternatives using contracts?
-
-possible implicate dzar and emir and enrique
-^ def the enq footnote here
-
-
-at some point we will need to write that the DEX is very explictcityl not fucking nostalgia (but like in a nuanced way t end of snet)
+In the last example, I paid at least three times the trading market rate because today's liquidity venues silo orders into contracts. Despite attempting to use centralized frontends to these services, the process to transact in them
 
 
 
-original comments 2022:
 
-" The order books are extremely efficient as far as order books go. But orderbooks in general are not the most efficient data structure." [that you can have]
+
+
+
+
 
 now for "replacing" the DEX
 
 says "one way" is soroban 0x/uniswap v4 protocols
 
-
 "another option" is "people like Garand" with SPEEDEX or SPEEDEX-like "liquidity aggregators" with parallization and concurrent trade ex
+
+
+
+
+
+
+
+### 2.1.3 @rice2000: 
+
+"transfer it"
+
+
+
+
+
+---
+themes:
+
+Framing efficient "data strcutures" v. fukn "markets"
+
+They mention a simulation of moving AQUA rewards away from the SDEX,
+which implicates central power over protocol liquidity in the hands
+of a relatively opaque and historiucallty contextual oprg
+---
+
+
+
+
+------
+
+
+possible implicate dzar and emir and enrique
+^ def the enq footnote here
+
+at some point we will need to write that the DEX is very explictcityl not fucking nostalgia (but like in a nuanced way t end of snet)
+
+---
+
+original comments 2022:
+
+" The order books are extremely efficient as far as order books go. But orderbooks in general are not the most efficient data structure." [that you can have]
+
+---
 
 here r my contemplating [speedex principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) re public discussion
 
@@ -213,31 +258,7 @@ it is very very much worth it to "put a lot of effort into that" and doable
 
 
 
-
-
-
-### 2.1.3 @rice2000: 
-
-"transfer it"
-
-
-
-
-
----
-themes:
-
-Framing efficient "data strcutures" v. fukn "markets"
-
-They mention a simulation of moving AQUA rewards away from the SDEX,
-which implicates central power over protocol liquidity in the hands
-of a relatively opaque and historiucallty contextual oprg
----
-
-
-
-
-
+------
 .
 
 
