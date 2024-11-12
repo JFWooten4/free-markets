@@ -44,8 +44,12 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 
 > without the sdex isnt stellar just another smart contract blockchain that only resolves at 5 sec
 > like what makes it special once yo ditch the best part?
-> ...with smart contracts we have black boxes... and no way to find fair value until its too late
 > 
+> no chain has anything like the sdex orderbooks...
+
+
+
+> the sdex orderbooks are still more advanced than any set of orderbooks on any chain. and we still have just enough volume in the sdex to prime the pump for an insane surge of liquidity
 > &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302004862170435674)
 
 > 
@@ -62,37 +66,44 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 > 
 > &mdash;[earrietadev.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302005325678907462)
 
+> the entirety of the sdex amm's provide the market participants with a reasonable aprroximation of the the fair value of the assets in the whole of the system. amm's compliment the orderbooks and vice versa. it is a whole organism now. an entire economy has developed inside the sdex. it is the reference point of fair value for anyone attempting to use the fragmented liquidity on soroban. we have black boxes providing prices on soroban that are far from the value derived by the trusty sdex. the sdex is a strength of stellar and should be utilized to roll out the soroban economy in an orderly fashion. it gives an opportunity for intrachain arbitrage that is unseen in other chains.
 > 
-> 
-> &mdash;[]()
+> &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302311486240329800)
 
+> Case in point: the 1inch dApp is blocked in all of the US of A.  If amm and dex moves off of stellar core, you should expect nearly all site-specific implementations of these features to be blocked in the US.
 > 
+> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
+
+### 1.2.3 Competative Differentiation
+
+> Right now, I can place an order on a thin orderbook and it might be filled if there's a path payment through it at that price.  Without the amm, I'd have to rely on just the volume in that pair, or maybe someone who happens to be running a bot against some soroban pool somewhere.
+> There's also the fact that in ALL other chains, if I want to swap, I need to go to one site that runs a good UI for one pair into a common token (eth or op or sol or whatever), and then at least 1 other site to get to what I want.  Expensive, slow, and annoying.
 > 
-> &mdash;[]()
+> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
 
-### 1.2.3
-
+> We already have tech no other chains have since years. What is needed, not just in Stellar but in the whole crypto bubble, is to actually build things for people out there. Look at the current financial system, it's bloated, slow, old and everything.
 > 
+> &mdash;[tupui.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305670913898975292)
+
+^segue this guy (sole tup ref) info the above arg from Garand on building things other than LP venues
+"I am talking about the rest of the world who litterally does not care about the tech stack and just want real usage. And AGAIN, crypto is NOT just for finance!"
+
+> At the Meridian round table, I chatted with a bunch of the soroban devs to try and figure out what their needs were wrt soroban DEXs...
+> To be clear this is early stages, which is why I wanted to open the conversation at Meridian. Ideally, we'd have something where both soroban and classic could use the SDEX orderbook and both classic AMMs and Soroban AMMs could use SPEEDX as a shared "backend"
 > 
-> &mdash;[]()
-
-> 
-> 
-> &mdash;[]()
-
-> 
-> 
-> &mdash;[]()
+> &mdash;[Garand (SDF)](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305123502369538171)
 
 
 
-
+Adam voiced that it's "the coolest creation in crypto in the last 10 years" which comes back to thesis part
 
 relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc EA
 
 
+will need to defend my position to be perfected at a protocol level re past convo on saving end users cents becuase cents fucking matter re PFOF and https://discordapp.com/channels/1172621167400599582/1172621168197509137/1291849856121311333
 
-
+i dont think we can have gif memes, but we need to acknowledge the importance of liqduiity as framed
+https://discordapp.com/channels/761985725453303838/1302004423483981924/1304786314092347566
 
 ## 1.3 Appreciated Thought-Provoking Perspective
 
@@ -359,3 +370,15 @@ okay they're probab;ly good people, but i  mena it in the sense of it being syte
 
 gov things
 - https://github.com/stellar/stellar-protocol/blob/master/core/cap-0044.md
+
+
+
+
+
+---
+
+clkosing intro to community in thread:
+
+let's do as a reply to https://discordapp.com/channels/761985725453303838/1302004423483981924/1304799045826379818 based on DMs
+
+we're all on the same team 🤝
