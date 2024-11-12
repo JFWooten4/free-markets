@@ -45,13 +45,13 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 > what really attracted me to stellar is the sdex order books. once you add an interface, it suddenly feels like stellar has centralized orderbooks.. the stellar sdex orderbooks creat and offer the most free market this world has ever seen...
 > the orderbooks on the sdex give EVERY asset on the network a starting point and reference for price. having this time tested and trustworthy reference point provides an adavantage  to every asset in its search for fair value. this advantage is unseen on other networks.
 > 
-> &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304772394828828712)
+> &mdash; [adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304772394828828712)
 
 > without the sdex isnt stellar just another smart contract blockchain...
 > like what makes it special once yo ditch the best part?
 > no chain has anything like the sdex orderbooks...
 > the sdex orderbooks are still more advanced than any set of orderbooks on any chain. and we still have just enough volume in the sdex to prime the pump for an insane surge of liquidity
-> &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302004862170435674)
+> &mdash; [adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302004862170435674)
 
 > the entirety of the sdex amm's provide the market participants with a reasonable aprroximation of the the fair value of the assets in the whole of the system. amm's compliment the orderbooks and vice versa.
 > 
@@ -59,34 +59,34 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 > 
 > we have black boxes providing prices on soroban that are far from the value derived by the trusty sdex. the sdex is a strength of stellar and should be utilized to roll out the soroban economy in an orderly fashion. it gives an opportunity for intrachain arbitrage that is unseen in other chains.
 > 
-> &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302311486240329800)
+> &mdash; [adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302311486240329800)
 
 
 ### 1.2.2 @ddombrowsky: Order Book Independence
 
 > One other thing to consider: why would stellarx implement the api to trade tokens on the new soroban aqua exchange?  Taking the "D" out of the DEX definitely seems like a step backwards...
 > the horizon API gives you everything, not just the tokens that aquarius decides are important.  For example: where can I find the simple UI to swap blend and usdc using the comet pool?
-> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
+> &mdash; [aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
 
 > Case in point: the 1inch dApp is blocked in all of the US of A.  If amm and dex moves off of stellar core, you should expect nearly all site-specific implementations of these features to be blocked in the US.
 > 
-> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
+> &mdash; [aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
 
 > Right now, I can place an order on a thin orderbook and it might be filled if there's a path payment through it at that price.  Without the amm, I'd have to rely on just the volume in that pair, or maybe someone who happens to be running a bot against some soroban pool somewhere.
 > There's also the fact that in ALL other chains, if I want to swap, I need to go to one site that runs a good UI for one pair into a common token (eth or op or sol or whatever), and then at least 1 other site to get to what I want.  Expensive, slow, and annoying.
 > 
-> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
+> &mdash;[ aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
 
 
 ### 1.2.3 Active Competative Differentiation Work
 
-> composability allows for the creation of more sophisticated financial instruments
+> I’m interested to learn what the fees on soroban will be when adoption grows. Stellar classic fees make fee sponsoring very doable and also allow for low value transactions. The latter I really can’t judge yet; soroban be just as efficient in terms of fees as the dex is for conversions of low amounts? 
 > 
-> &mdash;[tomer](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302651865942720544)
+> &mdash; [Wouter](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305172585788735488)
 
 > We already have tech no other chains have since years. What is needed, not just in Stellar but in the whole crypto bubble, is to actually build things for people out there. Look at the current financial system, it's bloated, slow, old and everything.
 > 
-> &mdash;[tupui.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305670913898975292)
+> &mdash; [tupui.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305670913898975292)
 
 ^segue this guy (sole tup ref) info the above arg from Garand on building things other than LP venues
 "I am talking about the rest of the world who litterally does not care about the tech stack and just want real usage. And AGAIN, crypto is NOT just for finance!"
@@ -94,7 +94,7 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 > At the Meridian round table, I chatted with a bunch of the soroban devs to try and figure out what their needs were wrt soroban DEXs...
 > To be clear this is early stages, which is why I wanted to open the conversation at Meridian. Ideally, we'd have something where both soroban and classic could use the SDEX orderbook and both classic AMMs and Soroban AMMs could use SPEEDX as a shared "backend"
 > 
-> &mdash;[Garand (SDF)](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305123502369538171)
+> &mdash; [Garand (SDF)](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305123502369538171)
 
 
 
@@ -123,7 +123,7 @@ praise:
 
 
 
-# 2. 
+# 2. Enabling Trusted Global Liquidity
 
 intor should pin as trying to delay as i was prior to get actual data, but that;s presently outside my scpoe of poeprational capabilities across organizations *href free-markets comment NUM draft start)
 this shoudl implicate htat who i am as a normal person shouldn't matter in contemplating the weight of my args since [good args (but not worded as args) can come from anyone (maybe policy)  ](href some other taking stock where chat on this)
@@ -134,51 +134,12 @@ this shoudl implicate htat who i am as a normal person shouldn't matter in conte
 this should frame as a collaborative effort to explore other opetions not revelaed in my 1 v 2 hypothecation since theres so many incredibly-intelligent believers in network with genius ieas etrc decenbtralized (this implicates the points amde to Shaptic and adopted by in https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899)
 
 
-1.2
 
-let's commend the move away from pow
+## 2.1 Network Design CXYZ Considerations
 
-
-
-
-
-need to clarify very explicitly that this is Not Enqiue's fault (or the fxdao community_ but rather a fundamnetal flaw in the endgame of these contracts
-
-emphasize the last clause in re upgradable or not based on the underlying strucutre of the entity operating the order book itself (this can introduce the interview via https://x.com/JFWooten4/status/1853607712111624481)
-
-migrate this into the AQUA requesrds program in Lobstr,. based on a proporietary codebase you can I can't contribute to, help understna,d or even xyz (let's be carefil here iwth social implications)
-
-extrapolate to natural process or the entity ot org or community, whatever around the project as requiring some kind of reward for their "innovation"
-
-_compare_ a turly nonprofit financial systme built for its users to minimie rents in re https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746
-
-aprecite the reptatuion based "fast" benefits in _Id._ at 1-4, but emlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
-
----
-
-some fnotes and context around both wooten.link/bad (subtle but materially readable, optiopnally by drastically limiting all other footnotes, inclining the _supra_ xyzDs) [can you customize the numbering to start at 30, upto 32?]
-
-open for upgrades, collective growth rather than single propr gatelkeeping re https://discordapp.com/channels/1172621167400599582/1172621168197509135/1286721830211813449
-
-- https://www.youtube.com/watch?v=wcjzKdo0xS8
-- https://www.youtube.com/live/aHZQfcIdmoQ?t=1067
-- https://stellar.org/blog/developers/amms-in-the-stellar-ecosystem
-
-can also imp[licate the extensive public discussion voer a network feature that is so _key to basic capitalistic tooling_ (but worded more eloquently)
-
-- https://stellar.org/blog/developers/the-principles-behind-protocol-design-amms-stellar
-- https://stellar.org/learn/swap-functionality-and-amms (is this a stable link?)
-- https://stellar.org/blog/developers/liquidity-liquidity-liquidity
-
-
-"Stellar has a near-zero-fee Decentralized Exchange built into the protocol, which allows you to trade any token pair and list your tokens without any listing fees or restrictions."
-&mdash; [Nikhil Saraf](https://stellar.org/blog/developers/kelp-why-we-built-it-the-liquidity-problem) on [kelp](https://discordapp.com/channels/761985725453303838/1292523643900919951/1301969206081753178)
-
----
-
-maybe laight gas arg if reelvant in any maningul fn
-
----
+as discussed, this introduced the questions of
+frame in the light of an alternative using contracts
+expand from above discussion from Jayrome:
 
 Framing efficient "data strcutures" v. fukn "markets"
 
@@ -234,7 +195,48 @@ it is very very much worth it to "put a lot of effort into that" and doable
 
 "transfer it"
 
+
+
 ---
+
+
+
+
+need to clarify very explicitly that this is Not Enqiue's fault (or the fxdao community_ but rather a fundamnetal flaw in the endgame of these contracts
+
+emphasize the last clause in re upgradable or not based on the underlying strucutre of the entity operating the order book itself (this can introduce the interview via https://x.com/JFWooten4/status/1853607712111624481)
+
+migrate this into the AQUA requesrds program in Lobstr,. based on a proporietary codebase you can I can't contribute to, help understna,d or even xyz (let's be carefil here iwth social implications)
+
+extrapolate to natural process or the entity ot org or community, whatever around the project as requiring some kind of reward for their "innovation"
+
+_compare_ a turly nonprofit financial systme built for its users to minimie rents in re https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746
+
+aprecite the reptatuion based "fast" benefits in _Id._ at 1-4, but emlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
+
+---
+
+some fnotes and context around both wooten.link/bad (subtle but materially readable, optiopnally by drastically limiting all other footnotes, inclining the _supra_ xyzDs) [can you customize the numbering to start at 30, upto 32?]
+
+open for upgrades, collective growth rather than single propr gatelkeeping re https://discordapp.com/channels/1172621167400599582/1172621168197509135/1286721830211813449
+
+- https://www.youtube.com/watch?v=wcjzKdo0xS8
+- https://www.youtube.com/live/aHZQfcIdmoQ?t=1067
+- https://stellar.org/blog/developers/amms-in-the-stellar-ecosystem
+
+can also imp[licate the extensive public discussion voer a network feature that is so _key to basic capitalistic tooling_ (but worded more eloquently)
+
+- https://stellar.org/blog/developers/the-principles-behind-protocol-design-amms-stellar
+- https://stellar.org/learn/swap-functionality-and-amms (is this a stable link?)
+- https://stellar.org/blog/developers/liquidity-liquidity-liquidity
+
+
+"Stellar has a near-zero-fee Decentralized Exchange built into the protocol, which allows you to trade any token pair and list your tokens without any listing fees or restrictions."
+&mdash; [Nikhil Saraf](https://stellar.org/blog/developers/kelp-why-we-built-it-the-liquidity-problem) on [kelp](https://discordapp.com/channels/761985725453303838/1292523643900919951/1301969206081753178)
+
+---
+
+maybe laight gas arg if reelvant in any maningul fn
 
 new native AMMs release as benefit on narrowing at https://youtu.be/FiYKWQyLAuE?&t=1118
 "with AMMs ... you're only p[aying 50 basis points. That is "[AMMs create] a 33% imporvement on your cost... When we're thinking about cross-boarder payments, I think we can envision some future state where this is... all different fiat assets that are tokenized into stablecoins. And these AMM pools are enabling cheaper and more efficient FX transactions" &mdash; Phil Meng @ a the SDF
@@ -264,7 +266,7 @@ https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whis
 
 ## Confidence
 
-re the reputation game
+re the reputation game, and applications in specialized financial instrument composability
 
 ---
 
@@ -377,6 +379,11 @@ gov things
 
 
 
+
+
+### footnotes
+
+Enrique: let's commend the move away from PoW per mining implications
 
 
 ---
