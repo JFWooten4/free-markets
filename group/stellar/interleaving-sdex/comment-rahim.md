@@ -134,7 +134,7 @@ Part of the reason for this logic is that I don't want to sit here asking for so
 That said, can we all agree that the contemplation given to my beliefs ought be weighed independently of my present socioeconomic standing? As I've tried to shortly capture, the beaty of the network really shines when it shares the best industry tech with all the classes of society. Could introducing "loyalty tiers" as is so common on central exchanges run counter to the ethos that genius can [can come from anyone](https://lnns.co/ZT-4HtxlXVK)?
 
 
-## 2.1 Enduring Network Design Considerations
+## 2.1 Enduring Network Design Perspectives
 
 Expanding on the chief question asked in the video from Meridian,[^ngr] might we take a wholelistic consideration as to the cost of liquidity as it stands today? As volumnous comments in the singular conversation forum so far have releaved, liquidity is a key aspect of the network for users, developers, and advocates together. Reflecting on the asked investment of time, energy, and composability into interleaving liquidity, might we consider the sum network benefits?
 
@@ -153,29 +153,29 @@ Might the self-custody implication inherent in existing exchange business models
 this should frame as a collaborative effort to explore other opetions not revelaed in my 1 v 2 hypothecation since theres so many incredibly-intelligent believers in network with genius ieas etrc decenbtralized (this implicates the points amde to Shaptic and adopted by in https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899)
 
 
-as discussed, this introduced the questions of
-frame in the light of an alternative using contracts
-expand from above discussion from Jayrome:
+### 2.1.1 @jedmccaleb: Blockchain Liquidity Innovator
 
-Framing efficient "data strcutures" v. fukn "markets"
+Might we emphasize Jed's brief remarks on thep anel given their precedential history in markets, as shown by being on of three current footnotes in the [Wikipedia page](https://web.archive.org/web/20241112165049/https://en.wikipedia.org/wiki/Order_book) for order books? The particular footnote posits that Jed was the first person to develop an orderbook link plot showcasing market supply and demand, back when it was just them working alone on Gox. When asked about [their view](https://youtu.be/ZsiPqcyvDFQ?t=1244) from two years ago that "people love the DEX," Jed optimistically referenced the evolution of the DEX, telling Jayrome:
 
-re Jayrome collab at https://youtu.be/KTH85egVSzw?t=388
+> The basic functionality still needs to exist within Stellar.
 
-They mention a simulation of moving AQUA rewards away from the SDEX, which implicates central power over protocol liquidity in the hands of a relatively opaque and historiucallty contextual oprg
 
-## Jed
 
-originally for the dex
+### 2.1.2 @tomerweller: 
 
-"[it will] evolve"
+alternatives using contracts?
 
-"needs to be replaced by [somethign]"
+possible implicate dzar and emir and enrique
+^ def the enq footnote here
 
-"the basic functionality still needs to exist _within Stellar_" [emphasis added]
 
-## Tomer
+at some point we will need to write that the DEX is very explictcityl not fucking nostalgia (but like in a nuanced way t end of snet)
 
-ooriginally comments that the order book is extremely efficient
+
+
+original comments 2022:
+
+" The order books are extremely efficient as far as order books go. But orderbooks in general are not the most efficient data structure." [that you can have]
 
 now for "replacing" the DEX
 
@@ -193,6 +193,10 @@ mentions cusotmized stableswap pairs which again trivial addition of a bonding c
 
 as he identitfied, it takes much less assets to build liquidity through an order book for long0-taukl assets
 
+
+
+
+
 > 0x style is illegal, uncomposable zk = prorietary connections
 
 "you can't call classic order books from Soroban" so let's worry about that and fix it since contracts are trivial to implement as connecting data struct market participant (given already holding classic assets) but like researched
@@ -207,13 +211,35 @@ it is very very much worth it to "put a lot of effort into that" and doable
 
 [^bug-20]: Very very very heavily implicate the community's satefty approach in re https://youtu.be/rbjFjda3_UI?t=7080. re id might we "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" [like done in re the p20 bug delay community-wide decision] which requisities framign disinterop re earely early convo from _Anuxya?_ about interaction between native/soroab n for liq (butt careful b/c now we're implicating another thing which is materially expansive, albeit related implicately)
 
-## Justin Rice
+
+
+
+
+
+### 2.1.3 @rice2000: 
 
 "transfer it"
 
 
 
+
+
 ---
+themes:
+
+Framing efficient "data strcutures" v. fukn "markets"
+
+They mention a simulation of moving AQUA rewards away from the SDEX,
+which implicates central power over protocol liquidity in the hands
+of a relatively opaque and historiucallty contextual oprg
+---
+
+
+
+
+
+.
+
 
 
 
