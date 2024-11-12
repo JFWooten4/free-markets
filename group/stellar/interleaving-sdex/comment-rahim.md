@@ -25,7 +25,7 @@ Since this post, quite the collective discussion has popped up on the subject. P
 
 [![meridian-2024-ama](yay from Jayrom img thumnail,with playh button)](https://youtu.be/KTH85egVSzw?t=388)
 
-Also, we wouldn't have heard live about your expert white-hatting if it weren't for [Jayrome](spellcheck name throughpouit, use discord ID link to 769062410518134874`), whom kindly reached out to community members to solicit AMA questions before the event. Jayrome relentlessly contributes their time, expertise, and consideration throughout open disucussions, prudent facilitation, and [news aggregation](https://communityfund.stellar.org/project/lumen-loop). And they did an unbelievably-tremendous job asking with relevant tone-setting context from 2022, genuine tact for differing perspectives, and an open mind towards possible solutions.
+Also, we wouldn't have heard live about your expert white-hatting if it weren't for [Jayrome](https://discordapp.com/users/769062410518134874), whom kindly reached out to community members to solicit AMA questions before the event. Jayrome relentlessly contributes their time, expertise, and consideration throughout open disucussions, prudent facilitation, and [news aggregation](https://communityfund.stellar.org/project/lumen-loop). And they did an unbelievably-tremendous job asking with relevant tone-setting context from 2022, genuine tact for differing perspectives, and an open mind towards possible solutions.
 
 I believe so earnestly that these open communal disucssions are the secret instrument we can leverge to overtake entranched incumbent interests. Indeed, might the optimal solution for these network-wide quandaries come from the artful, attributable, and permissionless Discussions we've already seen lead to stellar outcomes in CAPs [51](https://github.com/stellar/stellar-protocol/discussions/1435), [53](https://github.com/stellar/stellar-protocol/discussions/1447), and [56](https://github.com/stellar/stellar-protocol/discussions/1460
 )?
@@ -40,46 +40,49 @@ As I've [tried to express](723_POL_COMMENT), I might not be intimately familiar 
 
 Unfortunately, much of this [thinking work](https://github.com/rahimklaber/soroban_token_dao) can get lost in the fast pace of release schedules. In the spirit of documenting [AMM design choices](HREF_PROTOOL_21_meeting?), I'll append some discussions from the [Stellar Global](https://stellarglobal.community) Discord. Namely, most of these messages stem from [shared concerns](https://discordapp.com/channels/761985725453303838/1292523643900919951/1301285580310839367) over a network participant's transparency, integrity, and liquidity governance influence.
 
-### 1.2.1 Execution Materiality
+### 1.2.1 Adam: Trading Execution Materiality
 
-> without the sdex isnt stellar just another smart contract blockchain that only resolves at 5 sec
-> like what makes it special once yo ditch the best part?
+> what really attracted me to stellar is the sdex order books. once you add an interface, it suddenly feels like stellar has centralized orderbooks.. the stellar sdex orderbooks creat and offer the most free market this world has ever seen...
+> the orderbooks on the sdex give EVERY asset on the network a starting point and reference for price. having this time tested and trustworthy reference point provides an adavantage  to every asset in its search for fair value. this advantage is unseen on other networks.
 > 
+> &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304772394828828712)
+
+> without the sdex isnt stellar just another smart contract blockchain...
+> like what makes it special once yo ditch the best part?
 > no chain has anything like the sdex orderbooks...
-
-
-
 > the sdex orderbooks are still more advanced than any set of orderbooks on any chain. and we still have just enough volume in the sdex to prime the pump for an insane surge of liquidity
 > &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302004862170435674)
 
+> the entirety of the sdex amm's provide the market participants with a reasonable aprroximation of the the fair value of the assets in the whole of the system. amm's compliment the orderbooks and vice versa.
 > 
+> it is a whole organism now. an entire economy has developed inside the sdex. it is the reference point of fair value for anyone attempting to use the fragmented liquidity on soroban.
 > 
-> &mdash;[]()
-
-> 
-> 
-> &mdash;[]()
-
-### 1.2.2 Order Book Isolation
-
-> I agree we need to get rid of the AMMs and maybe just keep the orderbook
-> 
-> &mdash;[earrietadev.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302005325678907462)
-
-> the entirety of the sdex amm's provide the market participants with a reasonable aprroximation of the the fair value of the assets in the whole of the system. amm's compliment the orderbooks and vice versa. it is a whole organism now. an entire economy has developed inside the sdex. it is the reference point of fair value for anyone attempting to use the fragmented liquidity on soroban. we have black boxes providing prices on soroban that are far from the value derived by the trusty sdex. the sdex is a strength of stellar and should be utilized to roll out the soroban economy in an orderly fashion. it gives an opportunity for intrachain arbitrage that is unseen in other chains.
+> we have black boxes providing prices on soroban that are far from the value derived by the trusty sdex. the sdex is a strength of stellar and should be utilized to roll out the soroban economy in an orderly fashion. it gives an opportunity for intrachain arbitrage that is unseen in other chains.
 > 
 > &mdash;[adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302311486240329800)
+
+
+### 1.2.2 @ddombrowsky: Order Book Independence
+
+> One other thing to consider: why would stellarx implement the api to trade tokens on the new soroban aqua exchange?  Taking the "D" out of the DEX definitely seems like a step backwards...
+> the horizon API gives you everything, not just the tokens that aquarius decides are important.  For example: where can I find the simple UI to swap blend and usdc using the comet pool?
+> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
 
 > Case in point: the 1inch dApp is blocked in all of the US of A.  If amm and dex moves off of stellar core, you should expect nearly all site-specific implementations of these features to be blocked in the US.
 > 
 > &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
 
-### 1.2.3 Competative Differentiation
-
 > Right now, I can place an order on a thin orderbook and it might be filled if there's a path payment through it at that price.  Without the amm, I'd have to rely on just the volume in that pair, or maybe someone who happens to be running a bot against some soroban pool somewhere.
 > There's also the fact that in ALL other chains, if I want to swap, I need to go to one site that runs a good UI for one pair into a common token (eth or op or sol or whatever), and then at least 1 other site to get to what I want.  Expensive, slow, and annoying.
 > 
 > &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
+
+
+### 1.2.3 Active Competative Differentiation Work
+
+> composability allows for the creation of more sophisticated financial instruments
+> 
+> &mdash;[tomer](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302651865942720544)
 
 > We already have tech no other chains have since years. What is needed, not just in Stellar but in the whole crypto bubble, is to actually build things for people out there. Look at the current financial system, it's bloated, slow, old and everything.
 > 
@@ -99,6 +102,7 @@ Adam voiced that it's "the coolest creation in crypto in the last 10 years" whic
 
 relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc EA
 
+in addressing Enrique;s points, chiefly around "I agree we need to get rid of the AMMs and maybe just keep the orderbook" - will need to dive into the net social expense of arbitrage
 
 will need to defend my position to be perfected at a protocol level re past convo on saving end users cents becuase cents fucking matter re PFOF and https://discordapp.com/channels/1172621167400599582/1172621168197509137/1291849856121311333
 
