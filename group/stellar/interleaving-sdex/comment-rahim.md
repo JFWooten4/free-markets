@@ -34,7 +34,7 @@ I believe so earnestly that these open communal disucssions are the secret instr
 
 Before diving into the nuances, I'd like to applaud you longstanding efforts to bridge different platforms to stellar with [a single SDK](https://github.com/rahimklaber/stellar_kt). 👏 Too often, work might not see the light of mainnet despite the material efforts behind its development. But many of our long-term challenges can be overcome seamlessly thanks to those key thoughts, incremental imporvements, and persistant bug fixes.
 
-As I've [tried to express](723_POL_COMMENT), I might not be intimately familiar with the particular nuances of JS/Native/JVM implementations and their core XDR (not Horiozn)&mdash;just yet at least. But it's clear to see that you're making [ongoing progress](https://github.com/rahimklaber/stellar_kt/issues) on what just might be the next big community project. And it's quite inspirational for me at least, to think that you're able to do all that on top of traditional work.
+As I've [tried to express](https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689), I might not be intimately familiar with the particular nuances of JS/Native/JVM implementations and their core XDR (not Horiozn)&mdash;just yet at least. But it's clear to see that you're making [ongoing progress](https://github.com/rahimklaber/stellar_kt/issues) on what just might be the next big community project. And it's quite inspirational for me at least, to think that you're able to do all that on top of traditional work.
 
 ## 1.2 as introducing communal discussion and quotes
 
@@ -202,10 +202,11 @@ question of v4 just being due to the limits of slower chains without OBs
 
 "transfer it"
 
+should very deeply integrate 2022 comments
 
+After a crowd survey, Justin responded with their thoughts on the most efficient path forward:
 
-
-
+> I actually think having public discussions about controversial issues like: "where scalability verses the DEX&mdash;which one to favor?"
 ---
 themes:
 
@@ -218,7 +219,7 @@ of a relatively opaque and historiucallty contextual oprg
 
 
 
-
+but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
 
 
 
@@ -458,6 +459,16 @@ see also "Thought the Crypto Wallet provided on Robinhood was owned by me, but a
 aksi naybe in re ^ we want to href 
 
 
+
+
+at some point there can be a compliance argument made re:
+
+- CAP 35 -> 36 per compliance impls
+  - https://groups.google.com/g/stellar-dev/search?q=dannydoney%40gmail.com
+  - https://github.com/stellar/stellar-protocol/blob/master/core/cap-0035.md
+  - https://github.com/stellar/stellar-protocol/blob/master/core/cap-0036.md
+- "issuing assets in a regulatory compliant manner" &mdash; [u/denelledixon](https://www.reddit.com/r/Stellar/comments/1f2lyfl/comment/lkix9dp)
+- the youtube chat on AMM adoption for CBs as returning sponsor
 
 # Things to incorporate:
 
