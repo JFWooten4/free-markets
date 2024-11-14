@@ -166,37 +166,19 @@ To bring this point to light, I [recently executed](https://stellar.expert/explo
 
 ### 2.1.2 @tomerweller: Seeking Efficient Replacement
 
-Tomer's concise comments constructively focused on collective new technologies that could best usher in a new era of network liquidity.
+Tomer seems equallty hopeful for a network with more liquidity, trading, adn access. My understanding of their perspective so far is a focus on composability between protocols built on top of the network. In the disucssion, Tomer [said](https://discord.com/channels/761985725453303838/1302004423483981924/1302276394356703232) they didn't yet have much "to add on top of what was said" at Merridian.[^hack]
+
+[^hack]: According to further [conversation](https://discord.com/channels/761985725453303838/761985725453303841/1306590729098887231), this statement was made before the recent social account takeover. I find this point relevant becasue one of the first things the attacker did was send out mass ETH phishing links. Might we keep this in mind when disucssing the incument architectures that follow?
 
 
-p.1 giving his position
-both replacing and first option
+I sincerely appreciate Tomer's experienced, meticulous, and transformative work throughout the ecosystme. That said, might we bound ourselves for material compliance violations using the two alternative options they propose, based on Soroban and presently in the incubatory stages of development?[^twos] We're all for a new visionary, collaborative, and dynamic system; by my understanding&mdash;building on the same team.
+
+[^twos]: _See_ discussion on first and second options _infra_ S 3.1 and 3.3, respectively. Given the involvement of these systems in the recent [FBI Polymarket raid](https://youtu.be/tx6A3_OLEMY), might we take caution in the real-world lioablities associated with the exchange function. The present path of development could introduce material compliance risks to existing network projects, no matter their locale, given our SEP8-light implmemetatoin of book-entry securities.
 
 
+But the core function of asset exchange implicates not only regulatory security but also practical custody risks which the previous suprise update actuely brought to light. Combined with the recent hikes in AMM "listing fees," might we contemplate further which path could best grow the network? Fees which, I feel obliged to remind everyone, are paid in speculative tokens for the vast majority of present implementaions.[^nxlm]
 
-
-now for "replacing" the DEX
-
-says "one way" is soroban 0x/uniswap v4 protocols (for more granuality)
-
-
-
-
-
-p.2 affirming [nothing to add](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302276394356703232)
-personal analysis of 0x[^capture]
-question of v4 just being due to the limits of slower chains without OBs
-
-
-[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
-
-"another option" is "people like Garand" with SPEEDEX or SPEEDEX-like "liquidity aggregators" with parallization and concurrent trade ex
-
-
-
-
-
-
+[^nxlm]: These tokens are issued, controlled, and governed at the whims of central organiations operation on the netwrok. Indeed, this discussion stemmed from material concerns over the influence one such network participant had over the DEX due to their concentration of tokens. Might we widen our impact by ensuring that, just as with payments, there are no central intermediaries able to contorl the most key spocial function of trade itself?
 
 ### 2.1.3 @rice2000: 
 
@@ -217,6 +199,16 @@ which implicates central power over protocol liquidity in the hands
 of a relatively opaque and historiucallty contextual oprg
 ---
 
+
+TOMER Meridian:
+
+says "one way" is soroban 0x/uniswap v4 protocols (for more granuality)
+
+personal analysis of 0x[^capture]
+question of v4 just being due to the limits of slower chains without OBs
+[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
+
+"another option" is "people like Garand" with SPEEDEX or SPEEDEX-like "liquidity aggregators" with parallization and concurrent trade ex trting to "prevent liquidity fragmentation and arbitrage" [Garand (SDF)](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496)
 
 
 but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
