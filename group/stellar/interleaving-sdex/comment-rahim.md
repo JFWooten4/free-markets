@@ -196,6 +196,10 @@ Might we continue supporting parallization, decentralization, and concurrent tra
 
 ## 3. Smart Contract Trading Systems
 
+As I've [communicated](https://x.com/JFWooten4/status/1849109891471843764) with Tomer and [ecosystem particpants](https://discord.com/channels/897514728459468821/907476473739354153/1263819898594005075) at large, might ew design the evlution of the DEX using a "regulation-aware development strategy" (from [Sec 3](https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689))? [Compliance work](https://x.com/BurCapital/status/1857504726159344047) takesm many years of solid foundations, which Blcok Transfer has previously found in the steadfast, utalitarian, and resourceful network. Might we continue expanding on substantial past efforts to implement multithreaded batch trade execution?
+
+In examiing this question, I will present three common systems empoyed across lesser chains. These arethe sort of arguments I can't really make in a formal filing given their derrogitory nature, so I appreciate this opportuntiy to expand on these thoughts in a meaningul way outside of litigation. 💜
+
 ### 3.1 Off-Chain Order Book Systems
 
 ![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
