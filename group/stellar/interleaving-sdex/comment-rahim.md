@@ -182,7 +182,15 @@ But the core function of asset exchange implicates not only regulatory security 
 
 ### 2.1.3 @rice2000: 
 
-"transfer it"
+From the original 2022 panel to today, Justin has stood firm as a neutral-ish arbitrer between Jed and Tomer's viewpoints.[^arch] From my conversations with them, historic public info, and [recent statements](https://www.reddit.com/r/Stellar/comments/1ciiki3/comment/l3b0h24), it doesn't seem they explicitly prefer any one route. These sentiments were also true by my interpretation of the 2021 [Open Protocol Meeting](https://youtu.be/aHZQfcIdmoQ?t=1214) adopting native AMMs.
+
+[^arch]: Please do feel free to jump in an comment if I'm missing anyhting here, though. 😅 Relevantly, by "adopting" later in this paragraph, I mean taking the [CAP Core Team](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#awaiting-decision---final-comment-period-fcp) poll, based on the open communtiy contribution framework. Might we further discuss elsewhere the migration of disucssions from the stellar-dev mailing list onto GitHub Disucssions, as implicated in S 1 at links 4&ndash;6?
+
+
+In conversation with the community projects Justin highlights, there's been a common underlying theme that trading needs to be the first use case for contracts because you can't call the DEX from Soroban. But, as discussed, we can transform the DEX together to deploy infrastructure that doesn;t overly burden a central point of failure. While it might be easier to toss trading over to member audits, might 
+
+Justin seemed to lightly nod when Tomer voiced that "another option" is "people like Garand" prototyping evolved orderbooks implementing SPEEDEX.
+we continue supporting parallization and concurrent trade execution to "prevent liquidity fragmentation and arbitrage" [Garand (SDF)](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496)
 
 should very deeply integrate 2022 comments
 
@@ -207,9 +215,6 @@ says "one way" is soroban 0x/uniswap v4 protocols (for more granuality)
 personal analysis of 0x[^capture]
 question of v4 just being due to the limits of slower chains without OBs
 [^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
-
-"another option" is "people like Garand" with SPEEDEX or SPEEDEX-like "liquidity aggregators" with parallization and concurrent trade ex trting to "prevent liquidity fragmentation and arbitrage" [Garand (SDF)](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496)
-
 
 but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
 
