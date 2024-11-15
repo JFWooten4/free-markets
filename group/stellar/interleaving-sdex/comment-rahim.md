@@ -1,6 +1,6 @@
 ```
 status: Draft
-submit: 14 Nov 2024
+submit: asap lol goddamn fucking fbi raid
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
@@ -141,7 +141,7 @@ Expanding on the chief question asked in the video from Meridian,[^ngr] might we
 [^ngr]: Which is different from the [round table](imgs/comments/garand-offline-roundtable.png) Garand mentions. I reached out to @SirTyson for comment on Nov 1 but haven't heard back yet. In the same chat linked in S 1.2.3, they say SPEEDEX "opens the door to a lot of interesting opportunities, such as higher trade volume, better compatibility between soroban and classic ops, etc."
 
 
-Markedly, the choices we make around items like whether or not contracts call the DEX have significant downstream affects on whether the network runs well for users like us or the centralized institutions presently so dominant across other chains. I like to think there's a reason the large majority of demonstrably-compliant web3 investment products employ the network (or at least originally launched here). All this despite the current lack of attention on self-custody options avaliable to all.[^cbn]
+Markedly, the choices we make around items like [whether or not](https://github.com/stellar/stellar-protocol/pull/1562) contracts call the DEX have significant downstream affects on whether the network runs well for users like us or the centralized institutions presently so dominant across other chains. I like to think there's a reason the large majority of demonstrably-compliant web3 investment products employ the network (or at least originally launched here). All this despite the current lack of attention on self-custody options avaliable to all.[^cbn]
 
 [^cbn]: _See, e.g.,_ the UI depriortization of Stellar on the centralized exchange in note 7 of PREV, buried under every other supported USDC chain. _See also_ similar treatment in the Circle developer dashboard. These starkly contrast with the plethora of legal filings explicitly referencing the network behind the closed doors of legalese.
 
@@ -192,29 +192,6 @@ In conversation with the community projects Justin highlighted on [Reddit](https
 Might we continue supporting parallization, decentralization, and concurrent trade execution to "prevent liquidity fragmentation and arbitrage?" Garand is only one of many SDF members who's [voiced](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496) such concerns over needless extractive arbitrage. After a crowd survey, Justin responded in 2022 with their thoughts on the most efficient path forward:
 
 > I actually think having public discussions about controversial issues like: "where scalability verses the DEX&mdash;which one to favor?"
-
-
-
----
-themes:
-
-Framing efficient "data strcutures" v. fukn "markets"
-
-They mention a simulation of moving AQUA rewards away from the SDEX,
-which implicates central power over protocol liquidity in the hands
-of a relatively opaque and historiucallty contextual oprg
----
-
-
-TOMER Meridian:
-
-says "one way" is soroban 0x/uniswap v4 protocols (for more granuality)
-
-personal analysis of 0x[^capture]
-question of v4 just being due to the limits of slower chains without OBs
-[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
-
-but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
 
 
 ## 3. Smart Contract Trading Systems
@@ -484,10 +461,24 @@ at some point there can be a compliance argument made re:
 - idk this shit fuck em https://app.hyperliquid.xyz/trade as per core arguments from https://hyperliquid.gitbook.io/hyperliquid-docs (dont fuckuing cite these assholes)
 okay they're probab;ly good people, but i  mena it in the sense of it being sytemically flawed, so i should communicate that dman
 
+ubunntu spec at https://github.com/stellar/stellar-docs/pull/723/commits/f83f4ade7f9f09b2be52b10e4fa19e43c1f03623
 
 gov things
 - https://github.com/stellar/stellar-protocol/blob/master/core/cap-0044.md
 
+
+
+TOMER Meridian:
+
+says "one way" is soroban 0x/uniswap v4 protocols (for more granuality)
+
+personal analysis of 0x[^capture]
+question of v4 just being due to the limits of slower chains without OBs
+[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
+
+but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
+
+Framing efficient "data strcutures" v. fukn "markets" which CANNOT HAVE central power over protocol liquidity in the hands of a relatively opaque and historiucallty contextual oprg
 
 
 
