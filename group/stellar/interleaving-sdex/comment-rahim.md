@@ -198,15 +198,23 @@ Might we continue supporting parallization, decentralization, and concurrent tra
 
 As I've [communicated](https://x.com/JFWooten4/status/1849109891471843764) with Tomer and [ecosystem particpants](https://discord.com/channels/897514728459468821/907476473739354153/1263819898594005075) at large, might ew design the evlution of the DEX using a "regulation-aware development strategy" (from [Sec 3](https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689))? [Compliance work](https://x.com/BurCapital/status/1857504726159344047) takesm many years of solid foundations, which Blcok Transfer has previously found in the steadfast, utalitarian, and resourceful network. Might we continue expanding on substantial past efforts to implement multithreaded batch trade execution?
 
-In examiing this question, I will present three common systems empoyed across lesser chains. These arethe sort of arguments I can't really make in a formal filing given their derrogitory nature, so I appreciate this opportuntiy to expand on these thoughts in a meaningul way outside of litigation. 💜
+
+argument on the neccesitat adn humanitarian front:
+[prob a humanitarian paragraph here]
+args around access to contract per expensive exec
+
+In examiing this question, I will present three common systems empoyed across lesser chains. These arethe sort of arguments I can't really make in a formal filing given their derrogitory nature, so I appreciate this opportuntiy to expand on these thoughts in a meaningul way outside of litigation. 💜 Could you consider reading these sections as if you were the new Chair of the SEC? 
 
 ### 3.1 Off-Chain Order Book Systems
+
+As [disclosed](https://youtu.be/S75IvkicWD8)[^cibt]
+
+[^cibt]: _See_ collaboration discaimer at S 2.2 in description. Both of us generally understood that "protocols" like 0x could work with cautious deplotment. But I tried to present an unbaised 
 
 ![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
 
 ex of needing to remove specific items
 https://www.cftc.gov/PressRoom/PressReleases/8774-23
-
 
 
 
@@ -280,6 +288,10 @@ compare with direct "there will be bugs (NOT VERBAITM)" affirming software minds
 ------
 .
 
+cincing in 4.:
+
+[![requisite-humanitarian-application](imgs/comments/path-payment-impact.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4550837)
+["Necessity" paragraph here]
 
 
 
@@ -401,7 +413,7 @@ the only way to fix this is to have it at the protocol level so that upgrades co
 this will implicate making the argument against deposit locks as discussed on both sides of the agenda
 
 
-
+Money is power, and power needs to syty in the hands of the peope.
 ### 
 some of the args around being able to centrally control the liqudity, which is very very fucking bad
 
@@ -413,7 +425,7 @@ but actual info in 2.1 for ref
 
 
 ---
-also we should ahve soemthing implicating the use of p[eople as the arbiters for trust in central regs , which precisely cucking translets to these contracts re wooten.link/uniswap
+also we should ahve soemthing implicating the use of p[eople as the arbiters for trust in central regs , which precisely cucking translets to these contracts re ~~wooten.link/uniswap~~ link 2 in note 8 of PREV.
 
 and obvs with this, you are very explicitly assuming liability to earn trust, whcih is exactly what fucking SCP is supposed to handle
 i should have a fn harping on this and use it as pressure for SCP#25
