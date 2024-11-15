@@ -209,7 +209,7 @@ In examiing this question, I will present three common systems empoyed across le
 
 As [disclosed](https://youtu.be/S75IvkicWD8)[^cibt]
 
-[^cibt]: _See_ collaboration discaimer at S 2.2 in description. Both of us generally understood that "protocols" like 0x could work with cautious deplotment. But I tried to present an unbaised 
+[^cibt]: _See_ collaboration discaimer at S 2.2 in description. Both of us generally understood that "protocols" like 0x could work with cautious deplotment. ~~But I tried to present an unbaised ~~
 
 ![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
 
@@ -236,6 +236,11 @@ then dive into the interface quandaries, ebcause **this is more than interface i
 
 constant on the limits of other chains to not actually register true offers
 maybe here "staked my career on SPEEDEX"
+
+
+
+As is made abundantly clear in [this response](https://blog.uniswap.org/wells-notice-response.pdf#page=8) to their SEC investigation, Uniswap "Labs" is a [for-profit C corporation](imgs/comments/uniswap-labs-entity.png) with "leading U.S. institutional investors, such as Paradigm, Andreessen Horowitz, and Union Square Ventures" and "more than 100 employees." This document also highlights that the enterprise has kept its algorithms under the oppressive protection of rent-seeking [software licenses](https://github.com/orgs/WhyDRS/discussions/1).
+
 
 
 ------
@@ -292,8 +297,9 @@ cincing in 4.:
 
 [![requisite-humanitarian-application](imgs/comments/path-payment-impact.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4550837)
 ["Necessity" paragraph here]
+how it's anything but the black box pictured, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees]
 
-
+[^hidden-fees]: _See, e.g._ XYZ% [Matcha](), XYZ% [UniSwap](), and .15%+ [zeroEx](actual-org-schedule.pdf#page) website execution expenses. These are not fucking free markets.
 
 
 need to clarify very explicitly that this is Not Enqiue's fault (or the fxdao community_ but rather a fundamnetal flaw in the endgame of these contracts
