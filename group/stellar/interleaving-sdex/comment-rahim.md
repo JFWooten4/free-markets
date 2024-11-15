@@ -180,23 +180,21 @@ But the core function of asset exchange implicates not only regulatory security 
 
 [^nxlm]: These tokens are issued, controlled, and governed at the whims of central organiations operation on the netwrok. Indeed, this discussion stemmed from material concerns over the influence one such network participant had over the DEX due to their concentration of tokens. Might we widen our impact by ensuring that, just as with payments, there are no central intermediaries able to contorl the most key spocial function of trade itself?
 
-### 2.1.3 @rice2000: 
+### 2.1.3 @rice2000: Community Collaboration Focus
 
-From the original 2022 panel to today, Justin has stood firm as a neutral-ish arbitrer between Jed and Tomer's viewpoints.[^arch] From my conversations with them, historic public info, and [recent statements](https://www.reddit.com/r/Stellar/comments/1ciiki3/comment/l3b0h24), it doesn't seem they explicitly prefer any one route. These sentiments were also true by my interpretation of the 2021 [Open Protocol Meeting](https://youtu.be/aHZQfcIdmoQ?t=1214) adopting native AMMs.
+From the original 2022 panel to today, Justin has stood firm as a neutral arbitrer between Jed and Tomer's viewpoints.[^arch] It doesn't seem like Justin explicitly prefer any one route, based on limited in-person conversations, historic public info, and [recent statements](https://www.reddit.com/r/Stellar/comments/1ciiki3/comment/l3b0h24). These sentiments were also true by my interpretation of the 2021 [Open Protocol Meeting](https://youtu.be/aHZQfcIdmoQ?t=1214) adopting native AMMs.
 
 [^arch]: Please do feel free to jump in an comment if I'm missing anyhting here, though. 😅 Relevantly, by "adopting" later in this paragraph, I mean taking the [CAP Core Team](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#awaiting-decision---final-comment-period-fcp) poll, based on the open communtiy contribution framework. Might we further discuss elsewhere the migration of disucssions from the stellar-dev mailing list onto GitHub Disucssions, as implicated in S 1 at links 4&ndash;6?
 
 
-In conversation with the community projects Justin highlights, there's been a common underlying theme that trading needs to be the first use case for contracts because you can't call the DEX from Soroban. But, as discussed, we can transform the DEX together to deploy infrastructure that doesn;t overly burden a central point of failure. While it might be easier to toss trading over to member audits, might 
+In conversation with the community projects Justin highlighted on [Reddit](https://discord.com/channels/761985725453303838/946921813143851019/1291438741747138560), developers beleive trading needs to be the first Soroban use case because you can't call the DEX from contracts yet. But, as discussed, we can transform the DEX together to deploy infrastructure that doesn;t overly burden a central point of failure. Indeed, Justin seemed to lightly nod when Tomer voiced that "another option" is "people like Garand" prototyping evolved orderbooks implementing SPEEDEX.
 
-Justin seemed to lightly nod when Tomer voiced that "another option" is "people like Garand" prototyping evolved orderbooks implementing SPEEDEX.
-we continue supporting parallization and concurrent trade execution to "prevent liquidity fragmentation and arbitrage" [Garand (SDF)](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496)
-
-should very deeply integrate 2022 comments
-
-After a crowd survey, Justin responded with their thoughts on the most efficient path forward:
+Might we continue supporting parallization, decentralization, and concurrent trade execution to "prevent liquidity fragmentation and arbitrage?" Garand is only one of many SDF members who's [voiced](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496) such concerns over needless extractive arbitrage. After a crowd survey, Justin responded in 2022 with their thoughts on the most efficient path forward:
 
 > I actually think having public discussions about controversial issues like: "where scalability verses the DEX&mdash;which one to favor?"
+
+
+
 ---
 themes:
 
