@@ -194,7 +194,7 @@ Might we continue supporting parallization, decentralization, and concurrent tra
 > I actually think having public discussions about controversial issues like: "where scalability verses the DEX&mdash;which one to favor?"
 
 
-## 3. Smart Contract Trading Systems
+# 3. Smart Contract Trading Systems
 
 As I've [communicated](https://x.com/JFWooten4/status/1849109891471843764) with Tomer and [ecosystem particpants](https://discord.com/channels/897514728459468821/907476473739354153/1263819898594005075) at large, might ew design the evlution of the DEX using a "regulation-aware development strategy" (from [Sec 3](https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689))? [Compliance work](https://x.com/BurCapital/status/1857504726159344047) takesm many years of solid foundations, which Blcok Transfer has previously found in the steadfast, utalitarian, and resourceful network. Might we continue expanding on substantial past efforts to implement multithreaded batch trade execution?
 
@@ -205,7 +205,7 @@ As we will see in the next three subsections, the argument here is materially re
 
 In examiing this question, I will present three common systems empoyed across lesser chains. These arethe sort of arguments I can't really make in a formal filing given their derrogitory nature, so I appreciate this opportuntiy to expand on these thoughts in a meaningul way outside of litigation. 💜 Could you consider reading these sections as if you were the new Chair of the SEC? 
 
-### 3.1 Off-Chain Order Book Systems
+## 3.1 Off-Chain Order Book Systems
 
 Our community cares greatly about order books becuase, as "inneficient" as they might be in data-structure analysis, **they form the basis of an efficeit market.** There is no global financial system when each and every transaction relies on the goodwill of a select few.[^roths] Indeed might the democratic, egalitarian, and accessable provision of liquidity best serve an increasingly decentralized society?
 
@@ -217,7 +217,7 @@ I've believed in the DEX since the moment I understood SCP, [this vide](https://
 
 [opporutnity for another pg here]
 
-#### 3.1.1 Unspoken, Silent Centralization Inceitves
+### 3.1.1 Unspoken, Silent Centralization Inceitves
 
 ![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
 
@@ -229,11 +229,19 @@ The public fee schedules avalibael from 0x[^lolf] reveal take rates starting at 
 
 These are economic rents siphoned off to a select few groups of early investors who were ucy enough to capture the immense value of liquidity singulariies. And it is preciesly this centralizeation that allows them to force transactinos through the complex intermediated frameworks neccesary to most efficiently trabsacto pn _their_ system. Should we really let our freedoms, governance, and oversight stay in the manipulative hands of these centally-controlled iniddlemn?
 
-#### 3.1.2 Unspeakably Efficient Path Handling
+### 3.1.2 Unspeakably Efficient Path Handling
 
 No matter how you slice andd dice your interpretation, Rust in the execution enviromnet will never operate as fast as validators' C++ logic. This presently enables the unbelievanle efficiencies of 6-hop order routing without a central partyy. Might this unique idfferentiiation of the DEX best allow us to compete with monopolistic, entranched, and stagnant incumbents' domineering grasp on global financial liquisity?
 
 I will go on to compare this opportunity with the present system which [continually faces](https://www.cftc.gov/PressRoom/PressReleases/8774-23) material regulatory scrutiiny. Might the only way to maximuze capital formation, efficient markets, and investor protects be to design a system which fundamnetally disslows centralized censortship of specific items deemed innaproriate in the legacy reguatory context? This idealistic future, poriginated in the founding vision of Stellar, exists only in a distriubted trade execution environment.
+
+The only way to mimix this efficeicnty in the status quo is to consolidate all recordkeeping into a single entity. This powerful overlord can thus know all information, theoretically offering the most efficient system. But we've seen this gatekeeping develop firstahnd through the [monpolization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885194) clearly present in America's DTCC, and it's not pretty.
+
+### 3.1.3 We Are Not Ripple
+
+In the BFT world, beneavolent dictators unilaterally decide exactly knwo starts off with power. And in a mathematical system as complex as the market, these initalization conditions have profound long-term implications. Might we step back and ask our selves if it's worth deveating from the ingenious course we've been chartting together for over a decade?
+
+
 
 
 
