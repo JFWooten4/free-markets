@@ -75,7 +75,7 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 > Right now, I can place an order on a thin orderbook and it might be filled if there's a path payment through it at that price.  Without the amm, I'd have to rely on just the volume in that pair, or maybe someone who happens to be running a bot against some soroban pool somewhere.
 > There's also the fact that in ALL other chains, if I want to swap, I need to go to one site that runs a good UI for one pair into a common token (eth or op or sol or whatever), and then at least 1 other site to get to what I want.  Expensive, slow, and annoying.
 > 
-> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
+> &mdash; [aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
 
 
 ### 1.2.3 Active Competative Differentiation Work
@@ -241,8 +241,16 @@ The only way to mimix this efficeicnty in the status quo is to consolidate all r
 
 In the BFT world, beneavolent dictators unilaterally decide exactly knwo starts off with power. And in a mathematical system as complex as the market, these initalization conditions have profound long-term implications. Might we step back and ask our selves if it's worth deveating from the ingenious course we've been chartting together for over a decade?
 
+Should we burden the network with spam due to "someone who happens to be running a bot against some soroban pool somewhere," as aLatvian said? Or should we protect our existing implementation in stellar-score, obviating the needless localization of functionaltiy as basic as cross-boarder exchanging payments? Perhaps create a just society where we might share the natral abundance afforded by liquid markets and their implications?
+
+There's a reason "ALL other chains" face the material oeprational limitations presently unaflicting the DEX.[^cite] Should any meaningful volume chift hnds into Soroban venues, we risk seeing the newrok's good name getting smeared in the legal abiguity of a Wells notce.[^exam] 
+
+[^cite]: _See_ David at _supra_ S 1.2.2.
+
+[^exam]: In numerous encounteres with traditional web3 pioneers on other chains, I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
 
 
+### 3.2 ZKrolls and such
 
 
 args around access to contract per expensive exec
@@ -257,7 +265,6 @@ then dive into the interface quandaries, ebcause **this is more than interface i
 
 
 
-### 3.2 ZKrolls and such
 
 
 
