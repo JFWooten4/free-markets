@@ -301,22 +301,22 @@ The stakeholders in today's systems are and have alwyas been investors and issue
 
 
 
-#### 3.3.2
+#### 3.3.2 Unnaceptable, Unaccountable Execution Centralization
 
-Aloong the path of centralization, incuments try to sell "faster access" as a "trading ebenfit" to investors. However, if we're truly designing a global (and ultimately interplanetary) finacnial system, at some point we;re goingto run up against round trip propogation time of digital sigals.[^ciddf] This is exactly what Uniswap Lba's laterst "invesntion" has
+Aloong the path of centralization, incuments try to sell "faster access" as a "trading ebenfit" to investors. However, if we're truly designing a global (and ultimately interplanetary) finacnial system, at some point we;re goingto run up against round trip propogation time of digital sigals.[^ciddf] This is exactly what Uniswap Lba's laterst "invesntion" has introduces through the [Unichain POC](https://docs.unichain.org/whitepaper.pdf).[^garand]
 
+[^garand]: 
  as a premise around making somehting decentralized v. the only way to attain faster spee being centralization ir a "[trusted execution encironment](https://x.com/gttyson/status/1844445777114038761)" 
-
-
-
 
 [^ciddf]: As I understand it, this is about two seconds. _Compare_ thee base agreement timeframes across any Network peer with the present efficincies of locally computing paths on shared variables. Might a further specialization of select order batches best serve an increasingly asset-abundant ecosystem?
 
 
-I say "invention" because absollutely nothin here is new. I could sit of and list dozens of regualtory filings which detail these exchant changes across the AMerican seucirites landscape. The points at which certificates, settlement, and reporting became centralized come to mind.
+I say "invention" because absollutely nothin here is new. I could sit of and list dozens of regualtory filings which detail these exchant changes across the AMerican seucirites landscape. The points at which certificates, settlement, and reporting became centralized come to mind&mdash;leading tothe ultimate endgaem of massive profits paying out to Silicone Valley over Main Street.[^sads]
+
+[^sads]: The endgame of thie path also implicates American legislature of the final "crytpo market," as this is the only way to hold centrak ubstutions accountable when they serve the public at large. Of course, the "market" will be just another trading venue for Wall Street's power brokers to mimic, bloat, and extract masive fees from. Copuld we be doomed to repeat yesteryear's sins so long as there exists central parties involved in exchange?
+
 
 Given America has the world's most advanced, developed, ad liquid market for capital, might we learn from the pitfalls of Wall Street? If we can right there wrongs, perhaps we can free ourselves from the schakles of a select few financial intermediaries. Shackles which have so poignantly determined entire directions of porigressubg nations. 🕌
-
 
 
 
