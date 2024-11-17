@@ -253,13 +253,13 @@ There's a reason "ALL other chains" face the material oeprational limitations pr
 [^exam]: In numerous encounteres with traditional web3 pioneers on other chains, I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
 
 
-### 3.2 ZKrolls and such
+### 3.2 ZK Scaling and Rollutips
 
 My [original implementation](https://github.com/blocktransfer/TAD2) of a stock market was designed to scale with optimistic rollups, as they're an easy answer to the scaling question plaging less efficient blockchains. Another option, [zero-knoeldge proofs](https://youtu.be/PIFclL2EE9g), offer similar promises. Admittedtly, this is not my area of expertise iby any means.
 
 But I know markets, and the fundamental probelm we ran in to with these systems is that htey require an order books hwick lives somewhere other than on-chain. And the latter case often requires contracts to both simplify and propogate complex off-chain math. These abstractions create the unholy mess of a merket present in the U.S.[^mk]
 
-
+The power of longstandign Rust contracts is indeniable, per Garand's sentiments. We're at the start of an unparlaleled journey to build an innovative financial system that actually serves the neeeds of it users, not its executives. Might we move past the elementary applciations so common on other chains which we have already efficeintly solvied using validator-level logic?
 
 
 [^mk]: _See, e.g._ routine coplexity in S 2.2 of PREV. _Compare_ cobvoluted rotung which developed over half a century with elegant simplicities promoted by direct pairwise liquidity pools in CAP38. Might innate routing efficincy drasticaly simplify the process of building dApps on Stellar? 🌌
@@ -267,7 +267,9 @@ But I know markets, and the fundamental probelm we ran in to with these systems 
 [^es]: _See, e.g.,_ transaction from S 2.1.1, a fraction of instuttional volume. Upon conusltation with Enrique, this was the most anyone paid for the asset by far. Should we silo liquidity in contracts, making it sparingly available to specific users through certain frontends?
 
 
-### 3.3 Specified as like uni v4
+### 3.3 "UniV4-style" Future Developmet Pitfalls
+
+I will be the first pershon in a room to jump up if anyone asksy why Uniswap V4 exists. There is one very clear reason, and one reason alone
 
 constant on the limits of other chains to not actually register true offers
 maybe here "staked my career on SPEEDEX"
