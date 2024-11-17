@@ -285,7 +285,28 @@ The further down this path of control you cenutre, the closer you get to today's
 [^tup]: _See_ Tupui at _supra_ S 1.2.3.
 
 
-#### 3.3.1
+#### 3.3.1 Constitutional Corproate Overloard, Investors
+
+As is made abundantly clear in [this response](https://blog.uniswap.org/wells-notice-response.pdf#page=8) to their SEC investigation, Uniswap "Labs" is a [for-profit C corporation](imgs/comments/uniswap-labs-entity.png) with "leading U.S. institutional investors, such as Paradigm, Andreessen Horowitz, and Union Square Ventures" and "more than 100 employees." This document also highlights that the enterprise has kept its algorithms under the oppressive protection of rent-seeking [software licenses](https://github.com/orgs/WhyDRS/discussions/1).
+
+I am in no way whatesoveer implying that similar business practices mightemmerge over the years from existing netowkr partitcipants. But even if the ecosystem's Soroban developers adhere strictly to the nonprofit principles embedded in SCP, they'll still be targets for regulatory action the moment they touch absolutely anything we're building at Block Transfer. It was also discussed that the SDF could deploy "definative" Soroban AMMs to centralize liqudity, but this wiuld very unambiguously place the Foundation in the crosshairs of similar threats.[^conv]
+
+[^conv]: I have communicated this view with multiple SDF staff members over the years, including in the confidential notes of our third application to SCF. The underlying _funding_ of an excange venue is categorically different than the _operations_ of root protocol rules. INdeed, this is precisely that paradox I ran into when I originally tried to position the Syndicate itself as a "stock transfer protocol," rather than the TAD3 complinance layer.
+
+
+The stakeholders in today's systems are and have alwyas been investors and issuers. Might any other party involved in the exchange process [excluselvy serve](https://youtu.be/HQZg0ZY-Amg?t=2353) to suck value away from those two grpous? Might we defend the DEX as the last bastion of a free financial market?
+
+
+
+
+
+
+also relevant but a seperate oinit whicih perhaps we can interlink with teh SDF's role/ish would be the 
+formation of a "Foundation" fiyr years after incrpation, and directly after XYZ (implciate FTX at link explaining the fake insurance fund via FTT)
+
+UniSwap "Labs" is a profit-fit corporation with a [legal mandate](https://en.wikipedia.org/wiki/Dodge_v._Ford_Motor_Co.) to maximimze profits for shareholders.
+
+and obviously at some point we;re goingto  need to introduce the world-signal 2sec round trip as a premise around making somehting decentralized v. the only way to attain faster spee being centralization ir a "[trusted execution encironment](https://x.com/gttyson/status/1844445777114038761)" which requisites gatekeeping to a select few financial intermediaries, serving the interests of Silicone Vlley over Main Street, and porigressubg nations, and you. 
 
 
 #### 3.3.2
@@ -300,16 +321,6 @@ maybe here "staked my career on SPEEDEX"
 
 
 
-As is made abundantly clear in [this response](https://blog.uniswap.org/wells-notice-response.pdf#page=8) to their SEC investigation, Uniswap "Labs" is a [for-profit C corporation](imgs/comments/uniswap-labs-entity.png) with "leading U.S. institutional investors, such as Paradigm, Andreessen Horowitz, and Union Square Ventures" and "more than 100 employees." This document also highlights that the enterprise has kept its algorithms under the oppressive protection of rent-seeking [software licenses](https://github.com/orgs/WhyDRS/discussions/1).
-
-[large number of technical flaws](https://x.com/gttyson/status/1844446137408946680) per MeV L3 post
-
-also relevant but a seperate oinit whicih perhaps we can interlink with teh SDF's role/ish would be the 
-formation of a "Foundation" fiyr years after incrpation, and directly after XYZ (implciate FTX at link explaining the fake insurance fund via FTT)
-
-UniSwap "Labs" is a profit-fit corporation with a [legal mandate](https://en.wikipedia.org/wiki/Dodge_v._Ford_Motor_Co.) to maximimze profits for shareholders.
-
-and obviously at some point we;re goingto  need to introduce the world-signal 2sec round trip as a premise around making somehting decentralized v. the only way to attain faster spee being centralization ir a "[trusted execution encironment](https://x.com/gttyson/status/1844445777114038761)" which requisites gatekeeping to a select few financial intermediaries, serving the interests of Silicone Vlley over Main Street, and porigressubg nations, and you. 
 
 ------
 
@@ -443,7 +454,6 @@ the problem is their revenue, popoularity, and indeed sustainability comes from 
 [^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 per GUH and the kid that killed himself
 
 
-S 2 should start with https://www.youtube.com/watch?v=HQZg0ZY-Amg&list=PLWUFvhKuc_5vycN0giWpgWIBbL4vuK88t at a tiemstamp or /ED_
 
 ## Our Opportunity
 
@@ -588,9 +598,9 @@ Enrique: let's commend the move away from PoW per mining implications
 
 
 
-Might we defend the DEX as the last bastion of a free financial market?
 
 
+Might an investment in efficient markets today serve the network's issuers for all eternity?
 
 
 
