@@ -243,7 +243,10 @@ In the BFT world, beneavolent dictators unilaterally decide exactly knwo starts 
 
 Should we burden the network with spam due to "someone who happens to be running a bot against some soroban pool somewhere," as aLatvian said? Or should we protect our existing implementation in stellar-score, obviating the needless localization of functionaltiy as basic as cross-boarder exchanging payments? Perhaps create a just society where we might share the natral abundance afforded by liquid markets and their implications?
 
-There's a reason "ALL other chains" face the material oeprational limitations presently unaflicting the DEX.[^cite] Should any meaningful volume chift hnds into Soroban venues, we risk seeing the newrok's good name getting smeared in the legal abiguity of a Wells notce.[^exam] 
+There's a reason "ALL other chains" face the material oeprational limitations presently unaflicting the DEX.[^cite] Should any meaningful volume chift hnds into Soroban venues, we risk seeing the newrok's good name getting smeared in the legal abiguity of a Wells notce.[^exam] Is this the fate Jed envisioned when they [wrote](https://github.com/stellar-deprecated/docs/commit/40dcdd5f7694afe8e0a80744be050fb619b690aa#diff-33f8136fb62b58edc1ba95991ceab5575eaac61855583bba45c60121990a8709R42):
+
+> Imagine a world where, anytime you travel, you never have to exchange currency except at the point of sale. A world where you can choose to keep all your assets in, for example, Google stock, cashing out small amounts as you need to pay for things. Cross-asset payments make this world possible.
+
 
 [^cite]: _See_ David at _supra_ S 1.2.2.
 
@@ -252,20 +255,16 @@ There's a reason "ALL other chains" face the material oeprational limitations pr
 
 ### 3.2 ZKrolls and such
 
+My [original implementation](https://github.com/blocktransfer/TAD2) of a stock market was designed to scale with optimistic rollups, as they're an easy answer to the scaling question plaging less efficient blockchains. Another option, [zero-knoeldge proofs](https://youtu.be/PIFclL2EE9g), offer similar promises. Admittedtly, this is not my area of expertise iby any means.
 
-args around access to contract per expensive exec
-args for "multi-asset" diversificution horeshit v. routing efficiently
-
-
-In the example from S 2.1.1, I paid at least three times the trading market rate because today's liquidity venues silo orders into contracts. Despite attempting to use centralized frontends to these services, the process to transact in them
-
-Despite attempting to transact with such hidden sources of liquidity
-
-then dive into the interface quandaries, ebcause **this is more than interface implicationls**
+But I know markets, and the fundamental probelm we ran in to with these systems is that htey require an order books hwick lives somewhere other than on-chain. And the latter case often requires contracts to both simplify and propogate complex off-chain math. These abstractions create the unholy mess of a merket present in the U.S.[^mk]
 
 
 
 
+[^mk]: _See, e.g._ routine coplexity in S 2.2 of PREV. _Compare_ cobvoluted rotung which developed over half a century with elegant simplicities promoted by direct pairwise liquidity pools in CAP38. Might innate routing efficincy drasticaly simplify the process of building dApps on Stellar? 🌌
+
+[^es]: _See, e.g.,_ transaction from S 2.1.1, a fraction of instuttional volume. Upon conusltation with Enrique, this was the most anyone paid for the asset by far. Should we silo liquidity in contracts, making it sparingly available to specific users through certain frontends?
 
 
 ### 3.3 Specified as like uni v4
