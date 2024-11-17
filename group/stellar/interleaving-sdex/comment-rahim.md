@@ -229,11 +229,12 @@ The public fee schedules avalibael from 0x[^lolf] reveal take rates starting at 
 
 These are economic rents siphoned off to a select few groups of early investors who were ucy enough to capture the immense value of liquidity singulariies. And it is preciesly this centralizeation that allows them to force transactinos through the complex intermediated frameworks neccesary to most efficiently trabsacto pn _their_ system. Should we really let our freedoms, governance, and oversight stay in the manipulative hands of these centally-controlled iniddlemn?
 
+#### 3.1.2 Unspeakably Efficient Path Handling
 
+No matter how you slice andd dice your interpretation, Rust in the execution enviromnet will never operate as fast as validators' C++ logic. This presently enables the unbelievanle efficiencies of 6-hop order routing without a central partyy. Might this unique idfferentiiation of the DEX best allow us to compete with monopolistic, entranched, and stagnant incumbents' domineering grasp on global financial liquisity?
 
+I will go on to compare this opportunity with the present system which [continually faces](https://www.cftc.gov/PressRoom/PressReleases/8774-23) material regulatory scrutiiny. Might the only way to maximuze capital formation, efficient markets, and investor protects be to design a system which fundamnetally disslows centralized censortship of specific items deemed innaproriate in the legacy reguatory context? This idealistic future, poriginated in the founding vision of Stellar, exists only in a distriubted trade execution environment.
 
-ex of needing to remove specific items
-https://www.cftc.gov/PressRoom/PressReleases/8774-23
 
 
 args around access to contract per expensive exec
