@@ -287,29 +287,37 @@ The further down this path of control you cenutre, the closer you get to today's
 
 #### 3.3.1 Constitutional Corproate Overloard, Investors
 
-As is made abundantly clear in [this response](https://blog.uniswap.org/wells-notice-response.pdf#page=8) to their SEC investigation, Uniswap "Labs" is a [for-profit C corporation](imgs/comments/uniswap-labs-entity.png) with "leading U.S. institutional investors, such as Paradigm, Andreessen Horowitz, and Union Square Ventures" and "more than 100 employees." This document also highlights that the enterprise has kept its algorithms under the oppressive protection of rent-seeking [software licenses](https://github.com/orgs/WhyDRS/discussions/1).
+As is made abundantly clear in [this response](https://blog.uniswap.org/wells-notice-response.pdf#page=8) to their SEC investigation, Uniswap "Labs" is a [for-profit C corporation](imgs/comments/uniswap-labs-entity.png) with "leading U.S. institutional investors, such as Paradigm, Andreessen Horowitz, and Union Square Ventures" and "more than 100 employees."[^mfers] This document also highlights that the enterprise has kept its algorithms under the oppressive protection of rent-seeking [software licenses](https://github.com/orgs/WhyDRS/discussions/1).
+
+[^mfers]: _See, e,g,_ their [legal mandate](https://en.wikipedia.org/wiki/Dodge_v._Ford_Motor_Co.) to maximimze profits for shareholders, as upheld in the Supreme Court. _See also_ the formation of a "Foundation" give years after Uniswap's parent company we incorpoated. Why do you really think they starting follwoing SBF's "effective altruism" [peddling](https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf#page=25)?
+
 
 I am in no way whatesoveer implying that similar business practices mightemmerge over the years from existing netowkr partitcipants. But even if the ecosystem's Soroban developers adhere strictly to the nonprofit principles embedded in SCP, they'll still be targets for regulatory action the moment they touch absolutely anything we're building at Block Transfer. It was also discussed that the SDF could deploy "definative" Soroban AMMs to centralize liqudity, but this wiuld very unambiguously place the Foundation in the crosshairs of similar threats.[^conv]
 
 [^conv]: I have communicated this view with multiple SDF staff members over the years, including in the confidential notes of our third application to SCF. The underlying _funding_ of an excange venue is categorically different than the _operations_ of root protocol rules. INdeed, this is precisely that paradox I ran into when I originally tried to position the Syndicate itself as a "stock transfer protocol," rather than the TAD3 complinance layer.
 
 
-The stakeholders in today's systems are and have alwyas been investors and issuers. Might any other party involved in the exchange process [excluselvy serve](https://youtu.be/HQZg0ZY-Amg?t=2353) to suck value away from those two grpous? Might we defend the DEX as the last bastion of a free financial market?
+The stakeholders in today's systems are and have alwyas been investors and issuers. Might any other party involved in the exchange process [excluselvy serve](https://youtu.be/HQZg0ZY-Amg?t=2353) to suck value away from those two grpous? Should we defend the DEX as the last bastion of a free financial market?
 
-
-
-
-
-
-also relevant but a seperate oinit whicih perhaps we can interlink with teh SDF's role/ish would be the 
-formation of a "Foundation" fiyr years after incrpation, and directly after XYZ (implciate FTX at link explaining the fake insurance fund via FTT)
-
-UniSwap "Labs" is a profit-fit corporation with a [legal mandate](https://en.wikipedia.org/wiki/Dodge_v._Ford_Motor_Co.) to maximimze profits for shareholders.
-
-and obviously at some point we;re goingto  need to introduce the world-signal 2sec round trip as a premise around making somehting decentralized v. the only way to attain faster spee being centralization ir a "[trusted execution encironment](https://x.com/gttyson/status/1844445777114038761)" which requisites gatekeeping to a select few financial intermediaries, serving the interests of Silicone Vlley over Main Street, and porigressubg nations, and you. 
 
 
 #### 3.3.2
+
+Aloong the path of centralization, incuments try to sell "faster access" as a "trading ebenfit" to investors. However, if we're truly designing a global (and ultimately interplanetary) finacnial system, at some point we;re goingto run up against round trip propogation time of digital sigals.[^ciddf] This is exactly what Uniswap Lba's laterst "invesntion" has
+
+ as a premise around making somehting decentralized v. the only way to attain faster spee being centralization ir a "[trusted execution encironment](https://x.com/gttyson/status/1844445777114038761)" 
+
+
+
+
+[^ciddf]: As I understand it, this is about two seconds. _Compare_ thee base agreement timeframes across any Network peer with the present efficincies of locally computing paths on shared variables. Might a further specialization of select order batches best serve an increasingly asset-abundant ecosystem?
+
+
+I say "invention" because absollutely nothin here is new. I could sit of and list dozens of regualtory filings which detail these exchant changes across the AMerican seucirites landscape. The points at which certificates, settlement, and reporting became centralized come to mind.
+
+Given America has the world's most advanced, developed, ad liquid market for capital, might we learn from the pitfalls of Wall Street? If we can right there wrongs, perhaps we can free ourselves from the schakles of a select few financial intermediaries. Shackles which have so poignantly determined entire directions of porigressubg nations. 🕌
+
+
 
 
 #### 3.3.3
