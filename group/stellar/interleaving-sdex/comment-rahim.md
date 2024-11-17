@@ -227,7 +227,7 @@ The public fee schedules avalibael from 0x[^lolf] reveal take rates starting at 
 
 [^lolf]: Which are paltry at best aside from gidding into smart-contract code. _Compare_ these lax discolsures to the extensive public avaliability of pricing data from any number of traditional financial intermediaries. _See, e.g.,_ SEC-mandated Form 606, ATS, and 19b-4 reports letting investors know what fees they internalize.
 
-These are economic rents siphoned off to a select few groups of early investors who were ucy enough to capture the immense value of liquidity singulariies. And it is preciesly this centralizeation that allows them to force transactinos through the complex intermediated frameworks neccesary to most efficiently trabsacto pn _their_ system. Should we really let our freedoms, XYZ, and ABC stay in the greedy hands of these cental iniddlemn?
+These are economic rents siphoned off to a select few groups of early investors who were ucy enough to capture the immense value of liquidity singulariies. And it is preciesly this centralizeation that allows them to force transactinos through the complex intermediated frameworks neccesary to most efficiently trabsacto pn _their_ system. Should we really let our freedoms, governance, and oversight stay in the manipulative hands of these centally-controlled iniddlemn?
 
 
 
