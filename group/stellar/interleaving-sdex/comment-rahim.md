@@ -13,7 +13,7 @@ In an effort to further these foundational principles that uniquely belowng to t
 I'm writing this as someone who just wants the most efficient technology possible under our stewardship because I've felt so keenly the vast inadequacies of legacy markets for practically my whole life. They have ripped apart my family, taken nearly every drop of opportunity I've identified right out of my hands, and pulverized my aspirations as a mainstream asset manager.[^self] There is nothing I want more than for the network to succeed, and I believe wholeheatedly that we will triumph enormously over other technologies given the proper execution of scalable, decentralized, egalitarian markets. 🫱🏻‍🫲🏿
 
 
-[^self]: This is not a reply about myself, but I just want to share my openly-disclosed "stake at the table." I have aproximately $3,000 in both my checking account and Roth IRA; everything else is in [john.xlm](https://stellar.expert/explorer/public/account/GC5TUPFLOXCINDYHQVYYLLVYP6GKHT65ELB2Q2WLFTGN63YYIXPQTDFJ). I sold the vast majority of my assets three years ago for [$30,000](WHYDRS_TRADING_HREF_T), which I've been using to build the stock market on Stellar ever sense.
+[^self]: This is not a reply about myself, but I just want to share my openly-disclosed "stake at the table." I have aproximately $3,000 in both my checking account and Roth IRA; everything else is in [john.xlm](https://stellar.expert/explorer/public/account/GC5TUPFLOXCINDYHQVYYLLVYP6GKHT65ELB2Q2WLFTGN63YYIXPQTDFJ). I sold the vast majority of my assets three years ago for [$30,000](https://youtu.be/rbjFjda3_UI?t=4815), which I've been using to build the stock market on Stellar ever sense.
 
 # 1. Extensive Recent Community Actions
 
@@ -75,7 +75,7 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 > Right now, I can place an order on a thin orderbook and it might be filled if there's a path payment through it at that price.  Without the amm, I'd have to rely on just the volume in that pair, or maybe someone who happens to be running a bot against some soroban pool somewhere.
 > There's also the fact that in ALL other chains, if I want to swap, I need to go to one site that runs a good UI for one pair into a common token (eth or op or sol or whatever), and then at least 1 other site to get to what I want.  Expensive, slow, and annoying.
 > 
-> &mdash;[ aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
+> &mdash;[aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302064708035154000)
 
 
 ### 1.2.3 Active Competative Differentiation Work
@@ -198,26 +198,46 @@ Might we continue supporting parallization, decentralization, and concurrent tra
 
 As I've [communicated](https://x.com/JFWooten4/status/1849109891471843764) with Tomer and [ecosystem particpants](https://discord.com/channels/897514728459468821/907476473739354153/1263819898594005075) at large, might ew design the evlution of the DEX using a "regulation-aware development strategy" (from [Sec 3](https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689))? [Compliance work](https://x.com/BurCapital/status/1857504726159344047) takesm many years of solid foundations, which Blcok Transfer has previously found in the steadfast, utalitarian, and resourceful network. Might we continue expanding on substantial past efforts to implement multithreaded batch trade execution?
 
+As we will see in the next three subsections, the argument here is materially related to the neverending debate of centralization v. decentralization. But when applied to liquidity _tself_, we need a forcing function to an agreed-upon standard not dissimilar to the GPL. The chief difference between traditional "distrbute wealth and power" arguments and fundamental markets is that anything other than a single venue enables wasteful arbitrage.[^furth-liq]
 
-argument on the neccesitat adn humanitarian front:
-[prob a humanitarian paragraph here]
-args around access to contract per expensive exec
+[^furth-liq]: Consider, e.g., the posited scenario fo a rural Kenyan farmer sending Euros through string receive. How can that person expect fair execution if the European bank has some large amount of value lcoked away in a single (or even many) Soroban AMM-type projects? If all the central bankers vote to concentrate their "liquidity rewards" on Yen, will the Kenyan be unreasonably forced to route payments through unnatural venues?
+
 
 In examiing this question, I will present three common systems empoyed across lesser chains. These arethe sort of arguments I can't really make in a formal filing given their derrogitory nature, so I appreciate this opportuntiy to expand on these thoughts in a meaningul way outside of litigation. 💜 Could you consider reading these sections as if you were the new Chair of the SEC? 
 
 ### 3.1 Off-Chain Order Book Systems
 
-As [disclosed](https://youtu.be/S75IvkicWD8)[^cibt]
+Our community cares greatly about order books becuase, as "inneficient" as they might be in data-structure analysis, **they form the basis of an efficeit market.** There is no global financial system when each and every transaction relies on the goodwill of a select few.[^roths] Indeed might the democratic, egalitarian, and accessable provision of liquidity best serve an increasingly decentralized society?
 
-[^cibt]: _See_ collaboration discaimer at S 2.2 in description. Both of us generally understood that "protocols" like 0x could work with cautious deplotment. ~~But I tried to present an unbaised ~~
+[^roths]: _See, e.g.,_ [banking implications](https://x.com/JFWooten4/status/1854915975247794213) at 1:18:20 deminstrated after the Chancellor was on the brink of second bailout for banks. Could these antiquated challenges exist chiefly because of the unambigous tradeoffs implicit inthe isolated, partitioned, and fragmented markets of yesterday? After fixing the conundrum of whom to trust via SCP, might we perhaps perpetuate Jed's founding vision of a single lqiquitity nexus?
+
+I've believed in the DEX since the moment I understood SCP, [this vide](https://youtu.be/YFca255hXj8), and Wall Street's exclusive club.[^cibt] And I believe with every ounce of my being that we're dooming future generations to contnued exploiteatteion by these bastardizing central planners if we fail to protect the last bastion of a free market present in the network. Here abd now is our opportunity to fulfil Nakamoto's vision for a disintermediated base financial infrastrucutre, capable of the globr's payments, trades, and balances&mdash;not a select few.
+
+[^cibt]: _See_ collaboration discaimer at S 2.2 in [video](https://youtu.be/S75IvkicWD8) description. Both of us generally understood that "protocols" like 0x could work with cautious deplotment, buit time has proved that the developers thereof have consistantly put profit over order execution efficinecy. Might these be the explicit tradeoffs incherit in a [credit-based system](https://youtu.be/YUwqzeaR1lA?t=23) surrounded by venture-cpaital interests?
+
+[opporutnity for another pg here]
+
+#### 3.1.1 Unspoken, Silent Centralization Inceitves
 
 ![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
+
+Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better known as 0x. [Here](https://www.sec.gov/edgar/browse/?CIK=0001828694) are their regulatory filings discolsuing material venuture investing for every year in the first three years of its existance. These filings detail how this corporation sold at least $84,121,200 to a paltry 45 investors at minimum.
+
+The public fee schedules avalibael from 0x[^lolf] reveal take rates starting at .15% - conservatively. These are not expenses passed on to a decentralized group of liquidity providers. They are not safegaurding fees built around investor protections of regulatory frameworks _in toto_.
+
+[^lolf]: Which are paltry at best aside from gidding into smart-contract code. _Compare_ these lax discolsures to the extensive public avaliability of pricing data from any number of traditional financial intermediaries. _See, e.g.,_ SEC-mandated Form 606, ATS, and 19b-4 reports letting investors know what fees they internalize.
+
+These are economic rents siphoned off to a select few groups of early investors who were ucy enough to capture the immense value of liquidity singulariies. And it is preciesly this centralizeation that allows them to force transactinos through the complex intermediated frameworks neccesary to most efficiently trabsacto pn _their_ system. Should we really let our freedoms, XYZ, and ABC stay in the greedy hands of these cental iniddlemn?
+
+
+
 
 ex of needing to remove specific items
 https://www.cftc.gov/PressRoom/PressReleases/8774-23
 
 
-
+args around access to contract per expensive exec
+args for "multi-asset" diversificution horeshit v. routing efficiently
 
 
 In the example from S 2.1.1, I paid at least three times the trading market rate because today's liquidity venues silo orders into contracts. Despite attempting to use centralized frontends to these services, the process to transact in them
@@ -567,8 +587,6 @@ Aquarius is just a single project. You’re framing it as though Aquarius aims t
 
 The only reason Aquarius is shifting from classic to Soroban is that it was built before Soroban existed. Liquidity on Soroban will ultimately benefit Stellar the most. Additionally, the Aquarius team is highly active in the ecosystem. If SDF takes further action for SDEX in the future, I’m confident the DAO can reallocate reward funds if necessary. This is just speculation, of course, as Garand’s work for SDEX is still in its very early stages. However, this issue is not specific to Aquarius. Other projects, like Phoenix and Blend, are also incentivizing liquidity for Soroban protocols.
 
-> Liquidity as a centralized v. decentralized factor of production has immense humanitarian implications.
 
-Like other projects building on Stellar, Aquarius is using smart contracts for this. Decentralization is the goal, and we’ll get there step by step. The same applies to other projects. Soroban is still very new, and AMM-type projects require ongoing development and improvement.
 
-For liquidity, as you know, voting and AQUA play a key role. Anyone can lock AQUA to vote for a project and put it in the rewards zone. The rewards are attractive, and it’s not costly to participate. This allows developers and the community to use the opportunity as they see fit. However, rewards are just one aspect. Developers can also create a pool on Aquarius AMMs and still benefit from the technology. Even in its initial launch, Aquarius AMMs are more functional than classic AMMs, offering features like multi-asset pools and stable pools.
+
