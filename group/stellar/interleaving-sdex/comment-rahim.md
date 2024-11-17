@@ -241,7 +241,14 @@ maybe here "staked my career on SPEEDEX"
 
 As is made abundantly clear in [this response](https://blog.uniswap.org/wells-notice-response.pdf#page=8) to their SEC investigation, Uniswap "Labs" is a [for-profit C corporation](imgs/comments/uniswap-labs-entity.png) with "leading U.S. institutional investors, such as Paradigm, Andreessen Horowitz, and Union Square Ventures" and "more than 100 employees." This document also highlights that the enterprise has kept its algorithms under the oppressive protection of rent-seeking [software licenses](https://github.com/orgs/WhyDRS/discussions/1).
 
+[large number of technical flaws](https://x.com/gttyson/status/1844446137408946680) per MeV L3 post
 
+also relevant but a seperate oinit whicih perhaps we can interlink with teh SDF's role/ish would be the 
+formation of a "Foundation" fiyr years after incrpation, and directly after XYZ (implciate FTX at link explaining the fake insurance fund via FTT)
+
+UniSwap "Labs" is a profit-fit corporation with a [legal mandate](https://en.wikipedia.org/wiki/Dodge_v._Ford_Motor_Co.) to maximimze profits for shareholders.
+
+and obviously at some point we;re goingto  need to introduce the world-signal 2sec round trip as a premise around making somehting decentralized v. the only way to attain faster spee being centralization ir a "[trusted execution encironment](https://x.com/gttyson/status/1844445777114038761)" which requisites gatekeeping to a select few financial intermediaries, serving the interests of Silicone Vlley over Main Street, and porigressubg nations, and you. 
 
 ------
 
@@ -541,3 +548,22 @@ clkosing intro to community in thread:
 let's do as a reply to https://discordapp.com/channels/761985725453303838/1302004423483981924/1304799045826379818 based on DMs
 
 we're all on the same team 🤝
+
+^ per se this (prob respond here or quote: https://discord.com/channels/761985725453303838/779402900828323891/1307362967918215250
+
+> There is a single group of people that issue AQUA tokens, whether or not the distribution thereof comes from DAO choices or not. The ICE systemic design choices rested in the hands of a central organization. Compare this with the decentralized rules of the network inherent in SCP.
+
+First of all, the issuer is locked. All supply is controlled by the Signers Guild. There is no single group of people issuing tokens—you are wrong. The Signers Guild controls over 75% of the uncirculated supply of AQUA. AFAIK, some other popular projects on Stellar have followed a similar approach. You can see all the guild wallets here: https://medium.com/aquarius-aqua/aquarius-signers-guild-8f7f383d2fa9
+
+> If we have SPEEDEX then we don't need
+> I will do my damndest to address this here by Monday because the answer is relatively nuanced.
+
+Aquarius is just a single project. You’re framing it as though Aquarius aims to end SDEX and bring liquidity solely to Soroban. I’ve seen this viewpoint from you in the channel @earrietadev.xlm created. However, the purpose of that channel is not negativity—it’s to provide different viewpoints and contribute to the ecosystem in the best way possible. There are and will continue to be thousands of projects building on Soroban.
+
+The only reason Aquarius is shifting from classic to Soroban is that it was built before Soroban existed. Liquidity on Soroban will ultimately benefit Stellar the most. Additionally, the Aquarius team is highly active in the ecosystem. If SDF takes further action for SDEX in the future, I’m confident the DAO can reallocate reward funds if necessary. This is just speculation, of course, as Garand’s work for SDEX is still in its very early stages. However, this issue is not specific to Aquarius. Other projects, like Phoenix and Blend, are also incentivizing liquidity for Soroban protocols.
+
+> Liquidity as a centralized v. decentralized factor of production has immense humanitarian implications.
+
+Like other projects building on Stellar, Aquarius is using smart contracts for this. Decentralization is the goal, and we’ll get there step by step. The same applies to other projects. Soroban is still very new, and AMM-type projects require ongoing development and improvement.
+
+For liquidity, as you know, voting and AQUA play a key role. Anyone can lock AQUA to vote for a project and put it in the rewards zone. The rewards are attractive, and it’s not costly to participate. This allows developers and the community to use the opportunity as they see fit. However, rewards are just one aspect. Developers can also create a pool on Aquarius AMMs and still benefit from the technology. Even in its initial launch, Aquarius AMMs are more functional than classic AMMs, offering features like multi-asset pools and stable pools.
