@@ -553,7 +553,12 @@ we're all on the same team 🤝
 
 > There is a single group of people that issue AQUA tokens, whether or not the distribution thereof comes from DAO choices or not. The ICE systemic design choices rested in the hands of a central organization. Compare this with the decentralized rules of the network inherent in SCP.
 
-First of all, the issuer is locked. All supply is controlled by the Signers Guild. There is no single group of people issuing tokens—you are wrong. The Signers Guild controls over 75% of the uncirculated supply of AQUA. AFAIK, some other popular projects on Stellar have followed a similar approach. You can see all the guild wallets here: https://medium.com/aquarius-aqua/aquarius-signers-guild-8f7f383d2fa9
+First of all, the issuer is locked. All supply is controlled by the Signers Guild. There is no single group of people issuing tokens—you are wrong. The Signers Guild controls over 75% of the uncirculated supply of AQUA. AFAIK, some other popular projects on Stellar have followed a similar approach. You can see all the guild wallets here: (lionks to article with key points:
+
+- Holders voting on what to incentivize (this should be markets using underlying)
+- DAO makes "decisions" over distribution of 1B arbitrary token treasury... (k??)
+- "Singers guild" makes token ownership :"decentralized" (but not the protocol..)
+- appreciate opening "empoyment" for 4-8 hours a week, but point is not a product
 
 > If we have SPEEDEX then we don't need
 > I will do my damndest to address this here by Monday because the answer is relatively nuanced.
