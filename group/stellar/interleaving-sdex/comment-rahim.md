@@ -267,9 +267,33 @@ The power of longstandign Rust contracts is indeniable, per Garand's sentiments.
 [^es]: _See, e.g.,_ transaction from S 2.1.1, a fraction of instuttional volume. Upon conusltation with Enrique, this was the most anyone paid for the asset by far. Should we silo liquidity in contracts, making it sparingly available to specific users through certain frontends?
 
 
-### 3.3 "UniV4-style" Future Developmet Pitfalls
+### 3.3 "UniV4-Style" Future Developmet Pitfalls
 
-I will be the first pershon in a room to jump up if anyone asksy why Uniswap V4 exists. There is one very clear reason, and one reason alone
+Throughout the conversations, we've all generally agreed that "the sthe sdex orderbooks are still more advanced than any set of orderbooks on any chain." Indeed, in my view, Uniswap V4 is just  a mechanism to cope with the realitey that other chains are not efficient enough to offer limit orders. If we are to replace the mamouth intermediaries gatekeeping the financial system, we cannot ignore the fundamnetal need for priced offers.
+
+[^add]: _See e,g.,_ Adam's remarks in S 1.2.1. This truth remains as abbundantly clear to me know after three years of compliance work as it did when I fist understood the network. There is a reason every other orderbook operation at meaningful scale (e.g. past #5000 on CMC) receives a nice visit from a three-letter agency, including "DAO-based" ones like Tornado Cash.
+
+
+Markets are not continous functions like an AMM pricing curve. They do not follow your rules no matter how many times you run them through a monte-carlo simulation.[^maths] As I presently understand these V4 contracts, they attampt unsucessfully to tame the exposure particpants face as the market moves against them, a natural uncertainty in the business of making a market for a spread.
+
+
+[^maths]: _See, e.g.,_ the collapse of the "techncially-accurate" [LTCM fund](https://www.pbs.org/wgbh/nova/stockmarket), [GME shorts](https://dollarendgame.substack.com/p/gamestopped), and [WTI turnover](https://www.bbc.com/news/business-52350082). _See also_ a plethora of "six sigma" events perpetuated by "black swans." To paraphrase the man who created teh SEC, the only thing we can be certain of is uncertainty itself. 🛡️
+
+
+The further down this path of control you cenutre, the closer you get to today's market infrastrure. Pamphile explained [the materail challenges](https://x.com/gttyson/status/1844446137408946680) excletopionally when they wrote, "it's bloated, slow, old and everything."[^tup] Can we really centrally control something as complex as markets themselves?
+
+[^tup]: _See_ Tupui at _supra_ S 1.2.3.
+
+
+#### 3.3.1
+
+
+#### 3.3.2
+
+
+#### 3.3.3
+
+
 
 constant on the limits of other chains to not actually register true offers
 maybe here "staked my career on SPEEDEX"
