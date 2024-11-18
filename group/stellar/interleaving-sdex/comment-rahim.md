@@ -18,7 +18,7 @@ I'm writing this as someone who just wants the most efficient technology possibl
 
 Since this post, quite the collective discussion has popped up on the subject. Perhaps most relevantly, you were rightly given accolades for uncovering the deadly bug.[^yays] 🎖️ The context under which this occurred is materially-relevant to the rest of this discussion, so I will link it here:
 
-[^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3. _See also infra_ § 1.3. There might be some legal jargon sprinkled in here for the regulators that read it, but really this is about how we might best empower people like you to smoothly access liquidity.
+[^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3. _See also infra_ § 1.3. There might be some [legal jargon](https://github.com/WhyDRS/SEC-Comments/issues/10#issuecomment-2467020278) sprinkled in here for the regulators that read it, but really this is about how we might best empower people like you to smoothly access liquidity.
 
 [![meridian-2024-ama](imgs/comments/builders-bridge-thumbnail.png)](https://youtu.be/KTH85egVSzw?t=388)
 
@@ -46,8 +46,6 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 
 ### 1.2.1 Adam: Trading Execution Materiality
 
-Rahim [said](https://discord.com/channels/1172621167400599582/1172621168197509137/1291850276646551653): "if we have enough liquidity onchain then interleavin the amm and sdex wont' make much difference"
-
 > what really attracted me to stellar is the sdex order books. once you add an interface, it suddenly feels like stellar has centralized orderbooks.. the stellar sdex orderbooks creat and offer the most free market this world has ever seen...
 > the orderbooks on the sdex give EVERY asset on the network a starting point and reference for price. having this time tested and trustworthy reference point provides an adavantage  to every asset in its search for fair value. this advantage is unseen on other networks.
 > 
@@ -57,12 +55,11 @@ Rahim [said](https://discord.com/channels/1172621167400599582/117262116819750913
 > like what makes it special once yo ditch the best part?
 > no chain has anything like the sdex orderbooks...
 > the sdex orderbooks are still more advanced than any set of orderbooks on any chain. and we still have just enough volume in the sdex to prime the pump for an insane surge of liquidity
+> 
 > &mdash; [adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302004862170435674)
 
 > the entirety of the sdex amm's provide the market participants with a reasonable aprroximation of the the fair value of the assets in the whole of the system. amm's compliment the orderbooks and vice versa.
-> 
 > it is a whole organism now. an entire economy has developed inside the sdex. it is the reference point of fair value for anyone attempting to use the fragmented liquidity on soroban.
-> 
 > we have black boxes providing prices on soroban that are far from the value derived by the trusty sdex. the sdex is a strength of stellar and should be utilized to roll out the soroban economy in an orderly fashion. it gives an opportunity for intrachain arbitrage that is unseen in other chains.
 > 
 > &mdash; [adam.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302311486240329800)
@@ -71,6 +68,7 @@ Rahim [said](https://discord.com/channels/1172621167400599582/117262116819750913
 
 > One other thing to consider: why would stellarx implement the api to trade tokens on the new soroban aqua exchange?  Taking the "D" out of the DEX definitely seems like a step backwards...
 > the horizon API gives you everything, not just the tokens that aquarius decides are important.  For example: where can I find the simple UI to swap blend and usdc using the comet pool?
+> 
 > &mdash; [aLatvian](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304657143466557482)
 
 > Case in point: the 1inch dApp is blocked in all of the US of A.  If amm and dex moves off of stellar core, you should expect nearly all site-specific implementations of these features to be blocked in the US.
@@ -163,7 +161,7 @@ But the core function of asset exchange implicates not only regulatory security 
 
 From the original 2022 panel to today, Justin has stood firm as a neutral arbiter between Jed and Tomer's viewpoints.[^arch] It doesn't seem like Justin explicitly prefers any one route, based on limited in-person conversations, historic public info, and [recent statements](https://www.reddit.com/r/Stellar/comments/1ciiki3/comment/l3b0h24). These sentiments were also true by my interpretation of the 2021 [Open Protocol Meeting](https://youtu.be/aHZQfcIdmoQ?t=1214) adopting native AMMs.
 
-[^arch]: Please do feel free to jump in and comment if I'm missing anything here, though. 😅 Relevantly, by "adopting" later in this paragraph, I mean taking the [CAP Core Team](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#awaiting-decision---final-comment-period-fcp) poll, based on the open community contribution framework. Might we further discuss elsewhere the migration of discussions from the stellar-dev mailing list onto GitHub Discussions, as implicated in § 1 at links 4&ndash;6?
+[^arch]: Please do feel free to jump in and comment if I'm missing anything here, though. 😅 Relevantly, by "adopting" later in this paragraph, I mean taking the [CAP Core Team](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#awaiting-decision---final-comment-period-fcp) poll, based on the open community contribution framework. Might we further discuss elsewhere the [migration](https://github.com/stellar/stellar-protocol/pull/1571) of discussions from the stellar-dev mailing list onto GitHub Discussions, as implicated in _supra_ § 1 at links 4&ndash;6?
 
 In conversation with the community projects Justin highlighted on [Reddit](https://discord.com/channels/761985725453303838/946921813143851019/1291438741747138560), developers believe trading needs to be the first Soroban use case because you can't call the DEX from contracts yet. But, as discussed, we can transform the DEX together to deploy infrastructure that doesn't overly burden a central point of failure. Indeed, Justin seemed to lightly nod when Tomer voiced that "another option" is "people like Garand" prototyping evolved order books implementing SPEEDEX.
 
@@ -171,14 +169,7 @@ Might we continue supporting parallelization, decentralization, and concurrent t
 
 > I actually think having public discussions about controversial issues like: "where scalability verses the DEX&mdash;which one to favor?"
 
-[^fragrr]: 
-{{ ADR fragmentation, arb intrastocks
-
-[^fragmentation1]: [quandaries_of_fragmentation.pdf](https://github.com/user-attachments/files/17347675/quandaries_of_fragmentation.pdf)
-[^fragmentation2]: [Base asset differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269)
-[^fragmentation3]: Synch the argument with the material difficulty of [reconciling segmented assets](https://github.com/user-attachments/files/17347723/inften__20200407094352_82382.pdf)
-
-}}
+[^fragrr]: Consider, for example, the "small" arbitrage differences between securities on their home exchange and derived ADR poolings. It's been [well documented](https://github.com/user-attachments/files/17347675/quandaries_of_fragmentation.pdf) that these micro inefficiencies materially afflict investor returns thanks to the unnecessary differentiation of [base asset liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269) across physical geographies. Might we obviate the difficulty of [reconciling segmented assets](https://github.com/user-attachments/files/17347723/inften__20200407094352_82382.pdf) by conjoining their liquidity venues into one stable ecostructure?
 
 # 3. Smart Contract Trading Systems
 
@@ -212,7 +203,7 @@ Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better 
 
 The public fee schedules available from 0x[^lolf] reveal take rates starting at 0.15%&mdash;conservatively.[^match] These are not expenses passed on to a decentralized group of liquidity providers. And they are not safeguarding fees built around investor protections of regulatory frameworks _in toto_.
 
-[^match]: _See_ _infra_ note XYZ [^hidden-fees].
+[^match]: _See_ _infra_ note 41. Should we accept that every trade across a society ought pay economic rents to these protocols' inagural centralized developers? Does such a system even markedly differ from [today's plutocracy](https://discord.com/channels/761985725453303838/1004794787418886275/1304641663368695809)?
 
 [^lolf]: Which are paltry at best aside from digging into smart-contract code. _Compare_ these lax disclosures to the extensive public availability of pricing data from any number of traditional financial intermediaries. _See, e.g.,_ SEC-mandated Form 606, ATS, and 19b-4 reports letting investors know what fees they internalize.
 
@@ -274,7 +265,7 @@ As is made abundantly clear in [this response](https://blog.uniswap.org/wells-no
 
 [^mfers]: _See, e.g.,_ their [legal mandate](https://en.wikipedia.org/wiki/Dodge_v._Ford_Motor_Co.) to maximize profits for shareholders, as upheld in the Supreme Court. _See also_ the formation of a "Foundation" five years after Uniswap's parent company was incorporated. Why do you really think they started following SBF's "effective altruism" [peddling](https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf#page=25)?
 
-I am in no way whatsoever implying that similar business practices might emerge over the years from existing network participants. But even if the ecosystem's Soroban developers adhere strictly to the nonprofit principles embedded in SCP, they'll still be targets for regulatory action the moment they touch absolutely anything we're building at Block Transfer. It was also discussed that the SDF could deploy "definitive" Soroban AMMs to centralize liquidity, but this would very unambiguously place the Foundation in the crosshairs of similar threats.[^conv]
+I am in no way whatsoever implying that similar business practices might emerge over the years from existing network participants. But even if the ecosystem's Soroban developers adhere strictly to the nonprofit principles embedded in SCP, they'll still be targets for regulatory action the moment they touch absolutely anything we're building at Block Transfer. It was also discussed that the SDF could deploy "definitive" Soroban AMMs to centralize liquidity, but this would very unambiguously place the Foundation in the crosshairs of similar threats.[^conv] ⚖️
 
 [^conv]: I have communicated this view with multiple SDF staff members over the years, including in the judge-only notes of our third [SCF application](https://youtu.be/UzLCQaJ-TqU). The underlying _funding_ of an exchange venue is categorically different than the _operations_ of root protocol rules. Indeed, this is precisely the paradox I ran into when I originally tried to position the Syndicate itself as a "stock transfer protocol," rather than the TAD3 compliance layer.
 
@@ -308,7 +299,7 @@ Everyone generally wants to move fast when it comes to launching into a sustaina
 
 [^easya]: _See, e.g.,_ various developer discussions about the relative ease of deploying a new pool with a custom stableswap bonding curve or multi-asset pool composition for "diversification." Might these capital allocation quandaries necessarily exist in the market, solvable chiefly and simply by proper native balances incorporated into a higher optimized system? Perhaps the capable core developers and ecosystem participants could trivially implement new curves as needed but not satisfied by passive sell offers, should sufficient aid emerge.
 
-[^bug-20]: _See_ _infra_ note XYZ [^maths] _quo videtur_ we are all in agreement. But I do not think the most basic of core infrastructure should require scores of bug bounties to attain modest credibility. Maybe the community's safety approach showcased in the [Soroban update delay](https://youtu.be/rbjFjda3_UI?t=7080) can be our guiding light to "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug." 🐛
+[^bug-20]: _See_ _infra_ note 28 _quo videtur_ we are all in agreement. But I do not think the most basic of core infrastructure should require scores of bug bounties to attain modest credibility. Maybe the community's safety approach showcased in the [Soroban update delay](https://youtu.be/rbjFjda3_UI?t=7080) can be our guiding light to "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug." 🐛
 
 While we in the DRS community appreciate that there will be bugs in any computer systems, we'd prefer our funds not be at risk in flash crashes perpetuated by complex trading infrastructure. 🫤 Would it be best to strictly apply an unwavering software mindset to something [as important](https://stellar.expert/blog/tiny-things-matter-or-detective-novel-featuring-stellar-dex) as markets? Or might we conceivably best serve the plausible needs of our expanding ecosystem through a [feasible uniform front](imgs/comments/collective-network-benefit.png)?[^groups]
 
@@ -330,6 +321,8 @@ Could a truly nonprofit financial system built for its users minimize rents, as 
 
 [^explore]: Might we contemplate the longer-term thinking that makes Stellar work so foundationally well across developing global nations? Should we force tomorrow's innovators to sell themselves into a system that extracts their passion to sustain liquidity DAO rewards, listing fees, and central development? That's not a network I'd like to be a part of expanding, given such a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho). 🗺️
 
-It might be hard for technical people like us to see some of the incredible implications of a 50 bps spread reduction.[^pennies] But these innovations truly change people's lives&mdash;I've seen, felt, and shared it firsthand. In an increasingly abundant society in raw compute terms, might we best empower all network users with tooling that places the locus of economic control squarely in their hands? 🤳🏼
+It might be hard for technical people like us to see some of the incredible implications of a 50 bps spread reduction.[^pennies] But these innovations truly change people's lives&mdash;I've seen, felt, and shared it firsthand. In an increasingly abundant society in raw compute terms, might we best empower all network users with tooling that places the locus of economic control squarely in their hands?[^lfr] 🤳🏼
 
 [^pennies]: _See, e.g.,_ the billions made weekly through Wall Street exchange skimming using [riskless theft](https://www.linkedin.com/pulse/gamestop-first-successful-short-squeeze-john-wooten-xvyne) of retail dollars through net-detrimental social-class exploitation. While a few cents today might look like peanuts, imagine what a difference to your retirement portfolio just an extra couple of bucks collectively in lumens would make, e.g., not three short weeks ago. These details are what's at stake when it comes to eliminating the hidden costs of centralizing PFOF, excess gas, and [poor execution](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304786314092347566) that so commonly serve to the detriment of long-term investor savings and retirements.
+
+[^lfr]: This post is a labor of love born from [deep analysis](https://www.whydrs.org/the-whydrs-information-packet) of how markets have evolved since the first public company. I've [invested](https://github.com/JFWooten4/free-markets/blob/main/micro/2024/Nov/12.md) nearly everything available into trades demonstrating the efficiency principles preserved in our last bastion of a free market, totaling years of our much-needed rent expenses. While the conversation began with an acknowledgment that this will challenge some incubated business models across the network, I sincerely hope we might objectively analyze what could be the best step forward for the unbanked, given years of contract deployments serving only a select few [institutional users](https://github.com/JFWooten4/WhyDRS-docs/issues/6). 🫱🏿‍🫲🏼
