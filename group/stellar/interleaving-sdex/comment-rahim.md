@@ -19,9 +19,7 @@ I'm writing this as someone who just wants the most efficient technology possibl
 
 Since this post, quite the collective discussion has popped up on the subject. Perhaps most relevantly, you were rightly given accolades for uncover in the deadly bug.[^yays] 🎖️ The context under which this occured is materially-relevant to the rest of this discussion, so I will link it here:
 
-
-[^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3.
-<!-- this works as long as we only ref PREVs in the footnotes -->
+[^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3. _See also infra_ S 1.3. There might be some legal jargon sprinkled in here for the regulators that read it, but really this is about how we might best empower people like you to smoothly access liquidty.
 
 [![meridian-2024-ama](imgs/comments/builders-bridge-thumbnail.png)](https://youtu.be/KTH85egVSzw?t=388)
 
@@ -102,14 +100,11 @@ Rahim [said](https://discord.com/channels/1172621167400599582/117262116819750913
 
 Adam voiced that it's "the coolest creation in crypto in the last 10 years" which comes back to thesis part
 
-relevant face: <-- thinking 1.1-- and 1.3 on Rahim / other, 1.2 very briefly into public background shared around origination acc EA
+1.2 very briefly into public background shared around origination acc EA
 
-in addressing Enrique;s points, chiefly around "I agree we need to get rid of the AMMs and maybe just keep the orderbook" - will need to dive into the net social expense of arbitrage
+see unrpodcutive net social expense of arbitrage
 
-will need to defend my position to be perfected at a protocol level re past convo on saving end users cents becuase cents fucking matter re PFOF and https://discordapp.com/channels/1172621167400599582/1172621168197509137/1291849856121311333
 
-i dont think we can have gif memes, but we need to acknowledge the importance of liqduiity as framed
-https://discordapp.com/channels/761985725453303838/1302004423483981924/1304786314092347566
 
 ## 1.3 Appreciated Thought-Provoking Perspective
 
@@ -143,7 +138,7 @@ Markedly, the choices we make around items like [whether or not](https://github.
 [^cbn]: _See, e.g.,_ the UI depriortization of Stellar on the centralized exchange in note 7 of PREV, buried under every other supported USDC chain. _See also_ similar treatment in the Circle developer dashboard. These starkly contrast with the plethora of legal filings explicitly referencing the network behind the closed doors of legalese.
 
 
-Might the self-custody implication inherent in existing exchange business models draw attention away from the SDEX?[^s=c] This might lead to a number of quandaries that came up in this discussion such as trading volume compared to propritary venues, AMMs, and HFTs. I believe wholeheartedy in our unique opportunity to collaboratively explore the most efficient globalized solution that satisfies the longstanding needs of traders, developers, and innovators.[^nex]
+Might the self-custody implication inherent in existing exchange business models draw attention away from the DEX?[^s=c] This might lead to a number of quandaries that came up in this discussion such as trading volume compared to propritary venues, AMMs, and HFTs. I believe wholeheartedy in our unique opportunity to collaboratively explore the most efficient globalized solution that satisfies the longstanding needs of traders, developers, and innovators.[^nex]
 
 {{
 [^s=c]: ## Expanding the Locust of Trust
@@ -157,7 +152,7 @@ the only way to fix this is to have it at the protocol level so that upgrades co
 this will implicate making the argument against deposit locks as discussed on both sides of the agenda
 }}
 
-[^nex]: I might not know exactly what will cahnge about financial markets over the coming decades, which could materially impact SDEX requirements. But I have deeply studied the history of markets over the past six years in an effort to understand what _won't_ change, no matter how many centuries pass. Can you imagine a future where developers demand wider spreads, traders want fewer ways to game the system, or innovators want to build whole businesses on delicate foundations?
+[^nex]: I might not know exactly what will cahnge about financial markets over the coming decades, which could materially impact the DEX's requirements. But I have deeply studied the history of markets over the past six years in an effort to understand what _won't_ change, no matter how many centuries pass. Can you imagine a future where developers demand wider spreads, traders want fewer ways to game the system, or innovators want to build whole businesses on delicate foundations?
 
 this should frame as a collaborative effort to explore other opetions not revelaed in my 1 v 2 hypothecation since theres so many incredibly-intelligent believers in network with genius ieas etrc decenbtralized (this implicates the points amde to Shaptic and adopted by in https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899)
 
@@ -282,7 +277,7 @@ The power of longstandign Rust contracts is indeniable, per Garand's sentiments.
 
 ## 3.3 "UniV4-Style" Future Developmet Pitfalls
 
-Throughout the conversations, we've all generally agreed that "the sthe sdex orderbooks are still more advanced than any set of orderbooks on any chain." Indeed, in my view, Uniswap V4 is just  a mechanism to cope with the realitey that other chains are not efficient enough to offer limit orders. If we are to replace the mamouth intermediaries gatekeeping the financial system, we cannot ignore the fundamnetal need for priced offers.
+Throughout the conversations, we've all generally agreed that "the sdex orderbooks are still more advanced than any set of orderbooks on any chain." Indeed, in my view, Uniswap V4 is just  a mechanism to cope with the realitey that other chains are not efficient enough to offer limit orders, falling back to the [systemic risks](https://youtu.be/dk3AVceraTI?t=1704) of [central netting](https://assets-global.website-files.com/64f99c50f4c866dee943e165/650c3f1413e3fb7a3c96e640_Understanding%20Uniswap%20v4.pdf#page=4). ⚠️ If we are to replace the mamouth intermediaries gatekeeping the financial system, we cannot ignore the fundamnetal need for priced offers.
 
 [^add]: _See e,g.,_ Adam's remarks in S 1.2.1. This truth remains as abbundantly clear to me know after three years of compliance work as it did when I fist understood the network. There is a reason every other orderbook operation at meaningful scale (e.g. past #5000 on CMC) receives a nice visit from a three-letter agency, including "DAO-based" ones like Tornado Cash.
 
@@ -370,9 +365,9 @@ Since understandding its deep humanitarian implications, I've bet my entire care
 [^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 [Tomer established](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302262610409951275) that "you can't call classic order books from Soroban." Might we first "put a lot of effort into that" to rectify this limiting plight, since contracts share the root account infrastructure ti hold classic assets?
 
 
-Markets have proved time and time again the immense neccesity of limit orders as the base building blocks of liquidty for the tens of thousands of long-tail assets issuer on the network. The proven DEX is anything but the black box pictured above, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees] Might an investment in efficient markets today serve the network's issuers for all eternity?
+Markets have proved time and time again the immense neccesity of limit orders as the base building blocks of liquidty for the tens of thousands of long-tail assets issuer on the network. The proven DEX is anything but the black box pictured above, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees] Might a tenable investment in efficient markets today serve the network's issuers for all eternity?
 
-[^hidden-fees]: _See, e.g._ XYZ% [Matcha](), XYZ% [Uniswap](), and .15%+ [zeroEx](actual-org-schedule.pdf#page) website execution expenses. The requisite siloing centralization showcased here run antithically to [free markets](https://discord.com/channels/761985725453303838/761985725453303841/1295912752027664424). All furiousity aside, these are fundamntal flaws in the endgame of these contracts, not the fault of talented developers like @earrietadev whom have show exceptional humanitarian consciousncess by pivoting projects away from [wasteful mining externalities](https://discord.com/channels/761985725453303838/946921813143851019/1279941567515459606).
+[^hidden-fees]: _See, e.g._ .15% [ZeroEx](https://0x.org/post/building-in-the-open-0x-pricing-update), .25% [Uniswap](https://support.uniswap.org/hc/en-us/articles/20131678274957-What-are-Uniswap-Labs-fees), and .25% [Matcha](https://0x-website-downloads.s3.amazonaws.com/0x-Monetization-across-DeFi.pdf#page=13) online execution expenses, materially ignoring gas. The requisite siloing centralization showcased here run antithically to [free markets](https://discord.com/channels/761985725453303838/761985725453303841/1295912752027664424). All furiousity aside, these are fundamntal flaws in the endgame of these contracts, not the fault of talented developers like @earrietadev whom have show exceptional humanitarian consciousncess by pivoting projects away from [wasteful mining externalities](https://discord.com/channels/761985725453303838/946921813143851019/1279941567515459606).
 
 
 Could a turly nonprofit financial systme built for its users minimie rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746)? Or, as in the immediately suceeding message, will we contnue to be hadncuffed to titanic habritrary capital requirments to bootstrap liquidity? Perhaps the most performant trading system doesn't require at least three operations to min/max the pathfindong algorithm.
@@ -382,7 +377,9 @@ mlplore to contrmplate the longerterm thinking that makes Stellar work so founda
 }}
 
 
-It might be hard for technical guys like us to see some of hte incredible implications of a 50 bps spread reduction. But these innovations truly change peoples' lives&mdash;I've seen, felt, and shared it firsthand. In an inreasingly abund society in raw compute terms, might we best empower all network users with tooling that places the locust of economic control squarely in their hands? 🤳🏼
+It might be hard for technical guys like us to see some of hte incredible implications of a 50 bps spread reduction.[^pennies] But these innovations truly change peoples' lives&mdash;I've seen, felt, and shared it firsthand. In an inreasingly abund society in raw compute terms, might we best empower all network users with tooling that places the locust of economic control squarely in their hands? 🤳🏼
+
+[^pennies]: _See, e.g.,_ the billions made weekly though Wall Street exchange skimming using [riskless theft](https://www.linkedin.com/pulse/gamestop-first-successful-short-squeeze-john-wooten-xvyne) of retail dollars through net-determinetal social-class exploitation. While a few cents today might look like peanuts, imagine what a difference to your retirement portfolio just an extra couple of bucks collectively in lumens would make, e.g., not three short weeks ago. These details are what's at stake when it comes to elminting the hidden costs of centralizing PFOF, excess gas, and [poor execution](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304786314092347566) that so commonly serve to the detriment of long-term investor savings and retirements.
 
 {{
 [^chatz]: Perhaps there are good reasons our key to basic capitalistic tooling_ (but worded more eloquently)
