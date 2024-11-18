@@ -30,7 +30,8 @@ I believe so earnestly that these open communal discussions are the secret instr
 
 Before diving into the nuances, I'd like to applaud your longstanding efforts to bridge different platforms to Stellar with [a single SDK](https://github.com/rahimklaber/stellar_kt). 👏 Too often, work might not see the light of mainnet despite the material efforts behind its development. But many of our long-term challenges can be overcome seamlessly thanks to those key thoughts, incremental improvements, and persistent bug fixes.
 
-{{ one pg the hacking part, with wallet on phone
+Empwoering usingers with a direct DEX wallet in the palm of their hand
+Because today's centralized markets are so subject to the hack one pg the hacking part, with wallet on phone
 
 Implicate very deeply https://www.youtube.com/watch?v=QafkIh2nvY0&list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9
 
@@ -232,24 +233,9 @@ I've believed in the DEX since the moment I understood SCP, [this video](https:/
 
 [![central-complex-routing](imgs/comments/0x-protocol-frontend.png)](https://youtu.be/FEU9LoybzrU?t=397)
 
-Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better known as 0x. [Here](https://www.sec.gov/edgar/browse/?CIK=0001828694) are their regulatory filings disclosing material venture investing for every year in the first three years of its existence. These filings detail how this corporation sold at least $84,121,200 to a paltry 45 investors at minimum, a significant sum of money that undemocratically [shifts the power](https://youtu.be/YUwqzeaR1lA?t=63) from Uniswap users to the corporation behind its development.
+Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better known as 0x. [Here](https://www.sec.gov/edgar/browse/?CIK=0001828694) are their regulatory filings disclosing material venture investing for every year in the first three years of its existence. These filings detail how this corporation sold at least $84,121,200 to a paltry 45 investors at minimum, a significant sum of money that undemocratically shifts the power from Uniswap users to the corporation behind its development.[^tractionQ]
 
-{{ [^tractionQ]
-the problem is their revenue, popoularity, and indeed sustainability comes from attracting ever-increasing trading volumes, which presents a [direct conflict of interest](https://youtu.be/YUwqzeaR1lA?t=63) with the [investing public](https://www.reddit.com/r/Bogleheads/comments/ug32km/can_someone_explain_to_me_what_revenue_from/?rdt=55563)[^investing-public]
-
-
-[[
-  even if we can momentarily agree that the "best" Sorobvan DEX(es) will attract a large amount of liqudiity, which dominates the network, this leaves the power over democratic trading in the hands of a select few organizations
-
-presently, the instutitons which run these technologies are centralied, legal, for-profit corporations
-
-this presents the very clear path for "traction" in terms of user funds locked to lead to VC interest
-
-]]
-
-[^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 (lifechanging)
-
-}}
+[^tractionQ]: The eternal problem stems from the reality that their revenue, popularity, and indeed sustainability comes from attracting ever-increasing trading volumes. This has been the path Wall Street has followed for millennia, presenting a [direct conflict of interest](https://youtu.be/YUwqzeaR1lA?t=63) with the [investing public](https://www.reddit.com/r/Bogleheads/comments/ug32km/can_someone_explain_to_me_what_revenue_from/?rdt=55563). Even if the "best" Soroban DEX(es) dominate the network with the most liquidity, the power over democratic trading stays in the hands of a select few [demoralizing](https://microstructure.exchange/papers/TME-paper.pdf#page=13) organizations.
 
 The public fee schedules available from 0x[^lolf] reveal take rates starting at 0.15%&mdash;conservatively.[^match] These are not expenses passed on to a decentralized group of liquidity providers. And they are not safeguarding fees built around investor protections of regulatory frameworks _in toto_.
 
@@ -263,15 +249,7 @@ These are economic rents siphoned off to a select few groups of early investors 
 
 No matter how you slice and dice your interpretation, Rust in the execution environment will never operate as fast as validators' C++ logic. This presently enables the unbelievable efficiencies of 6-hop order routing without a central party. Might this unique differentiation of the DEX best allow us to compete with monopolistic, entrenched, and stagnant incumbents' domineering grasp on global financial liquidity?[^gwin]
 
-[^gwin]: 
-{{ historic natural copmatition
-
-price competation which [naturally](https://reports.tiger-research.com/p/onchain-darkpool-eng) occurs
-(including negative privces with PFOF)
-
-[^lolpcs]: [instanet_history_comic.pdf](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf)
-
-}}
+[^gwin]: _See, e.g.,_ the natural emergence of competing centralized liquidity venues when able to [naturally compete on price](https://reports.tiger-research.com/p/onchain-darkpool-eng) through external incentives such as negative prices with [PFOF](https://youtu.be/XLc4c7vL3rM?t=5183). Perhaps this law is best exemplified through the [emergence of Instanet](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf) using a small computing framework to compete with global monopolies. Given our unique opportunity to start with an existing egalitarian system, might we continue pushing towards the financial standard for conversions?
 
 I will go on to compare this opportunity with the present system which [continually faces](https://www.cftc.gov/PressRoom/PressReleases/8774-23) material regulatory scrutiny. Might the only way to maximize capital formation, efficient markets, and investor protections be to design a system which fundamentally disallows centralized censorship of specific items deemed inappropriate in the legacy regulatory context? This idealistic future, originated in the founding vision of Stellar, exists only in a distributed trade execution environment.
 
@@ -347,13 +325,9 @@ Given America has the world's most advanced, developed, and liquid market for ca
 
 I've spent the past four years talking to just about every anchor, trader, and regulator I know about blockchain. Following the prior logic, institutional adoption of actual trading on a self-custody basis requires gargantuan insurance products when using bootstrapped smart contracts, which we very clearly see pose hazards per your work. Could trading be the most important aspect of a financial system that we are presently left to master?[^imps]
 
-[^imps]: _See_ ongoing fund clarity work, both internal and opened on Syndicate GitHub repos, in re note 9 in PREV. We respectfully submit to the network that you do not get a "second first impression" with regulators, especially given the tacit but not contextual background of Jed. Are the relatively modest profits a select few developers enjoy by arbitraging Soroban AMMs worth giving regulators a bone to pick with us, _ad infinitum_? 🏛️
+[^imps]: _See_ ongoing fund clarity work, both internal and opened on Syndicate GitHub repos, _in re_ note 9 in PREV. We respectfully submit to the network that you do not get a "second first impression" with regulators, especially given the tacit but not contextual background of Jed.[^interop] Are the relatively modest profits a select few developers enjoy by arbitraging Soroban AMMs worth giving regulators a bone to pick with us, _ad infinitum_? 🏛️
 
-{{interop}}
-
-For example, would not specialized financial instruments compose the utmost confidence in the liquidity pool transfer mechanism at a protocol level, allowing new institutional applications?
-
-{{/interop}}
+[^interop]: For example, would not specialized financial instruments compose the utmost confidence in the liquidity pool transfer mechanism at a protocol level, allowing new institutional applications? A material aspect of compliance work involves regulatory reporting, recordkeeping, and analysis. Perhaps we might offer overseers the most transparent information possible as presently empowered by native execution result codes?
 
 Everyone generally wants to move fast when it comes to launching into a sustainable business state&mdash;completely understandable.[^easya] But might it be prudent to [slow down](https://www.blocktransfer.com/about/values) and build something longstanding to serve generations of users to come? At Meridian, Tomer posited that:[^bug-20]
 
@@ -379,13 +353,9 @@ Markets have proved time and time again the immense necessity of limit orders as
 
 [^hidden-fees]: _See, e.g.,_ 0.15% [ZeroEx](https://0x.org/post/building-in-the-open-0x-pricing-update), 0.25% [Uniswap](https://support.uniswap.org/hc/en-us/articles/20131678274957-What-are-Uniswap-Labs-fees), and 0.25% [Matcha](https://0x-website-downloads.s3.amazonaws.com/0x-Monetization-across-DeFi.pdf#page=13) online execution expenses, materially ignoring gas. The requisite siloing centralization showcased here runs antithetical to [free markets](https://discord.com/channels/761985725453303838/761985725453303841/1295912752027664424). All furiosity aside, these are fundamental flaws in the endgame of these contracts, not the fault of talented developers like @earrietadev who have shown exceptional humanitarian consciousness by pivoting projects away from [wasteful mining externalities](https://discord.com/channels/761985725453303838/946921813143851019/1279941567515459606).
 
-Could a truly nonprofit financial system built for its users minimize rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746)? Or, as in the immediately succeeding message, will we continue to be handcuffed to titanic arbitrary capital requirements to bootstrap liquidity? Perhaps the most performant trading system doesn't require at least three operations to min/max the pathfinding algorithm.
+Could a truly nonprofit financial system built for its users minimize rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746)? Or, as in the immediately succeeding message, will we continue to be handcuffed to titanic arbitrary capital requirements to bootstrap liquidity?[^explore] Should the most performant trading system really frequently require at least three operations to min/max the pathfinding algorithm?
 
-{{explore}}
-
-Might we contemplate the longer-term thinking that makes Stellar work so foundationally well across developing global nations with such a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho)?
-
-{{/explore}}
+[^explore]: Might we contemplate the longer-term thinking that makes Stellar work so foundationally well across developing global nations? Should we force tomorrow's innovators to sell themselves into a system that extracts their passion to sustain liquidity DAO rewards, listing fees, and central development? That's not a network I'd like to be a part of expanding, given such a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho). 🗺️
 
 It might be hard for technical people like us to see some of the incredible implications of a 50 bps spread reduction.[^pennies] But these innovations truly change people's lives&mdash;I've seen, felt, and shared it firsthand. In an increasingly abundant society in raw compute terms, might we best empower all network users with tooling that places the locus of economic control squarely in their hands? 🤳🏼
 
