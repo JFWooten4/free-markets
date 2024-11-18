@@ -414,7 +414,7 @@ the problem is their revenue, popoularity, and indeed sustainability comes from 
 ## Our Opportunity
 
 - https://x.com/JFWooten4/status/1842296919160144159
-- https://youtu.be/YUwqzeaR1lA?t=63&
+- https://youtu.be/YUwqzeaR1lA?t=63
 - https://youtu.be/UzLCQaJ-TqU
 
 _See, e.g. supra_ note 22, [demo execution RAM](), and _supra_ note 23.
