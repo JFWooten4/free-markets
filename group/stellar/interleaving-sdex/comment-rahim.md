@@ -113,21 +113,11 @@ https://discordapp.com/channels/761985725453303838/1302004423483981924/130478631
 
 ## 1.3 Appreciated Thought-Provoking Perspective
 
-some of the args around being able to centrally control the liqudity, which is very very fucking bad
+Again, I'll call into light your stellar past techcnial work expanding the ecosystem's toolkit. I'm continually impressed by both your comphrehensivneess and deployment skills, wheter it's expanding on trailblazing [contract streaming](https://github.com/rahimklaber/SStream) ot creating a brand new [account servicing](https://github.com/rahimklaber/stellar-accounts-as-a-service) project complete with its own permissionless documentation. And to think much work here started just four short years ago with an intuitive [tokenization offering](https://github.com/rahimklaber/galactic-wizard)&mdash;just incredible, Rahim. 👏🏽
 
+And given this deep techncial background, I'm all the most impressed by your cotinuous communtiy routreach. Not only have you found bugs such as your [community contribution here](https://3649863591-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5QUy59hBUnouBhx8gNSS%2Fuploads%2Fim9FzKJwsLFzwC9fl2sV%2FAquarius%20Vulnerability%20Resolution%20Report%20-%20Potential%20Duplication%20of%20LP%20Rewards.pdf?alt=media&token=3f4323ba-6249-4c7f-9c6e-a8fa64ec519f), but you are also constantly in contact with developers and users alike to address concerns! Having recently discovered the thread myseldf, it was awakening to read your conversation with Adam about recent flaws in another Soroban AMM that centralized control deposited liqudity into a select few hands.
 
-
-repl here on info
-
-praise:
-
-- https://github.com/rahimklaber/SStream
-- https://github.com/rahimklaber/stellar-accounts-as-a-service
-- https://github.com/rahimklaber/galactic-wizard as origins
-
-
-first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
-
+especially on other chains, some indsutry participants prioritize crafting a good story to sell to investors for some easy initial funding. 📊 When these developments lead to material losses in freedom, security, and monies for users like us, it's both refreshing and uplifting to know that your skills serve to defend the peopels' interests. We're all just trying to make this work as we go along, and your behind0the-schenes passion energizes! ⚡️
 
 
 # 2. Enabling Trusted Global Liquidity
