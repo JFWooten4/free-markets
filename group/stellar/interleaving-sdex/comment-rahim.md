@@ -26,9 +26,24 @@ Also, we wouldn't have heard live about your expert white-hatting if it weren't 
 
 I believe so earnestly that these open communal discussions are the secret instrument we can leverage to overtake entrenched incumbent interests. Indeed, might the optimal solution for these network-wide quandaries come from the artful, attributable, and permissionless Discussions we've already seen lead to stellar outcomes in CAPs [51](https://github.com/stellar/stellar-protocol/discussions/1435), [53](https://github.com/stellar/stellar-protocol/discussions/1447), and [56](https://github.com/stellar/stellar-protocol/discussions/1460)?
 
-## 1.1 Previous Mobile Working Advancements
+## 1.1 Previous Functional Mobile Advancements
 
 Before diving into the nuances, I'd like to applaud your longstanding efforts to bridge different platforms to Stellar with [a single SDK](https://github.com/rahimklaber/stellar_kt). 👏 Too often, work might not see the light of mainnet despite the material efforts behind its development. But many of our long-term challenges can be overcome seamlessly thanks to those key thoughts, incremental improvements, and persistent bug fixes.
+
+{{ one pg the hacking part, with wallet on phone
+
+Implicate very deeply https://www.youtube.com/watch?v=QafkIh2nvY0&list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9
+
+https://x.com/JFWooten4/status/1815083374744334340
+
+(FN) discuss the custody implications and href to the not you keys part and such in the nicehash arguments first introdiuced per [higher fees](https://discord.com/channels/761985725453303838/761985725453303841/1293775764830814350)
+- corporate control
+- custody implications
+- arbitrary limits [discussed] in re _Compare_:
+  - https://discord.com/channels/761985725453303838/761985725453303841/1293804598368145449
+  - https://discord.com/channels/761985725453303838/761985725453303841/1293770598891389060
+
+}}
 
 As I've [tried to express](https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689), I might not be intimately familiar with the particular nuances of JS/Native/JVM implementations and their core XDR (not Horizon)&mdash;just yet at least. But it's clear to see that you're making [ongoing progress](https://github.com/rahimklaber/stellar_kt/issues) on what just might be the next big community project. And it's quite inspirational for me, at least, to think that you're able to do all that on top of traditional work.
 
@@ -97,7 +112,8 @@ Rahim [said](https://discord.com/channels/1172621167400599582/117262116819750913
 {{ Adam voiced that it's "the coolest creation in crypto in the last 10 years," which comes back to the thesis part.
 
 1.2 very briefly into public background shared around origination acc EA.  
-See unproductive net social expense of arbitrage. }}
+See unproductive net social expense of arbitrage as shown in central rents from trdes executing in [dark pools](https://x.com/JFWooten4/status/1842296919160144159) per genslar off-exchange
+}}
 
 ## 1.3 Appreciated Thought-Provoking Perspective
 
@@ -179,9 +195,18 @@ From the original 2022 panel to today, Justin has stood firm as a neutral arbite
 
 In conversation with the community projects Justin highlighted on [Reddit](https://discord.com/channels/761985725453303838/946921813143851019/1291438741747138560), developers believe trading needs to be the first Soroban use case because you can't call the DEX from contracts yet. But, as discussed, we can transform the DEX together to deploy infrastructure that doesn't overly burden a central point of failure. Indeed, Justin seemed to lightly nod when Tomer voiced that "another option" is "people like Garand" prototyping evolved order books implementing SPEEDEX.
 
-Might we continue supporting parallelization, decentralization, and concurrent trade execution to "prevent liquidity fragmentation and arbitrage?" Garand is only one of many SDF members who's [voiced](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496) such concerns over needless extractive arbitrage. After a crowd survey, Justin responded in 2022 with their thoughts on the most efficient path forward:
+Might we continue supporting parallelization, decentralization, and concurrent trade execution to "prevent liquidity fragmentation and arbitrage?" Garand is only one of many SDF members who's [voiced](https://discord.com/channels/761985725453303838/1302004423483981924/1306427216699068496) such concerns over needless extractive arbitrage.[^fragrr] After a crowd survey, Justin responded in 2022 with their thoughts on the most efficient path forward:
 
 > I actually think having public discussions about controversial issues like: "where scalability verses the DEX&mdash;which one to favor?"
+
+[^fragrr]: 
+{{ ADR fragmentation, arb intrastocks
+
+[^fragmentation1]: [quandaries_of_fragmentation.pdf](https://github.com/user-attachments/files/17347675/quandaries_of_fragmentation.pdf)
+[^fragmentation2]: [Base asset differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269)
+[^fragmentation3]: Synch the argument with the material difficulty of [reconciling segmented assets](https://github.com/user-attachments/files/17347723/inften__20200407094352_82382.pdf)
+
+}}
 
 # 3. Smart Contract Trading Systems
 
@@ -201,13 +226,30 @@ Our community cares greatly about order books because, as "inefficient" as they 
 
 I've believed in the DEX since the moment I understood SCP, [this video](https://youtu.be/YFca255hXj8), and Wall Street's exclusive club.[^cibt] And I believe with every ounce of my being that we're dooming future generations to continued exploitation by these bastardizing central planners if we fail to protect the last bastion of a free market present in the network. Here and now is our opportunity to fulfill Nakamoto's vision for a disintermediated base financial infrastructure, capable of the globe's payments, trades, and balances&mdash;not a select few.
 
-[^cibt]: _See_ collaboration disclaimer at § 2.2 in [video](https://youtu.be/S75IvkicWD8) description. Both of us generally understood that "protocols" like 0x could work with cautious deployment, but time has proved that the developers thereof have consistently put profit over order execution efficiency. Might these be the explicit tradeoffs inherent in a [credit-based system](https://youtu.be/YUwqzeaR1lA?t=23) surrounded by venture-capital interests?
+[^cibt]: _See_ collaboration disclaimer at § 2.2 in [video](https://youtu.be/S75IvkicWD8) description. Both of us generally understood that "protocols" like 0x [could work](https://blocktransfer.com/.well-known/thesis.pdf#page=15) with cautious deployment, but time has proved that the developers thereof have consistently put profit over order execution efficiency. Might venture-capital interests needlessly introduce these explicit tradeoffs, inherent in a creditum system not optimized with the SPEEDEX advancements?
 
 ### 3.1.1 Unspoken, Silent Centralization Incentives
 
-[![central-complex-routing](imgs/comments/0x-protocol-frontend.png)](YT_VID_FUCK_UNISWAP+HERE)
+[![central-complex-routing](imgs/comments/0x-protocol-frontend.png)](https://youtu.be/FEU9LoybzrU?t=397)
 
-Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better known as 0x. [Here](https://www.sec.gov/edgar/browse/?CIK=0001828694) are their regulatory filings disclosing material venture investing for every year in the first three years of its existence. These filings detail how this corporation sold at least $84,121,200 to a paltry 45 investors at minimum, a significant sum of money that undemocratically shifts the power from Uniswap users to the corporation behind its development.
+Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better known as 0x. [Here](https://www.sec.gov/edgar/browse/?CIK=0001828694) are their regulatory filings disclosing material venture investing for every year in the first three years of its existence. These filings detail how this corporation sold at least $84,121,200 to a paltry 45 investors at minimum, a significant sum of money that undemocratically [shifts the power](https://youtu.be/YUwqzeaR1lA?t=63) from Uniswap users to the corporation behind its development.
+
+{{ [^tractionQ]
+the problem is their revenue, popoularity, and indeed sustainability comes from attracting ever-increasing trading volumes, which presents a [direct conflict of interest](https://youtu.be/YUwqzeaR1lA?t=63) with the [investing public](https://www.reddit.com/r/Bogleheads/comments/ug32km/can_someone_explain_to_me_what_revenue_from/?rdt=55563)[^investing-public]
+
+
+[[
+  even if we can momentarily agree that the "best" Sorobvan DEX(es) will attract a large amount of liqudiity, which dominates the network, this leaves the power over democratic trading in the hands of a select few organizations
+
+presently, the instutitons which run these technologies are centralied, legal, for-profit corporations
+
+this presents the very clear path for "traction" in terms of user funds locked to lead to VC interest
+
+]]
+
+[^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 (lifechanging)
+
+}}
 
 The public fee schedules available from 0x[^lolf] reveal take rates starting at 0.15%&mdash;conservatively.[^match] These are not expenses passed on to a decentralized group of liquidity providers. And they are not safeguarding fees built around investor protections of regulatory frameworks _in toto_.
 
@@ -219,7 +261,17 @@ These are economic rents siphoned off to a select few groups of early investors 
 
 ### 3.1.2 Unspeakably-Efficient Path Handling
 
-No matter how you slice and dice your interpretation, Rust in the execution environment will never operate as fast as validators' C++ logic. This presently enables the unbelievable efficiencies of 6-hop order routing without a central party. Might this unique differentiation of the DEX best allow us to compete with monopolistic, entrenched, and stagnant incumbents' domineering grasp on global financial liquidity?
+No matter how you slice and dice your interpretation, Rust in the execution environment will never operate as fast as validators' C++ logic. This presently enables the unbelievable efficiencies of 6-hop order routing without a central party. Might this unique differentiation of the DEX best allow us to compete with monopolistic, entrenched, and stagnant incumbents' domineering grasp on global financial liquidity?[^gwin]
+
+[^gwin]: 
+{{ historic natural copmatition
+
+price competation which [naturally](https://reports.tiger-research.com/p/onchain-darkpool-eng) occurs
+(including negative privces with PFOF)
+
+[^lolpcs]: [instanet_history_comic.pdf](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf)
+
+}}
 
 I will go on to compare this opportunity with the present system which [continually faces](https://www.cftc.gov/PressRoom/PressReleases/8774-23) material regulatory scrutiny. Might the only way to maximize capital formation, efficient markets, and investor protections be to design a system which fundamentally disallows centralized censorship of specific items deemed inappropriate in the legacy regulatory context? This idealistic future, originated in the founding vision of Stellar, exists only in a distributed trade execution environment.
 
@@ -273,7 +325,7 @@ As is made abundantly clear in [this response](https://blog.uniswap.org/wells-no
 
 I am in no way whatsoever implying that similar business practices might emerge over the years from existing network participants. But even if the ecosystem's Soroban developers adhere strictly to the nonprofit principles embedded in SCP, they'll still be targets for regulatory action the moment they touch absolutely anything we're building at Block Transfer. It was also discussed that the SDF could deploy "definitive" Soroban AMMs to centralize liquidity, but this would very unambiguously place the Foundation in the crosshairs of similar threats.[^conv]
 
-[^conv]: I have communicated this view with multiple SDF staff members over the years, including in the confidential notes of our third application to SCF. The underlying _funding_ of an exchange venue is categorically different than the _operations_ of root protocol rules. Indeed, this is precisely the paradox I ran into when I originally tried to position the Syndicate itself as a "stock transfer protocol," rather than the TAD3 compliance layer.
+[^conv]: I have communicated this view with multiple SDF staff members over the years, including in the judge-only notes of our third [SCF application](https://youtu.be/UzLCQaJ-TqU). The underlying _funding_ of an exchange venue is categorically different than the _operations_ of root protocol rules. Indeed, this is precisely the paradox I ran into when I originally tried to position the Syndicate itself as a "stock transfer protocol," rather than the TAD3 compliance layer.
 
 The stakeholders in today's systems are and have always been investors and issuers. Might any other party involved in the exchange process [exclusively serve](https://youtu.be/HQZg0ZY-Amg?t=2353) to siphon value away from those two groups? Should we defend the DEX as the last bastion of a free financial market?
 
@@ -338,84 +390,3 @@ Might we contemplate the longer-term thinking that makes Stellar work so foundat
 It might be hard for technical people like us to see some of the incredible implications of a 50 bps spread reduction.[^pennies] But these innovations truly change people's lives&mdash;I've seen, felt, and shared it firsthand. In an increasingly abundant society in raw compute terms, might we best empower all network users with tooling that places the locus of economic control squarely in their hands? 🤳🏼
 
 [^pennies]: _See, e.g.,_ the billions made weekly through Wall Street exchange skimming using [riskless theft](https://www.linkedin.com/pulse/gamestop-first-successful-short-squeeze-john-wooten-xvyne) of retail dollars through net-detrimental social-class exploitation. While a few cents today might look like peanuts, imagine what a difference to your retirement portfolio just an extra couple of bucks collectively in lumens would make, e.g., not three short weeks ago. These details are what's at stake when it comes to eliminating the hidden costs of centralizing PFOF, excess gas, and [poor execution](https://discordapp.com/channels/761985725453303838/1302004423483981924/1304786314092347566) that so commonly serve to the detriment of long-term investor savings and retirements.
-
-
-
-
-
-
-{{ ADR fragmentation, arb intrastocks
-
-[^fragmentation1]: [quandaries_of_fragmentation.pdf](https://github.com/user-attachments/files/17347675/quandaries_of_fragmentation.pdf)
-[^fragmentation2]: [Base asset differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269)
-[^fragmentation3]: Synch the argument with the material difficulty of [reconciling segmented assets](https://github.com/user-attachments/files/17347723/inften__20200407094352_82382.pdf)
-
-}}
-
-
-
-{{ [^tractionQ]
-the problem is their revenue, popoularity, and indeed sustainability comes from attracting ever-increasing trading volumes, which presents a [direct conflict of interest](https://youtu.be/YUwqzeaR1lA?t=63) with the [investing public](https://www.reddit.com/r/Bogleheads/comments/ug32km/can_someone_explain_to_me_what_revenue_from/?rdt=55563)[^investing-public]
-
-
-[[
-  even if we can momentarily agree that the "best" Sorobvan DEX(es) will attract a large amount of liqudiity, which dominates the network, this leaves the power over democratic trading in the hands of a select few organizations
-
-presently, the instutitons which run these technologies are centralied, legal, for-profit corporations
-
-this presents the very clear path for "traction" in terms of user funds locked to lead to VC interest
-
-]]
-
-[^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 ~~per GUH and the kid that killed himself~~
-
-}}
-
-
-{{ historic natural copmatition
-
-price competation which [naturally](https://reports.tiger-research.com/p/onchain-darkpool-eng) occurs
-(including negative privces with PFOF)
-
-[^lolpcs]: [instanet_history_comic.pdf](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf)
-
-}}
-
-
-{{ Our Opportunity
-
-- [hidden market exahvnes -> ATS liq batttle](https://x.com/JFWooten4/status/1842296919160144159)
-- https://youtu.be/YUwqzeaR1lA?t=63
-- https://youtu.be/UzLCQaJ-TqU
-
-
-
-_See, e.g. supra_ note 22, [demo execution RAM](prob speedex original paper at like 4, 7), and _supra_ note 23.
-
-}}
-
-
-
-
-{{ on the hacking part, let's FN the custody implication
-
-Implicate very deeply https://www.youtube.com/watch?v=QafkIh2nvY0&list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9
-https://x.com/JFWooten4/status/1815083374744334340
-
-again, discuss the custody implications and href to the not you keys part and such in the nicehash arguments first introdiuced per [higher fees](https://discord.com/channels/761985725453303838/761985725453303841/1293775764830814350)
-- corporate control
-- custody implications
-- arbitrary limits [discussed] in re _Compare_:
-  - https://discord.com/channels/761985725453303838/761985725453303841/1293804598368145449
-  - https://discord.com/channels/761985725453303838/761985725453303841/1293770598891389060
-
-}}
-
-
-
-
-personal analysis of 0x[^capture]
-
-[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV § 2.
-
-but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
