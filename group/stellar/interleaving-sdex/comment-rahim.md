@@ -18,7 +18,7 @@ I'm writing this as someone who just wants the most efficient technology possibl
 
 Since this post, quite the collective discussion has popped up on the subject. Perhaps most relevantly, you were rightly given accolades for uncovering the deadly bug.[^yays] 🎖️ The context under which this occurred is materially-relevant to the rest of this discussion, so I will link it here:
 
-[^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3. _See also infra_ S 1.3. There might be some legal jargon sprinkled in here for the regulators that read it, but really this is about how we might best empower people like you to smoothly access liquidity.
+[^yays]: _See_ the [above post](https://github.com/stellar/stellar-protocol/discussions/1558#discussion-7245978) ("PREV") at n.3. _See also infra_ § 1.3. There might be some legal jargon sprinkled in here for the regulators that read it, but really this is about how we might best empower people like you to smoothly access liquidity.
 
 [![meridian-2024-ama](imgs/comments/builders-bridge-thumbnail.png)](https://youtu.be/KTH85egVSzw?t=388)
 
@@ -121,7 +121,7 @@ That said, can we all agree that the contemplation given to my beliefs ought to 
 
 Expanding on the chief question asked in the video from Meridian,[^ngr] might we take a holistic consideration as to the cost of liquidity as it stands today? As voluminous comments in the singular conversation forum so far have revealed, liquidity is a key aspect of the network for users, developers, and advocates together. Reflecting on the asked investment of time, energy, and composability into interleaving liquidity, might we consider the sum network benefits?
 
-[^ngr]: Which is different from the [round table](imgs/comments/garand-offline-roundtable.png) Garand mentions. I reached out to @SirTyson for comment on Nov 1 but haven't heard back yet. In the same chat linked in S 1.2.3, they say SPEEDEX "opens the door to a lot of interesting opportunities, such as higher trade volume, better compatibility between Soroban and classic ops, etc."
+[^ngr]: Which is different from the [round table](imgs/comments/garand-offline-roundtable.png) Garand mentions. I reached out to @SirTyson for comment on Nov 1 but haven't heard back yet. In the same chat linked in § 1.2.3, they say SPEEDEX "opens the door to a lot of interesting opportunities, such as higher trade volume, better compatibility between Soroban and classic ops, etc."
 
 Markedly, the choices we make around items like [whether or not](https://github.com/stellar/stellar-protocol/pull/1562) contracts call the DEX have significant downstream effects on whether the network runs well for users like us or the centralized institutions presently so dominant across other chains. I like to think there's a reason the large majority of demonstrably-compliant web3 investment products employ the network (or at least originally launched here). All this despite the current lack of attention on self-custody options available to all.[^cbn]
 
@@ -165,7 +165,7 @@ Tomer seems equally hopeful for a network with more liquidity, trading, and acce
 
 I sincerely appreciate Tomer's experienced, meticulous, and transformative work throughout the ecosystem. That said, might we bound ourselves for material compliance violations using the two alternative options they propose, based on Soroban and presently in the incubatory stages of development?[^twos] We're all for a new visionary, collaborative, and dynamic system; by my understanding&mdash;building on the same team.
 
-[^twos]: _See_ discussion on first and second options _infra_ S 3.1 and 3.3, respectively. Given the involvement of these systems in the recent [FBI Polymarket raid](https://youtu.be/tx6A3_OLEMY), might we take caution in the real-world liabilities associated with the exchange function. The present path of development could introduce material compliance risks to existing network projects, no matter their locale, given our SEP8-light implementation of book-entry securities.
+[^twos]: _See_ discussion on first and second options _infra_ § 3.1 and 3.3, respectively. Given the involvement of these systems in the recent [FBI Polymarket raid](https://youtu.be/tx6A3_OLEMY), might we take caution in the real-world liabilities associated with the exchange function. The present path of development could introduce material compliance risks to existing network projects, no matter their locale, given our SEP8-light implementation of book-entry securities.
 
 But the core function of asset exchange implicates not only regulatory security but also practical custody risks which the previous surprise update acutely brought to light. Combined with the recent hikes in AMM "listing fees," might we contemplate further which path could best grow the network? Fees which, I feel obliged to remind everyone, are paid in speculative tokens for the vast majority of present implementations.[^nxlm]
 
@@ -175,7 +175,7 @@ But the core function of asset exchange implicates not only regulatory security 
 
 From the original 2022 panel to today, Justin has stood firm as a neutral arbiter between Jed and Tomer's viewpoints.[^arch] It doesn't seem like Justin explicitly prefers any one route, based on limited in-person conversations, historic public info, and [recent statements](https://www.reddit.com/r/Stellar/comments/1ciiki3/comment/l3b0h24). These sentiments were also true by my interpretation of the 2021 [Open Protocol Meeting](https://youtu.be/aHZQfcIdmoQ?t=1214) adopting native AMMs.
 
-[^arch]: Please do feel free to jump in and comment if I'm missing anything here, though. 😅 Relevantly, by "adopting" later in this paragraph, I mean taking the [CAP Core Team](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#awaiting-decision---final-comment-period-fcp) poll, based on the open community contribution framework. Might we further discuss elsewhere the migration of discussions from the stellar-dev mailing list onto GitHub Discussions, as implicated in S 1 at links 4&ndash;6?
+[^arch]: Please do feel free to jump in and comment if I'm missing anything here, though. 😅 Relevantly, by "adopting" later in this paragraph, I mean taking the [CAP Core Team](https://github.com/stellar/stellar-protocol/blob/master/core/README.md#awaiting-decision---final-comment-period-fcp) poll, based on the open community contribution framework. Might we further discuss elsewhere the migration of discussions from the stellar-dev mailing list onto GitHub Discussions, as implicated in § 1 at links 4&ndash;6?
 
 In conversation with the community projects Justin highlighted on [Reddit](https://discord.com/channels/761985725453303838/946921813143851019/1291438741747138560), developers believe trading needs to be the first Soroban use case because you can't call the DEX from contracts yet. But, as discussed, we can transform the DEX together to deploy infrastructure that doesn’t overly burden a central point of failure. Indeed, Justin seemed to lightly nod when Tomer voiced that "another option" is "people like Garand" prototyping evolved order books implementing SPEEDEX.
 
@@ -201,7 +201,7 @@ Our community cares greatly about order books because, as "inefficient" as they 
 
 I've believed in the DEX since the moment I understood SCP, [this video](https://youtu.be/YFca255hXj8), and Wall Street's exclusive club.[^cibt] And I believe with every ounce of my being that we're dooming future generations to continued exploitation by these bastardizing central planners if we fail to protect the last bastion of a free market present in the network. Here and now is our opportunity to fulfill Nakamoto's vision for a disintermediated base financial infrastructure, capable of the globe's payments, trades, and balances&mdash;not a select few.
 
-[^cibt]: _See_ collaboration disclaimer at S 2.2 in [video](https://youtu.be/S75IvkicWD8) description. Both of us generally understood that "protocols" like 0x could work with cautious deployment, but time has proved that the developers thereof have consistently put profit over order execution efficiency. Might these be the explicit tradeoffs inherent in a [credit-based system](https://youtu.be/YUwqzeaR1lA?t=23) surrounded by venture-capital interests?
+[^cibt]: _See_ collaboration disclaimer at § 2.2 in [video](https://youtu.be/S75IvkicWD8) description. Both of us generally understood that "protocols" like 0x could work with cautious deployment, but time has proved that the developers thereof have consistently put profit over order execution efficiency. Might these be the explicit tradeoffs inherent in a [credit-based system](https://youtu.be/YUwqzeaR1lA?t=23) surrounded by venture-capital interests?
 
 ### 3.1.1 Unspoken, Silent Centralization Incentives
 
@@ -235,7 +235,7 @@ There's a reason "ALL other chains" face the material operational limitations pr
 
 > Imagine a world where, anytime you travel, you never have to exchange currency except at the point of sale. A world where you can choose to keep all your assets in, for example, Google stock, cashing out small amounts as you need to pay for things. Cross-asset payments make this world possible.
 
-[^cite]: _See_ David at _supra_ S 1.2.2. _See also_ institutional adoption of the DEX as a native offering book in registered offerings. Might we inspire the rebirth of IPOs by supporting the [documented](https://developers.stellar.org/docs/tokens/control-asset-access#issuing-and-distribution-accounts) application of issuing an asset by creating an offer?
+[^cite]: _See_ David at _supra_ § 1.2.2. _See also_ institutional adoption of the DEX as a native offering book in registered offerings. Might we inspire the rebirth of IPOs by supporting the [documented](https://developers.stellar.org/docs/tokens/control-asset-access#issuing-and-distribution-accounts) application of issuing an asset by creating an offer?
 
 [^exam]: In numerous encounters with traditional web3 pioneers on [other chains](https://x.com/JFWooten4/status/1778787218041032865), I have repeatedly brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequences until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities, acting as trust arbiters in a central schema. If we truly aim to take down the inefficient financial system once and for all, might we continue treading toward a truly decentralized DEX?
 
@@ -247,15 +247,15 @@ But I know markets, and the fundamental problem we ran into with these systems i
 
 The power of longstanding Rust contracts is undeniable, per Garand's sentiments. We're at the start of an unparalleled journey to build an innovative financial system that actually serves the needs of its users, not its executives. Might we move past the elementary applications so common on other chains which we have already efficiently solved using validator-level logic?
 
-[^mk]: _See, e.g.,_ routine complexity in S 2.2 of PREV. _Compare_ convoluted routing which developed over half a century with elegant simplicities promoted by direct pairwise liquidity pools in CAP38. Might innate routing efficiency drastically simplify the process of building dApps on Stellar? 🌌
+[^mk]: _See, e.g.,_ routine complexity in § 2.2 of PREV. _Compare_ convoluted routing which developed over half a century with elegant simplicities promoted by direct pairwise liquidity pools in CAP38. Might innate routing efficiency drastically simplify the process of building dApps on Stellar? 🌌
 
-[^es]: _See, e.g.,_ transaction from S 2.1.1, a fraction of institutional volume. Upon consultation with Enrique, this was the most anyone paid for the asset by far. Should we silo liquidity in contracts, making it sparingly available to specific users through certain frontends?
+[^es]: _See, e.g.,_ transaction from § 2.1.1, a fraction of institutional volume. Upon consultation with Enrique, this was the most anyone paid for the asset by far. Should we silo liquidity in contracts, making it sparingly available to specific users through certain frontends?
 
 ## 3.3 "UniV4-Style" Future Development Pitfalls
 
 Throughout the conversations, we've all generally agreed that "the SDEX order books are still more advanced than any set of order books on any chain." Indeed, in my view, Uniswap V4 is just a mechanism to cope with the reality that other chains are not efficient enough to offer limit orders, falling back to the [systemic risks](https://youtu.be/dk3AVceraTI?t=1704) of [central netting](https://assets-global.website-files.com/64f99c50f4c866dee943e165/650c3f1413e3fb7a3c96e640_Understanding%20Uniswap%20v4.pdf#page=4). ⚠️ If we are to replace the mammoth intermediaries gatekeeping the financial system, we cannot ignore the fundamental need for priced offers.
 
-[^add]: _See, e.g.,_ Adam's remarks in S 1.2.1. This truth remains as abundantly clear to me now after three years of compliance work as it did when I first understood the network. There is a reason every other order book operation at meaningful scale (e.g. past #5000 on CMC) receives a nice visit from a three-letter agency, including "DAO-based" ones like Tornado Cash.
+[^add]: _See, e.g.,_ Adam's remarks in § 1.2.1. This truth remains as abundantly clear to me now after three years of compliance work as it did when I first understood the network. There is a reason every other order book operation at meaningful scale (e.g. past #5000 on CMC) receives a nice visit from a three-letter agency, including "DAO-based" ones like Tornado Cash.
 
 Markets are not continuous functions like an AMM pricing curve. They do not follow your rules no matter how many times you run them through a Monte Carlo simulation.[^maths] As I presently understand these V4 contracts, they attempt unsuccessfully to tame the exposure participants face as the market moves against them, a natural uncertainty in the business of making a market for a spread.
 
@@ -263,7 +263,7 @@ Markets are not continuous functions like an AMM pricing curve. They do not foll
 
 The further down this path of control you center, the closer you get to today's market infrastructure. Pamphile explained [the material challenges](https://x.com/gttyson/status/1844446137408946680) exceptionally when they wrote, "it's bloated, slow, old and everything."[^tup] Can we really centrally control something as complex as markets themselves?
 
-[^tup]: _See_ Tupui at _supra_ S 1.2.3. Other community members have asserted but not proven that long-tail illiquid, unregulated, and trailblazing assets are better off on AMMs. However, could this enforced trading policy unintentionally limit the free-market price discovery mechanism so efficient in today's long-tail equities?
+[^tup]: _See_ Tupui at _supra_ § 1.2.3. Other community members have asserted but not proven that long-tail illiquid, unregulated, and trailblazing assets are better off on AMMs. However, could this enforced trading policy unintentionally limit the free-market price discovery mechanism so efficient in today's long-tail equities?
 
 ### 3.3.1 Constitutional Corporate Overlord, Investors
 
@@ -281,7 +281,7 @@ The stakeholders in today's systems are and have always been investors and issue
 
 Along the path of centralization, incumbents try to sell "faster access" as a "trading benefit" to investors. However, if we're truly designing a global (and ultimately interplanetary) financial system, at some point we're going to run up against round-trip propagation time of digital signals.[^ciddf] This is exactly what Uniswap Labs' latest "invention" has introduced through the Unichain POC.[^garand]
 
-[^garand]: _See_ [vague whitepaper](https://docs.unichain.org/whitepaper.pdf), especially requisite sequencer limitations in S 3.1, centralized offline compute in S 3.2, and explicit liability assumption in S 3.3. Could these "innovations" still be light years behind SCP's trust decentralization mechanisms? Or is their flawed use of [trusted execution environments](https://x.com/gttyson/status/1844445777114038761) a speedy central control mechanism we should also strive for?
+[^garand]: _See_ [vague whitepaper](https://docs.unichain.org/whitepaper.pdf), especially requisite sequencer limitations in § 3.1, centralized offline compute in § 3.2, and explicit liability assumption in § 3.3. Could these "innovations" still be light years behind SCP's trust decentralization mechanisms? Or is their flawed use of [trusted execution environments](https://x.com/gttyson/status/1844445777114038761) a speedy central control mechanism we should also strive for?
 
 [^ciddf]: As I understand it, this is about two seconds. _Compare_ the base agreement timeframes across any Network peer with the present efficiencies of locally computing paths on shared variables. Might a further specialization of select order batches best serve an increasingly asset-abundant ecosystem?
 
@@ -416,6 +416,6 @@ again, discuss the custody implications and href to the not you keys part and su
 
 personal analysis of 0x[^capture]
 
-[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
+[^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV § 2.
 
 but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
