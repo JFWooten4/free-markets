@@ -353,17 +353,9 @@ Since understandding its deep humanitarian implications, I've bet my entire care
 [^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 Tomer established this year that "you can't call classic order books from Soroban." Might we first "put a lot of effort into that" to rectify this limiting quandary, since contracts share the root account infrastructure ti hold classic assets?
 
 
-Markets have proved time and time again the immense neccesity of limit orders as the base building blocks of liquidty for the tens of thousands of long-tail assets issuer on the network. The proven DEX is anything but the black box pictured above, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees]
+Markets have proved time and time again the immense neccesity of limit orders as the base building blocks of liquidty for the tens of thousands of long-tail assets issuer on the network. The proven DEX is anything but the black box pictured above, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees] Might an investment in efficient markets today serve the network's issuers for all eternity?
 
 [^hidden-fees]: _See, e.g._ XYZ% [Matcha](), XYZ% [Uniswap](), and .15%+ [zeroEx](actual-org-schedule.pdf#page) website execution expenses. The requisite siloing centralization showcased here run antithically to [free markets](https://discord.com/channels/761985725453303838/761985725453303841/1295912752027664424). All furiousity aside, these are fundamntal flaws in the endgame of these contracts, not the fault of talented developers like @earrietadev whom have show exceptional humanitarian consciousncess by pivoting projects away from [wasteful mining externalities](https://discord.com/channels/761985725453303838/946921813143851019/1279941567515459606).
-
-
-I guess
-last
-pg
-ends
-here
-
 
 
 Could a turly nonprofit financial systme built for its users minimie rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746). Or will we contnue to be hadncuffed to titanic habritrary capital requirments to bootstrap liquidity, as in the message immediately suceeding _Id_?
@@ -506,20 +498,3 @@ personal analysis of 0x[^capture]
 [^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
 
 but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
-
-
-Might an investment in efficient markets today serve the network's issuers for all eternity?
-
-
-
-
-
----
-
-clkosing intro to community in thread:
-
-let's do as a reply to https://discordapp.com/channels/761985725453303838/1302004423483981924/1304799045826379818 based on DMs
-
-we're all on the same team 🤝
-
-^ per se this (prob respond here or quote: https://discord.com/channels/761985725453303838/779402900828323891/1307362967918215250
