@@ -125,23 +125,13 @@ Markedly, the choices we make around items like [whether or not](https://github.
 
 [^cbn]: _See, e.g.,_ the UI deprioritization of Stellar on the centralized exchange in note 7 of PREV, buried under every other supported USDC chain. _See also_ similar treatment in the Circle developer dashboard. These starkly contrast with the plethora of legal filings explicitly referencing the network behind the closed doors of legalese.
 
-Might the self-custody implication inherent in existing exchange business models draw attention away from the DEX?[^s=c] This might lead to a number of quandaries that came up in this discussion, such as trading volume compared to proprietary venues, AMMs, and HFTs. I believe wholeheartedly in our unique opportunity to collaboratively explore the most efficient globalized solution that satisfies the longstanding needs of traders, developers, and innovators.[^nex]
+Might the self-custody implication inherent in existing exchange business models draw attention away from the DEX?[^s=c] This might lead to a number of quandaries that came up in this discussion, such as trading volume compared to proprietary venues, AMMs, and HFTs.[^lcks] I believe wholeheartedly in our unique opportunity to collaboratively explore the most efficient globalized solution that satisfies the longstanding needs of traders, developers, and innovators.[^nex]
 
-{{
-[^s=c]: ## Expanding the Locus of Trust
-
-There are very legitimate centralization implications in upgradable smart contracts having their keys get hacked, as we see so commonly.
-
-I know there is Soroswap (probably don't mention explicitly), which does this without upgradability.  
-But this segues directly into the very foundational argument that any upgrade (and there will be upgrades _see Uniswap v3_) goes through the process of creating a new source of liquidity.  
-The only way to fix this is to have it at the protocol level so that upgrades continue preserving the existing locked-up liquidity.  
-
-This implicates making the argument against deposit locks as discussed on both sides of the agenda.
-}}
+[^s=c]: I say "attention" because, while users might not need to know technical specifics, we in the DRS community care quite extensively about the legal title to our portfolios. There are very legitimate centralization implications in upgradable smart contracts having their keys hacked, as we as a community have seen so commonly on other chains. Without protocol-level upgrade mechanisms, any contract migration or versioning falls into the trap of creating a new isolated source of liquidity.
 
 [^nex]: I might not know exactly what will change about financial markets over the coming decades, which could materially impact the DEX's requirements. But I have deeply studied the history of markets over the past six years in an effort to understand what _won't_ change, no matter how many centuries pass. Can you imagine a future where developers demand wider spreads, traders want fewer ways to game the system, or innovators want to build whole businesses on delicate foundations?
 
-This should frame as a collaborative effort to explore other options not revealed in my 1 vs. 2 hypothesis since there are so many incredibly-intelligent believers in the network with genius ideas etc. decentralized (this implicates the points made to Shaptic and adopted by in https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899).
+[^lcks]: _See also_ community sentiments to work against free markets by implementing AMM deposit locks as guarantors of liquidity. Might we best secure execution liquidity at all times through a collective collaborative effort to explore universal pools of capital? There are so many incredibly intelligent believers in the network with genius ideas; might a wholehearted and thus coordinated, decentralized, and [sovereign](https://github.com/stellar/stellar-docs/pull/1043#discussion_r1811060899) approach best serve the network?
 
 ### 2.1.1 @jedmccaleb: Blockchain Liquidity Innovator
 
