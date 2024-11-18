@@ -1,6 +1,6 @@
 ```
 status: Draft
-submit: asap lol goddamn fucking fbi raid
+submit: 18 Nov 2024
 dialog: https://github.com/stellar/stellar-protocol/discussions/1558#discussioncomment-10807798
 ```
 
@@ -166,7 +166,9 @@ To bring this point to light, I [recently executed](https://stellar.expert/explo
 
 ### 2.1.2 @tomerweller: Seeking Efficient Replacement
 
-Tomer seems equallty hopeful for a network with more liquidity, trading, adn access. My understanding of their perspective so far is a focus on composability between protocols built on top of the network. In the disucssion, Tomer [said](https://discord.com/channels/761985725453303838/1302004423483981924/1302276394356703232) they didn't yet have much "to add on top of what was said" at Merridian.[^hack]
+Tomer seems equallty hopeful for a network with more liquidity, trading, adn access.[^t2022] My understanding of their perspective so far is a focus on composability between protocols built on top of the network. In the disucssion, Tomer [said](https://discord.com/channels/761985725453303838/1302004423483981924/1302276394356703232) they didn't yet have much "to add on top of what was said" at Merridian.[^hack]
+
+[^t2022]: _See_ 2022 remakrs that "the order books are extremely efficient as far as order books go, but orderbooks in general are not the most efficient data structure." Might I posit that we can still develop production applications in [Python](https://x.com/JFWooten4/status/1849109891471843764) despite the technical reality that Rust programs would run much faster, ignoring nostalgia _ab initio_? Perhaps marginal improvements here and there are less relevant given the contextual competition from [COBOL mainframes](https://x.com/JFWooten4/status/1843833900642320509) so common in the correspondent banking system?
 
 [^hack]: According to further [conversation](https://discord.com/channels/761985725453303838/761985725453303841/1306590729098887231), this statement was made before the recent social account takeover. I find this point relevant becasue one of the first things the attacker did was send out mass ETH phishing links. Might we keep this in mind when disucssing the incument architectures that follow?
 
@@ -253,7 +255,7 @@ There's a reason "ALL other chains" face the material oeprational limitations pr
 [^exam]: In numerous encounteres with traditional web3 pioneers on other chains, I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
 
 
-### 3.2 ZK Scaling and Rollutips
+## 3.2 ZK Scaling and Rollutips
 
 My [original implementation](https://github.com/blocktransfer/TAD2) of a stock market was designed to scale with optimistic rollups, as they're an easy answer to the scaling question plaging less efficient blockchains. Another option, [zero-knoeldge proofs](https://youtu.be/PIFclL2EE9g), offer similar promises. Admittedtly, this is not my area of expertise iby any means.
 
@@ -267,7 +269,7 @@ The power of longstandign Rust contracts is indeniable, per Garand's sentiments.
 [^es]: _See, e.g.,_ transaction from S 2.1.1, a fraction of instuttional volume. Upon conusltation with Enrique, this was the most anyone paid for the asset by far. Should we silo liquidity in contracts, making it sparingly available to specific users through certain frontends?
 
 
-### 3.3 "UniV4-Style" Future Developmet Pitfalls
+## 3.3 "UniV4-Style" Future Developmet Pitfalls
 
 Throughout the conversations, we've all generally agreed that "the sthe sdex orderbooks are still more advanced than any set of orderbooks on any chain." Indeed, in my view, Uniswap V4 is just  a mechanism to cope with the realitey that other chains are not efficient enough to offer limit orders. If we are to replace the mamouth intermediaries gatekeeping the financial system, we cannot ignore the fundamnetal need for priced offers.
 
@@ -285,7 +287,7 @@ The further down this path of control you cenutre, the closer you get to today's
 [^tup]: _See_ Tupui at _supra_ S 1.2.3.
 
 
-#### 3.3.1 Constitutional Corproate Overloard, Investors
+### 3.3.1 Constitutional Corproate Overloard, Investors
 
 As is made abundantly clear in [this response](https://blog.uniswap.org/wells-notice-response.pdf#page=8) to their SEC investigation, Uniswap "Labs" is a [for-profit C corporation](imgs/comments/uniswap-labs-entity.png) with "leading U.S. institutional investors, such as Paradigm, Andreessen Horowitz, and Union Square Ventures" and "more than 100 employees."[^mfers] This document also highlights that the enterprise has kept its algorithms under the oppressive protection of rent-seeking [software licenses](https://github.com/orgs/WhyDRS/discussions/1).
 
@@ -301,7 +303,7 @@ The stakeholders in today's systems are and have alwyas been investors and issue
 
 
 
-#### 3.3.2 Unnaceptable, Unaccountable Execution Centralization
+### 3.3.2 Unnaceptable, Unaccountable Execution Centralization
 
 Aloong the path of centralization, incuments try to sell "faster access" as a "trading ebenfit" to investors. However, if we're truly designing a global (and ultimately interplanetary) finacnial system, at some point we;re goingto run up against round trip propogation time of digital sigals.[^ciddf] This is exactly what Uniswap Lba's laterst "invesntion" has introduces through the [Unichain POC](https://docs.unichain.org/whitepaper.pdf).[^garand]
 
@@ -320,7 +322,7 @@ Given America has the world's most advanced, developed, ad liquid market for cap
 
 
 
-#### 3.3.3 Requisite Insurance for Adoption
+### 3.3.3 Requisite Insurance for Adoption
 
 I've spent the past four years talking to just about every anker, trader, and regulator I know about blockchsin. Following the prior logic, institutional adoption of actual trading on a self-custody basis requires gargantuan insurance products when using bootstrapped smart contracts which we very clearly see pose hazard per your work. Could trading be the msot important aspect of a financial system which we are presently left to master?[^imps]
 
@@ -336,29 +338,9 @@ pg Z
 
 # 4. 
 
-I've bet my entire career that SPEEDEX works, and that it works stellar. Without true offers on the DEX, I see no future using today's technology in which I'd like a stake in this industry. Do you think Wall Street's time is up, as do the tousands of members in our grassroots community afflicted by their unadulterated theft? ⌛️
+I've bet my entire career that SPEEDEX works, and that it works stellar. Without true offers on the DEX, I see no future using today's technology in which I'd like a stake in this industry.[^works] Do you think Wall Street's time is up, as do the tousands of members in our grassroots community afflicted by their unadulterated theft? ⌛️
 
-
-
-
-
-------
-
-
-possible implicate dzar and emir and enrique
-^ def the enq footnote here
-
-at some point we will need to write that the DEX is very explictcityl not fucking nostalgia (but like in a nuanced way t end of snet)
-
----
-
-original comments 2022:
-
-" The order books are extremely efficient as far as order books go. But orderbooks in general are not the most efficient data structure." [that you can have]
-
----
-
-here r my contemplating [speedex principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) re public discussion
+[^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 
 
 long-tail unliquid assets "better off on AMMs" suggested/asserted, but not how real markets work outside of a traditional data management model
 implicate the only fkn long-tail assets whic are equities, and as such there are material introductoryh practices enshrined in law quich require pricing via explicit parties rather than an AMM
