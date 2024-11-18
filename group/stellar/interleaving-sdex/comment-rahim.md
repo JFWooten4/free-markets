@@ -330,12 +330,13 @@ I've spent the past four years talking to just about every anker, trader, and re
 [^imps]: _See_ ongoing fund clarity work both internal and opened on Syndicate GitHub repos in re note 9 in PREV. We respectifully submit to the network that you do not get a "second first impression" with regulators, especially given the tacit but not ocntextual background of Jed. Are the relatively modest prodits a select few developers present enjoy by arbitraging Soroban AMMs worth giving them a bone to pick with us, _ad infinitum_? 🏛️
 
 
-Everyone generally wants to move fast when it comes to klaunching into a sustainable business state&mdash;completely understandabe. But might it be prudent to [slow down](https://www.blocktransfer.com/about/values) and build something longstanding to serve generations of users to come? At this Merridina, Tomer positted that:
+Everyone generally wants to move fast when it comes to klaunching into a sustainable business state&mdash;completely understandabe.[^easya] But might it be prudent to [slow down](https://www.blocktransfer.com/about/values) and build something longstanding to serve generations of users to come? At this Merridina, Tomer positted that:[^bug-20]
 
 > There is no certainty. At the end of the day, it doesn't matter how many audits you go through; it doesn't matter how much testing you do. Sometimes there are bugs.
-[^bug-20]
 
-[^bug-20]: _See_ _infra_ note XYZ "paraphrase" _quo videtur_ we are all in agreement. But I do not think the most basic of core infrastructure should require scores of bug bounties to attaub modest crdability. Maybe the community's satefty approach showcased in the [Soroban update delay](https://youtu.be/rbjFjda3_UI?t=7080) can be our guiding light to "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" 🐛
+[^easya]: _See, e.g._ various developer disucssions about the relative easy of deploying a new pool with a custom stabelswap bonding cure or mutli-asset pool composition for "diversification." Might these capital allocation quandaries necessarily exist in the market, solvable chiefly and simply by propor native balances incorpated into a higher optimized system? Perhaps the capable core developers and ecosystem partiticpants could trivially implement new curves as needed but not satisfied by passive sell offers, should sufficient aid emmerge?
+
+[^bug-20]: _See_ _infra_ note XYZ [^maths] _quo videtur_ we are all in agreement. But I do not think the most basic of core infrastructure should require scores of bug bounties to attaub modest crdability. Maybe the community's satefty approach showcased in the [Soroban update delay](https://youtu.be/rbjFjda3_UI?t=7080) can be our guiding light to "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" 🐛
 
 
 While we in the DRS community apprtrciate that there will be bugs in any computer systems, we'd prefer our funds not be at risk in flash crashes perpetuated by complex trading infrastrucutre. 🫤 Would it be best to strictly apply an unwavering software mindset to somethign [as important](https://stellar.expert/blog/tiny-things-matter-or-detective-novel-featuring-stellar-dex) as markets? Or might we conceivably best serve the plausible needs of our expanding ecosystem through a [feasible unifrom front](imgs/comments/collective-network-benefit.png)?
@@ -343,31 +344,26 @@ While we in the DRS community apprtrciate that there will be bugs in any compute
 
 # 4. Legal, Composible, Community Solution
 
-I've bet my entire career that SPEEDEX works, and that it works stellar. Without true offers on the DEX, I see no future using today's technology in which I'd like a stake in this industry.[^works] Do you think Wall Street's time is up, as do the tousands of members in our grassroots community afflicted by their unadulterated theft? ⌛️
+[![requisite-humanitarian-application](imgs/comments/path-payment-impact.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4550837)
+
+Since understandding its deep humanitarian implications, I've bet my entire career that SPEEDEX works, and that it works stellar. Without true offers on the DEX, I see no future using today's technology in which I'd like a stake in this industry.[^works] Do you think Wall Street's time is up, as do the tousands of members in our grassroots community afflicted by their unadulterated theft? ⌛️
 
 [^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 Tomer established this year that "you can't call classic order books from Soroban." Might we first "put a lot of effort into that" to rectify this limiting quandary, since contracts share the root account infrastructure ti hold classic assets?
 
 
-mentions cusotmized stableswap pairs which again trivial addition of a bonding curve withing the pathfind
+Markets have proved time and time again the immense neccesity of limit orders as the base building blocks of liquidty for the tens of thousands of long-tail assets issuer on the network. The proven DEX is anything but the black box pictured above, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees]
 
-as he identitfied, it takes much less assets to build liquidity through an order book for long0-taukl assets
-
-
+[^hidden-fees]: _See, e.g._ XYZ% [Matcha](), XYZ% [Uniswap](), and .15%+ [zeroEx](actual-org-schedule.pdf#page) website execution expenses. The requisite siloing centralization showcased here run antithically to [free markets](https://discord.com/channels/761985725453303838/761985725453303841/1295912752027664424). All furiousity aside, these are fundamntal flaws in the endgame of these contracts, not the fault of talented developers like @earrietadev whom have show exceptional humanitarian consciousncess by pivoting projects away from [wasteful mining externalities](https://discord.com/channels/761985725453303838/946921813143851019/1279941567515459606).
 
 
-------
-.
-
-cincing in 4.:
-
-[![requisite-humanitarian-application](imgs/comments/path-payment-impact.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4550837)
-["Necessity" paragraph here]
-how it's anything but the black box pictured, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees]
-
-[^hidden-fees]: _See, e.g._ XYZ% [Matcha](), XYZ% [UniSwap](), and .15%+ [zeroEx](actual-org-schedule.pdf#page) website execution expenses. These are not fucking free markets.
+I guess
+last
+pg
+ends
+here
 
 
-need to clarify very explicitly that this is Not Enqiue's fault (or the fxdao community_ but rather a fundamnetal flaw in the endgame of these contracts
+
 
 emphasize the last clause in re upgradable or not based on the underlying strucutre of the entity operating the order book itself (this can introduce the interview via https://x.com/JFWooten4/status/1853607712111624481)
 
@@ -556,7 +552,6 @@ gov things
 
 TOMER Meridian:
 
-says "one way" is soroban 0x/uniswap v4 protocols (for more granuality)
 
 personal analysis of 0x[^capture]
 question of v4 just being due to the limits of slower chains without OBs
@@ -566,18 +561,6 @@ but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted 
 
 Framing efficient "data strcutures" v. fukn "markets" which CANNOT HAVE central power over protocol liquidity in the hands of a relatively opaque and historiucallty contextual oprg
 
-
-
-
-### footnotes
-
-Enrique: let's commend the move away from PoW per mining implications
-
-
-
-
-
-# 4.
 
 
 
