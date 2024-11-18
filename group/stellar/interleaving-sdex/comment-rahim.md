@@ -392,15 +392,13 @@ can also imp[licate the extensive public discussion voer a network feature that 
 - https://stellar.org/blog/developers/liquidity-liquidity-liquidity
 
 
-"Stellar has a near-zero-fee Decentralized Exchange built into the protocol, which allows you to trade any token pair and list your tokens without any listing fees or restrictions."
-&mdash; [Nikhil Saraf](https://stellar.org/blog/developers/kelp-why-we-built-it-the-liquidity-problem) on [kelp](https://discordapp.com/channels/761985725453303838/1292523643900919951/1301969206081753178)
 
 ---
 
 maybe laight gas arg if reelvant in any maningul fn
 
 new native AMMs release as benefit on narrowing at https://youtu.be/FiYKWQyLAuE?&t=1118
-"with AMMs ... you're only p[aying 50 basis points. That is "[AMMs create] a 33% imporvement on your cost... When we're thinking about cross-boarder payments, I think we can envision some future state where this is... all different fiat assets that are tokenized into stablecoins. And these AMM pools are enabling cheaper and more efficient FX transactions" &mdash; Phil Meng @ a the SDF
+"with AMMs ... you're only paying 50 basis points. That is "[AMMs create] a 33% imporvement on your cost... When we're thinking about cross-boarder payments, I think we can envision some future state where this is... all different fiat assets that are tokenized into stablecoins. And these AMM pools are enabling cheaper and more efficient FX transactions" &mdash; Phil Meng @ a the SDF
 
 ---
 
@@ -509,7 +507,6 @@ this presents the very clear path for "traction" in terms of user funds locked t
 
 and VCS ARE FUCKING CENTRALIZED AND WILL DO WHAT THEY FUCKING DID TO 0X HOLY SHIT
 this is a goddamn untennable posititon
-like fduck you wall st
 
 this shoud get framed in the very relevant context of S XYZ (thesis) in link NUM from S ABC in origingal work (which we should declare in the intro as "ABC/D")
 
@@ -550,32 +547,14 @@ gov things
 
 
 
-TOMER Meridian:
-
-
 personal analysis of 0x[^capture]
-question of v4 just being due to the limits of slower chains without OBs
+
 [^capture]: _See_ [comparative analysis](https://blocktransfer.com/.well-known/thesis.pdf#page=15) in PREV S 2.
 
 but we don't need to pick and chose given the SPEEDEX advanceemnmts highlighted by recent community discussion.
 
-Framing efficient "data strcutures" v. fukn "markets" which CANNOT HAVE central power over protocol liquidity in the hands of a relatively opaque and historiucallty contextual oprg
-
-
-
-
-
-
-
-
 
 Might an investment in efficient markets today serve the network's issuers for all eternity?
-
-
-
-
-
-
 
 
 
@@ -590,23 +569,3 @@ let's do as a reply to https://discordapp.com/channels/761985725453303838/130200
 we're all on the same team 🤝
 
 ^ per se this (prob respond here or quote: https://discord.com/channels/761985725453303838/779402900828323891/1307362967918215250
-
-> There is a single group of people that issue AQUA tokens, whether or not the distribution thereof comes from DAO choices or not. The ICE systemic design choices rested in the hands of a central organization. Compare this with the decentralized rules of the network inherent in SCP.
-
-First of all, the issuer is locked. All supply is controlled by the Signers Guild. There is no single group of people issuing tokens—you are wrong. The Signers Guild controls over 75% of the uncirculated supply of AQUA. AFAIK, some other popular projects on Stellar have followed a similar approach. You can see all the guild wallets here: (lionks to article with key points:
-
-- Holders voting on what to incentivize (this should be markets using underlying)
-- DAO makes "decisions" over distribution of 1B arbitrary token treasury... (k??)
-- "Singers guild" makes token ownership :"decentralized" (but not the protocol..)
-- appreciate opening "empoyment" for 4-8 hours a week, but point is not a product
-
-> If we have SPEEDEX then we don't need
-> I will do my damndest to address this here by Monday because the answer is relatively nuanced.
-
-Aquarius is just a single project. You’re framing it as though Aquarius aims to end SDEX and bring liquidity solely to Soroban. I’ve seen this viewpoint from you in the channel @earrietadev.xlm created. However, the purpose of that channel is not negativity—it’s to provide different viewpoints and contribute to the ecosystem in the best way possible. There are and will continue to be thousands of projects building on Soroban.
-
-The only reason Aquarius is shifting from classic to Soroban is that it was built before Soroban existed. Liquidity on Soroban will ultimately benefit Stellar the most. Additionally, the Aquarius team is highly active in the ecosystem. If SDF takes further action for SDEX in the future, I’m confident the DAO can reallocate reward funds if necessary. This is just speculation, of course, as Garand’s work for SDEX is still in its very early stages. However, this issue is not specific to Aquarius. Other projects, like Phoenix and Blend, are also incentivizing liquidity for Soroban protocols.
-
-
-
-
