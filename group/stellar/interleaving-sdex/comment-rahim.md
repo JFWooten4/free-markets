@@ -92,19 +92,10 @@ Rahim [said](https://discord.com/channels/1172621167400599582/117262116819750913
 > 
 > &mdash; [tupui.xlm](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305670913898975292)
 
-{{ ^ segue this guy (sole Tup ref) into the above argument from Garand on building things other than LP venues:  
-"I am talking about the rest of the world who litterally does not care about the tech stack and just want real usage. And AGAIN, crypto is NOT just for finance!"}} (on the name?)
-
 > At the Meridian round table, I chatted with a bunch of the soroban devs to try and figure out what their needs were wrt soroban DEXs...
 > To be clear this is early stages, which is why I wanted to open the conversation at Meridian. Ideally, we'd have something where both soroban and classic could use the SDEX orderbook and both classic AMMs and Soroban AMMs could use SPEEDX as a shared "backend"
 > 
 > &mdash; [Garand (SDF)](https://discordapp.com/channels/761985725453303838/1302004423483981924/1305123502369538171)
-
-{{ Adam voiced that it's "the coolest creation in crypto in the last 10 years," which comes back to the thesis part.
-
-1.2 very briefly into public background shared around origination acc EA.  
-See unproductive net social expense of arbitrage as shown in central rents from trdes executing in [dark pools](https://x.com/JFWooten4/status/1842296919160144159) per genslar off-exchange
-}}
 
 ## 1.3 Appreciated Thought-Provoking Perspective
 
@@ -218,6 +209,8 @@ Our community cares greatly about order books because, as "inefficient" as they 
 I've believed in the DEX since the moment I understood SCP, [this video](https://youtu.be/YFca255hXj8), and Wall Street's exclusive club.[^cibt] And I believe with every ounce of my being that we're dooming future generations to continued exploitation by these bastardizing central planners if we fail to protect the last bastion of a free market present in the network. Here and now is our opportunity to fulfill Nakamoto's vision for a disintermediated base financial infrastructure, capable of the globe's payments, trades, and balances&mdash;not a select few.
 
 [^cibt]: _See_ collaboration disclaimer at § 2.2 in [video](https://youtu.be/S75IvkicWD8) description. Both of us generally understood that "protocols" like 0x [could work](https://blocktransfer.com/.well-known/thesis.pdf#page=15) with cautious deployment, but time has proved that the developers thereof have consistently put profit over order execution efficiency. Might venture-capital interests needlessly introduce these explicit tradeoffs, inherent in a creditum system not optimized with the SPEEDEX advancements?
+
+We have an unbelieve community of active builders striving for so much more than [another venue](https://x.com/JFWooten4/status/1842296919160144159), as shown in our discssion about how we can build real products not just for finance. As I explain the centralization t ocome, might we remember so muc hof the founding and core teams' vision for a network serving the masses of tommorw, a vision exceptionally executed across the protocol? ight we continue deplyoing the freest market possibly ever created to defeat the unproductive net social expense of off-DEX arbitrage?
 
 ### 3.1.1 Unspoken, Silent Centralization Incentives
 
