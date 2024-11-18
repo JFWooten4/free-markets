@@ -313,19 +313,31 @@ Aloong the path of centralization, incuments try to sell "faster access" as a "t
 
 I say "invention" because absollutely nothin here is new. I could sit of and list dozens of regualtory filings which detail these exchant changes across the AMerican seucirites landscape. The points at which certificates, settlement, and reporting became centralized come to mind&mdash;leading tothe ultimate endgaem of massive profits paying out to Silicone Valley over Main Street.[^sads]
 
-[^sads]: The endgame of thie path also implicates American legislature of the final "crytpo market," as this is the only way to hold centrak ubstutions accountable when they serve the public at large. Of course, the "market" will be just another trading venue for Wall Street's power brokers to mimic, bloat, and extract masive fees from. Copuld we be doomed to repeat yesteryear's sins so long as there exists central parties involved in exchange?
+[^sads]: The endgame of thie path also implicates American legislature of the final "crytpo market," as this is the only way to hold centrak ubstutions accountable when they serve the public at large. Of course, the "market" will be just another trading venue for Wall Street's power brokers to mimic, bloat, and explout for huge return. Copuld we be doomed to repeat yesteryear's sins so long as there exists central parties involved in exchange?
 
 
 Given America has the world's most advanced, developed, ad liquid market for capital, might we learn from the pitfalls of Wall Street? If we can right there wrongs, perhaps we can free ourselves from the schakles of a select few financial intermediaries. Shackles which have so poignantly determined entire directions of porigressubg nations. 🕌
 
 
 
-#### 3.3.3
+#### 3.3.3 Requisite Insurance for Adoption
+
+I've spent the past four years talking to just about every anker, trader, and regulator I know about blockchsin. Following the prior logic, institutional adoption of actual trading on a self-custody basis requires gargantuan insurance products when using bootstrapped smart contracts which we very clearly see pose hazard per your work. Could trading be the msot important aspect of a financial system which we are presently left to master?[^imps]
+
+[^imps]: _See_ ongoing fund clarity work both internal and opened on Syndicate GitHub repos in re note 9 in PREV. We respectifully submit to the network that you do not get a "second first impression" with regulators, especially given the tacit but not ocntextual background of Jed. Are the relatively modest prodits a select few developers present enjoy by arbitraging Soroban AMMs worth giving them a bone to pick with us, _ad infinitum_? 🏛️
+
+
+pg X
+
+pg Z
 
 
 
-constant on the limits of other chains to not actually register true offers
-maybe here "staked my career on SPEEDEX"
+
+# 4. 
+
+I've bet my entire career that SPEEDEX works, and that it works stellar. Without true offers on the DEX, I see no future using today's technology in which I'd like a stake in this industry. Do you think Wall Street's time is up, as do the tousands of members in our grassroots community afflicted by their unadulterated theft? ⌛️
+
 
 
 
