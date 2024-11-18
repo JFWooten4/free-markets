@@ -20,3 +20,9 @@ Unbased propositions shared:
     -  listing fees
     -  central approval
     -  permissioned deployment
+
+
+unstructured raw flows:
+- migrate this into the AQUA requesrds program in Lobstr,
+- based on a proporietary codebase you can I can't contribute to, help understna,d or even xyz
+- (let's be carefil here iwth social implications)

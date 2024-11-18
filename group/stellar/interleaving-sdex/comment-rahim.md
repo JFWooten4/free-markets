@@ -339,7 +339,9 @@ Everyone generally wants to move fast when it comes to klaunching into a sustain
 [^bug-20]: _See_ _infra_ note XYZ [^maths] _quo videtur_ we are all in agreement. But I do not think the most basic of core infrastructure should require scores of bug bounties to attaub modest crdability. Maybe the community's satefty approach showcased in the [Soroban update delay](https://youtu.be/rbjFjda3_UI?t=7080) can be our guiding light to "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" 🐛
 
 
-While we in the DRS community apprtrciate that there will be bugs in any computer systems, we'd prefer our funds not be at risk in flash crashes perpetuated by complex trading infrastrucutre. 🫤 Would it be best to strictly apply an unwavering software mindset to somethign [as important](https://stellar.expert/blog/tiny-things-matter-or-detective-novel-featuring-stellar-dex) as markets? Or might we conceivably best serve the plausible needs of our expanding ecosystem through a [feasible unifrom front](imgs/comments/collective-network-benefit.png)?
+While we in the DRS community apprtrciate that there will be bugs in any computer systems, we'd prefer our funds not be at risk in flash crashes perpetuated by complex trading infrastrucutre. 🫤 Would it be best to strictly apply an unwavering software mindset to somethign [as important](https://stellar.expert/blog/tiny-things-matter-or-detective-novel-featuring-stellar-dex) as markets? Or might we conceivably best serve the plausible needs of our expanding ecosystem through a [feasible unifrom front](imgs/comments/collective-network-benefit.png)?[^groups]
+
+[^groups]: _See, e.g.,_ open protcol upgrades facilitated through [public discussion](https://www.youtube.com/watch?v=wcjzKdo0xS8), [copmrehensive analysis](https://www.youtube.com/live/aHZQfcIdmoQ?t=1067), and [iterative disclosures](https://stellar.org/blog/developers/amms-in-the-stellar-ecosystem). _Compare_ the collective growth of such an important network function with the singular gatekept product-development approach employed aceross largely-identical Soroban AMMs. Perhaps more concerningly, _see also_ long-term natural supply-and-demand construment when upgradable underlyingstrutues [rely on an etity](https://x.com/JFWooten4/status/1853607712111624481) operating the order book itseldf.
 
 
 # 4. Legal, Composible, Community Solution
@@ -364,43 +366,25 @@ here
 
 
 
+Could a turly nonprofit financial systme built for its users minimie rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746). Or will we contnue to be hadncuffed to titanic habritrary capital requirments to bootstrap liquidity, as in the message immediately suceeding _Id_?
 
-emphasize the last clause in re upgradable or not based on the underlying strucutre of the entity operating the order book itself (this can introduce the interview via https://x.com/JFWooten4/status/1853607712111624481)
+{{emlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
 
-migrate this into the AQUA requesrds program in Lobstr,. based on a proporietary codebase you can I can't contribute to, help understna,d or even xyz (let's be carefil here iwth social implications)
 
-extrapolate to natural process or the entity ot org or community, whatever around the project as requiring some kind of reward for their "innovation"
+It might be hard for technical guys like us to see some of hte incredible implications of a 50 bps spread reduction. But these innovations truly change peoples' lives&mdash;I've seen, felt, and shared it firsthand. In an inreasingly abund society in raw compute terms, might we best empower all network users with tooling that places the locust of economic control squarely in their hands? 🤳🏼
 
-_compare_ a turly nonprofit financial systme built for its users to minimie rents in re https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746
-
-aprecite the reptatuion based "fast" benefits in _Id._ at 1-4, but emlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
-
----
-
-some fnotes and context around both wooten.link/bad (subtle but materially readable, optiopnally by drastically limiting all other footnotes, inclining the _supra_ xyzDs) [can you customize the numbering to start at 30, upto 32?]
-
-open for upgrades, collective growth rather than single propr gatelkeeping re https://discordapp.com/channels/1172621167400599582/1172621168197509135/1286721830211813449
-
-- https://www.youtube.com/watch?v=wcjzKdo0xS8
-- https://www.youtube.com/live/aHZQfcIdmoQ?t=1067
-- https://stellar.org/blog/developers/amms-in-the-stellar-ecosystem
-
-can also imp[licate the extensive public discussion voer a network feature that is so _key to basic capitalistic tooling_ (but worded more eloquently)
+{{
+[^chatz]: Perhaps there are good reasons our key to basic capitalistic tooling_ (but worded more eloquently)
 
 - https://stellar.org/blog/developers/the-principles-behind-protocol-design-amms-stellar
 - https://stellar.org/learn/swap-functionality-and-amms (is this a stable link?)
 - https://stellar.org/blog/developers/liquidity-liquidity-liquidity
 
 
+}}
 
----
 
-maybe laight gas arg if reelvant in any maningul fn
 
-new native AMMs release as benefit on narrowing at https://youtu.be/FiYKWQyLAuE?&t=1118
-"with AMMs ... you're only paying 50 basis points. That is "[AMMs create] a 33% imporvement on your cost... When we're thinking about cross-boarder payments, I think we can envision some future state where this is... all different fiat assets that are tokenized into stablecoins. And these AMM pools are enabling cheaper and more efficient FX transactions" &mdash; Phil Meng @ a the SDF
-
----
 
 first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
 
