@@ -113,6 +113,10 @@ https://discordapp.com/channels/761985725453303838/1302004423483981924/130478631
 
 ## 1.3 Appreciated Thought-Provoking Perspective
 
+some of the args around being able to centrally control the liqudity, which is very very fucking bad
+
+
+
 repl here on info
 
 praise:
@@ -122,6 +126,7 @@ praise:
 - https://github.com/rahimklaber/galactic-wizard as origins
 
 
+first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
 
 
 
@@ -148,7 +153,19 @@ Markedly, the choices we make around items like [whether or not](https://github.
 [^cbn]: _See, e.g.,_ the UI depriortization of Stellar on the centralized exchange in note 7 of PREV, buried under every other supported USDC chain. _See also_ similar treatment in the Circle developer dashboard. These starkly contrast with the plethora of legal filings explicitly referencing the network behind the closed doors of legalese.
 
 
-Might the self-custody implication inherent in existing exchange business models draw attention away from the SDEX? This might lead to a number of quandaries that came up in this discussion such as trading volume compared to propritary venues, AMMs, and HFTs. I believe wholeheartedy in our unique opportunity to collaboratively explore the most efficient globalized solution that satisfies the longstanding needs of traders, developers, and innovators.[^nex]
+Might the self-custody implication inherent in existing exchange business models draw attention away from the SDEX?[^s=c] This might lead to a number of quandaries that came up in this discussion such as trading volume compared to propritary venues, AMMs, and HFTs. I believe wholeheartedy in our unique opportunity to collaboratively explore the most efficient globalized solution that satisfies the longstanding needs of traders, developers, and innovators.[^nex]
+
+{{
+[^s=c]: ## Expanding the Locust of Trust
+
+there are very legitimnate centralization implications in upgradable smart contracts having hteir keys get hacked, as we see so commonly
+
+i know there is soroswap (prob dont mention expckityl;)_ which does this without upgradability
+but this segways directly inbto the very foundational argument that andy upggrade (and ther ewill be fucking upgrasdes _see unsiwap vers FN_) goes through the process of creating a new source of liqudiity
+the only way to fix this is to have it at the protocol level so that upgrades continue preserving the existing lokced-up liquidity
+&&
+this will implicate making the argument against deposit locks as discussed on both sides of the agenda
+}}
 
 [^nex]: I might not know exactly what will cahnge about financial markets over the coming decades, which could materially impact SDEX requirements. But I have deeply studied the history of markets over the past six years in an effort to understand what _won't_ change, no matter how many centuries pass. Can you imagine a future where developers demand wider spreads, traders want fewer ways to game the system, or innovators want to build whole businesses on delicate foundations?
 
@@ -225,9 +242,11 @@ I've believed in the DEX since the moment I understood SCP, [this vide](https://
 
 ![central-complex-routing](imgs/comments/0x-protocol-frontend.png)
 
-Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better known as 0x. [Here](https://www.sec.gov/edgar/browse/?CIK=0001828694) are their regulatory filings discolsuing material venuture investing for every year in the first three years of its existance. These filings detail how this corporation sold at least $84,121,200 to a paltry 45 investors at minimum.
+Pictured is an image from the present homepage of ZeroEx Holdings, Inc.; better known as 0x. [Here](https://www.sec.gov/edgar/browse/?CIK=0001828694) are their regulatory filings discolsuing material venuture investing for every year in the first three years of its existance. These filings detail how this corporation sold at least $84,121,200 to a paltry 45 investors at minimum, a signficant sum of money that undemocratically shifts the power from Uniswap users to the corporation behind its development.
 
-The public fee schedules avalibael from 0x[^lolf] reveal take rates starting at .15% - conservatively. These are not expenses passed on to a decentralized group of liquidity providers. They are not safegaurding fees built around investor protections of regulatory frameworks _in toto_.
+The public fee schedules avalibael from 0x[^lolf] reveal take rates starting at .15% - conservatively.[^match] These are not expenses passed on to a decentralized group of liquidity providers. And they are not safegaurding fees built around investor protections of regulatory frameworks _in toto_.
+
+[^match]: _See_ _infra_ note XYZ [^hidden-fees].
 
 [^lolf]: Which are paltry at best aside from gidding into smart-contract code. _Compare_ these lax discolsures to the extensive public avaliability of pricing data from any number of traditional financial intermediaries. _See, e.g.,_ SEC-mandated Form 606, ATS, and 19b-4 reports letting investors know what fees they internalize.
 
@@ -254,7 +273,7 @@ There's a reason "ALL other chains" face the material oeprational limitations pr
 
 [^cite]: _See_ David at _supra_ S 1.2.2. _See also_ intutional adoption of the DEX as a native offering book in registered offerings. Might we inspire the rebirth of IPOs by supporting the [documented](https://developers.stellar.org/docs/tokens/control-asset-access#issuing-and-distribution-accounts) application of issuing an asset by creating an offer?
 
-[^exam]: In numerous encounteres with traditional web3 pioneers on [other chains](https://x.com/JFWooten4/status/1778787218041032865), I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
+[^exam]: In numerous encounteres with traditional web3 pioneers on [other chains](https://x.com/JFWooten4/status/1778787218041032865), I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities, actng as trust erbiters in a central schemna. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
 
 
 ## 3.2 ZK Scaling and Rollutips
@@ -308,10 +327,9 @@ The stakeholders in today's systems are and have alwyas been investors and issue
 
 ### 3.3.2 Unnaceptable, Unaccountable Execution Centralization
 
-Aloong the path of centralization, incuments try to sell "faster access" as a "trading ebenfit" to investors. However, if we're truly designing a global (and ultimately interplanetary) finacnial system, at some point we;re goingto run up against round trip propogation time of digital sigals.[^ciddf] This is exactly what Uniswap Lba's laterst "invesntion" has introduces through the [Unichain POC](https://docs.unichain.org/whitepaper.pdf).[^garand]
+Aloong the path of centralization, incuments try to sell "faster access" as a "trading ebenfit" to investors. However, if we're truly designing a global (and ultimately interplanetary) finacnial system, at some point we;re goingto run up against round trip propogation time of digital sigals.[^ciddf] This is exactly what Uniswap Lba's laterst "invesntion" has introduces through the Unichain POC.[^garand]
 
-[^garand]: 
- as a premise around making somehting decentralized v. the only way to attain faster spee being centralization ir a "[trusted execution encironment](https://x.com/gttyson/status/1844445777114038761)" 
+[^garand]: _See_ [vague whiteppaer](https://docs.unichain.org/whitepaper.pdf), espcially requiosiote sequencer limitations in S 3.1, centralizaed offline compute ni S 3.2, and explicit liability assumption in S 3.3. Could these "innovations" still be light yers behind SCP's trust decentralization mechanisms? Or is their flawed use of [trusted execution encironments](https://x.com/gttyson/status/1844445777114038761) a speedy central control mechanism we should also strivefor?
 
 [^ciddf]: As I understand it, this is about two seconds. _Compare_ thee base agreement timeframes across any Network peer with the present efficincies of locally computing paths on shared variables. Might a further specialization of select order batches best serve an increasingly asset-abundant ecosystem?
 
@@ -330,6 +348,13 @@ Given America has the world's most advanced, developed, ad liquid market for cap
 I've spent the past four years talking to just about every anker, trader, and regulator I know about blockchsin. Following the prior logic, institutional adoption of actual trading on a self-custody basis requires gargantuan insurance products when using bootstrapped smart contracts which we very clearly see pose hazard per your work. Could trading be the msot important aspect of a financial system which we are presently left to master?[^imps]
 
 [^imps]: _See_ ongoing fund clarity work both internal and opened on Syndicate GitHub repos in re note 9 in PREV. We respectifully submit to the network that you do not get a "second first impression" with regulators, especially given the tacit but not ocntextual background of Jed. Are the relatively modest prodits a select few developers present enjoy by arbitraging Soroban AMMs worth giving them a bone to pick with us, _ad infinitum_? 🏛️
+
+
+{{ interop
+
+For example, would not specialized financial instruments compose the uptmost confidence in the liquitiy pool transfer mechanism at a protocol level, allowing new institutional applications?
+
+}}
 
 
 Everyone generally wants to move fast when it comes to klaunching into a sustainable business state&mdash;completely understandabe.[^easya] But might it be prudent to [slow down](https://www.blocktransfer.com/about/values) and build something longstanding to serve generations of users to come? At this Merridina, Tomer positted that:[^bug-20]
@@ -360,7 +385,7 @@ Markets have proved time and time again the immense neccesity of limit orders as
 [^hidden-fees]: _See, e.g._ XYZ% [Matcha](), XYZ% [Uniswap](), and .15%+ [zeroEx](actual-org-schedule.pdf#page) website execution expenses. The requisite siloing centralization showcased here run antithically to [free markets](https://discord.com/channels/761985725453303838/761985725453303841/1295912752027664424). All furiousity aside, these are fundamntal flaws in the endgame of these contracts, not the fault of talented developers like @earrietadev whom have show exceptional humanitarian consciousncess by pivoting projects away from [wasteful mining externalities](https://discord.com/channels/761985725453303838/946921813143851019/1279941567515459606).
 
 
-Could a turly nonprofit financial systme built for its users minimie rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746). Or will we contnue to be hadncuffed to titanic habritrary capital requirments to bootstrap liquidity, as in the message immediately suceeding _Id_? Perhaps the most performant trading system doesn't require at least three operations to min/max the pathfindong algorithm.
+Could a turly nonprofit financial systme built for its users minimie rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746)? Or, as in the immediately suceeding message, will we contnue to be hadncuffed to titanic habritrary capital requirments to bootstrap liquidity? Perhaps the most performant trading system doesn't require at least three operations to min/max the pathfindong algorithm.
 
 {{e
 mlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
@@ -382,44 +407,47 @@ It might be hard for technical guys like us to see some of hte incredible implic
 
 
 
-first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
-
-
-
-
-
-
-price competation which [naturally](https://reports.tiger-research.com/p/onchain-darkpool-eng) occurs
-(including negative privces with PFOF)
-
-[^lolpcs]: [instanet_history_comic.pdf](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf)
+{{ ADR fragmentation, arb intrastocks
 
 [^fragmentation1]: [quandaries_of_fragmentation.pdf](https://github.com/user-attachments/files/17347675/quandaries_of_fragmentation.pdf)
 [^fragmentation2]: [Base asset differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269)
 [^fragmentation3]: Synch the argument with the material difficulty of [reconciling segmented assets](https://github.com/user-attachments/files/17347723/inften__20200407094352_82382.pdf)
 
-
-
-
-a question on:
-Confidence re the reputation game, and applications in specialized financial instrument composability
+}}
 
 
 
 {{ [^tractionQ]
 the problem is their revenue, popoularity, and indeed sustainability comes from attracting ever-increasing trading volumes, which presents a [direct conflict of interest](https://youtu.be/YUwqzeaR1lA?t=63) with the [investing public](https://www.reddit.com/r/Bogleheads/comments/ug32km/can_someone_explain_to_me_what_revenue_from/?rdt=55563)[^investing-public]
 
+
+[[
+  even if we can momentarily agree that the "best" Sorobvan DEX(es) will attract a large amount of liqudiity, which dominates the network, this leaves the power over democratic trading in the hands of a select few organizations
+
+presently, the instutitons which run these technologies are centralied, legal, for-profit corporations
+
+this presents the very clear path for "traction" in terms of user funds locked to lead to VC interest
+
+]]
+
 [^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 ~~per GUH and the kid that killed himself~~
 
 }}
 
 
+{{ historic natural copmatition
 
+price competation which [naturally](https://reports.tiger-research.com/p/onchain-darkpool-eng) occurs
+(including negative privces with PFOF)
+
+[^lolpcs]: [instanet_history_comic.pdf](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf)
+
+}}
 
 
 {{ Our Opportunity
 
-- https://x.com/JFWooten4/status/1842296919160144159
+- [hidden market exahvnes -> ATS liq batttle](https://x.com/JFWooten4/status/1842296919160144159)
 - https://youtu.be/YUwqzeaR1lA?t=63
 - https://youtu.be/UzLCQaJ-TqU
 
@@ -445,47 +473,6 @@ again, discuss the custody implications and href to the not you keys part and su
   - https://discord.com/channels/761985725453303838/761985725453303841/1293770598891389060
 
 }}
-
-
-
-
-
-## Expanding the Locust of Trust
-
-there are very legitimnate centralization implications in upgradable smart contracts having hteir keys get hacked, as we see so commonly
-
-i know there is soroswap (prob dont mention expckityl;)_ which does this without upgradability
-but this segways directly inbto the very foundational argument that andy upggrade (and ther ewill be fucking upgrasdes _see unsiwap vers FN_) goes through the process of creating a new source of liqudiity
-the only way to fix this is to have it at the protocol level so that upgrades continue preserving the existing lokced-up liquidity
-&&
-this will implicate making the argument against deposit locks as discussed on both sides of the agenda
-
-
-Money is power, and power needs to syty in the hands of the peope.
-### 
-some of the args around being able to centrally control the liqudity, which is very very fucking bad
-
-this was something that was brought up by XYZ FF/engineering in Discord convo (dir link here)
-
-
-obvs we need to frame the whole thing around the args, let's start with some src quoite framing at the intro for 2.
-but actual info in 2.1 for ref
-
-
-
-also we should ahve soemthing implicating the use of p[eople as the arbiters for trust in central regs , which precisely cucking translets to these contracts re ~~wooten.link/uniswap~~ link 2 in note 8 of PREV.
-
-and obvs with this, you are very explicitly assuming liability to earn trust, whcih is exactly what fucking SCP is supposed to handle
-i should have a fn harping on this and use it as pressure for SCP#25
-
-
-
-
-even if we can momentarily agree that the "best" Sorobvan DEX(es) will attract a large amount of liqudiity, which dominates the network, this leaves the power over democratic trading in the hands of a select few organizations
-
-presently, the instutitons which run these technologies are centralied, legal, for-profit corporations
-
-this presents the very clear path for "traction" in terms of user funds locked to lead to VC interest
 
 
 
