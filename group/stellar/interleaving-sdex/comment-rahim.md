@@ -30,23 +30,13 @@ I believe so earnestly that these open communal discussions are the secret instr
 
 Before diving into the nuances, I'd like to applaud your longstanding efforts to bridge different platforms to Stellar with [a single SDK](https://github.com/rahimklaber/stellar_kt). 👏 Too often, work might not see the light of mainnet despite the material efforts behind its development. But many of our long-term challenges can be overcome seamlessly thanks to those key thoughts, incremental improvements, and persistent bug fixes.
 
-Empwoering usingers with a direct DEX wallet in the palm of their hand
-Because today's centralized markets are so subject to the hack one pg the hacking part, with wallet on phone
-
-Implicate very deeply https://www.youtube.com/watch?v=QafkIh2nvY0&list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9
-
-https://x.com/JFWooten4/status/1815083374744334340
-
-(FN) discuss the custody implications and href to the not you keys part and such in the nicehash arguments first introdiuced per [higher fees](https://discord.com/channels/761985725453303838/761985725453303841/1293775764830814350)
-- corporate control
-- custody implications
-- arbitrary limits [discussed] in re _Compare_:
-  - https://discord.com/channels/761985725453303838/761985725453303841/1293804598368145449
-  - https://discord.com/channels/761985725453303838/761985725453303841/1293770598891389060
-
-}}
-
 As I've [tried to express](https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689), I might not be intimately familiar with the particular nuances of JS/Native/JVM implementations and their core XDR (not Horizon)&mdash;just yet at least. But it's clear to see that you're making [ongoing progress](https://github.com/rahimklaber/stellar_kt/issues) on what just might be the next big community project. And it's quite inspirational for me, at least, to think that you're able to do all that on top of traditional work.
+
+But I do know markets, and I've seen so clearly today's central intermediaries exposed to hacks as intricate as your bug.[^dps] This is why your work can make such a comprehensive difference, empowering users with a direct DEX wallet in the palm of their hand. Might we one day finally escape the totalitarian controls choking present financial systems' global liquidity?[^fks]
+
+[^dps]: _See, e.g.,_ the theft of retail spreads using proprietary, secretive, and gatekept [execution venues](https://www.youtube.com/watch?v=QafkIh2nvY0&list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9). _See also_ the worst parts of central exchanges mimicked in the [exchange developments](https://x.com/JFWooten4/status/1815083374744334340) so commonly associated with other chains. _Compare_ these routing inefficiencies with the incumbent fiat transfer system's [arbitrary limits](https://discord.com/channels/761985725453303838/761985725453303841/1293804598368145449) and [practical implications](https://discord.com/channels/761985725453303838/761985725453303841/1293770598891389060), showcasing again the need for comprehensive systems.
+
+[^fks]: Consider, for instance, the "[hack](https://youtu.be/Sm17SAZO9hY?t=657)" of Nicehash hot wallets in Dec 2017, whereby assets were not held in your own wallet. Can we really trust the custody of every network trade to the corporate control of multisigs at best, none of which are actually your keys? More to the point, should we as users pay [higher fees](https://discord.com/channels/761985725453303838/761985725453303841/1293775764830814350) for the privilege of ceding our own custody?
 
 ## 1.2 Introducing Communal Discussion and Quotes
 
@@ -313,7 +303,7 @@ Along the path of centralization, incumbents try to sell "faster access" as a "t
 
 [^garand]: _See_ [vague whitepaper](https://docs.unichain.org/whitepaper.pdf), especially requisite sequencer limitations in § 3.1, centralized offline compute in § 3.2, and explicit liability assumption in § 3.3. Could these "innovations" still be light years behind SCP's trust decentralization mechanisms? Or is their flawed use of [trusted execution environments](https://x.com/gttyson/status/1844445777114038761) a speedy central control mechanism we should also strive for?
 
-[^ciddf]: As I understand it, this is about two seconds. _Compare_ the base agreement timeframes across any Network peer with the present efficiencies of locally computing paths on shared variables. Might a further specialization of select order batches best serve an increasingly asset-abundant ecosystem?
+[^ciddf]: As I understand it, this is about two seconds. _Compare_ the base agreement timeframes across any network peer with the present efficiencies of locally computing paths on shared variables. Might a further specialization of select order batches best serve an increasingly asset-abundant ecosystem?
 
 I say "invention" because absolutely nothing here is new. I could sit down and list dozens of regulatory filings which detail these exact exchange changes across the American securities landscape. The points at which certificates, settlement, and reporting became centralized come to mind&mdash;leading to the ultimate endgame of massive profits paying out to Silicon Valley over Main Street.[^sads]
 
