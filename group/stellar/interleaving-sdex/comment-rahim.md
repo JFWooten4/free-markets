@@ -250,7 +250,7 @@ There's a reason "ALL other chains" face the material oeprational limitations pr
 > Imagine a world where, anytime you travel, you never have to exchange currency except at the point of sale. A world where you can choose to keep all your assets in, for example, Google stock, cashing out small amounts as you need to pay for things. Cross-asset payments make this world possible.
 
 
-[^cite]: _See_ David at _supra_ S 1.2.2.
+[^cite]: _See_ David at _supra_ S 1.2.2. _See also_ intutional adoption of the DEX as a native offering book in registered offerings. Might we inspire the rebirth of IPOs by supporting the [documented](https://developers.stellar.org/docs/tokens/control-asset-access#issuing-and-distribution-accounts) application of issuing an asset by creating an offer?
 
 [^exam]: In numerous encounteres with traditional web3 pioneers on other chains, I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
 
@@ -284,7 +284,8 @@ Markets are not continous functions like an AMM pricing curve. They do not follo
 
 The further down this path of control you cenutre, the closer you get to today's market infrastrure. Pamphile explained [the materail challenges](https://x.com/gttyson/status/1844446137408946680) excletopionally when they wrote, "it's bloated, slow, old and everything."[^tup] Can we really centrally control something as complex as markets themselves?
 
-[^tup]: _See_ Tupui at _supra_ S 1.2.3.
+[^tup]: _See_ Tupui at _supra_ S 1.2.3. Other comunity members have asserted but not proven that long-tail iliquid, unregulated, and trailblazing assets are better off on AMMs. However, could this enforced trading policy unintentionaly limit the free-market price discovery mechnism so efficient in today's long-tail equities?
+
 
 
 ### 3.3.1 Constitutional Corproate Overloard, Investors
@@ -329,45 +330,28 @@ I've spent the past four years talking to just about every anker, trader, and re
 [^imps]: _See_ ongoing fund clarity work both internal and opened on Syndicate GitHub repos in re note 9 in PREV. We respectifully submit to the network that you do not get a "second first impression" with regulators, especially given the tacit but not ocntextual background of Jed. Are the relatively modest prodits a select few developers present enjoy by arbitraging Soroban AMMs worth giving them a bone to pick with us, _ad infinitum_? 🏛️
 
 
-pg X
+Everyone generally wants to move fast when it comes to klaunching into a sustainable business state&mdash;completely understandabe. But might it be prudent to [slow down](https://www.blocktransfer.com/about/values) and build something longstanding to serve generations of users to come? At this Merridina, Tomer positted that:
 
-pg Z
+> There is no certainty. At the end of the day, it doesn't matter how many audits you go through; it doesn't matter how much testing you do. Sometimes there are bugs.
+[^bug-20]
+
+[^bug-20]: _See_ _infra_ note XYZ "paraphrase" _quo videtur_ we are all in agreement. But I do not think the most basic of core infrastructure should require scores of bug bounties to attaub modest crdability. Maybe the community's satefty approach showcased in the [Soroban update delay](https://youtu.be/rbjFjda3_UI?t=7080) can be our guiding light to "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" 🐛
 
 
+While we in the DRS community apprtrciate that there will be bugs in any computer systems, we'd prefer our funds not be at risk in flash crashes perpetuated by complex trading infrastrucutre. 🫤 Would it be best to strictly apply an unwavering software mindset to somethign [as important](https://stellar.expert/blog/tiny-things-matter-or-detective-novel-featuring-stellar-dex) as markets? Or might we conceivably best serve the plausible needs of our expanding ecosystem through a [feasible unifrom front](imgs/comments/collective-network-benefit.png)?
 
 
-# 4. 
+# 4. Legal, Composible, Community Solution
 
 I've bet my entire career that SPEEDEX works, and that it works stellar. Without true offers on the DEX, I see no future using today's technology in which I'd like a stake in this industry.[^works] Do you think Wall Street's time is up, as do the tousands of members in our grassroots community afflicted by their unadulterated theft? ⌛️
 
-[^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 
+[^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 Tomer established this year that "you can't call classic order books from Soroban." Might we first "put a lot of effort into that" to rectify this limiting quandary, since contracts share the root account infrastructure ti hold classic assets?
 
-long-tail unliquid assets "better off on AMMs" suggested/asserted, but not how real markets work outside of a traditional data management model
-implicate the only fkn long-tail assets whic are equities, and as such there are material introductoryh practices enshrined in law quich require pricing via explicit parties rather than an AMM
 
-mentions cusotmized stableswap pairs which again trivial addition of a bonding curve withing the pathfind (again requisistes teh xdr from prtocol-1555)
+mentions cusotmized stableswap pairs which again trivial addition of a bonding curve withing the pathfind
 
 as he identitfied, it takes much less assets to build liquidity through an order book for long0-taukl assets
 
-
-
-
-
-> 0x style is illegal, uncomposable zk = prorietary connections
-
-see thesis at 10.4 if relev
-
-"you can't call classic order books from Soroban" so let's worry about that and fix it since contracts are trivial to implement as connecting data struct market participant (given already holding classic assets) but like researched
-it is very very much worth it to "put a lot of effort into that" and doable
-
-
-### re AQUA hack/bug fix by Rahim:
-
-"There is no certainty. At the end of the day, it doesn't matter how many audits you go through; it doesn't matter how much testing you do. Sometimes there are bugs.[^bug-20] ny bug bounties you go through.
-
-compare with direct "there will be bugs (NOT VERBAITM)" affirming software mindset to somethign [as important](https://stellar.expert/blog/tiny-things-matter-or-detective-novel-featuring-stellar-dex) as markets.
-
-[^bug-20]: Very very very heavily implicate the community's satefty approach in re https://youtu.be/rbjFjda3_UI?t=7080. re id might we "take a minute, do things slow, do them steady, do them the right way from the onset, and fix the bug?" [like done in re the p20 bug delay community-wide decision] which requisities framign disinterop re earely early convo from _Anuxya?_ about interaction between native/soroab n for liq (butt careful b/c now we're implicating another thing which is materially expansive, albeit related implicately)
 
 
 
