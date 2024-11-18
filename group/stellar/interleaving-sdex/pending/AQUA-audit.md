@@ -26,3 +26,6 @@ unstructured raw flows:
 - migrate this into the AQUA requesrds program in Lobstr,
 - based on a proporietary codebase you can I can't contribute to, help understna,d or even xyz
 - (let's be carefil here iwth social implications)
+
+_See also_ proprietary smart swap implementation for how much $?
+in re smart swap and such for the elabroation on protprietarity

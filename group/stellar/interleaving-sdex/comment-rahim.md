@@ -42,6 +42,8 @@ Unfortunately, much of this [thinking work](https://github.com/rahimklaber/sorob
 
 ### 1.2.1 Adam: Trading Execution Materiality
 
+Rahim [said](https://discord.com/channels/1172621167400599582/1172621168197509137/1291850276646551653): "if we have enough liquidity onchain then interleavin the amm and sdex wont' make much difference"
+
 > what really attracted me to stellar is the sdex order books. once you add an interface, it suddenly feels like stellar has centralized orderbooks.. the stellar sdex orderbooks creat and offer the most free market this world has ever seen...
 > the orderbooks on the sdex give EVERY asset on the network a starting point and reference for price. having this time tested and trustworthy reference point provides an adavantage  to every asset in its search for fair value. this advantage is unseen on other networks.
 > 
@@ -252,7 +254,7 @@ There's a reason "ALL other chains" face the material oeprational limitations pr
 
 [^cite]: _See_ David at _supra_ S 1.2.2. _See also_ intutional adoption of the DEX as a native offering book in registered offerings. Might we inspire the rebirth of IPOs by supporting the [documented](https://developers.stellar.org/docs/tokens/control-asset-access#issuing-and-distribution-accounts) application of issuing an asset by creating an offer?
 
-[^exam]: In numerous encounteres with traditional web3 pioneers on other chains, I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
+[^exam]: In numerous encounteres with traditional web3 pioneers on [other chains](https://x.com/JFWooten4/status/1778787218041032865), I have repeatively brought up the [many nuances](https://lemmy.whynotdrs.org/post/1166651) of offering regulations. However, they rightfully choose to ignore the consequaneces until their operations are so large that [regulators "attack"](https://www.sec.gov/securities-topics/crypto-assets) their communities. If we truly aim to take down the inneficient financial system once and for all, might we continue treading towards a truikly decentralized DEX?
 
 
 ## 3.2 ZK Scaling and Rollutips
@@ -350,7 +352,7 @@ While we in the DRS community apprtrciate that there will be bugs in any compute
 
 Since understandding its deep humanitarian implications, I've bet my entire career that SPEEDEX works, and that it works stellar. Without true offers on the DEX, I see no future using today's technology in which I'd like a stake in this industry.[^works] Do you think Wall Street's time is up, as do the tousands of members in our grassroots community afflicted by their unadulterated theft? ⌛️
 
-[^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 Tomer established this year that "you can't call classic order books from Soroban." Might we first "put a lot of effort into that" to rectify this limiting quandary, since contracts share the root account infrastructure ti hold classic assets?
+[^works]: For time, I will omit further contemplations on [design principles](https://gist.github.com/JFWooten4/827e423f6d3f2f43801602d81d6adbc0) _in re_ prior [public discussion](https://groups.google.com/g/stellar-dev/c/GPjHIYPdud8/m/S6mFvpgaAQAJ), _quod erat_ appreciatively incorprated into CAP45. 🫱🏼‍🫲🏻 [Tomer established](https://discordapp.com/channels/761985725453303838/1302004423483981924/1302262610409951275) that "you can't call classic order books from Soroban." Might we first "put a lot of effort into that" to rectify this limiting plight, since contracts share the root account infrastructure ti hold classic assets?
 
 
 Markets have proved time and time again the immense neccesity of limit orders as the base building blocks of liquidty for the tens of thousands of long-tail assets issuer on the network. The proven DEX is anything but the black box pictured above, whic is explciilt not the case for smart contacts, aggregators, and frontends.[^hidden-fees] Might an investment in efficient markets today serve the network's issuers for all eternity?
@@ -358,9 +360,11 @@ Markets have proved time and time again the immense neccesity of limit orders as
 [^hidden-fees]: _See, e.g._ XYZ% [Matcha](), XYZ% [Uniswap](), and .15%+ [zeroEx](actual-org-schedule.pdf#page) website execution expenses. The requisite siloing centralization showcased here run antithically to [free markets](https://discord.com/channels/761985725453303838/761985725453303841/1295912752027664424). All furiousity aside, these are fundamntal flaws in the endgame of these contracts, not the fault of talented developers like @earrietadev whom have show exceptional humanitarian consciousncess by pivoting projects away from [wasteful mining externalities](https://discord.com/channels/761985725453303838/946921813143851019/1279941567515459606).
 
 
-Could a turly nonprofit financial systme built for its users minimie rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746). Or will we contnue to be hadncuffed to titanic habritrary capital requirments to bootstrap liquidity, as in the message immediately suceeding _Id_?
+Could a turly nonprofit financial systme built for its users minimie rents, as [discussed](https://discord.com/channels/761985725453303838/1292523643900919951/1294381549072154746). Or will we contnue to be hadncuffed to titanic habritrary capital requirments to bootstrap liquidity, as in the message immediately suceeding _Id_? Perhaps the most performant trading system doesn't require at least three operations to min/max the pathfindong algorithm.
 
-{{emlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
+{{e
+mlplore to contrmplate the longerterm thinking that makes Stellar work so foundationally well across developing global nations with usch a dire need for a system that puts us all [on the same playing field](https://youtu.be/5wUhyR94rho).
+}}
 
 
 It might be hard for technical guys like us to see some of hte incredible implications of a 50 bps spread reduction. But these innovations truly change peoples' lives&mdash;I've seen, felt, and shared it firsthand. In an inreasingly abund society in raw compute terms, might we best empower all network users with tooling that places the locust of economic control squarely in their hands? 🤳🏼
@@ -380,14 +384,12 @@ It might be hard for technical guys like us to see some of hte incredible implic
 
 first of all we need to acknoledge significantly their work and community controbtuiosn in re n.3
 
-it's not performant if you're doing like 4 txns to min/max the system
 
-Reply with data (src here orignally prob) from running validator, tracking Soroban liquidity-related txn execution time v. paralell interleaved best execution/
 
-in re smart swap and such for the elabroation on protprietarity, incorpoatate "wont' make much difference
-" per https://discord.com/channels/1172621167400599582/1172621168197509137/1291850276646551653 as segway to severe materiality
 
-## deeper dive on the price competation which [naturally](https://reports.tiger-research.com/p/onchain-darkpool-eng) occurs
+
+
+price competation which [naturally](https://reports.tiger-research.com/p/onchain-darkpool-eng) occurs
 (including negative privces with PFOF)
 
 [^lolpcs]: [instanet_history_comic.pdf](https://github.com/user-attachments/files/17347641/instanet_history_comic.pdf)
@@ -396,49 +398,55 @@ in re smart swap and such for the elabroation on protprietarity, incorpoatate "w
 [^fragmentation2]: [Base asset differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1808269)
 [^fragmentation3]: Synch the argument with the material difficulty of [reconciling segmented assets](https://github.com/user-attachments/files/17347723/inften__20200407094352_82382.pdf)
 
-the data implciatiosn originally references at wooten.link/amzn in src § 2.3
-https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whistleblower-eric-hunsader-750000/
 
-## Confidence
 
-re the reputation game, and applications in specialized financial instrument composability
 
----
+a question on:
+Confidence re the reputation game, and applications in specialized financial instrument composability
 
+
+
+{{ [^tractionQ]
 the problem is their revenue, popoularity, and indeed sustainability comes from attracting ever-increasing trading volumes, which presents a [direct conflict of interest](https://youtu.be/YUwqzeaR1lA?t=63) with the [investing public](https://www.reddit.com/r/Bogleheads/comments/ug32km/can_someone_explain_to_me_what_revenue_from/?rdt=55563)[^investing-public]
 
-[^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 per GUH and the kid that killed himself
+[^investing-public]: These needs a better citation, likely thje congressional report, study on use of AI, or confetti ban. _See also_ [demoralizaing](https://microstructure.exchange/papers/TME-paper.pdf) at 13 ~~per GUH and the kid that killed himself~~
+
+}}
 
 
 
-## Our Opportunity
+
+
+{{ Our Opportunity
 
 - https://x.com/JFWooten4/status/1842296919160144159
 - https://youtu.be/YUwqzeaR1lA?t=63
 - https://youtu.be/UzLCQaJ-TqU
 
-_See, e.g. supra_ note 22, [demo execution RAM](), and _supra_ note 23.
 
 
+_See, e.g. supra_ note 22, [demo execution RAM](prob speedex original paper at like 4, 7), and _supra_ note 23.
+
+}}
+
+
+
+
+{{ on the hacking part, let's FN the custody implication
 
 Implicate very deeply https://www.youtube.com/watch?v=QafkIh2nvY0&list=PLWUFvhKuc_5vyAfq_AbWz-wSl82p_xtH9
 https://x.com/JFWooten4/status/1815083374744334340
 
-again, discuss the custody implications and href to the not you keys part and such in the nicehash arguments first introdiuced per https://discord.com/channels/761985725453303838/761985725453303841/1293775764830814350
+again, discuss the custody implications and href to the not you keys part and such in the nicehash arguments first introdiuced per [higher fees](https://discord.com/channels/761985725453303838/761985725453303841/1293775764830814350)
 - corporate control
 - custody implications
 - arbitrary limits [discussed] in re _Compare_:
   - https://discord.com/channels/761985725453303838/761985725453303841/1293804598368145449
   - https://discord.com/channels/761985725453303838/761985725453303841/1293770598891389060
 
+}}
 
 
-
-### reasonable ppl in a menainguful debtaet
-we have a very very very limited window of time to introduce this material functionality befdore the netowrk faces enough adoption that something like it would be impossible going forwared (maybe maybe maybe href the chat dir in discord on what tomer said abotu how it's poissible b/c that was really solid its at https://discordapp.com/channels/761985725453303838/1302004423483981924/1302262610409951275)
-### requisite central plan or not, and omplications re introductory network value
-
-### some fincnaila-sector implications alongside the central regs in place now
 
 
 
@@ -464,7 +472,7 @@ obvs we need to frame the whole thing around the args, let's start with some src
 but actual info in 2.1 for ref
 
 
----
+
 also we should ahve soemthing implicating the use of p[eople as the arbiters for trust in central regs , which precisely cucking translets to these contracts re ~~wooten.link/uniswap~~ link 2 in note 8 of PREV.
 
 and obvs with this, you are very explicitly assuming liability to earn trust, whcih is exactly what fucking SCP is supposed to handle
@@ -472,23 +480,12 @@ i should have a fn harping on this and use it as pressure for SCP#25
 
 
 
----
-long-term centraliztion implications
 
 even if we can momentarily agree that the "best" Sorobvan DEX(es) will attract a large amount of liqudiity, which dominates the network, this leaves the power over democratic trading in the hands of a select few organizations
 
 presently, the instutitons which run these technologies are centralied, legal, for-profit corporations
 
 this presents the very clear path for "traction" in terms of user funds locked to lead to VC interest
-
-and VCS ARE FUCKING CENTRALIZED AND WILL DO WHAT THEY FUCKING DID TO 0X HOLY SHIT
-this is a goddamn untennable posititon
-
-this shoud get framed in the very relevant context of S XYZ (thesis) in link NUM from S ABC in origingal work (which we should declare in the intro as "ABC/D")
-
-
-
-
 
 
 

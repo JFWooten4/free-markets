@@ -10,3 +10,8 @@ which worked its way itno [these asshats](https://x.com/JFWooten4/status/1847005
 ## Lost trading history
 
 ## Tax reportoing etc.... 
+
+---
+
+the data implciatiosn originally references at wooten.link/amzn in src § 2.3
+https://wallstreetonparade.com/2016/03/the-untold-story-of-why-the-sec-paid-whistleblower-eric-hunsader-750000/
