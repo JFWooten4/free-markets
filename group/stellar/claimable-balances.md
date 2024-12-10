@@ -4,7 +4,7 @@ submit: 15 Jul 2024
 dialog: https://github.com/stellar/stellar-protocol/discussions/1504
 ```
 
-In re [updating documentation](https://github.com/stellar/stellar-docs/issues/338), I believe we need to clarify some outstanding items, so that developers read accurate network information. ℹ️ In the medium term, this formalization can keep developers satisfied knowing that their noncustodial application will continue functioning on Stellar with a streamlined user-centric approach. 👩🏼‍💻
+In re [updating documentation](https://github.com/stellar/stellar-docs/pull/723), I believe we need to clarify some outstanding items, so that developers read accurate network information. ℹ️ In the medium term, this formalization can keep developers satisfied knowing that their noncustodial application will continue functioning on Stellar with a streamlined user-centric approach. 👩🏼‍💻
 
 ## 1. Decentralized Governance Innovation
 
