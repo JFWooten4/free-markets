@@ -21,6 +21,7 @@ The journey to develop and implement NQG has been nothing short of remarkable.[^
 [^anke_efforts]: Anke’s ability to rally support, gather insights, and drive engagement has been nothing short of inspirational.
 
 ## 2. Claimable Balances Opportunities
+
 Stellar solves payments, securities, and debt. It solves it better than anyone else. It is the root infrastructure that will become the interplanetary financial system imo. 💱 If Satoshi [was](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10) around, I think he would approve of everything the burgeoning community built.
 
 Claimable balances are essential to the efficient and compliant operation of the network. They provide a flexible and powerful tool for managing payments, regulatory compliance, and network efficiency. By leveraging CBs, we ensure that the network remains decentralized, efficient, and scalable, serving the needs of users, developers, and regulators alike.
@@ -119,6 +120,7 @@ Given this institutional importance, a simple fix for the spam challenge ensures
 [^cb_not_soroban]: _See, e.g.,_ inaugural smart contracts [release](https://stellar.org/blog/developers/project-jump-cannon-soroban-preview-release), [design](https://stellar.org/blog/developers/not-all-data-is-equal-how-soroban-is-solving-state-bloat-with-state-expiration), and [craft](https://youtu.be/rbjFjda3_UI?t=7200) supplements.
 
 ## 3. Restricted Security CBs
+
 We at [Block Transfer](https://www.blocktransfer.com/about/values) and the greater [DRS](https://www.whydrs.org/what-is-drs) community see great value in [noncustodial distribution](https://github.com/blocktransfer#eliminating-intermediaries-%EF%B8%8F). The promise of CBs for out-of-the-box claim topics wholly separates Stellar from competing chains.[^l1-competition] It drastically improves the ease of auditing grants and acceptances of assets compared to existing smart-contract solutions. 😵‍💫 
 
 CBs are not just a voting tool, distribution framework, or decentralization precedent. They have practical, real-world applications that are vital to our efforts to decentralize capitalism. 🌍 A key aspect of this is their ability to seamlessly comply with the SEC's promulgated [Rule 144](https://www.tad3.dev/en/latest/regs/us/144.html), an American securities law mandating a stock be held for up to a year after issuance before it can be claimed and freely traded. 
