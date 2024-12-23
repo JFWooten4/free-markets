@@ -1,4 +1,8 @@
-Jesus chris it never ends, does it?
+```
+status: Draft
+submit: Jan (+7) 2025
+dialog: [https://github.com/stellar/stellar-protocol/discussions/1504](https://discord.com/channels/862710317825392660/1046931670458187836)
+```
 
 ---
 
