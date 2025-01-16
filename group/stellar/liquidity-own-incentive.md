@@ -4,6 +4,8 @@ submit: 28 Mar 2025
 dialog: https://github.com/users/JFWooten4/projects/1/views/1?pane=issue&itemId=93413137 ## [https://github.com/stellar/stellar-protocol/discussions/1504](https://discord.com/channels/862710317825392660/1046931670458187836)
 ```
 
+[![centralized-api-routing](https://www.cybrid.xyz/hubfs/Copy%20of%20Cybrid%20Smart%20Order%20Router%20(3).svg)](https://www.cybrid.xyz/smart-order-router)
+
 ---
 
 Antithecal to financial inclusion (aka small volume):
