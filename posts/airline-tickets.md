@@ -28,4 +28,11 @@ Flesh out further the physical safety implications and crash studies in footnote
 - The financing and ownership implications through ABS.
 - Coercion of security controls as a uniform standard (same argument for ATC).
 
-How ruthless competition on interchangeable goods leads to personal consumer deficit to the boon of shareholders.
+How ruthless competition on interchangeable goods leads to personal consumer deficit to the boon of shareholders.[^pendiong]
+
+[^pendiong]: FAKE FN
+Look there's a lt of nunace to this, and let;'s try ti identify the differnte aspects properly. O ne of the interums here as starting prec. was hadnwritten:
+
+> If pres. ever happens, I need to go to Great Slips no matter the cost.
+
+_see_ exampl and extrap from there to get to a syustainability perp given $AAL from 2013+
