@@ -4,6 +4,8 @@ submit: 6 Mar 2025
 dialog: https://github.com/orgs/WhyDRS/discussions/TBD
 ```
 
+notes- https://github.com/JFWooten4/free-markets/pull/41/commits/6269f0281a0d18c4d0c3cdd016c708b033be4da2
+
 # WhyDRS at Structured Finance ASsociateion's 2025 SFVegas
 
 ![embed-placeholder](https://github.com/user-attachments/assets/9ce3e254-b10e-4cff-9fc0-d0d7177fce2b)
@@ -68,10 +70,21 @@ The  panel wrapped upw ith a general sentiment towards Splitting up "rights owne
 [^insull-funds]: since the book isn't OCR'd yet, I'll expand a little as to the elementary context of the noted information. The situation started with $500,000 of funding towards research and devellpment of isolated, localized, and (relatively) innefdificent power plants which were easier to sell directly to the wealthy alone. As Edison sought to expand into more efficient ssytems which could service the (relative) local masses, capital dried to a nub and Insull had to raise mateiral grassroots revenue through relentless power-station selling to a score of municpal governments reliant on gas lightihngn. He later used establhsed and childhood familial connections in England to raise capital from across the pond at more favorable terms.
 
 
-C-Pace: revenue bond issuances at state level where debts have some UCC filings
-Tax assessment includes bond interest payments
-Says uarder to work with the trust fund releasing budgets
-Largest concerns is refinancing into a lower mortgage rate, so they add high prepayment penalties
+### Clearn ENergy Property Taxes
+
+The next panel was on Commercial Property Assessed Clean Energy loans. This was my first time hearing about this asset class, which came about in Recession-era clean-energy State legistlation incentivizing borrowing for green energy. Basically the loan gets attached to the property itself rather than its owner, and interest payments are direct property tax payments to localities rather than a lending institution.
+
+I've seen similar structures in my father's work on municipal bonds, so the first question in my mind was how the funds were distirbuted from banks (by way of the trust). Unfatunraly, we need that intermediar middle-vehicle in contact-based offerings as a conduit for receiving and sibursing bond proceeds.[^trusts] The panelsts here saud that it's been getting harder to work with the trust fund in releasing budgeted unds.
+
+I think this could be becase of the pressing reinnicng risks highlighted by the panelists. Their largest concern was a nwe lower mortgage rate paying off the loans earlier than eanticipated, so most dealds include a high prepament penalty. This made sense to me, but it also sounded like the property owner was forced into a long-term liability at suboptimal conditions.
+
+Aside form financial,s I found it interesting how each C-PACE was represented at the State level as a revenue bond, under the general tax code exemptions therefor. Thus, issuances include some "UCC [debt] filings" toi copmanly with local lending regulations when adding a priority tax lien against the uncerlying estate. Since the payments get wrapped into general tax obligations, I found the vehicle practically bulletproof since failure to pay results in the same governmaental takeover as interconnected basoic property taxes.
+
+
+[^trusts]: In a blockchain era, might all this happen directly on-chain? It seems simple enough for borowers to submit their documents to the investor community at large when calling on funds from a _smart_ contract. Pewrhaps we don't need the manual bank-and-forth between financiers?
+
+
+
 
 Representative Bill Huizenga: remarks on much of presidency as becoming accessible to public press, while working on important work in the background.
 Minor slight against Maxine Waters "hammering" againt an industry.
