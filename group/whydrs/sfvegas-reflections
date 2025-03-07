@@ -21,10 +21,10 @@ I say this because the vast swatch of individuals I spoke with thoughtou the fou
 
 ## Topics from Sunbday
 
-As per the present placeholder above, there arent' any videos of event panels just yet.[^back-rroom] Thus, my notes fcome from the panels I could attend, given the agenda[^agenda-url] often had multiple speakers discussing imporatn topics at the same time. And, of course, miscelanrous conversations from cold intros will never have canotical web refernces.
+As per the present placeholder above, there arent' any videos of event panels just yet.[^back-room] Thus, my notes fcome from the panels I could attend, given the agenda[^agenda-url] often had multiple speakers discussing imporatn topics at the same time. And, of course, miscelanrous conversations from cold intros will never have canotical web refernces.
 
 
-[^back-rroom]: And there certainly aren't any (authorized) reo rdings of behind-the-door conversations around the venue at large. Notably, only a third of the space for the meetup was allocated for public discussions, panels, or headlining forums. The rest was privately-sponsored closed-door rooms requiring specific permission and check--in from one of the many intermediaryies sponsoring the event. Industry particpiants I knew from years prior frequented these rooms and the sacrency of their walls because they housed "top executives and decision-makers" at some of the largest businesses in the sector. 
+[^back-room]: And there certainly aren't any (authorized) reo rdings of behind-the-door conversations around the venue at large. Notably, only a third of the space for the meetup was allocated for public discussions, panels, or headlining forums. The rest was privately-sponsored closed-door rooms requiring specific permission and check--in from one of the many intermediaryies sponsoring the event. Industry particpiants I knew from years prior frequented these rooms and the sacrency of their walls because they housed "top executives and decision-makers" at some of the largest businesses in the sector. 
 
 [^agenda-url]: In searhcing for cittaitons for the enxt footnote, I went to review the agenda of speakers, topics, and events over the course of the event. I had this webpage up on m phone during the proceedings to organize my activity. However, the agenda copmeltely dissapreared off the web, as has happened for every other year I've participated. When looking at Archive.org nsapshots of the page, they too are compeltely blank. my bad in not capturing an offline copy of the information beforehand; have any other comunity memebrs screenshotted this basic scheudule?
 
@@ -45,8 +45,28 @@ Lastly, the paneltists colectively ocmmented onthe need to educate consumers abo
 [^8-inv-ba]: This offering was notable  ot me because the panelist sounded quite dismissive and unserous about the deal because it was "only" sparingly inthe realy of eight figures. Tpo me, they made it sound like an act of charity to accept a cehck under nine figures and certainyl anythign below 50 million dollars. They also compalainied that their rerresented parent firm had to pay higher yields on these assets solely due to the tighter concentration of only a thousand more-or-less students.
 
 
-IP securitization: author royalty, music revenue, and drug royalties
-Splitting up rights ownership and revenue from operations like JPM in early Edison.
+### Intelelctual Propoert Securitization
+
+This panel preceeded a larger panel on music royalties. The panels getnerally tried to gloss over this topic for the later disucssuion, but they still vcovered many of the basics which interweave top artists with banking interests., It's apparently become more and more common to sell upforont future earlings from music royalties after David Bowie's turn-of-the-century bond offering.[^bowie-bonds]
+
+Aftrerwards, they murmored for a few minutes abit how most new offerings reky on revenues froim streaming services, leaning more towards mainstream artists with established cashflows therefrom. The conversation mentioned a select few middlemen I find cause for suspicion with,[^spot] stating that revenues therefrom supported massive interest paymnets. Then the conversation turned to author yroyalty secutiizations and royralities from (patented) drugs.
+
+The former hit quite deeply as panelists framed book revenues as one of the oldest IP securitization targets, with extremely proven and reliable income streams fro m popoular authors. It seemed to be one of the oldest schemes, and the speakers specifically highlighted the great potential of earnings from poopular writers like Rowling. The wording throughout made it seem like these deals were sure bets so long as only the most successful and proven artists sold their licensing rights.
+
+As for the latter, one panelists seemed quite specialized in drug bonds. I interpretted their discussion as simply adding a tax on each dose manufactured based on the IP, which then funded interest payments to investors. So eprhaps we can imagine half the royalty for a treatment going to inventors in the form of upfront capital after publication, whereas the remainder pays back the loans against future earnigns.
+
+> [!NOTE]
+> Throghout the flights and transit associated with this extensive trip, I was reading more on Sam INsull, the electricity pioneer highlhgted in [TS#16](https://lnns.co/rswev9D3A1n). Namely, in _Insull_ at 27–31, Dr. Forrest McDonald highlights how bankers aquisred all the patents from Thomas Edison early in the development of central power stations. Thus, during a critical period of utility expansion, it was practically impossible for Edison to fund growth operations because of the "leaden collar" of bankers stubbornily holding the patents neccesary to employ his own inventions. According to note 14 in the chapter, it took Insull and others gathering thousands of small stocholder proxies to force Morgan and his associates to relinquish corporate control.
+
+The  panel wrapped upw ith a general sentiment towards Splitting up "rights ownership" and revenue from operations, with parallels given in other secutizations where property income was seperated from real property. This concept of dissociating an idea nad its business implemention from the proceeds therefrom quite directly reminded me of the early Edison erxcipeirnce with Morgan whereby the "right" to operate was held hostabge by the arbiters of capital, middlemen who chose to cease credit extension in the hope of profiteering off IP.[^insull-funds] Should we really extract the fruits of one's own labors into the pocketbooks of today's financial elite?
+
+
+[^bowie-bonds]: _See_ Bowie and [an investment banker](https://youtu.be/6MT9bL574n4) who sold future royalty strasm fro m all pre-1990 music. The creative endeavor netted invesmtn banks nearly twice their original $55 miollion invesmtnet within a decade. Funds back then were used to buy back the rights to his music from a former manager.
+
+[^spot]: _See, e.g.,_ [foonote wording](https://github.com/JFWooten4/free-markets/blob/8784d44521a7c02831b969aea1e30e79e778d6e1/group/whydrs/software-licensing.md?plain=1#L131) in label which came up as a chief source of artist cashflows. The platform in question seems to reward general mass popularity at the relative expense of smaller artists or those who might produce niche content. This to say nothing of certain [anticomeptative practices](https://youtu.be/sXGrv6FUrp4).
+
+[^insull-funds]: since the book isn't OCR'd yet, I'll expand a little as to the elementary context of the noted information. The situation started with $500,000 of funding towards research and devellpment of isolated, localized, and (relatively) innefdificent power plants which were easier to sell directly to the wealthy alone. As Edison sought to expand into more efficient ssytems which could service the (relative) local masses, capital dried to a nub and Insull had to raise mateiral grassroots revenue through relentless power-station selling to a score of municpal governments reliant on gas lightihngn. He later used establhsed and childhood familial connections in England to raise capital from across the pond at more favorable terms.
+
 
 C-Pace: revenue bond issuances at state level where debts have some UCC filings
 Tax assessment includes bond interest payments
