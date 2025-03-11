@@ -1,14 +1,12 @@
 ```
 status: Draft
-submit: 6 Mar 2025
+submit: 11 Mar 2025
 dialog: https://github.com/orgs/WhyDRS/discussions/TBD
 ```
 
-notes- https://github.com/JFWooten4/free-markets/pull/41/commits/6269f0281a0d18c4d0c3cdd016c708b033be4da2
-
 # WhyDRS at Structured Finance ASsociateion's 2025 SFVegas
 
-![embed-placeholder](https://github.com/user-attachments/assets/9ce3e254-b10e-4cff-9fc0-d0d7177fce2b)
+[![embed-placeholder-raw-notes](https://github.com/user-attachments/assets/9ce3e254-b10e-4cff-9fc0-d0d7177fce2b)](https://github.com/JFWooten4/free-markets/pull/41/commits/6269f0281a0d18c4d0c3cdd016c708b033be4da2)
 
 Firstly, thaks to the community for [voting](https://discord.com/channels/1102309240145707049/1122936843537764352/1310304779788095599) me to rperesent the movement at our first "official" industry event. I know a lot of apes have tried (and sometimes succeeded) at getting into closed-door events like these before on an indviidual basis. Hopefully, this involvement feature can inspure increasing upcoming public media involvement and indsutry activism.[^light-ex]
 
