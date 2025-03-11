@@ -207,22 +207,34 @@ But I suppse that is how beurocracies work, right? It logically amkes sense to m
 [^retirement-working]: Unfortunaye,  this onsundrum  exist in mny provate-sector working arrangements,t= too. While it etsinl oos good as somethiig to thertically promite worker lifetime seurity, I find it  more rrstrctive and coercng than geenuinly freeig shhold your emoyeny length be tenurred to a pension or  the sorts.  For  instance,  your 401(k) account can move fromm employer to emloyer as yo progress  throghout  your  career, ignoring the funadanetla challenges with the afformentined structure circa usability  constraints and unwaranted costs. How would   you feel if that entire retirement porrtfolio went to zero jut because you thin your skills  would be betterr employed somewhre outside your current role?
 
 
-####
+#### Executive Branch Transparency adn Operations
 
 Aside from wanting more experienced worrs (at least in terms of government involvement),  she seemed uite adament on keepign Musk accuntabel, almost to the point of schempitcism about their intentions. I think this is a realtivaly common minority view, ad we sw it suppoerted here i n her critique of how efficiency workers value Federal contracts. 
 
-- he supports a lot of the international intervention abroad
-- she remarks on an unprecedented (since 1960) support from lowest 30% to GOP + a 2:1 support for one party over another
-- she mentions large amount of rural reliance on Medicare
-- She says senate bipartisan collaboration is getting much harder, and even commitees were segregated by party
-- her idea of interleaving members lead directoy to successful education which created a new international policy bill
-- moderator suggests a failed Treasury auction
-- he suggests President either keeps their mouth shut or let their opinion be known eqrly on
-- on the debt ceiling, they frame it as a shared challenge tiven no budfet in place for the governennt & the spending has already occured leading to interest chargest over "limit"
+I personally find the new (to me) Federal Procurement Data System contracts fascinatingly revelaing, albeit they all still leave some details to be desired. But even just a general record of Federal transactions with basic memos, amounts, and parties is a whole long step ahead of many spending oversight schemas. It reminds me of Open Scource COllective, and how you can synch financial appliucatiopsn to a trustd central server to display an authoritizative centralized feed of perpurptyed monetary activity.
+
+But despite this savings and subsesquent public documentation, she says senate bipartisan collaboration is getting much harder. I find this understandable since it can and does take considerable time ot go through all these docuemnts and research reports. She exemplifies this poiint with a story from eayl in  here career regaurding physcial committee audience composition.
+
+When sehe first entered government, listening groups were segregated by party, with Rep[ublicans sitting on one side of the room, opposed to the dDemocratrs in the other side. Apparently, she introduced and passed major legislation just by asking the ranking chairperson to sit everyone in alternating-party order. IT was precisly the little chatter to "opposing" seatmates during these comiittees that inspired the ideas for effective bipartisan plicymaking&mdash;and she makes quite hte point to express how happy she was with this result given it was quite hte ambitious organization=-change ask for someone so early-on in their career.
+
+
+#### Foregin Policy Items
+
+He supported a lot of the international intervention abroad, which I'm generally unfamiliar with and sort of spaced out around. Somehwat erelavtnly, she remarked on an unprecedented support for the Republican party, citing the most Republican support from the "bottom" 30% (economically) since 1960, a trend which was explained further in a panel below. She was also suprised by a 2:1 support for one party over another, mentioned in the context of a large amount of rural reliance on Medicare.
+
+We've had enough conversations on the quandaries of insurance programs like these before, so I won't dive too depp into them here, since the speakers didn't go very deep either. it's always something I've found so conflictorily nuanced given the requisiton of a mdidleman between daily economic affairs with low likelihoods, and I genrally tend towards defering to individual savings and investments over corporate beurocracies. Perhapos we could see innovative policymaking in this space outside of government using her her idea of interleaving dispersed and different members, which again lead directoy to successful education between the two gropups, creating a new international policy bill.
+
+At this point, the moderator suggests that there could soon be a failed Treasury auction for politicla reasons, whcih makes sense given the stanglehold the ADministration has previously voiced over Federal Resouerve control, as I udnerstand it.[^fed-control] In remarks around some sort of offering windows, the moderator suggests that the President either needs to keep their mouth shut or let their opinion be known eqrly on, especially when it came to a aprticular international affairs question. They interpested the market as confudsed, stunted, and unhappy with certain recent actions and statements made wish-washily quite near a looming international fiscal deadlien.
+
+That last bit slipped a little past me, but I invite anyone to view the session recordings once they come out.[^records] Luckily, they wrpped up with a chat on the debt ceiling, which I found quite interesting, as they frame it as a shared challenge tiven there's no budfet in place for the next year's governennt. Moreover, enogh spending has already occured leading to interest chargest over the "limit" so faithlessly respected given its impossability, and I wonder if it really makes sense to centrally plan the ongoing operational budgets of such a vast and socially-accountable system of organizing political oversight.
+
+
+[^fed-control]: I wonder how muc h easier and yet more direct these discussions would be if the Nation's money-printing was quite directly tied to popular soverignty over and above private banking interests. Banking interests which I understand so deeply influence the present tax code in an ongoing proposition to incentivize indebtedness to the select few Federal Reserve System participants. Would this present realty really be so much different from the porposed Executive control from August lat year?
+
+[^records]: I will make my best efforts to (i) share login access information, (ii) ascertain the exact priamry recording of our blockchain panel, and (iii) compile a playlist of released public videos once the Strucuted Finance Association releases this info circa April. These playback systmes are gnerally only avaliable for a few months, I've noticed, so i  reccomend taking any and all archive snippets as soon as needed. Perhaps we cna merge these into the pending whydrs/documents#1 repo if anything material isn't rleeased publicly, as I commonfly find to be the cas.e
 
 
 
-Federal Procurement Data System
 
 
 
