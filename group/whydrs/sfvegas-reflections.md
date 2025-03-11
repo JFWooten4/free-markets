@@ -234,15 +234,31 @@ That last bit slipped a little past me, but I invite anyone to view the session 
 [^records]: I will make my best efforts to (i) share login access information, (ii) ascertain the exact priamry recording of our blockchain panel, and (iii) compile a playlist of released public videos once the Strucuted Finance Association releases this info circa April. These playback systmes are gnerally only avaliable for a few months, I've noticed, so i  reccomend taking any and all archive snippets as soon as needed. Perhaps we cna merge these into the pending whydrs/documents#1 repo if anything material isn't rleeased publicly, as I commonfly find to be the cas.e
 
 
+### Diverse Geopolitical Macroeocnomics Panel
+
+This panel started with a veteran investment banker who talked a really long time by themselves about nations acting in their self-interest at the expense of collective global economy. Unfortunaly, this is sort of hte norm today because so many hisotrically-independent groups of people formed legacy walls between one another. Sometimes these developed over scareec resoruces, were introduced by invidental geographies, or emmerges through voilent conflict over physical dominnac.e In any cas,e I think and can refer to many whop view the nation-state mode of human organization as well past its prime. 
+
+Namely, if we want to promote genuine creativity and innovation, then should we incetivizine indudvidual decisionmaking and problem solving? I saw this perspecitve echoded by a principal from Barclays who reported less people entering the workforce, suggesting an impending overall economic slowdown.[^econ] But what exactly are these central analysysts measuring, becuase I certainly don't think it's individual producitivity.
+
+Rather, htey kekeep their eyes on central results nad orgnaizationm measured in the legacy systen of value accounting maintained bytoday's largest social organizations. Thus, they ignore en toto the grassroots work in communities like ours which gows expotentially as we fight harder and harder for a better market of tommorow. A new system that lets anyone participate, work, and prosper without the permissivegatekeeping of yesteryears intermediaries/.
 
 
+[^econ]: I haven't been extensively anlayzing trends like these since the maximial employement datate of later 2019, foreshadowing a deep yield curve inversion whic hhas played out over hte past four years. Notwithtdangin, I' be remiss to cnot comment on the gnerela sentiments here, as i agree with them in large schemantic part based on personal observations of central organizations shedding employment. oSWhould makerts wake up to the increasing realitiies of decreased labor opportuntiies, it follows that we'll see slowdowns likely enhanced by cyclical structural inadequacies in the fiat system.
 
 
-Macro geopolitics with lots of people:
-- veteran investment Banker: talked a really long time by themselves about nations acting in their self-interest at the expense of collective global economy
-- barclays guy sees less people entering the workforce and thus econpmical slowdown overall, which makes sense
-- S&P global ratings person says long-term stable interest rate is 1.3%+
-- Wellington Management person talks about Reagan being the last President to reduce the amount of Federal regulations. Floats the ongoing discussion of removing ten items from the Register for each new item.
+#### General Fianncial and Plciy Conditions
+
+Next, a represtntative fro m S&P global ratings decreed that the long-term stable interest rate is at or slightly above 1.3%, which I found supportive of my views in the last subsection. Namely, it range gain the sounds of central banking wehreby everyone assumes that moeny on its own naturally requires annual expansion and "free" yields in "riskless" securities, an investment scheme which far-too-often comes at the expense of the working masses. Thusm, I was sceptical of their subsetquent comments and remarks from other panelsists that the rate should and even could actually be slightly higher.
+
+THese are fantasy numbers pulled from their thin-air generation machines of faceless emassed pooled loans, and I could hear that in their tone as they spoke of these returns as if they were simple nad menaingless excel numbers. But investmnet, policy, and work are more than fields in an unfathomably large spreadsheet of collated investments. They're menat to be the explicit defninitoni of what we invetivize, create, and grow in a society which seems increasingly dictates by a select few asset managers who've captured practically all capital.
+
+And to conclvude, a speaker from Wellington Management talked about Reagan being the last President to reduce the amount of Federal regulations. This led to a disucssion about musks's goal to remove 10 lines of regulations for every new one added, and generally these seem like good rule ideas given the excessive amount of legacy requirements in certain fields.[^sec-only] It'll be interesting to see how Federal Register items change these next few years, and hoepfully it will get more general ublic eyes on the immesruable vast swath of rules presently propograted by our littany of central regualtory authoritiies staffed by taxpayers (rather than industry, e.g.).
+
+
+[^sec-only]: I can onyl speak to my personal intepretations of a pletora of Securities laws enacted through COngress and the COmmission, and I wholehreartdly support tact in impletmention here so that we don't have another _Blackwater_. But somethign in this philosphyjsut rings true to me. Myh expereinces agree from seeing transfer agent rules related to Y2K readiness to having a physical ink signature of Form TA-2 submissions on hand; I've just got to belive a more efficient system eixsts with more derference to market operations, and paerhasp increased treansparncy requirements, which thankfully come naturally in web3.
+
+
+### 
 
 Steve Kornacki newscaster: on about a decade of Trump in policy
 - 2012 as first year when winning the white vote by so much wasnt enough given other races isentified by speaker
