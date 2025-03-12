@@ -258,21 +258,41 @@ And to conclvude, a speaker from Wellington Management talked about Reagan being
 [^sec-only]: I can onyl speak to my personal intepretations of a pletora of Securities laws enacted through COngress and the COmmission, and I wholehreartdly support tact in impletmention here so that we don't have another _Blackwater_. But somethign in this philosphyjsut rings true to me. Myh expereinces agree from seeing transfer agent rules related to Y2K readiness to having a physical ink signature of Form TA-2 submissions on hand; I've just got to belive a more efficient system eixsts with more derference to market operations, and paerhasp increased treansparncy requirements, which thankfully come naturally in web3.
 
 
-### 
+### newscaster Steve Kornacki: a decade of Trump in policy
 
-Steve Kornacki newscaster: on about a decade of Trump in policy
-- 2012 as first year when winning the white vote by so much wasnt enough given other races isentified by speaker
-- says trump fixed based on all the reforms reccomended in the "autopsy report", attricting a couple less white voters last year with much better racial attraction
-- 1/3 of nonwhite vote to GOP is best ever, so we now have a mich more diver voting base
-- Trump as the first time when voters with 4-year degrees leaned Democratic
-- on gender gap since 1980s, they highlight the higher female margins to democrats flipped for first time with a low margin for women comapred to high net male preferance which is relatively constant
-- says lots of protress in yount and minority men on GOP side
-- Generally "forever," GOO better amongst welsthy and democrats moreso with labor and unions, but this was the first year where Democrats took 100k+ while thereunder went to Republicans (and also again more working people)
-- talks about trump having huge shifts on conservative stste votes, shifting from democratic alignment in MA, CA, NJ, and NY to get more popular votes
-- gives example of Osceola County as early indicator of disimportance of unrelated comments from campaigning work amongst diverse voters
-- talks about best voting outcomes from majority native-Amrrican counties as a first-in-a-century outcome showcasing a flip around of voting electorate
-- tires together voting alignment shifting in Leelanau MI going from "hardcore Republicans" in 1988 v now going Democratic since 2020 and growing. They say this is significant since it's a wealthy community there half have bachelor's degrees, most are old with 7th highest county median age, and 93% white
-& Says latge amount of abortion focus only resonated with wealtguest traditional democrats compared to Trump discussing largest cultural issues on nonpartisan platforms popular with young men
+This panel specificanlyl analyzed Trump's political efforts from 2012 onward, documenting what the speaker portrays as a funfamental shift inth eRepublican party as the President's political career manifested. I find the joureny itself historically-relevant since only a select few National leaders of his caliber did not participate in much if any military service or prior politicking. Indeed, the latter point there quite impressed me upon their initial win, as I would generally suspect that an incmbent with decades of Washington experience would be relatively favoried amongst a populus to lead such governing body.
+
+But (thankfully) we live in a relatively-more meritocratic society where ideas cna stand on their mertis, and individual objectives can adn do excel ahead of historical deference. Not to say one way or another is better, but I do think the firmer idea of government by ht e historic governers cements any legacy corruption and hiders the adoption of new, innovative ideas from the outskirts of society. I've always felt myself in that cornerf-facing camp, and thus generally favor political systems which give deferenace, time, and voice to the little guy, ignoring the immense present challenges of campaign financiing which seem so relevant in a cpaitalist-first valueds coeity.
+
+#### Racial Trends
+
+Steve starts by explaing how 2012 was the a landmanrk vicotry year for Republicans winning an immense portftion of the white vote. This introduction comes into meaningul relevance quite soon, and it was painted as the peak of white GOP support with an unabeliavly overwelming domaince. Notwithstadni, this wasn't enough to win the election given other races isentified by the speaker, which cllectively overruled this single ethnicity to keep Obama in office.
+
+He laments that Republicans' strategy had generally been to just win the white vote, so this defeat came as a massive suprise given their posterity at doing so. Accordingly, an "autopsy report" came out of the GOP in response thereto, highlighting a number of reccomended reportms to ensure ongoing political success. Stever says trump based his campaign and career largely on all these proposed fixes.
+
+The core intents of this strategy meant attricting slightly less white voters, with much better racial attraction. Indeed, Steve highlights that last year's 30% nonwhite Republic vote was the best ever, and represnted a historic voting diversity shift. More elemntarily, they explain how this was hte fist time in decades when voters with 4-year degrees leaned Democratic.
+
+#### Education and Gender Changes
+
+Steve mentions and docuemnts a wide party-based gender gap since the 1980s, with women generally leaning Democratic while men tended towards Republicans. however, the higher female margins to democrats flipped for first time last year, with a low margin for women comapred to relatively-constant high net male preferance. Thus, we didn't see explicitly many men switching parties, but rather an increased porpensity for female Republic voting for oen fo the first times in post-Nixon elections.
+
+Moreover, he reoprts a lot of Republicaln protress in yount and minority men, especially those without a college education. They exemplify this point in chatting about how the Republcian party had :fovever" been the choice of the welsthy, whereas democrats were more popular with the wokring class and labor unions. But this was the first year where Democrats took the overall $100k+ income vote, while lower incomes actually majority went to Republicans (and also again more working people).
+
+Thus, Trmp has facilitatives huge shifts on conservative State votes, dissolving and replacing Democratic alignment in Massachusets, California, New Jersey, and New York. All this led directl to winning the popular vote, which largely came in na election of unprecenteded Republican support in these communtiies. Thus, for me and as inferred from Steve, the vote muc largely relected an increasing focus on policy and vision over and above traditional red-and-blue alignments.
+
+#### Case Studies and Inferences
+
+Steve believes these trends will continue, eprahsp for decades to come, as the genra lcampaigning and policmaking part ideologiies shift to better reflect their new base of popular oters. To exemplofy this point, they first talk about Osceola County, which Steve used as a dinfintinive early indicator of election results during his live coverage. Given the vast Peuroto-Rican population therin, Trump's vicotory solidifeid their perspective on the disimportance of unrelated comments from campaigning work amongst diverse voters.[^ny-vote]
+
+Moreover, contuing to focus on diverse ethnicities, he highlights ho  Republicans had practicall their best voting outcomes from majoirty-Native-American counties in the past centry. This popuarity showcases a "flip" of the voting electorate from traditioanlly-Democratic groups, according to Steve. With this level of fluidity in modern policymaking alignment, I've got to think we're up for an exciting tome of genuinely productive bipartisan legislation furthering everyone's collctive intersts, at least while that collective is still in flux between shifting ideologoies.
+
+Steve ties this shifting voting alignment together by highlghtingin the small, wealthy county of Leelanau, Michigan. He shows how this town went from "hardcore Republicans" in 1988 to Democratic since 2020 and growing. And all this depsite hte vast concetattion of bachelor's degrees (half the populus), a bountiful eldgeryl population (wuth the 7th highest county median age), and an abundance of high-end wineries amongst the area's 93% white population. Noemlly, a town like would support the Democrats, but Steve specualtes tha tthe large focus on abortion only resonated with wealthy traditional democrats, as compared to Trump discussing largest cultural issues on nonpartisan platforms popular with young men.[^rohan]
+
+
+[^ny-vote]: The story as relayed related ot an imprudent racial joke told by a comedian before a Trump rally i n Madison Square Gardens. The event was plastered as campaign-breaking news by the opposition, but Steve explains how this was just a media-fueld overreaction. When the results at the poolls showed continuing giverse support (from an area with over two-thirds Peruo-Rican voters), he knew tha the misplaced Dominican joke woudln't singelhandedly bring down the Administration's initial campainging.
+
+[^rohan]: Steve specifically highlights the Presiden't featured placement on the Joe Rohgan show, and other mass-media internet-era platfomrs, platforms which were sternly ignored in a few highlighted cases by the opposition candidtate. I really hope we get to the point of entirely-online elections as soon as possible, because I think that alone will drastically lower the bar for citizen participation (sans-advertizing) and docuemnted public discorse. I've got to think many bright minds just don't have the wherewithal or the stamina to jet back and forth between political geographics, and frnakly that sort of skillset seems less and less relevant in an increasingly-digitized owrth (economy, political arena, and enforcement areana).
+
 
 Unsecured consumer credit / Callahan:
 - they said generally everything is calm and predictable, while more and more people demand loans given increasing livings costs in recent years
