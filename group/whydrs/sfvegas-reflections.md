@@ -294,9 +294,16 @@ Steve ties this shifting voting alignment together by highlghtingin the small, w
 [^rohan]: Steve specifically highlights the Presiden't featured placement on the Joe Rohgan show, and other mass-media internet-era platfomrs, platforms which were sternly ignored in a few highlighted cases by the opposition candidtate. I really hope we get to the point of entirely-online elections as soon as possible, because I think that alone will drastically lower the bar for citizen participation (sans-advertizing) and docuemnted public discorse. I've got to think many bright minds just don't have the wherewithal or the stamina to jet back and forth between political geographics, and frnakly that sort of skillset seems less and less relevant in an increasingly-digitized owrth (economy, political arena, and enforcement areana).
 
 
-Unsecured consumer credit / Callahan:
-- they said generally everything is calm and predictable, while more and more people demand loans given increasing livings costs in recent years
-- he says in personal chat that many investor clients have woerd specific insitutional deal wants which work their way through salespeoppe to slowly affect new originations to satisfy the funding wants
+### Trends in Unsecured Consumer Credit
+
+Most of my remakrs here hinge on Ryan Callahan, who did  lot of cool work at institutions I admire in certain lgihts. I'll include remarks from some discussions we had after this panel, general sentiments across participants, and largely their (high-level, impersonal) perspective on the sector as a whole. Offhanddely, it's a rare treat to find the ten to twenty percent of people at events like these under the age of 30, althrough I dodfind myself working with the elder more commonly.
+
+In terms of unsecured credit and associa lcardb alanaces, Ryan said everything is generally calm and predictable. This came in addition to their comments tha more and more people now demand loans given increasing livings costs in recent years, which we all commonly understand doesn't always coincide iwth commensurate wage increases at certain central employers rewarding workers in fiat. Notwithstadning, it was exciting to see some community memebrs highlight wins by working groups collecively negotiting a greater share of their productive wealth, especially for those not connectied to equity investment ramps or know-how.
+
+These sentiments seemed common amongst panelists, whi made the sector sound exemplary, but Ryan shared some more intimate and personal concerns about the sector at large. Not least ofwhichwas the ongoing and systemic reliance on salespeople to interface iwth large investors, ost often to structure a new offering exacly how an instution wants new assets to match their risk profile. Apparently, this is a ver ymanual process where a client contact and interlay handpick underlying debts to coallate into the final securitization pool, with a largely interpersnal allocation of first-come subscriptions granted to central capital allocators.
+
+To me, these wierd specific insitutional deals serve only to contort natural supply and dmeand fr the individual underlying deals, which never make their way onto a tradable market for secutiry interests. Moreover, speicifc requirements mean it can take months for salespeoppe to slowly affect new originations to satisfy the funding wants, even requiring up to a year of time to find enough peicemal loans. Sound like the fastest, most efficeint, or fairest way to get capital into the hands of those ready to deploy?
+
 
 EU Securities Regulations:
 - new joint regulation to replace fragmented rules for securitizations
