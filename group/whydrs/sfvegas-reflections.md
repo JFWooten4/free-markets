@@ -387,4 +387,16 @@ On backup servicing:
 - contra seller of products had to kanually add and approve you in a trade as buyer
 - everything cleared bilaterally OTC without actual regulated market involvement
 
-aslo the final doc off memory
+aslo the final doc off memory from BB priting
+
+
+#### Upcoming Alternate Publicatiosn
+
+foia info in documetns repo; work here as appacliabe on blogs
+
+
+#### Parting HOPE Disucssion
+
+intro as work in infnacial education and litarcy; second time meeting therefrom
+
+possibly incl. story (in fn?) about Catalyst (dormant)
