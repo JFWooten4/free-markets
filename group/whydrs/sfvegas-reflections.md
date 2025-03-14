@@ -1,6 +1,6 @@
 ```
-status: Draft
-submit: 11 Mar 2025
+status: Final Sprint
+submit: 18 Mar 2025
 dialog: https://github.com/orgs/WhyDRS/discussions/TBD
 ```
 
@@ -305,13 +305,20 @@ These sentiments seemed common amongst panelists, whi made the sector sound exem
 To me, these wierd specific insitutional deals serve only to contort natural supply and dmeand fr the individual underlying deals, which never make their way onto a tradable market for secutiry interests. Moreover, speicifc requirements mean it can take months for salespeoppe to slowly affect new originations to satisfy the funding wants, even requiring up to a year of time to find enough peicemal loans. Sound like the fastest, most efficeint, or fairest way to get capital into the hands of those ready to deploy?
 
 
-EU Securities Regulations:
+### EU Securities Regulations
+
 - new joint regulation to replace fragmented rules for securitizations
 - investor capital largely deployed to US projects which have their own compliance departments
 
-Consumer health: how they talk about the finances of people borrowing on credit
+
+### Consumer Borrowing "Health"
+
+how they talk about the finances of people borrowing on credit
 - say people are confused between federal student loan relief not applied to the private market
 - FICO rep talks about everyone's budgets spreading thinly while "yields tighten" despite strong payment maintenance and general employment
+
+
+### Intrabank Systemic Risk Transfers
 
 Significant risk transfer: moving potential credit liabilities from bank balance sheets
 - common in international banking regulations because it was needed for banks to be able to raise capital given Basel
@@ -319,13 +326,21 @@ Significant risk transfer: moving potential credit liabilities from bank balance
 - and asking them about the wrists and collateralization of central securities depositories after the panel, they say that really the only way to get protection is a single name CDS against the major exchanges or clearing participants, up to the collateral fun limits of a couple hundred million. Legacy gillen old lawyer says that it's a very systemic risk that is "too big to fail."
 
 
-Tuesday
+## Topics from Tuesday
+
+(our panel)
+
+
+### 
 
 Macro policy plenary: lots of representation of banking employees who work on policy
 - generally agree that it will be challenging to get legislation across the divided house
 - suggest that DOGE will get less popular as (manual) gov services slow down
 
-Evolution of media panel with news influencer:
+
+### Evolution of Media
+
+panel with news influencer:
 - they say they need to contantly push content across every possible different online platform
 - publishers say they need to earn trust by speaking in their own voices, using an example of independent press calling out Biden's physical leadership limitations due to age while being largely attacked by the incumbent Administration
 - Jim VandeHel comments on need for journalism to freely report media to halt authoritarianism and protect questioning capitalism
@@ -335,11 +350,23 @@ Evolution of media panel with news influencer:
 - Tara says most thriving information has a bias, attracting mass online viewership
 - Jim agrees that the maintream doesnt get into the nuances or depths a aliable for jiche creators acting without centeal coordination
 
+
+### Government-Sponsored Enterprise Reform
+
+(Musk & Trump)
 GSE reform: panelists largely sceptical of political influence over Fannie/Freddie, ignoring specialized sector practices
+
+
+### More Private Credit Growth
 
 Private credit: a "meteoric rise" fueled by large private buyers through 4(a)(2) while 144A offerings combine into market demand through gated institutions
 
-Whole business securitizations: largely for very safe long-standing companies with considerations based on natural market competitiveness
+
+### Whole-Business Securitizations
+largely for very safe long-standing companies with considerations based on natural market competitiveness
+
+
+### Backup Servicing Expansion
 
 On backup servicing:
 - tough to do in house without specialized history of filing UCC state info, especially for solar items
@@ -347,9 +374,17 @@ On backup servicing:
 -regulatory complexity for consumer payment servicing continues despite any CFPB changes
 - says "grumpy borrow" files a lawsuit and goes to a regulator, so the focus needs to be on consistent data to make it easy to "service the book of business"
 
-In extended discussion with Bloomberg booth:
+
+## Bonus Private Chat
+
+[most of other nonmaterial discussions intro here]
+
+
+### Extended Bloomberg Booth Representatives
+
 - no retail access to lending products because of complexity in analysing holdings and risks
 - Terminal mirrors FINRA TACTS public trade reporting feed for public and 144A txns. When pressing on what punlic meant, they comment that it has only to do with trade registrstion with SEC
 - contra seller of products had to kanually add and approve you in a trade as buyer
 - everything cleared bilaterally OTC without actual regulated market involvement
 
+aslo the final doc off memory
