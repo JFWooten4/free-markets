@@ -1,5 +1,5 @@
 ```
-status: Final Sprint
+status: Final Sprint (incl. output S numbering)
 submit: 18 Mar 2025
 dialog: https://github.com/orgs/WhyDRS/discussions/TBD
 ```
@@ -81,6 +81,27 @@ Aside form financial,s I found it interesting how each C-PACE was represented at
 
 [^trusts]: In a blockchain era, might all this happen directly on-chain? It seems simple enough for borowers to submit their documents to the investor community at large when calling on funds from a _smart_ contract. Pewrhaps we don't need the manual bank-and-forth between financiers?
 
+#### Addendum
+
+Interestingyl, i na subsequent trip out to ski country disucssued in the last DUNA meeting (did anyone record that lol?), I noticed that My Dad's centralized Well's Fargo directive meeting calendar included a requiestie discussion on the PACE instrument. Apparently, this was not related to any specific pending deal, but rather it was a generally internal educational vehicle. The presenter in quetion seemed to be an in-house WF councelor who;d done some work thereon in a different branch of the bank (my Dad works in municiples, which are actually a _crazy_ example of the upcoming point).
+
+I'll base the majority of this analysis on my own experiences here, as I asked my Dad about PACE deals the evening after they attented this training meeting. He said he wasn't really familiar with the deals, vehicle, or every ecronym (as again it faills outside his usual work). One such example of the latter particularly appauled me, ensnarign a native-American tribe with $50 million in county-government debt.[^mmmm]
+
+In short, it's my intepretation of these events and other public information that the PACE exemption largely serves as a perverse means of further centralizing our existing financial system. I'll approach this point from two high-level angles:
+
+- Policymaking as a means to infleunce economic activity and
+- Hidden tax-code exemptions practically avaliable only to select insttutions
+
+For the relevant context of these points, I'll remind everyone that the first PACE bond emmerged out of a California law passed by a hundred representatives (of 36,700,000 people) in 2008.[^cali] The legislation largely defers implementation to cities and counties, as is common with municiple or State-liening financings, later purporting to "increase local jobs[,]" "property values[,]" and "attractive financing option[s.]"[^cali-cite] I think this makes since given only a select few municipalities instigated early PACE programes, such as Berkkley's FIRST program (which faciliated 38 solar projects), while overall CA solar capacity nearly doubled from 2007 with over 10,000 new installations.
+
+The conversation reminds me of an early discussion at the Syndicate with a SF startup integrating mass battery storage into utility newtowkrs for carbon-free consumption of potential photovoltaics. The ultimate questions is _who_ tax carvouts like these serves? Does it help innovators in the free market enabling consumption with lower costs, increased efficncy, and generation salability like the industry as a whole naturally developed given suffieicient time and R&D? Or do the terse, localized, and beirocratic (policies go through local tax treament and hence authorities) loopholes serve the select few money-lenders, prompting them to proactively educate employees of a secret business avenue enabled by mounterous amounts of plutocracy?
+
+
+[^mmmm]: In the limited dialogue we had about this deal and without revealing personal or other reasonably-confidential information, this was not issued directly to the soverignty. It follows the traditional conduit-authority path, a system based largely in unbelivelably-corrupt IRS statutes approved by Congress decades ago. Should a seect few central bankers really determine which parts of our econmy get to grow without exposure to general public taxation, providing for the services the people of this nation so direly require?
+
+[^cali]: I point out the represetative relationship ratio only to highlight the large amounts of goals necessarily centralized into these select few individuals and theri limited (24 hours / day) policymaking oppoiuntiies. Opportuntiies which can all-too-often be captured by central industry interests. _See, e.g.,_ the Californai Bitcoin Education Center, which presentlyoperates out of a Santa Monica "Bitcoin Office," to the benefit of a 501(c)(4) foundation's board of directs which largesly consists of Bitcoin whales; including custodial investors, L2 intermediaries, and commercial miners. Should those running our pension funds, coming from central investment banks, really be allowed to campaing the public to aquire an asset held in their own portfolios, under the auspices of social welface and public funds?
+
+[^cali-cite]: _See_ subsequent rulemaking impementations in Los Angeles Council, which is the soruce for the 2014 quotes on economic inmpact, _avaliable at_ https://clkrep.lacity.org/onlinedocs/2014/14-0812_pc_11-5-14%20(1).pdf at 2. The staff report makes sparing if any direct mentions of green enrgy or solar panels, explicit campainging points largely publicized when the original rule was signed by Governor Schwarzenegger. Shoudl we really delegate usch an important activity as speeding up the green transition to the often desolate offices of county and town halls?
 
 ### Bill Huizenga (R-MI)
 
