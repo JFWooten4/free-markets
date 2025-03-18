@@ -388,7 +388,13 @@ If this vail of protection holds, as I've seen stand strong in _Alpine_ and pre-
 
 ### More Private Credit Growth
 
-Private credit: a "meteoric rise" fueled by large private buyers through 4(a)(2) while 144A offerings combine into market demand through gated institutions
+On this brief panel, speakers remakred on the "meteoric rise" in Private Credit issuance coming from the gneeral economic contitions discussed eaelier. However, the panelesits largely framed the rise as being fueled by large private buyers. Namely, they saw growth coming from instutions purchasing securitized debt offerings (or wrapped comentents themselves) through the 4(a)(2) Exemption for private placements. This demand was then exacerbated by 144A inter-dealer offerings, combining into large market demand through gated institutions.
+
+Both those technical nuances on scurtiies laws relate deeply to the [Rule 144](https://wooten.link/144) discussion last DUNA meeting. Effectively, they only let these big banks deliver the money needed to fund this growth of private credit markets, a reality I saw truthfully and firthand with a co-panelist of years past. In short, they built a whooell porirotary private marketplce appliation to exploiut this expanding sector niche which connects institutional investors, central underwriters, and aggreagting banks into a single place with the expected 10% service fees of Wall Street.
+
+I very vividly remember fuming in anger when I uncovered the full swath of inefficiencies this particular private company toutes online as their "high-margin business model" because it serves only to seperate investors from their hard-earned dollars. And that's how I felt throughout most of this panel, knowing the practical impossabilities of our own implmeentation of this model given strict policies enforced by  these central banking insuttions which severely limit the transfer of meaningful funds from one person to anoyther.
+
+Modern financial systems should involve and benefit users like us, not aggreagate and exploit the masses for the subjective profits of those closest to the Fed by means of their central emplyment. How we collectively tolerate their central and omnipresent control of the economy to date baffles me. And frnakly I think it's only a matter of time until practices like this cease solvency, which begs the questions: what will happen to the largest sector of our workforce supporting financiers atop a castle of sand?
 
 
 ### Whole-Business Securitizations
