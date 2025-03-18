@@ -374,8 +374,16 @@ panel with news influencer:
 
 ### Government-Sponsored Enterprise Reform
 
-(Musk & Trump)
-GSE reform: panelists largely sceptical of political influence over Fannie/Freddie, ignoring specialized sector practices
+This disuccsssion largely revoled around Fannie and Freddie, two semi-gvoenremnt instutitons up for material amendment under Musk and Trump. Given the materiality of mortgage debt in expandong the American monetary suypply, I appreciate ncoming sentiments to bringthese two instutitons in line witha free marekt. Yes, that does mean I'll happily give up my first-time homebuyer discounted interest rate.
+
+More wholistically, I see no practicle or egalitarian explanation for the home-interest deduction so common on US tax returns. This policy, applied more genreally across practically all debt under IRS treament, serves to only distort the free-market copetativeness of equity financing (a method which requires skillsets, naunce, and tact) verses debt (which we can summise in about three well-known central numbers). To get the personal items out of the way, I also believe people should be able to aquire their onw homes using _obnly_ their own accumulated savings and retirements, as opposed to the 30-year servitude contracts so common amongst central work hubs.
+
+The panelists here were largely sceptical of political influence over etiher GSE, dictating their operative indepenedence from the White House. I found this to be true in personal experiences attempting to use Stellar for their mortgage recordkeeping years ago by means of the Federal procurement system. Naturally, the panelists highlight the specialized sector practices entranched in GSE operations, which largely consists of at-will employees managed under the auspice of a private company so Congressionally endowed by Federal conservatorship.
+
+If this vail of protection holds, as I've seen stand strong in _Alpine_ and pre-Amtrack cases, then the most a White House representative could do is change top leadership, as Trump did with Pulte as Director of the Federal Housing Finance Agency last week (and one of Musk's reliable engineers on St. patrick's).[^mmh] I've studied how this played out inthe past, in anticipation of the recent Commissioner changes, and I agree wit hthe implicit panel view that this will be quite the beurocratic structural undertaking for anyone brought in by the Administaration, a monumental task to say the least with only the top-down influence afforded to America. Should the govenrment still entertain central organization and oversight of private housing interests, especially in an age where capital is more and more mobile, to the behest of any discriminatory charges traditionally protcted b the FHFA?
+
+
+[^mmh]: Remember them getting comphy with Trump and Musk (via X) during the campaign, only [to revert](https://discord.com/channels/1102309240145707049/1102309241026515065/1326384686330679337) into more standrdard power dialect later? Relevantly, they proposed the structural change so foreign to panel memberings: the re-privatization of the enterprises, as commented in the last sentence of an article reporting on the Senate confriatino, _avliable at_ https://www.reuters.com/world/us/senate-approves-pulte-fannie-freddie-regulator-2025-03-13. And then we have the start of a Board takeover with the appointment of Musk's trusted engineer earlier this week, _avaliable at_ https://www.bloomberg.com/news/articles/2025-03-18/musk-ally-doge-member-spacex-s-christopher-stanley-tapped-for-fannie-mae-board.
 
 
 ### More Private Credit Growth
