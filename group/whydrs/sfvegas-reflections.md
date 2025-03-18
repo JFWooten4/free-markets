@@ -425,9 +425,9 @@ Despite pendingm aterial CFPB structural changes, panelists commented on ongoing
 [^zelle]: I've experienced a amrked failure of the protection mechisms at hand in past experiences with Zelle. Less than a year after COVID struck, I was scammed through a transfer to a known malicious account. Around the same time, there was an ongoing Congressional debate as to the need for finacnial instuttions to protect consumers for fraudulant Zelle payments, which resulted in a forced mandate to reverse transactions intitiated after an account takeover. While I could've lied and said this sizable transfer arose from such acctivity, I told my bank the truth about what happened, and they returned the favor by doing absolutely nothing in reconciliation (as did Apple Cash).
 
 
-## Bonus Private Chat
+## Bonus Private Chats
 
-[most of other nonmaterial discussions intro here]
+LALTY, thewre are a few discussions I had outside of paenls and the most material examples above. I mentioned these in passing during discussions in the past two weeks, so here's my promised written expansion thereto. Always love gkeaming out some insighs from the unique perspectives of others, but honestly it's a bit drainingfor me to draw these out in physical disucssions with pants.
 
 
 ### Extended Bloomberg Booth Representatives
