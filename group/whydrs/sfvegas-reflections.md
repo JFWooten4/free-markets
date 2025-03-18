@@ -432,12 +432,29 @@ LALTY, thewre are a few discussions I had outside of paenls and the most materia
 
 ### Extended Bloomberg Booth Representatives
 
-- no retail access to lending products because of complexity in analysing holdings and risks
-- Terminal mirrors FINRA TACTS public trade reporting feed for public and 144A txns. When pressing on what punlic meant, they comment that it has only to do with trade registrstion with SEC
+On Tuesday, I stopped by the LP's booth to further explore their Termianl functionality, something I've contirnually songed since a sparce few moemnets tinkering around on Tech's educational machines. I"ve commented on material disagreements with their proprietary infrastrcutre in the past, so I'll cease expanded disucssion of that item here. Notwithstadning, the booth representatives were quite friendly and approachable, albeit partially based on a smooth introduction from a staff writer at the event's afternoon snack bar.
+
+This writer ("she") brought me over to the chief bond trader's tabl ("he") in the busy booth, where they began extolling some of the structed-finance functionality in the subsecription. Upon further discussion, he commented that there is no retail access to lending products because of the "complexity in analysing holdings" and risks. To exemplify this point, he showed me one issue which had different callable dates based on the pool of loans underforming the securtiies.
+
+I thought it seemed pretty silly that an investor cou;ld not factor in the implicit risks of prepayment, but I didn't harp on the point used to justify the requisite emplyoment of analysists at centralized financial instutions. Next, he told me how the Terminal mirrors the FINRA TACTS public trade reporting feed, a system designed as a best-efforts and little-regulated central reporting scheme between brokers. Given we've all seen the efficacy of SRO data feeds in the past, I probed more into how this exact produced worked.
+
+#### FINRA's {{TACT-spellOUTtodo}}
+
+for public and 144A txns. When pressing on what punlic meant, they comment that it has only to do with trade registrstion with SEC
+(trading ientification)
+
+
+#### Trading Mechanics
+
 - contra seller of products had to kanually add and approve you in a trade as buyer
 - everything cleared bilaterally OTC without actual regulated market involvement
 
-aslo the final doc off memory from BB priting
+
+#### Her Prosfffional Writing
+
+Analysi on Bloomberg Intelrligence v. LinkedIn 
+[final doc off memory from BB priting]
+
 
 
 #### Upcoming Alternate Publicatiosn
