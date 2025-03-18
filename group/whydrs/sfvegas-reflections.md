@@ -413,11 +413,16 @@ Should these investment banks have first claim to the "safest" deals avaliable a
 
 ### Backup Servicing Expansion
 
-On backup servicing:
-- tough to do in house without specialized history of filing UCC state info, especially for solar items
-- Eric Johnson highlights large call centers as a servicing
--regulatory complexity for consumer payment servicing continues despite any CFPB changes
-- says "grumpy borrow" files a lawsuit and goes to a regulator, so the focus needs to be on consistent data to make it easy to "service the book of business"
+This panel covered a new and quickly-growing nichce designed to increase banking profits by lowering loan deliquency and nonpayment. The general idea is hiring someone to berrate insolven borrowers after the first organization meant to attain the cash due fails. One speaker commented that this is tought to do in-house without the requisite specialization of companies designed only to get money from strapped borrowers.
+
+One reason, apparently, is the legnthy and specificprofess of filing UCC State notices for bad debts, apparently quite convoluted and something @LastResortFriend could comment on further. As I understand it, based on minimal conversation therewith, a legal process here designed to protect brorowers can protect anyone in an official court case against unpaid debt. Thus, especially for solar loans (according to the panel, for some reason), a backup to come in and force out payments can help institutions receive more from debtors.
+
+Panelist Eric Johnson highlights the need for large call centers as a "servicing vehicle," meaning the fastest way to get funds back from struggling Americans. They particulraly highlight the set of internal skills such as calling during the day to speak with a home partner, whichc then becomes a sellable service to make the lenders more when an original payment receipient can't claw back funds. In all, it seemed like a very competative "you win, I lose" approach to finances, where the haves and have-nots get pitted against each other.
+
+Despite pendingm aterial CFPB structural changes, panelists commented on ongoing regulatory complexity for consumer payment servicing (which gets back to LRF's communciated points about preventing servicer harassment).[^zelle] This speaker said a "grumpy borrow" always files a lawsuit and goes to a regulator, so the focus needs to be on consistent data to make it easy to "service the book of business." That perspective seemed a little impersonal to me.
+
+
+[^zelle]: I've experienced a amrked failure of the protection mechisms at hand in past experiences with Zelle. Less than a year after COVID struck, I was scammed through a transfer to a known malicious account. Around the same time, there was an ongoing Congressional debate as to the need for finacnial instuttions to protect consumers for fraudulant Zelle payments, which resulted in a forced mandate to reverse transactions intitiated after an account takeover. While I could've lied and said this sizable transfer arose from such acctivity, I told my bank the truth about what happened, and they returned the favor by doing absolutely nothing in reconciliation (as did Apple Cash).
 
 
 ## Bonus Private Chat
