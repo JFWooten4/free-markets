@@ -394,11 +394,21 @@ Both those technical nuances on scurtiies laws relate deeply to the [Rule 144](h
 
 I very vividly remember fuming in anger when I uncovered the full swath of inefficiencies this particular private company toutes online as their "high-margin business model" because it serves only to seperate investors from their hard-earned dollars. And that's how I felt throughout most of this panel, knowing the practical impossabilities of our own implmeentation of this model given strict policies enforced by  these central banking insuttions which severely limit the transfer of meaningful funds from one person to anoyther.
 
-Modern financial systems should involve and benefit users like us, not aggreagate and exploit the masses for the subjective profits of those closest to the Fed by means of their central emplyment. How we collectively tolerate their central and omnipresent control of the economy to date baffles me. And frnakly I think it's only a matter of time until practices like this cease solvency, which begs the questions: what will happen to the largest sector of our workforce supporting financiers atop a castle of sand?
+Modern financial systems should involve and benefit users like us, not aggreagate and exploit the masses for the subjective profits of those closest to the Fed by means of their central emplyment. How we collectively tolerate their central and omnipresent control of the economy to date baffles me. And frnakly I think it's only a matter of time until practices like this cease solvency, which begs the question: what will happen to the largest sector of our workforce supporting financiers atop a castle of sand?
 
 
 ### Whole-Business Securitizations
-largely for very safe long-standing companies with considerations based on natural market competitiveness
+
+I qwas in and out o this panel due to halway disucssions with a team related to our panel, in preperation of upcoming work disuccusssed by a copanelist. Notwithstahding, the sentiments i did get from this panel were personally astounding. First, I;ll explain some of the key elements the underlying instuttuions apparently look for when it comes to securitizing the cashflows of an entire enterprise.[^s?]
+
+Each of these factors fit undera wide umbrella I'd personally label "security." The parnelsists started off talking about a long, established history of bsuiness income (thinking in terms of decades). Then they dove into factors I'd assume any investor would consider: brand permanance, consumer recognition, and product certainty (of longstanding use or need).
+
+Lastly, one speaker harped greatly on the "replacability" of management t conitnue operating if the issuer stops servicing the securitized bond, and other panelists generallyl nodded in agreement. That was really a straw to far for me, because it basically frames all the poeple in an organization as entirely replacable cogs meant only to ge t the entity functioning for the returns of shareholders. Except, in this case, the shareholders aren't event existant, menaing wokrers can;t even own a piece of the fruits they produce, as the entire longstanding corporation post-deal now serves to exclusively enrich the big backing institutions who found it competitive in the market.
+
+Should these investment banks have first claim to the "safest" deals avaliable across the economy? Should their gatekeeping access to the public market allow them to singhandedly profit off the most established enterprises we rely on each and ever y day? Or might we better serve the billions in need of quality equity investments by diverssely distributing whole-business ownership and profit interests amonst all?
+
+
+[^s?]: Wait a minute, doesn't that sound a whole lot like a stock offering? That's what I thought, and in the afformentioned extra-panel conversation, I had this perpspectie affirmed by a highly-skilled financial engineer. Of course, the bank in place assumes none of the risks traditionally estewed by non-collateralized structured-product offerings, tilting the favor of returns back to Wall Street.
 
 
 ### Backup Servicing Expansion
