@@ -17,7 +17,7 @@ I say this because the vast swath of individuals I spoke with throughout the fou
 
 [^light-ex]: _See, e.g.,_ potential work in #38. As discussed in last night's DUNA meeting, most of these events come from centralized intermediary groups, and thus I'm now excited to have a brand name we can all stand behind as an introductory reference to our affiliation.
 
-## Topics from Sunday
+## 1 Topics from Sunday
 
 As per the present placeholder above, there aren't any videos of event panels just yet.[^back-room] Thus, my notes come from the panels I could attend, given the agenda[^agenda-url] often had multiple speakers discussing important topics at the same time. And, of course, miscellaneous conversations from cold intros will never have canonical web references.
 
@@ -25,7 +25,7 @@ As per the present placeholder above, there aren't any videos of event panels ju
 
 [^agenda-url]: In searching for citations for the next footnote, I went to review the agenda of speakers, topics, and events over the course of the event. I had this webpage up on my phone during the proceedings to organize my activity. However, the agenda completely disappeared off the web, as has happened for every other year I've participated. When looking at Archive.org snapshots of the page, they too are completely blank. My bad in not capturing an offline copy of the information beforehand; have any other community members screenshotted this basic schedule?
 
-### Student-Loan ABS Outlooks
+### 1.1 Student-Loan ABS Outlooks
 
 Since student loans are the assets that back a large sector of securitized products, recent activity from DOGE quickly emerged. In this panel, it was generally clear that Musk wants less federal grant money and more private student loans. Financial aid should stay in the private sector, according to their interpretation of Federal intentions.
 
@@ -39,7 +39,7 @@ Lastly, the panelists collectively commented on the need to educate consumers ab
 
 [^8-inv-ba]: This offering was notable to me because the panelist sounded quite dismissive and unserious about the deal because it was "only" sparingly in the realm of eight figures. To me, they made it sound like an act of charity to accept a check under nine figures and certainly anything below 50 million dollars. They also complained that their represented parent firm had to pay higher yields on these assets solely due to the tighter concentration of only a thousand more-or-less students.
 
-### Intellectual Property Securitization
+### 1.2 Intellectual Property Securitization
 
 This panel preceded a larger panel on music royalties. The panels generally tried to gloss over this topic for the later discussion, but they still covered many of the basics that interweave top artists with banking interests. It's apparently become more and more common to sell upfront future earnings from music royalties after David Bowie's turn-of-the-century bond offering.[^bowie-bonds]
 
@@ -60,7 +60,7 @@ The panel wrapped up with a general sentiment towards splitting up "rights owner
 
 [^insull-funds]: Since the book isn't OCR'd yet, I'll expand a little as to the elementary context of the noted information. The situation started with $500,000 of funding towards research and development of isolated, localized, and (relatively) inefficient power plants, which were easier to sell directly to the wealthy alone. As Edison sought to expand into more efficient systems that could service the (relative) local masses, capital dried to a nub, and Insull had to raise material grassroots revenue through relentless power-station selling to a score of municipal governments reliant on gas lighting. He later used established and childhood familial connections in England to raise capital from across the pond at more favorable terms.
 
-### Clean Energy Property Taxes
+### 1.3 Clean Energy Property Taxes
 
 The next panel was on Commercial Property Assessed Clean Energy loans. This was my first time hearing about this asset class, which came about in Recession-era clean-energy State legislation incentivizing borrowing for green energy. Basically, the loan gets attached to the property itself rather than its owner, and interest payments are direct property tax payments to localities rather than a lending institution.
 
@@ -72,7 +72,7 @@ Aside from financials, I found it interesting how each C-PACE was represented at
 
 [^trusts]: In a blockchain era, might all this happen directly on-chain? It seems simple enough for borrowers to submit their documents to the investor community at large when calling on funds from a _smart_ contract. Perhaps we don't need the manual bank-and-forth between financiers?
 
-#### Addendum
+#### 1.3.1 Addendum
 
 Interestingly, in a subsequent trip out to ski country discussed in the last DUNA meeting (did anyone record that lol?), I noticed that my Dad's centralized Wells Fargo directive meeting calendar included a requisite discussion on the PACE instrument. Apparently, this was not related to any specific pending deal, but rather it was a generally internal educational vehicle. The presenter in question seemed to be an in-house WF counselor who'd done some work thereon in a different branch of the bank (my Dad works in municipals, which are actually a _crazy_ example of the upcoming point).
 
@@ -93,7 +93,7 @@ The conversation reminds me of an early discussion at the Syndicate with an SF s
 
 [^cali-cite]: _See_ subsequent rulemaking implementations in Los Angeles Council, which is the source for the 2014 quotes on economic impact, _available at_ https://clkrep.lacity.org/onlinedocs/2014/14-0812_pc_11-5-14%20(1).pdf at 2. The staff report makes sparing, if any, direct mentions of green energy or solar panels—explicit campaigning points largely publicized when the original rule was signed by Governor Schwarzenegger. Should we really delegate such an important activity as speeding up the green transition to the often desolate offices of county and town halls?
 
-### Bill Huizenga (R-MI)
+### 1.4 Bill Huizenga (R-MI)
 
 In conversations during and after this panel, the Representative asked me to call him Bill, which I'll use colloquially here. Relevantly, Bill is the Vice Chair of the House Financial Services Committee, a group I've been eager to talk with for some years now. As the community knows, we had some further correspondence as [collectively agreed](https://discord.com/channels/1102309240145707049/1310304475139018802/1344153811001802752), which I'm still waiting on follow-up from.[^chats]
 
@@ -107,7 +107,7 @@ In discussing the financial sector and structured intermediaries broadly, Bill m
 
 [^admins]: Just in general browsing over other work as I'm writing this, I stumbled into the plethora of Presidential directives and nominations guiding pending public policy. He seems actively at work doing the minutiae bureaucratic central leadership tasks requisite to increasing influence and furthering objectives. Fairly broad, but that's partially the most I can garner from the relatively vague action headings on Congress.gov, which often exclude any supporting primary documentation, as is so common in central decision-making reportings.
 
-#### Comments on D.O.G.E.
+#### 1.4.1 Comments on D.O.G.E.
 
 The first parallel Bill draws relates to the funding mechanism for Michigan State. As is common in some other states, funding shortfalls mean representatives cut allocations to public goods and services. There is no excess deficit spending, as Bill highlighted with a story about calling a school district and telling them they wouldn't receive full consideration for enrolled pupils.
 
@@ -115,7 +115,7 @@ Bill shares these events not to highlight excess frugality, but rather to emphas
 
 [^debts]: Later on, other panelists discussed the debt ceiling explicitly. I find it relatively ironic that one reason the Nation can never pay back all its debt stems from the financial system's [structural reliance](https://discord.com/channels/1102309240145707049/1102309241026515067/1330940920954228776) on Treasuries, a system which generally fuels loans at interest. And here we are at a conference about a whole industry of products designed to charge (nearly) total usury for working economic investments.
 
-#### Return to Office
+#### 1.4.2 Return to Office
 
 Bill said Trump, Musk, and Bowser (D.C. Mayor) need to get workers back in the office. He first supported this position on the basis that there were "desolate" downtown businesses, and more workers in central offices would fill shops with spending consumers. I didn’t comment much on the relative absurdity of forcing people to consume what you think they should based on geographic considerations, as is a common viewpoint of certain centralized executives stressing the materiality of a physical meeting place.
 
@@ -130,7 +130,7 @@ They didn’t call on me to explain our particular innovative decentralized work
 [^results]: I've noticed a general tendency for central financial institutions to rely relentlessly on directive oversight and control systems rather than actual productivity as you and I would generally define the term. An example I’ve mentioned a couple of times throughout the years is my Dad's work, particularly around the time of the Recession. I vividly recall the change in compensation mechanisms forced onto the bank by Dodd–Frank, which led to much more directorial, stringent oversight—ultimately resulting in much less business closed, largely given a lack of operative flexibility. Should we really limit individual performance and consideration to the point that someone achieves more investment returns comprehensively but yields wages of up to 80% less?
 
 
-#### Special Government Employees Generally
+#### 1.4.3 Special Government Employees Generally
 
 Naturally, following the discussion on Musk, Bill brought up the principal example of John Kerry, another special temporary government employee selected with substantial private accumulated wealth. I think Bill was referring to Kerry's recent work as a Presidential "Envoy for Climate" in the last Administration. But this position went on for a few years, and Bill said that special employees "only have 120 days" in Federal power.
 
@@ -141,7 +141,7 @@ Bill also commented on this social presence, albeit more in the context of organ
 [^transparency1]: And this is completely OK and to be expected from central orgs like the current government! Namely, it's quite a bit of work to keep all communications and interactions strictly public, especially when working in close geographical proximity to other members. But we will see other dissenting views later on from a similar stature criticizing the relatively limited and generally unsourced media posts and statements. Again, I think this is super acceptable and perhaps the best they can do with the given current infrastructure so deeply centralized with no avenues for easy web citations.
 
 
-#### Housing Policy
+#### 1.4.4 Housing Policy
 
 Bill cited concerns about increasing unaffordability for "under 150,000" annual income groups. I found that a telling and fun arbitrary cutoff line given the relative distance a great deal of Americans subsist with at amounts much lower.[^xlm-pay] Unfortunately, the conversation never wandered into zoning thereafter, and I failed to bring up the zoning quandaries because it seemed less relevant than the concluding content below.
 
@@ -156,7 +156,7 @@ There, the locality's representatives said they knew they were only supposed to 
 [^xlm-pay]: As a vague and tangential example, I continue working around and contemplating the Stellar Community Fund, with which I have quite the storied history. Recently, a project was (heavily) criticized for requesting ~$20k for a month of work from two engineers. These team members had previously developed exceptional free and open-source public infrastructure and put such products into production at charities such as St. Jude. Notwithstanding, a large pushback materialized in the perspective that such consideration was too high, despite being barely in the range of six figures for material talent.
 
 
-#### Final Reflections
+#### 1.4.5 Final Reflections
 
 All this seemed to tie into Bill's sweeping statement that the hardest aspects of an economy to "manage" are lumber, land, and labor. I'm quite unfamiliar with the first of these, but I certainly found it interesting to hear him speak of managing labor, almost as if people are unable to organize their own work. While this certainly wasn't something I explicitly heard Bill say, it is a relatively common perspective I've heard from politicians, especially in foreign dictatorial nations.[^dict-states]
 
@@ -171,7 +171,7 @@ Overall, great to meet Bill and happy to find someone so expressly concerned abo
 [^basement]: The most prominent of these was the Representative who proclaimed that the only people using the tech were sitting in their underwear in their mom's basement. Bill highlighted how we'll need to show and explain to such elder Representatives how the technology largely affects and transforms the daily user's financials. I interpreted their other comments to generally align with public statements made by the President, whether fully comprehended by the latter or not.
 
 
-### Fiber-Optical Cable ABS
+### 1.5 Fiber-Optical Cable ABS
 
 I was between this panel and some others, which led to a few great private conversations on the whole-business securitization front. Accordingly, I'll combine some of those sentiments with my brief original takeaways here. I think it's the best place to introduce the topic because there are only a select few industry participants laying out fiber cables.
 
@@ -182,7 +182,7 @@ Frankly, I didn’t see how this benefited the telecoms any more than a direct i
 In the later Bloomberg discussion, it was strange seeing all these assets rolled up into a single "tab" for available fiber securitizations. Each individual offering had practically no isolated volume, and the technician there even showed me an industry-wide time-and-sale report (from private broker-announced transactions, discussed later) which had two trades in an entire week! Indeed, a number of attendees and panelists commented on how general deal flow slowed down this particular week exclusively because of the conference, and it was my interpretation that this had a change magnitude of 60% or more of all normal business originations, which traditionally require SRO reporting on the underlying component side Wednesday afternoons (coincidentally when the conference ended).
 
 
-## Topics from Monday
+## 2 Topics from Monday
 
 I arrived relatively early on Monday and had some hallway chatter before main panels started closer to 10. One such chat was with a mutual fund manager who generally pools together securitizations into products suitable for any individual investor. When I told them I was with a retail investor advocacy group, they seemed flabbergasted in awe because there exists effectively no support for retail in that market, according to their account.
 
@@ -195,7 +195,7 @@ Unfortunately, I've heard this story far too many times over the years here, and
 [^block-literacy]: While I think we all know the higher levels are intimately familiar with how this technology obviates their businesses, I still find myself surprised by the number of general attendees who have no idea what a blockchain is. In a lunchtime discussion with a very well-seasoned data salesperson at the London Stock Exchange, I was asked again the infamous "what is blockchain" question out of genuine curiosity as to what the technology is. After explaining the shared, distributed ledger concept in brief, they remarked that it made sense why our panel was on the last day, as this removes the need for a trusted central recordkeeper. I had a similar experience with another general participant around an equivalent table, although I glanced past their organizational affiliation.
 
 
-### Post-Election Analysis
+### 2.1 Post-Election Analysis
 
 This fireside chat generally revolved around perspectives from Karl Rove (R-White House) and Claire McCaskill (D-MI, Senate), whom I'll refer to as "him" and "her," respectively. The conversation largely revolved around Musk, and the more interesting comments from my perspective started with a general disdain for firing all the new people with "best and brightest" minds. This is because it was easier to fire new workers (or those who'd just been transferred) over seasoned government workers.
 
@@ -208,7 +208,7 @@ But I suppose that is how bureaucracies work, right? It logically makes sense to
 [^retirement-working]: Unfortunately, this conundrum exists in many private-sector working arrangements too. While it still looks good as something to theoretically promote worker lifetime security, I find it more restrictive and coercing than genuinely freeing, should your employment length be tenured to a pension or the sorts. For instance, your 401(k) account can move from employer to employer as you progress throughout your career, ignoring the fundamental challenges with the aforementioned structure circa usability constraints and unwarranted costs. How would you feel if that entire retirement portfolio went to zero just because you think your skills would be better employed somewhere outside your current role?
 
 
-#### Executive Branch Transparency and Operations
+#### 2.1.1 Executive Branch Transparency and Operations
 
 Aside from wanting more experienced workers (at least in terms of government involvement), she seemed quite adamant about keeping Musk accountable, almost to the point of skepticism about their intentions. I think this is a relatively common minority view, and we saw it supported here in her critique of how efficiency workers value Federal contracts. 
 
@@ -219,7 +219,7 @@ But despite this savings and subsequent public documentation, she says Senate bi
 When she first entered government, listening groups were segregated by party, with Republicans sitting on one side of the room, opposed to the Democrats on the other side. Apparently, she introduced and passed major legislation just by asking the ranking chairperson to seat everyone in alternating-party order. It was precisely the little chatter with "opposing" seatmates during these committees that inspired the ideas for effective bipartisan policymaking—and she makes quite the point to express how happy she was with this result, given it was quite the ambitious organizational-change ask for someone so early in their career.
 
 
-#### Foreign Policy Items
+#### 2.1.2 Foreign Policy Items
 
 He supported a lot of the international intervention abroad, which I'm generally unfamiliar with and sort of spaced out around. Somewhat relevantly, she remarked on an unprecedented support for the Republican party, citing the most Republican support from the "bottom" 30% (economically) since 1960, a trend which was explained further in a panel below. She was also surprised by a 2:1 support for one party over another, mentioned in the context of a large amount of rural reliance on Medicare.
 
@@ -234,7 +234,7 @@ That last bit slipped a little past me, but I invite anyone to view the session 
 [^records]: I will make my best efforts to (i) share login access information, (ii) ascertain the exact primary recording of our blockchain panel, and (iii) compile a playlist of released public videos once the Structured Finance Association releases this info circa April. These playback systems are generally only available for a few months, I've noticed, so I recommend taking any and all archive snippets as soon as needed. Perhaps we can merge these into the pending `whydrs/documents#1` repo if anything material isn't released publicly, as I commonly find to be the case.
 
 
-### Diverse Geopolitical Macroeconomics Panel
+### 2.2 Diverse Geopolitical Macroeconomics Panel
 
 This panel started with a veteran investment banker who talked for a really long time by themselves about nations acting in their self-interest at the expense of the collective global economy. Unfortunately, this is sort of the norm today because so many historically independent groups of people formed legacy walls between one another. Sometimes these developed over scarce resources, were introduced by incidental geographies, or emerged through violent conflict over physical dominance. In any case, I think and can refer to many who view the nation-state mode of human organization as well past its prime. 
 
@@ -244,7 +244,7 @@ Rather, they keep their eyes on central results and organizations measured in th
 
 [^econ]: I haven't been extensively analyzing trends like these since the maximal employment data of late 2019, foreshadowing a deep yield curve inversion that has played out over the past four years. Notwithstanding, I'd be remiss not to comment on the general sentiments here, as I agree with them in large schematic part based on personal observations of central organizations shedding employment. Should markets wake up to the increasing realities of decreased labor opportunities, it follows that we'll see slowdowns likely enhanced by cyclical structural inadequacies in the fiat system.
 
-#### General Financial and Policy Conditions
+#### 2.2.1 General Financial and Policy Conditions
 
 Next, a representative from S&P Global Ratings decreed that the long-term stable interest rate is at or slightly above 1.3%, which I found supportive of my views in the last subsection. Namely, it rang again the sounds of central banking, whereby everyone assumes that money on its own naturally requires annual expansion and "free" yields in "riskless" securities—an investment scheme that far too often comes at the expense of the working masses. Thus, I was skeptical of their subsequent comments and remarks from other panelists that the rate should and even could actually be slightly higher.
 
@@ -255,14 +255,14 @@ And to conclude, a speaker from Wellington Management talked about Reagan being 
 [^sec-only]: I can only speak to my personal interpretations of a plethora of Securities laws enacted through Congress and the Commission, and I wholeheartedly support tact in implementation here so that we don't have another _Blackwater_. But something in this philosophy just rings true to me. My experiences agree—from seeing transfer agent rules related to Y2K readiness to having a physical ink signature of Form TA-2 submissions on hand; I've just got to believe a more efficient system exists with more deference to market operations, and perhaps increased transparency requirements, which thankfully come naturally in Web3.
 
 
-### Newscaster Steve Kornacki: A Decade of Trump in Policy
+### 2.3 Newscaster Steve Kornacki: A Decade of Trump in Policy
 
 This panel specifically analyzed Trump's political efforts from 2012 onward, documenting what the speaker portrays as a fundamental shift in the Republican Party as the President's political career manifested. I find the journey itself historically relevant since only a select few national leaders of his caliber did not participate in much, if any, military service or prior politicking. Indeed, the latter point quite impressed me upon his initial win, as I would generally suspect that an incumbent with decades of Washington experience would be relatively favored among the populace to lead such a governing body.
 
 But (thankfully) we live in a relatively more meritocratic society where ideas can stand on their merits, and individual objectives can and do excel ahead of historical deference. Not to say one way or another is better, but I do think the firmer idea of government by the historic governors cements any legacy corruption and hinders the adoption of new, innovative ideas from the outskirts of society. I've always felt myself in that corner-facing camp and thus generally favor political systems that give deference, time, and voice to the little guy, ignoring the immense present challenges of campaign financing, which seem so relevant in a capitalist-first values society.
 
 
-#### Racial Trends
+#### 2.3.1 Racial Trends
 
 Steve starts by explaining how 2012 was a landmark victory year for Republicans, winning an immense portion of the white vote. This introduction comes into meaningful relevance quite soon, and it was painted as the peak of white GOP support with an unbelievably overwhelming dominance. Notwithstanding, this wasn't enough to win the election given other races identified by the speaker, which collectively overruled this single ethnicity to keep Obama in office.
 
@@ -271,7 +271,7 @@ He laments that Republicans' strategy had generally been to just win the white v
 The core intent of this strategy meant attracting slightly fewer white voters while improving racial outreach. Indeed, Steve highlights that last year's 30% nonwhite Republican vote was the best ever and represented a historic voting diversity shift. More elementarily, he explains how this was the first time in decades when voters with four-year degrees leaned Democratic.
 
 
-#### Education and Gender Changes
+#### 2.3.2 Education and Gender Changes
 
 Steve mentions and documents a wide party-based gender gap since the 1980s, with women generally leaning Democratic while men tended toward Republicans. However, the higher female margins to Democrats flipped for the first time last year, with a low margin for women compared to a relatively constant high net male preference. Thus, we didn't see explicitly many men switching parties, but rather an increased propensity for female Republican voting for one of the first times in post-Nixon elections.
 
@@ -280,7 +280,7 @@ Moreover, he reports a lot of Republican progress in young and minority men, esp
 Thus, Trump has facilitated huge shifts in conservative State votes, dissolving and replacing Democratic alignment in Massachusetts, California, New Jersey, and New York. All this led directly to winning the popular vote, which largely came in an election of unprecedented Republican support in these communities. Thus, for me and as inferred from Steve, the vote much largely reflected an increasing focus on policy and vision over and above traditional red-and-blue alignments.
 
 
-#### Case Studies and Inferences
+#### 2.3.3 Case Studies and Inferences
 
 Steve believes these trends will continue, perhaps for decades to come, as the general campaigning and policymaking party ideologies shift to better reflect their new base of popular voters. To exemplify this point, he first talks about Osceola County, which Steve used as a definitive early indicator of election results during his live coverage. Given the vast Puerto Rican population therein, Trump's victory solidified their perspective on the disimportance of unrelated comments from campaigning work amongst diverse voters.[^ny-vote]
 
@@ -294,7 +294,7 @@ Steve ties this shifting voting alignment together by highlighting the small, we
 
 
 
-### Trends in Unsecured Consumer Credit
+### 2.4 Trends in Unsecured Consumer Credit
 
 Most of my remakrs here hinge on Ryan Callahan, who did  lot of cool work at institutions I admire in certain lgihts. I'll include remarks from some discussions we had after this panel, general sentiments across participants, and largely their (high-level, impersonal) perspective on the sector as a whole. Offhanddely, it's a rare treat to find the ten to twenty percent of people at events like these under the age of 30, althrough I dodfind myself working with the elder more commonly.
 
@@ -305,6 +305,7 @@ These sentiments seemed common amongst panelists, whi made the sector sound exem
 To me, these wierd specific insitutional deals serve only to contort natural supply and dmeand fr the individual underlying deals, which never make their way onto a tradable market for secutiry interests. Moreover, speicifc requirements mean it can take months for salespeoppe to slowly affect new originations to satisfy the funding wants, even requiring up to a year of time to find enough peicemal loans. Sound like the fastest, most efficeint, or fairest way to get capital into the hands of those ready to deploy?
 
 
+//TODO
 ### EU Securities Regulations
 
 - new joint regulation to replace fragmented rules for securitizations
@@ -326,19 +327,19 @@ Significant risk transfer: moving potential credit liabilities from bank balance
 - and asking them about the wrists and collateralization of central securities depositories after the panel, they say that really the only way to get protection is a single name CDS against the major exchanges or clearing participants, up to the collateral fun limits of a couple hundred million. Legacy gillen old lawyer says that it's a very systemic risk that is "too big to fail."
 
 
-## Topics from Tuesday
+## 3 Topics from Tuesday
 
 (our panel)
 
 
-### 
+### 3.1
 
 Macro policy plenary: lots of representation of banking employees who work on policy
 - generally agree that it will be challenging to get legislation across the divided house
 - suggest that DOGE will get less popular as (manual) gov services slow down
 
 
-### Evolution of Media
+### 3.2 Evolution of Media
 
 panel with news influencer:
 - they say they need to contantly push content across every possible different online platform
@@ -350,86 +351,79 @@ panel with news influencer:
 - Tara says most thriving information has a bias, attracting mass online viewership
 - Jim agrees that the maintream doesnt get into the nuances or depths a aliable for jiche creators acting without centeal coordination
 
+//TODO
 
-### Government-Sponsored Enterprise Reform
+### 3.3 Government-Sponsored Enterprise Reform
 
-This disuccsssion largely revoled around Fannie and Freddie, two semi-gvoenremnt instutitons up for material amendment under Musk and Trump. Given the materiality of mortgage debt in expandong the American monetary suypply, I appreciate ncoming sentiments to bringthese two instutitons in line witha free marekt. Yes, that does mean I'll happily give up my first-time homebuyer discounted interest rate.
+This discussion largely revolved around Fannie and Freddie, two semi-government institutions up for material amendment under Musk and Trump. Given the materiality of mortgage debt in expanding the American monetary supply, I appreciate incoming sentiments to bring these two institutions in line with a free market. Yes, that does mean I'll happily give up my first-time homebuyer discounted interest rate.
 
-More wholistically, I see no practicle or egalitarian explanation for the home-interest deduction so common on US tax returns. This policy, applied more genreally across practically all debt under IRS treament, serves to only distort the free-market copetativeness of equity financing (a method which requires skillsets, naunce, and tact) verses debt (which we can summise in about three well-known central numbers). To get the personal items out of the way, I also believe people should be able to aquire their onw homes using _obnly_ their own accumulated savings and retirements, as opposed to the 30-year servitude contracts so common amongst central work hubs.
+More holistically, I see no practical or egalitarian explanation for the home-interest deduction so common on U.S. tax returns. This policy, applied more generally across practically all debt under IRS treatment, serves only to distort the free-market competitiveness of equity financing (a method that requires skill, nuance, and tact) versus debt (which we can summarize in about three well-known central numbers). To get the personal items out of the way, I also believe people should be able to acquire their own homes using _only_ their own accumulated savings and retirements, as opposed to the 30-year servitude contracts so common among central work hubs.
 
-The panelists here were largely sceptical of political influence over etiher GSE, dictating their operative indepenedence from the White House. I found this to be true in personal experiences attempting to use Stellar for their mortgage recordkeeping years ago by means of the Federal procurement system. Naturally, the panelists highlight the specialized sector practices entranched in GSE operations, which largely consists of at-will employees managed under the auspice of a private company so Congressionally endowed by Federal conservatorship.
+The panelists here were largely skeptical of political influence over either GSE, dictating their operative independence from the White House. I found this to be true in personal experiences attempting to use Stellar for their mortgage recordkeeping years ago by means of the Federal procurement system. Naturally, the panelists highlighted the specialized sector practices entrenched in GSE operations, which largely consist of at-will employees managed under the auspice of a private company so Congressionally endowed by Federal conservatorship.
 
-If this vail of protection holds, as I've seen stand strong in _Alpine_ and pre-Amtrack cases, then the most a White House representative could do is change top leadership, as Trump did with Pulte as Director of the Federal Housing Finance Agency last week (and one of Musk's reliable engineers on St. patrick's).[^mmh] I've studied how this played out inthe past, in anticipation of the recent Commissioner changes, and I agree wit hthe implicit panel view that this will be quite the beurocratic structural undertaking for anyone brought in by the Administaration, a monumental task to say the least with only the top-down influence afforded to America. Should the govenrment still entertain central organization and oversight of private housing interests, especially in an age where capital is more and more mobile, to the behest of any discriminatory charges traditionally protcted b the FHFA?
+If this veil of protection holds, as I've seen stand strong in _Alpine_ and pre-Amtrak cases, then the most a White House representative could do is change top leadership, as Trump did with Pulte as Director of the Federal Housing Finance Agency last week (and one of Musk's reliable engineers on St. Patrick's).[^mmh] I've studied how this played out in the past, in anticipation of the recent Commissioner changes, and I agree with the implicit panel view that this will be quite the bureaucratic structural undertaking for anyone brought in by the Administration—a monumental task, to say the least, with only the top-down influence afforded to America. Should the government still entertain central organization and oversight of private housing interests, especially in an age where capital is more and more mobile, to the behest of any discriminatory charges traditionally protected by the FHFA?
 
-
-[^mmh]: Remember them getting comphy with Trump and Musk (via X) during the campaign, only [to revert](https://discord.com/channels/1102309240145707049/1102309241026515065/1326384686330679337) into more standrdard power dialect later? Relevantly, they proposed the structural change so foreign to panel memberings: the re-privatization of the enterprises, as commented in the last sentence of an article reporting on the Senate confriatino, _avliable at_ https://www.reuters.com/world/us/senate-approves-pulte-fannie-freddie-regulator-2025-03-13. And then we have the start of a Board takeover with the appointment of Musk's trusted engineer earlier this week, _avaliable at_ https://www.bloomberg.com/news/articles/2025-03-18/musk-ally-doge-member-spacex-s-christopher-stanley-tapped-for-fannie-mae-board.
-
-
-### More Private Credit Growth
-
-On this brief panel, speakers remakred on the "meteoric rise" in Private Credit issuance coming from the gneeral economic contitions discussed eaelier. However, the panelesits largely framed the rise as being fueled by large private buyers. Namely, they saw growth coming from instutions purchasing securitized debt offerings (or wrapped comentents themselves) through the 4(a)(2) Exemption for private placements. This demand was then exacerbated by 144A inter-dealer offerings, combining into large market demand through gated institutions.
-
-Both those technical nuances on scurtiies laws relate deeply to the [Rule 144](https://wooten.link/144) discussion last DUNA meeting. Effectively, they only let these big banks deliver the money needed to fund this growth of private credit markets, a reality I saw truthfully and firthand with a co-panelist of years past. In short, they built a whooell porirotary private marketplce appliation to exploiut this expanding sector niche which connects institutional investors, central underwriters, and aggreagting banks into a single place with the expected 10% service fees of Wall Street.
-
-I very vividly remember fuming in anger when I uncovered the full swath of inefficiencies this particular private company toutes online as their "high-margin business model" because it serves only to seperate investors from their hard-earned dollars. And that's how I felt throughout most of this panel, knowing the practical impossabilities of our own implmeentation of this model given strict policies enforced by  these central banking insuttions which severely limit the transfer of meaningful funds from one person to anoyther.
-
-Modern financial systems should involve and benefit users like us, not aggreagate and exploit the masses for the subjective profits of those closest to the Fed by means of their central emplyment. How we collectively tolerate their central and omnipresent control of the economy to date baffles me. And frnakly I think it's only a matter of time until practices like this cease solvency, which begs the question: what will happen to the largest sector of our workforce supporting financiers atop a castle of sand?
+[^mmh]: Remember them getting comfy with Trump and Musk (via X) during the campaign, only [to revert](https://discord.com/channels/1102309240145707049/1102309241026515065/1326384686330679337) into more standard power dialect later? Relevantly, they proposed the structural change so foreign to panel members: the re-privatization of the enterprises, as commented in the last sentence of an article reporting on the Senate confirmation, _available at_ [Reuters](https://www.reuters.com/world/us/senate-approves-pulte-fannie-freddie-regulator-2025-03-13). And then we have the start of a Board takeover with the appointment of Musk's trusted engineer earlier this week, _available at_ [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-18/musk-ally-doge-member-spacex-s-christopher-stanley-tapped-for-fannie-mae-board).
 
 
-### Whole-Business Securitizations
+### 3.4 More Private Credit Growth
 
-I qwas in and out o this panel due to halway disucssions with a team related to our panel, in preperation of upcoming work disuccusssed by a copanelist. Notwithstahding, the sentiments i did get from this panel were personally astounding. First, I;ll explain some of the key elements the underlying instuttuions apparently look for when it comes to securitizing the cashflows of an entire enterprise.[^s?]
+On this brief panel, speakers remarked on the "meteoric rise" in Private Credit issuance coming from the general economic conditions discussed earlier. However, the panelists largely framed the rise as being fueled by large private buyers. Namely, they saw growth coming from institutions purchasing securitized debt offerings (or wrapped components themselves) through the 4(a)(2) Exemption for private placements. This demand was then exacerbated by 144A inter-dealer offerings, combining into large market demand through gated institutions.
 
-Each of these factors fit undera wide umbrella I'd personally label "security." The parnelsists started off talking about a long, established history of bsuiness income (thinking in terms of decades). Then they dove into factors I'd assume any investor would consider: brand permanance, consumer recognition, and product certainty (of longstanding use or need).
+Both those technical nuances on securities laws relate deeply to the [Rule 144](https://wooten.link/144) discussion in the last DUNA meeting. Effectively, they only let these big banks deliver the money needed to fund this growth of private credit markets, a reality I saw truthfully and firsthand with a co-panelist of years past. In short, they built a whole proprietary private marketplace application to exploit this expanding sector niche, which connects institutional investors, central underwriters, and aggregating banks into a single place with the expected 10% service fees of Wall Street.
 
-Lastly, one speaker harped greatly on the "replacability" of management t conitnue operating if the issuer stops servicing the securitized bond, and other panelists generallyl nodded in agreement. That was really a straw to far for me, because it basically frames all the poeple in an organization as entirely replacable cogs meant only to ge t the entity functioning for the returns of shareholders. Except, in this case, the shareholders aren't event existant, menaing wokrers can;t even own a piece of the fruits they produce, as the entire longstanding corporation post-deal now serves to exclusively enrich the big backing institutions who found it competitive in the market.
+I very vividly remember fuming in anger when I uncovered the full swath of inefficiencies this particular private company touts online as their "high-margin business model" because it serves only to separate investors from their hard-earned dollars. And that's how I felt throughout most of this panel, knowing the practical impossibilities of our own implementation of this model given strict policies enforced by these central banking institutions, which severely limit the transfer of meaningful funds from one person to another.
 
-Should these investment banks have first claim to the "safest" deals avaliable across the economy? Should their gatekeeping access to the public market allow them to singhandedly profit off the most established enterprises we rely on each and ever y day? Or might we better serve the billions in need of quality equity investments by diverssely distributing whole-business ownership and profit interests amonst all?
+Modern financial systems should involve and benefit users like us, not aggregate and exploit the masses for the subjective profits of those closest to the Fed by means of their central employment. How we collectively tolerate their central and omnipresent control of the economy to date baffles me. And frankly, I think it's only a matter of time until practices like this cease solvency, which begs the question: what will happen to the largest sector of our workforce supporting financiers atop a castle of sand?
+
+### 3.5 Whole-Business Securitizations
+
+I was in and out of this panel due to hallway discussions with a team related to our panel, in preparation for upcoming work discussed by a co-panelist. Notwithstanding, the sentiments I did get from this panel were personally astounding. First, I'll explain some of the key elements the underlying institutions apparently look for when it comes to securitizing the cash flows of an entire enterprise.[^s?]
+
+Each of these factors fits under a wide umbrella I'd personally label "security." The panelists started off talking about a long, established history of business income (thinking in terms of decades). Then they dove into factors I'd assume any investor would consider: brand permanence, consumer recognition, and product certainty (of longstanding use or need).
+
+Lastly, one speaker harped greatly on the "replaceability" of management to continue operating if the issuer stops servicing the securitized bond, and other panelists generally nodded in agreement. That was really a straw too far for me because it basically frames all the people in an organization as entirely replaceable cogs meant only to keep the entity functioning for the returns of shareholders. Except, in this case, the shareholders don't even exist, meaning workers can't even own a piece of the fruits they produce, as the entire longstanding corporation post-deal now serves to exclusively enrich the big backing institutions who found it competitive in the market.
+
+Should these investment banks have the first claim to the "safest" deals available across the economy? Should their gatekeeping access to the public market allow them to singlehandedly profit off the most established enterprises we rely on each and every day? Or might we better serve the billions in need of quality equity investments by diversely distributing whole-business ownership and profit interests among all?
+
+[^s?]: Wait a minute, doesn't that sound a whole lot like a stock offering? That's what I thought, and in the aforementioned extra-panel conversation, I had this perspective affirmed by a highly skilled financial engineer. Of course, the bank in place assumes none of the risks traditionally eschewed by non-collateralized structured-product offerings, tilting the favor of returns back to Wall Street.
+
+### 3.6 Backup Servicing Expansion
+
+This panel covered a new and quickly growing niche designed to increase banking profits by lowering loan delinquency and nonpayment. The general idea is hiring someone to berate insolvent borrowers after the first organization meant to attain the cash due fails. One speaker commented that this is tough to do in-house without the requisite specialization of companies designed only to get money from strapped borrowers.
+
+One reason, apparently, is the lengthy and specific process of filing UCC State notices for bad debts, apparently quite convoluted and something @LastResortFriend could comment on further. As I understand it, based on minimal conversation therewith, a legal process here designed to protect borrowers can protect anyone in an official court case against unpaid debt. Thus, especially for solar loans (according to the panel, for some reason), a backup to come in and force out payments can help institutions receive more from debtors.
+
+Panelist Eric Johnson highlights the need for large call centers as a "servicing vehicle," meaning the fastest way to get funds back from struggling Americans. They particularly highlight the set of internal skills, such as calling during the day to speak with a home partner, which then becomes a sellable service to make the lenders more when an original payment recipient can't claw back funds. In all, it seemed like a very competitive "you win, I lose" approach to finances, where the haves and have-nots get pitted against each other.
+
+Despite pending material CFPB structural changes, panelists commented on ongoing regulatory complexity for consumer payment servicing (which gets back to LRF's communicated points about preventing servicer harassment).[^zelle] This speaker said a "grumpy borrower" always files a lawsuit and goes to a regulator, so the focus needs to be on consistent data to make it easy to "service the book of business." That perspective seemed a little impersonal to me.
+
+[^zelle]: I've experienced a marked failure of the protection mechanisms at hand in past experiences with Zelle. Less than a year after COVID struck, I was scammed through a transfer to a known malicious account. Around the same time, there was an ongoing Congressional debate as to the need for financial institutions to protect consumers from fraudulent Zelle payments, which resulted in a forced mandate to reverse transactions initiated after an account takeover. While I could've lied and said this sizable transfer arose from such activity, I told my bank the truth about what happened, and they returned the favor by doing absolutely nothing in reconciliation (as did Apple Cash).
+
+## 4 Bonus Private Chats
+
+Lately, there are a few discussions I had outside of panels and the most material examples above. I mentioned these in passing during discussions in the past two weeks, so here's my promised written expansion thereto. Always love gleaning some insights from the unique perspectives of others, but honestly, it's a bit draining for me to draw these out in physical discussions with participants.
+
+### 4.1 Extended Bloomberg Booth Representatives
+
+On Tuesday, I stopped by the LP's booth to further explore their Terminal functionality, something I've continually longed for since a sparse few moments tinkering around on Tech's educational machines. I've commented on material disagreements with their proprietary infrastructure in the past, so I'll cease expanded discussion of that item here. Notwithstanding, the booth representatives were quite friendly and approachable, albeit partially based on a smooth introduction from a staff writer at the event's afternoon snack bar.
+
+This writer ("she") brought me over to the chief bond trader's table ("he") in the busy booth, where they began extolling some of the structured-finance functionality in the subscription. Upon further discussion, he commented that there is no retail access to lending products because of the "complexity in analyzing holdings" and risks. To exemplify this point, he showed me one issue that had different callable dates based on the pool of loans underpinning the securities.
+
+I thought it seemed pretty silly that an investor could not factor in the implicit risks of prepayment, but I didn't harp on the point used to justify the requisite employment of analysts at centralized financial institutions. Next, he told me how the Terminal mirrors the FINRA TRACE public trade reporting feed, a system designed as a best-efforts and little-regulated central reporting scheme between brokers. Given we've all seen the efficacy of SRO data feeds in the past, I probed more into how this exact product worked.
+
+#### 4.1.1 FINRA's Trade Reporting and Compliance Engine
+
+Without diving too deeply into the implementation nuances, I found this interesting because it's relatively similar to MSRB's Electronic Municipal Market Access, but with some key differences. Chiefly, the latter's services are completely free (for normal use), allowing anyone to view complete information about bond transactions. Comparatively, TRACE data only releases limited public information, with full information sold through market data vendors like Bloomberg.
+
+More tellingly, block trades and counterparty information you'd see on-chain cannot be accessed by anyone other than regulators and the brokerage members themselves. All this to point out not just the silliness of this backdoor insiders-only information flow, which makes analyzing structured products an invite-only opportunity, but also to momentarily highlight the centrality of this one organization in all brokerage consensus and communications—an SRO that could soon cease constitutionality.[^alpine] Thankfully, these transactions follow standard securities accordances, as he told me that all the transactions they saw were under 144A or public securities.
+
+The former case means that only very large institutions can trade the asset, compared to more general public access under 144. Thus, you might very well only be able to see information on available assets if you're both inside one of these big institutions (as a matter of practical permissioned information) and maintain the large amount of capital they attract (given mandates in oversight laws pending TAD3 documentation). When I pressed him on what "public" meant to Bloomberg, they commented that it only has to do with the trade registration and identification at the SEC, which I agree is how an equal playing field _should_ and CAN work without this central gatekeeping.
+
+[^alpine]: Alpine is now in the Supreme Court, and the docket files can be followed online, _available at_ [Supreme Court](https://www.supremecourt.gov/docket/docketfiles/html/public/24a808.html). The latest action from last week could show us a groundbreaking bankruptcy claim against the SRO, based on a denial from Chief Justice Roberts to stop the FINRA proceedings. _See_ reporting thereof in Reuters, _available at_ [Reuters](https://www.reuters.com/legal/us-supreme-court-allows-finra-proceedings-against-alpine-securities-2025-03-14), an organization that also reported yesterday on the Hon. Roberts' rare vocal public pushback against the President's recent actions criticizing Federal judges, _available at_ [Reuters](https://www.reuters.com/legal/us-chief-justice-roberts-calls-judges-impeachment-are-inappropriate-after-trump-2025-03-18).
 
 
-[^s?]: Wait a minute, doesn't that sound a whole lot like a stock offering? That's what I thought, and in the afformentioned extra-panel conversation, I had this perpspectie affirmed by a highly-skilled financial engineer. Of course, the bank in place assumes none of the risks traditionally estewed by non-collateralized structured-product offerings, tilting the favor of returns back to Wall Street.
-
-
-### Backup Servicing Expansion
-
-This panel covered a new and quickly-growing nichce designed to increase banking profits by lowering loan deliquency and nonpayment. The general idea is hiring someone to berrate insolven borrowers after the first organization meant to attain the cash due fails. One speaker commented that this is tought to do in-house without the requisite specialization of companies designed only to get money from strapped borrowers.
-
-One reason, apparently, is the legnthy and specificprofess of filing UCC State notices for bad debts, apparently quite convoluted and something @LastResortFriend could comment on further. As I understand it, based on minimal conversation therewith, a legal process here designed to protect brorowers can protect anyone in an official court case against unpaid debt. Thus, especially for solar loans (according to the panel, for some reason), a backup to come in and force out payments can help institutions receive more from debtors.
-
-Panelist Eric Johnson highlights the need for large call centers as a "servicing vehicle," meaning the fastest way to get funds back from struggling Americans. They particulraly highlight the set of internal skills such as calling during the day to speak with a home partner, whichc then becomes a sellable service to make the lenders more when an original payment receipient can't claw back funds. In all, it seemed like a very competative "you win, I lose" approach to finances, where the haves and have-nots get pitted against each other.
-
-Despite pendingm aterial CFPB structural changes, panelists commented on ongoing regulatory complexity for consumer payment servicing (which gets back to LRF's communciated points about preventing servicer harassment).[^zelle] This speaker said a "grumpy borrow" always files a lawsuit and goes to a regulator, so the focus needs to be on consistent data to make it easy to "service the book of business." That perspective seemed a little impersonal to me.
-
-
-[^zelle]: I've experienced a amrked failure of the protection mechisms at hand in past experiences with Zelle. Less than a year after COVID struck, I was scammed through a transfer to a known malicious account. Around the same time, there was an ongoing Congressional debate as to the need for finacnial instuttions to protect consumers for fraudulant Zelle payments, which resulted in a forced mandate to reverse transactions intitiated after an account takeover. While I could've lied and said this sizable transfer arose from such acctivity, I told my bank the truth about what happened, and they returned the favor by doing absolutely nothing in reconciliation (as did Apple Cash).
-
-
-## Bonus Private Chats
-
-LALTY, thewre are a few discussions I had outside of paenls and the most material examples above. I mentioned these in passing during discussions in the past two weeks, so here's my promised written expansion thereto. Always love gkeaming out some insighs from the unique perspectives of others, but honestly it's a bit drainingfor me to draw these out in physical disucssions with pants.
-
-
-### Extended Bloomberg Booth Representatives
-
-On Tuesday, I stopped by the LP's booth to further explore their Termianl functionality, something I've contirnually songed since a sparce few moemnets tinkering around on Tech's educational machines. I"ve commented on material disagreements with their proprietary infrastrcutre in the past, so I'll cease expanded disucssion of that item here. Notwithstadning, the booth representatives were quite friendly and approachable, albeit partially based on a smooth introduction from a staff writer at the event's afternoon snack bar.
-
-This writer ("she") brought me over to the chief bond trader's tabl ("he") in the busy booth, where they began extolling some of the structed-finance functionality in the subsecription. Upon further discussion, he commented that there is no retail access to lending products because of the "complexity in analysing holdings" and risks. To exemplify this point, he showed me one issue which had different callable dates based on the pool of loans underforming the securtiies.
-
-I thought it seemed pretty silly that an investor cou;ld not factor in the implicit risks of prepayment, but I didn't harp on the point used to justify the requisite emplyoment of analysists at centralized financial instutions. Next, he told me how the Terminal mirrors the FINRA TRACE public trade reporting feed, a system designed as a best-efforts and little-regulated central reporting scheme between brokers. Given we've all seen the efficacy of SRO data feeds in the past, I probed more into how this exact produced worked.
-
-#### FINRA's Trade Reporting and Compliance Engine
-
-Wit hout  diving too deeply into the implementation nuances, I  found this interesting becuase it's  relatively sdimlar  to MSRB's Electronic Municipal Market Access, but with  osme key differfences.  CHiegly, the latter's services are compeltle y free  (for  nrmal use),  allowoign  anyone  to view complete information about bond transactions . cpomparatively, TRACE dta  only releaes limited  publci informmation, with full information sold  through  market data vendors like Bloomberg.
-
-More tellingly,  block trades and  counterparty information you'd see onchain cannot be accessed by anyone other than regulators and the brokerage members themsleves. All this to poitn otu  not j ust hte silliness of this baccdor insiders-only information flow which makes analyzing stucutred produccts an invite-only opporrtunity, butt also to momentarily point out the centrality of  this one organzation in all brokerage consensus and communciations,  an SRO which could  soon cease constitutionality.[^alpine] THankfully, thse transactions follow standard securities accordances, as he otld me that ll the trranactions they sw where under 144A or public seccutirites.
-
-Yhe former case means that only very lage instututions can trade the asset, compared to more generla public access uiner 144. Thus, you might very well only be able to see infomration on avaliable assets if youre bpth inside one of these big instutions (as a matter  of practical permissioned information) anmd maintain the ;large amount of capital they ttract (given mandates in oversight laws pending  TAD3 tdocuemtnation). hen i pressed him o nwhat public menat to Boomberg, they commented htat it only has  to do with the trade registration nd identification at the SEC, which I agree is how an equal playigield _should_ and CAN work without ths cental  gtekeeping.
-
-
-[^alpine]: Alpine is now in the Supreeme Court, and the docket files can be followed online, _avaliable at_ https://www.supremecourt.gov/docket/docketfiles/html/public/24a808.html. The latest actuib frin kast week could show us a groundbreaking bankruptcy  claim against  he SRO, based on a denial from Chief Justice Robers to stop tthe FINRA proceedings. _See_ reporting thereof ro reuters, _avlaiable at_ https://www.reuters.com/legal/us-supreme-court-allows-finra-proceedings-against-alpine-securities-2025-03-14,  an organization which also reported yesterday on the Hon. Robers' rare vocal opublic pushback against teh Presiddent's recent actions criticizing Feeral judges, _avaliable at_ https://www.reuters.com/legal/us-chief-justice-roberts-calls-judges-impeachment-are-inappropriate-after-trump-2025-03-18.
-
-
-#### Trading Mechanics
+#### 4.1.2 Trading Mechanics
 
 This is hwere things really got wrierd  for me, especially after we'd  scrolled past secotr--wide time-adn-sales pages with seven transactions for the whole week (yes, they were all block  trades). 
 
@@ -438,19 +432,19 @@ This is hwere things really got wrierd  for me, especially after we'd  scrolled 
 - everything cleared bilaterally OTC without actual regulated market involvement
 
 
-#### Her Prosfffional Writing
+#### 4.1.3 Her Prosfffional Writing
 
 Analysi on Bloomberg Intelrligence v. LinkedIn 
 [final doc off memory from BB priting]
 
 
 
-#### Upcoming Alternate Publicatiosn
+#### 4.1.4 Upcoming Alternate Publicatiosn
 
 foia info in documetns repo; work here as appacliabe on blogs
 
 
-#### Parting HOPE Disucssion
+### 4.2 Parting HOPE Disucssion
 
 intro as work in infnacial education and litarcy; second time meeting therefrom
 
