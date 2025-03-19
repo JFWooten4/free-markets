@@ -1,6 +1,6 @@
 ```
 status: Final Sprint (incl. output S numbering)
-submit: 18 Mar 2025
+submit: 19 Mar 2025
 dialog: https://github.com/orgs/WhyDRS/discussions/TBD
 ```
 
@@ -436,12 +436,18 @@ On Tuesday, I stopped by the LP's booth to further explore their Termianl functi
 
 This writer ("she") brought me over to the chief bond trader's tabl ("he") in the busy booth, where they began extolling some of the structed-finance functionality in the subsecription. Upon further discussion, he commented that there is no retail access to lending products because of the "complexity in analysing holdings" and risks. To exemplify this point, he showed me one issue which had different callable dates based on the pool of loans underforming the securtiies.
 
-I thought it seemed pretty silly that an investor cou;ld not factor in the implicit risks of prepayment, but I didn't harp on the point used to justify the requisite emplyoment of analysists at centralized financial instutions. Next, he told me how the Terminal mirrors the FINRA TACTS public trade reporting feed, a system designed as a best-efforts and little-regulated central reporting scheme between brokers. Given we've all seen the efficacy of SRO data feeds in the past, I probed more into how this exact produced worked.
+I thought it seemed pretty silly that an investor cou;ld not factor in the implicit risks of prepayment, but I didn't harp on the point used to justify the requisite emplyoment of analysists at centralized financial instutions. Next, he told me how the Terminal mirrors the FINRA TRACE public trade reporting feed, a system designed as a best-efforts and little-regulated central reporting scheme between brokers. Given we've all seen the efficacy of SRO data feeds in the past, I probed more into how this exact produced worked.
 
-#### FINRA's {{TACT-spellOUTtodo}}
+#### FINRA's Trade Reporting and Compliance Engine
 
-for public and 144A txns. When pressing on what punlic meant, they comment that it has only to do with trade registrstion with SEC
-(trading ientification)
+Wit hout  diving too deeply into the implementation nuances, I  found this interesting becuase it's  relatively sdimlar  to MSRB's Electronic Municipal Market Access, but with  osme key differfences.  CHiegly, the latter's services are compeltle y free  (for  nrmal use),  allowoign  anyone  to view complete information about bond transactions . cpomparatively, TRACE dta  only releaes limited  publci informmation, with full information sold  through  market data vendors like Bloomberg.
+
+More tellingly,  block trades and  counterparty information you'd see onchain cannot be accessed by anyone other than regulators and the brokerage members themsleves. All this to poitn otu  not j ust hte silliness of this baccdor insiders-only information flow which makes analyzing stucutred produccts an invite-only opporrtunity, butt also to momentarily point out the centrality of  this one organzation in all brokerage consensus and communciations,  an SRO which could  soon cease constitutionality.[^alpine] THankfully, thse transactions follow standard securities accordances, as he otld me that ll the trranactions they sw where under 144A or public seccutirites.
+
+Yhe former case means that only very lage instututions can trade the asset, compared to more generla public access uiner 144. Thus, you might very well only be able to see infomration on avaliable assets if youre bpth inside one of these big instutions (as a matter  of practical permissioned information) anmd maintain the ;large amount of capital they ttract (given mandates in oversight laws pending  TAD3 tdocuemtnation). hen i pressed him o nwhat public menat to Boomberg, they commented htat it only has  to do with the trade registration nd identification at the SEC, which I agree is how an equal playigield _should_ and CAN work without ths cental  gtekeeping.
+
+
+[^alpine]: Alpine is now in the Supreeme Court, and the docket files can be followed online, _avaliable at_ https://www.supremecourt.gov/docket/docketfiles/html/public/24a808.html. The latest actuib frin kast week could show us a groundbreaking bankruptcy  claim against  he SRO, based on a denial from Chief Justice Robers to stop tthe FINRA proceedings. _See_ reporting thereof ro reuters, _avlaiable at_ https://www.reuters.com/legal/us-supreme-court-allows-finra-proceedings-against-alpine-securities-2025-03-14,  an organization which also reported yesterday on the Hon. Robers' rare vocal opublic pushback against teh Presiddent's recent actions criticizing Feeral judges, _avaliable at_ https://www.reuters.com/legal/us-chief-justice-roberts-calls-judges-impeachment-are-inappropriate-after-trump-2025-03-18.
 
 
 #### Trading Mechanics
