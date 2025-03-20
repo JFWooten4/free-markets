@@ -1,5 +1,5 @@
 ```
-status: Published (pending spellckeck  on 4.1.2)
+status: Published
 submit: 19 Mar 2025
 dialog: https://github.com/orgs/WhyDRS/discussions/16
 ```
@@ -435,9 +435,13 @@ Them, once you're finally  allowed to trasnact, everything clears ilaterally, ov
 
 #### 4.1.3 Her Prosfffional Writing
 
-Analysi on Bloomberg Intelrligence v. LinkedIn 
-[final doc off memory from BB priting]
+in disucssing these topics, she shared with me here intermidttend understandign while reffering back to him as the  data expert on this  verticle. HOwefver,, it became abundantly apparent that she knew uite a bit about the infromation underlying this market becuase she would direct  him to type i specific Bloomberg cmmands which brought up related ifnromati not about ool lons. Indeed, our original connection started based on a discussion of sareholder umbers at large.
 
+Apparently, she is a staff weier for Bloomberg Intelrligence, abd she even shared a hard copy of her last reporrt on resiential-mortgage-backed secutures,. iT wa a terse and professional arrticle detailing trendds ofver the years abotu large economic factors ifleuncing the iindustry, avaliable only to Terminal and infromation subscribers paying quite the sum. Whil it didn't expliccitly recomend this or that trade, a rresult soemtimes highlghted by onine analysis newsletters, the entire dzen pages certainly wove together a great macro story which helped in spposedly analyzing where the year woudl take market deals.
+
+In disucssing this printing, she revrealed that the diagrams from the wirting weeree posted on her public LinkedIn profile, a platform quite  commonly touted as a go-to tool between practicallyall participants. The data composing these charts was generally sourced through govenrmetnal-agency feeds or (moreso) Bloomberrg itself. OS I thoguht it ws neaat that they attepted to release sone ersectives for publci aalysis, albeit wthout the full written context which one would eed to get from a apying subscriber .[^doc-sharing]
+
+[^doc-sharing]: In th9inking abotu sharing documents,  i thought of  anoyther section I'd like to work into the `Docuemnts` repo: an are to store our FOIA responses ross community outreaches. Relevantly, members should know that the  COmmission hosts a public lofg of all FOIA requests mapped to  the full name of the requestor. THus, nyone adding a new response could be linking their ccount to a real name.
 
 
 #### 4.1.4 Upcoming Alternate Publicatiosn
