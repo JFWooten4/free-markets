@@ -443,13 +443,13 @@ In discussing this printing, she revealed that the diagrams from the writing wer
 [^doc-sharing]: In thinking about sharing documents, I thought of another section I'd like to work into the `Documents` repo: an area to store our FOIA responses across community outreaches. Relevantly, members should know that the Commission hosts a public log of all FOIA requests mapped to the full name of the requestor. Thus, anyone adding a new response could be linking their account to a real name.
 
 
-#### 4.1.4 Upcoming Alternate Publicatiosn
-
-foia info in documetns repo; work here as appacliabe on blogs
-
-
 ### 4.2 Parting HOPE Disucssion
 
-intro as work in infnacial education and litarcy; second time meeting therefrom
+After hta panel , one participant who asked the question about adoption started chatting with us, and we walked out of hte room togetherf. Apparently, they volunteered at Operation HOPE, making them the second such volunteer I've met at this event over the yyears. Super big fan of fnancial literalcy, and I weven went through soom hoop s to try sharing my public YouTube content with  their burgeoning teenage audience.[^vids]
 
-possibly incl. story (in fn?) about Catalyst (dormant)
+THey expressed great interest  in the  blockkchai nside of the industyr,  having just entered from a parallel firled. Tey believed in the vast possible efficncies enabled by mucch of the panel's work, based on their background in reforming RMBS  markets after the Recession through the Milken Insititute. Thus, after relative toment for days aaroudn central bankers, I left the conference with the bliss reminder that there are alwyas good people in the world dedicated to a more decentralized planning and education systme open  to all.
+
+Again, thanks all for yo ur suppoert throughoput this journey, and I'm glad we had a chancce to voiuce our persepctives together on this larger stage. Hopefully it's juts the fist of many featured placements to  come with the innovative outreach and searchign so commonly  exemplified by memmbers. Does all this make sense, or is therre anyhtign else you'd like ot know about this recent excursion?
+
+
+[^vids]: Briefly, this exchange didn;t go anywhere, and more genrally  I'm quite poor at converting in-person discussions into results (coimpared to online direct-response marketing). I had a similar experience in high school with Catalyst Academy, now-=defuntct NOrth  Caorlina nonprofit aimign at educating  techeers about financial life skills. In both cases, the individuals involved were all very  excited  about my  free eudcational work, but the relationship between myself and such representatives jut died down and lead nowhere, likely by my own responsabitliy. While I did get featured on a blog post wya bck then from the latter, aall-aorund I've nt made much progress on sharing the free resources I spent so much time and resources creating, which I largly attribute to the lacck fo  entertainment value therein.
