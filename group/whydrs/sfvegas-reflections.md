@@ -305,7 +305,9 @@ These sentiments seemed common amongst panelists, who made the sector sound exem
 To me, these weird specific institutional deals serve only to contort natural supply and demand for the individual underlying deals, which never make their way onto a tradable market for security interests. Moreover, specific requirements mean it can take months for salespeople to slowly affect new originations to satisfy the funding wants, even requiring up to a year of time to find enough piecemeal loans. Sound like the fastest, most efficient, or fairest way to get capital into the hands of those ready to deploy?
 
 
-//TODO
+> ![CAUTION]
+> Start of raw notes here
+
 ### EU Securities Regulations
 
 - new joint regulation to replace fragmented rules for securitizations
@@ -351,7 +353,8 @@ panel with news influencer:
 - Tara says most thriving information has a bias, attracting mass online viewership
 - Jim agrees that the maintream doesnt get into the nuances or depths a aliable for jiche creators acting without centeal coordination
 
-//TODO
+> ![CAUTION]
+> End of raw notes here
 
 ### 3.3 Government-Sponsored Enterprise Reform
 
@@ -442,14 +445,12 @@ In discussing this printing, she revealed that the diagrams from the writing wer
 
 [^doc-sharing]: In thinking about sharing documents, I thought of another section I'd like to work into the `Documents` repo: an area to store our FOIA responses across community outreaches. Relevantly, members should know that the Commission hosts a public log of all FOIA requests mapped to the full name of the requestor. Thus, anyone adding a new response could be linking their account to a real name.
 
+### 4.2 Parting HOPE Discussion
 
-### 4.2 Parting HOPE Disucssion
+After the panel, one participant who asked the question about adoption started chatting with us, and we walked out of the room together. Apparently, they volunteered at Operation HOPE, making them the second such volunteer I've met at this event over the years. Super big fan of financial literacy, and I even went through some hoops to try sharing my public YouTube content with their burgeoning teenage audience.[^vids]
 
-After hta panel , one participant who asked the question about adoption started chatting with us, and we walked out of hte room togetherf. Apparently, they volunteered at Operation HOPE, making them the second such volunteer I've met at this event over the yyears. Super big fan of fnancial literalcy, and I weven went through soom hoop s to try sharing my public YouTube content with  their burgeoning teenage audience.[^vids]
+They expressed great interest in the blockchain side of the industry, having just entered from a parallel field. They believed in the vast possible efficiencies enabled by much of the panel's work, based on their background in reforming RMBS markets after the Recession through the Milken Institute. Thus, after relative torment for days around central bankers, I left the conference with the blissful reminder that there are always good people in the world dedicated to a more decentralized planning and education system open to all.
 
-THey expressed great interest  in the  blockkchai nside of the industyr,  having just entered from a parallel firled. Tey believed in the vast possible efficncies enabled by mucch of the panel's work, based on their background in reforming RMBS  markets after the Recession through the Milken Insititute. Thus, after relative toment for days aaroudn central bankers, I left the conference with the bliss reminder that there are alwyas good people in the world dedicated to a more decentralized planning and education systme open  to all.
+Again, thanks all for your support throughout this journey, and I'm glad we had a chance to voice our perspectives together on this larger stage. Hopefully, it's just the first of many featured placements to come with the innovative outreach and searching so commonly exemplified by members. Does all this make sense, or is there anything else you'd like to know about this recent excursion?
 
-Again, thanks all for yo ur suppoert throughoput this journey, and I'm glad we had a chancce to voiuce our persepctives together on this larger stage. Hopefully it's juts the fist of many featured placements to  come with the innovative outreach and searchign so commonly  exemplified by memmbers. Does all this make sense, or is therre anyhtign else you'd like ot know about this recent excursion?
-
-
-[^vids]: Briefly, this exchange didn;t go anywhere, and more genrally  I'm quite poor at converting in-person discussions into results (coimpared to online direct-response marketing). I had a similar experience in high school with Catalyst Academy, now-=defuntct NOrth  Caorlina nonprofit aimign at educating  techeers about financial life skills. In both cases, the individuals involved were all very  excited  about my  free eudcational work, but the relationship between myself and such representatives jut died down and lead nowhere, likely by my own responsabitliy. While I did get featured on a blog post wya bck then from the latter, aall-aorund I've nt made much progress on sharing the free resources I spent so much time and resources creating, which I largly attribute to the lacck fo  entertainment value therein.
+[^vids]: Briefly, this exchange didn’t go anywhere, and more generally, I'm quite poor at converting in-person discussions into results (compared to online direct-response marketing). I had a similar experience in high school with Catalyst Academy, now-defunct North Carolina nonprofit aiming at educating teachers about financial life skills. In both cases, the individuals involved were all very excited about my free educational work, but the relationship between myself and such representatives just died down and led nowhere, likely by my own responsibility. While I did get featured on a blog post way back then from the latter, all around I've not made much progress on sharing the free resources I spent so much time and resources creating, which I largely attribute to the lack of entertainment value therein.
