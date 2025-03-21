@@ -80,8 +80,8 @@ I'll base the majority of this analysis on my own experiences here, as I asked m
 
 In short, it's my interpretation of these events and other public information that the PACE exemption largely serves as a perverse means of further centralizing our existing financial system. I'll approach this point from two high-level angles:
 
-- Policymaking as a means to influence economic activity, and  
-- Hidden tax-code exemptions practically available only to select institutions.  
+- Policymaking as a means to influence economic activity, and
+- Hidden tax-code exemptions practically available only to select institutions.
 
 For the relevant context of these points, I'll remind everyone that the first PACE bond emerged out of a California law passed by a hundred representatives (of 36,700,000 people) in 2008.[^cali] The legislation largely defers implementation to cities and counties, as is common with municipal or State-lien financing, later purporting to "increase local jobs[,]" "property values[,]" and "attractive financing option[s.]"[^cali-cite] I think this makes sense given only a select few municipalities instigated early PACE programs, such as Berkeley's FIRST program (which facilitated 38 solar projects), while overall CA solar capacity nearly doubled from 2007 with over 10,000 new installations.
 
@@ -312,8 +312,8 @@ To me, these weird specific institutional deals serve only to contort natural su
 
 I found this panel interesting because it touched directly on some of the challenges with local regulations which often contracted when touching investors across different jurisdictions. We can see quite recently the same challenge of local securities rules applied in state- and country-based offering exemptions [harming investors](https://www.sec.gov/files/rules/petitions/2025/4-849-petition-rulemaking-amend-rule-3a10-securities-act-1933.pdf). Thus, I found it interesting here that many duplicative rules created confusion, extra costs, and general gatekeeping to market access.
 
-- new joint regulation to replace fragmented rules for securitizations  
-- investor capital largely deployed to US projects which have their own compliance departments
+- New joint regulation to replace fragmented rules for securitizations
+- Investor capital largely deployed to US projects which have their own compliance departments
 
 ### 2.6 Consumer Borrowing "Health"
 
@@ -321,16 +321,16 @@ This panel generally discussed the finances of people borrowing on credit, as wa
 
 Since the focus is on student loans, I'll give a due shoutout to @tehchives who has a skilled past of paying off their own educational debts exceedingly quickly. Not sure how much they want to dive into the matter, but the core of frugality they highlighted in speech and in action over years of financial choices ought be an inspiration for anyone trapped in material debts. So unfortunate how easy it is to slip into these pending traps when payments are so tightly coupled with credit, and a return to steadfast, prudent frugality sure seems a helpful first step to regaining financial independence.
 
-- say people are confused between federal student loan relief not applied to the private market  
-- FICO rep talks about everyone's budgets spreading thinly while "yields tighten" despite strong payment maintenance and general employment
+- Say people are confused between federal student loan relief not applied to the private market.
+- FICO rep talks about everyone's budgets spreading thinly while "yields tighten" despite strong payment maintenance and general employment.
 
-### Intrabank Systemic Risk Transfers
+### 2.7 Intrabank Systemic Risk Transfers
 
 Significant risk transfers are a tool for moving potential credit liabilities from bank balance sheets to other enterprises. It was my interpretation of the chat that these trades occurred between banks, which seems to only coagulate the risks into a more systemic pending aggregation.
 
-- common in international banking regulations because it was needed for banks to be able to raise capital given Basel  
-- panelist talks about how they can rate bonds AAA high despite low issuer rating  
-- and asking them about the risks and collateralization of central securities depositories after the panel, they say that really the only way to get protection is a single name CDS against the major exchanges or clearing participants, up to the collateral fund limits of a couple hundred million. Legacy, gillen old lawyer says that it's a very systemic risk that is "too big to fail."
+- Common in international banking regulations because it was needed for banks to be able to raise capital given Basel.
+- Panelist talks about how they can rate bonds AAA high despite low issuer rating.
+- When asking them about the risks and collateralization of central securities depositories after the panel, they say that really the only way to get protection is a single-name CDS against the major exchanges or clearing participants, up to the collateral fund limits of a couple hundred million. Legacy, Gillen, old lawyer says that it's a very systemic risk that is "too big to fail."
 
 ## 3 Topics from Tuesday
 
@@ -338,19 +338,19 @@ Significant risk transfers are a tool for moving potential credit liabilities fr
 
 This panel had a lot of representation of banking employees who work on policy, giving a nice broad-ish view from different but related corporates. It certainly seemed like a markedly different kind of job than the proactive work we do protecting actual investors, users, and issuers. Rather, I got the feeling that they were generally reacting to the "policy hands" of those above making new rules, attempting in all regards to minimize working compliance costs or activities.
 
-- generally agree that it will be challenging to get legislation across the divided House  
+- generally agree that it will be challenging to get legislation across the divided House
 - suggest that DOGE will get less popular as (manual) gov services slow down, giving the example of it taking months to receive your tax refund
 
 ### 3.2 Evolution of Media
 
-- in a panel with news influencers, they say they need to constantly push content across every possible different online platform  
-- publishers say they need to earn trust by speaking in their own voices, using an example of independent press calling out Biden's physical leadership limitations due to age while being largely attacked by the incumbent Administration  
-- Jim VandeHei comments on need for journalism to freely report media to halt authoritarianism and protect questioning capitalism  
-- they frame reporting as something you need to be passionate enough to work without pay while producing for the joy of it so the market can reward results  
-- they comment on the quandaries of centralized social media policy and algorithms that serve the attention-maximizing business interests of these "publicly-traded companies" with a fiduciary duty to time-suck, and Jim says the only alternative is owning the content and platform yourself  
-- Tara Palmeri comments on tech workers not even understanding their own algorithms, and Jim pushes back saying they understand—the whole intention is simply businesses maximizing dopamine and forming addictions to the platform  
-- Tara says most thriving information has a bias, attracting mass online viewership  
-- Jim agrees that the mainstream doesn’t get into the nuances or depths available for niche creators acting without central coordination
+- In a panel with news influencers, they say they need to constantly push content across every possible different online platform.
+- Publishers say they need to earn trust by speaking in their own voices, using an example of independent press calling out Biden's physical leadership limitations due to age while being largely attacked by the incumbent Administration.
+- Jim VandeHei comments on need for journalism to freely report media to halt authoritarianism and protect questioning capitalism.
+- They frame reporting as something you need to be passionate enough to work without pay while producing for the joy of it so the market can reward results.
+- They comment on the quandaries of centralized social media policy and algorithms that serve the attention-maximizing business interests of these "publicly-traded companies" with a fiduciary duty to time-suck, and Jim says the only alternative is owning the content and platform yourself.
+- Tara Palmeri comments on tech workers not even understanding their own algorithms, and Jim pushes back saying they understand—the whole intention is simply businesses maximizing dopamine and forming addictions to the platform.
+- Tara says most thriving information has a bias, attracting mass online viewership.
+- Jim agrees that the mainstream doesn’t get into the nuances or depths available for niche creators acting without central coordination.
 
 
 ### 3.3 Government-Sponsored Enterprise Reform
@@ -422,7 +422,7 @@ The former case means that only very large institutions can trade the asset, com
 
 [^alpine]: Alpine is now in the Supreme Court, and the docket files can be followed online, _available at_ https://www.supremecourt.gov/docket/docketfiles/html/public/24a808.html. The latest action from last week could show us a groundbreaking bankruptcy claim against the SRO, based on a denial from Chief Justice Roberts to stop the FINRA proceedings. _See_ reporting thereof in Reuters, _available at_ https://www.reuters.com/legal/us-supreme-court-allows-finra-proceedings-against-alpine-securities-2025-03-14, an organization that also reported yesterday on the Hon. Roberts' rare vocal public pushback against the President's recent actions criticizing Federal judges, _available at_ https://www.reuters.com/legal/us-chief-justice-roberts-calls-judges-impeachment-are-inappropriate-after-trump-2025-03-18.
 
-#### 4.1.2 Trading Mechanics  <!-- cite as href for Discord -->
+#### 4.1.2 Trading Mechanics<!-- cite as href for Discord -->
 
 This is where things really got weird for me, especially after we'd scrolled past sector-wide time-and-sales pages with seven transactions for the whole week (yes, they were all block trades). When I asked about how to actually participate in the transactions rather than read reported data feeds, everything about the market basically fell apart. Largely, this is because, as he put it, "you can't just log into [broker] and see them" as an end-user, a perspective echoed by the mutual-fund manager in _infra_ § 2.
 
