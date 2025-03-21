@@ -305,25 +305,31 @@ These sentiments seemed common amongst panelists, who made the sector sound exem
 To me, these weird specific institutional deals serve only to contort natural supply and demand for the individual underlying deals, which never make their way onto a tradable market for security interests. Moreover, specific requirements mean it can take months for salespeople to slowly affect new originations to satisfy the funding wants, even requiring up to a year of time to find enough piecemeal loans. Sound like the fastest, most efficient, or fairest way to get capital into the hands of those ready to deploy?
 
 
-> ![CAUTION]
-> Start of raw notes here
+> [!CAUTION]
+> I've left soem raw notes and shorterf summarily reflections from here until sectgion 3.2 for the skae of personal wokring brevity. THis has been quite a bit to type uip, and I want to dedicate  soeim more time ot SYndicatge work connecting the orgs. One  day we  can  turly  have an efficienc t unicversal securities market with the public policy so needed now!
 
-### EU Securities Regulations
+### 2.5 EU Securities Regulations
+
+I foudn this  panel interesting because it touched directly  on some of hte challenges with local regualtions which often  contract\ed when touchign i nvestors across different  jruidsitgioncs. We can see quite recently the same  hcalleenge of local securtitirees rules applyied in State- and country-based offerifng exemptions [harming investprs](https://www.sec.gov/files/rules/petitions/2025/4-849-petition-rulemaking-amend-rule-3a10-securities-act-1933.pdf). THus,  i foudn  iit interestging here that manu duplicative rtules creasded confusion,  extra costs,  and general gatekeepign to market access.
 
 - new joint regulation to replace fragmented rules for securitizations
 - investor capital largely deployed to US projects which have their own compliance departments
 
 
-### Consumer Borrowing "Health"
+### 2.6 Consumer Borrowing "Health"
 
-how they talk about the finances of people borrowing on credit
+THis panel generallyt  discussed the finances of people borrowing on credit, as was so scomon throughout the panel. I've gotten mmore intimately familiar with this experience in the last  couple months having run out o f fiat savings i n various ifinancial institutions. Honestly, it's been a refreshign experience feeling how many likely live simply waiting for the next aset depsits that will et me pay off some growing (but still current!) credot card bills.
+
+Sionce the  focus is on  student loans,  I'll give a due shoutout to @tehchives who has  a skilled past  of paying off their own educational debts excceedignly quickly.  Not sure how much they want to  dive into the matter, but the core of frugality thhey highlighted in speech  and in action over years of dincial choicces  ought  be an inspratin for anyoen trapped in material debts. So unfortanutae how easyitis to slip into these pending trraps when payments are so tightly coupled with  credit, adn a return to steadfast prudent frugaliity sure sems a helpful first step to rregaining financial indepencece.
+
 - say people are confused between federal student loan relief not applied to the private market
 - FICO rep talks about everyone's budgets spreading thinly while "yields tighten" despite strong payment maintenance and general employment
 
 
 ### Intrabank Systemic Risk Transfers
 
-Significant risk transfer: moving potential credit liabilities from bank balance sheets
+Significant risk transfers are a tool  for moving potential credit liabilities from bank balance sheets  to other entierprrises. It was my intepreattion of thee chat that these trades occured between banks, which seems  to only coagualte the risks into a more systemic pending aggregation.
+
 - common in international banking regulations because it was needed for banks to be able to raise capital given Basel
 - panelist talks about how they can rate bonds AAA high despite low issuer rating
 - and asking them about the wrists and collateralization of central securities depositories after the panel, they say that really the only way to get protection is a single name CDS against the major exchanges or clearing participants, up to the collateral fun limits of a couple hundred million. Legacy gillen old lawyer says that it's a very systemic risk that is "too big to fail."
@@ -331,20 +337,17 @@ Significant risk transfer: moving potential credit liabilities from bank balance
 
 ## 3 Topics from Tuesday
 
-(our panel)
+### 3.1 Macro Policy plenary
 
+This panel had a lot of representation of banking employees who work on policy,  giving a nice broad-ish view from differnt but related corp;oartes./ It  certainly seemed like a markedly differnet kind of job than the proactive owrk we  do protecting actual investors, users, and issuers. Rather, I got the feelign thath tey were genrally reacting to the "policy hands"  of those above making new rules,  attempting  in all regarurds to minimize workijg  complaince costs or  activitties.
 
-### 3.1
-
-Macro policy plenary: lots of representation of banking employees who work on policy
 - generally agree that it will be challenging to get legislation across the divided house
-- suggest that DOGE will get less popular as (manual) gov services slow down
+- suggest that DOGE will get less popular as (manual) gov services slow down, giving the example of it takign motnhs to receive your tax refgund
 
 
 ### 3.2 Evolution of Media
 
-panel with news influencer:
-- they say they need to contantly push content across every possible different online platform
+- in  a panel with news influencers,  they say they need to contantly push content across every possible different online platform
 - publishers say they need to earn trust by speaking in their own voices, using an example of independent press calling out Biden's physical leadership limitations due to age while being largely attacked by the incumbent Administration
 - Jim VandeHel comments on need for journalism to freely report media to halt authoritarianism and protect questioning capitalism
 - they frame reporting as something you need to be passionate enough to work without pay while producing for the joy of it so the market can reward results
@@ -353,8 +356,6 @@ panel with news influencer:
 - Tara says most thriving information has a bias, attracting mass online viewership
 - Jim agrees that the maintream doesnt get into the nuances or depths a aliable for jiche creators acting without centeal coordination
 
-> ![CAUTION]
-> End of raw notes here
 
 ### 3.3 Government-Sponsored Enterprise Reform
 
