@@ -306,55 +306,51 @@ To me, these weird specific institutional deals serve only to contort natural su
 
 
 > [!CAUTION]
-> I've left soem raw notes and shorterf summarily reflections from here until sectgion 3.2 for the skae of personal wokring brevity. THis has been quite a bit to type uip, and I want to dedicate  soeim more time ot SYndicatge work connecting the orgs. One  day we  can  turly  have an efficienc t unicversal securities market with the public policy so needed now!
+> I've left some raw notes and shorter summary reflections from here until section 3.2 for the sake of personal working brevity. This has been quite a bit to type up, and I want to dedicate some more time to Syndicate work connecting the orgs. One day we can truly have an efficient universal securities market with the public policy so needed now!
 
 ### 2.5 EU Securities Regulations
 
-I foudn this  panel interesting because it touched directly  on some of hte challenges with local regualtions which often  contract\ed when touchign i nvestors across different  jruidsitgioncs. We can see quite recently the same  hcalleenge of local securtitirees rules applyied in State- and country-based offerifng exemptions [harming investprs](https://www.sec.gov/files/rules/petitions/2025/4-849-petition-rulemaking-amend-rule-3a10-securities-act-1933.pdf). THus,  i foudn  iit interestging here that manu duplicative rtules creasded confusion,  extra costs,  and general gatekeepign to market access.
+I found this panel interesting because it touched directly on some of the challenges with local regulations which often contracted when touching investors across different jurisdictions. We can see quite recently the same challenge of local securities rules applied in state- and country-based offering exemptions [harming investors](https://www.sec.gov/files/rules/petitions/2025/4-849-petition-rulemaking-amend-rule-3a10-securities-act-1933.pdf). Thus, I found it interesting here that many duplicative rules created confusion, extra costs, and general gatekeeping to market access.
 
-- new joint regulation to replace fragmented rules for securitizations
+- new joint regulation to replace fragmented rules for securitizations  
 - investor capital largely deployed to US projects which have their own compliance departments
-
 
 ### 2.6 Consumer Borrowing "Health"
 
-THis panel generallyt  discussed the finances of people borrowing on credit, as was so scomon throughout the panel. I've gotten mmore intimately familiar with this experience in the last  couple months having run out o f fiat savings i n various ifinancial institutions. Honestly, it's been a refreshign experience feeling how many likely live simply waiting for the next aset depsits that will et me pay off some growing (but still current!) credot card bills.
+This panel generally discussed the finances of people borrowing on credit, as was so common throughout the panel. I've gotten more intimately familiar with this experience in the last couple months having run out of fiat savings in various financial institutions. Honestly, it's been a refreshing experience feeling how many likely live simply waiting for the next asset deposits that will let me pay off some growing (but still current!) credit card bills.
 
-Sionce the  focus is on  student loans,  I'll give a due shoutout to @tehchives who has  a skilled past  of paying off their own educational debts excceedignly quickly.  Not sure how much they want to  dive into the matter, but the core of frugality thhey highlighted in speech  and in action over years of dincial choicces  ought  be an inspratin for anyoen trapped in material debts. So unfortanutae how easyitis to slip into these pending trraps when payments are so tightly coupled with  credit, adn a return to steadfast prudent frugaliity sure sems a helpful first step to rregaining financial indepencece.
+Since the focus is on student loans, I'll give a due shoutout to @tehchives who has a skilled past of paying off their own educational debts exceedingly quickly. Not sure how much they want to dive into the matter, but the core of frugality they highlighted in speech and in action over years of financial choices ought be an inspiration for anyone trapped in material debts. So unfortunate how easy it is to slip into these pending traps when payments are so tightly coupled with credit, and a return to steadfast, prudent frugality sure seems a helpful first step to regaining financial independence.
 
-- say people are confused between federal student loan relief not applied to the private market
+- say people are confused between federal student loan relief not applied to the private market  
 - FICO rep talks about everyone's budgets spreading thinly while "yields tighten" despite strong payment maintenance and general employment
-
 
 ### Intrabank Systemic Risk Transfers
 
-Significant risk transfers are a tool  for moving potential credit liabilities from bank balance sheets  to other entierprrises. It was my intepreattion of thee chat that these trades occured between banks, which seems  to only coagualte the risks into a more systemic pending aggregation.
+Significant risk transfers are a tool for moving potential credit liabilities from bank balance sheets to other enterprises. It was my interpretation of the chat that these trades occurred between banks, which seems to only coagulate the risks into a more systemic pending aggregation.
 
-- common in international banking regulations because it was needed for banks to be able to raise capital given Basel
-- panelist talks about how they can rate bonds AAA high despite low issuer rating
-- and asking them about the wrists and collateralization of central securities depositories after the panel, they say that really the only way to get protection is a single name CDS against the major exchanges or clearing participants, up to the collateral fun limits of a couple hundred million. Legacy gillen old lawyer says that it's a very systemic risk that is "too big to fail."
-
+- common in international banking regulations because it was needed for banks to be able to raise capital given Basel  
+- panelist talks about how they can rate bonds AAA high despite low issuer rating  
+- and asking them about the risks and collateralization of central securities depositories after the panel, they say that really the only way to get protection is a single name CDS against the major exchanges or clearing participants, up to the collateral fund limits of a couple hundred million. Legacy, gillen old lawyer says that it's a very systemic risk that is "too big to fail."
 
 ## 3 Topics from Tuesday
 
-### 3.1 Macro Policy plenary
+### 3.1 Macro Policy Plenary
 
-This panel had a lot of representation of banking employees who work on policy,  giving a nice broad-ish view from differnt but related corp;oartes./ It  certainly seemed like a markedly differnet kind of job than the proactive owrk we  do protecting actual investors, users, and issuers. Rather, I got the feelign thath tey were genrally reacting to the "policy hands"  of those above making new rules,  attempting  in all regarurds to minimize workijg  complaince costs or  activitties.
+This panel had a lot of representation of banking employees who work on policy, giving a nice broad-ish view from different but related corporates. It certainly seemed like a markedly different kind of job than the proactive work we do protecting actual investors, users, and issuers. Rather, I got the feeling that they were generally reacting to the "policy hands" of those above making new rules, attempting in all regards to minimize working compliance costs or activities.
 
-- generally agree that it will be challenging to get legislation across the divided house
-- suggest that DOGE will get less popular as (manual) gov services slow down, giving the example of it takign motnhs to receive your tax refgund
-
+- generally agree that it will be challenging to get legislation across the divided House  
+- suggest that DOGE will get less popular as (manual) gov services slow down, giving the example of it taking months to receive your tax refund
 
 ### 3.2 Evolution of Media
 
-- in  a panel with news influencers,  they say they need to contantly push content across every possible different online platform
-- publishers say they need to earn trust by speaking in their own voices, using an example of independent press calling out Biden's physical leadership limitations due to age while being largely attacked by the incumbent Administration
-- Jim VandeHel comments on need for journalism to freely report media to halt authoritarianism and protect questioning capitalism
-- they frame reporting as something you need to be passionate enough to work without pay while producing for the joy of it so the market can reward results
-- they comment on the quandaries of centralized social media policy and algorthms that serve the attention-maximizing business interests of these "publicly-traded companies" with a feduciaty duty to time-suck, and Jim days the only alternative is owning the content and platform yourself
-- Tara Palmeri comments on tech workers not even understanding their own algortihms, and Jim pushes back in saying they understand the whole intention is siimply businesses maximizing dopamine and forming addictions to the platform
-- Tara says most thriving information has a bias, attracting mass online viewership
-- Jim agrees that the maintream doesnt get into the nuances or depths a aliable for jiche creators acting without centeal coordination
+- in a panel with news influencers, they say they need to constantly push content across every possible different online platform  
+- publishers say they need to earn trust by speaking in their own voices, using an example of independent press calling out Biden's physical leadership limitations due to age while being largely attacked by the incumbent Administration  
+- Jim VandeHei comments on need for journalism to freely report media to halt authoritarianism and protect questioning capitalism  
+- they frame reporting as something you need to be passionate enough to work without pay while producing for the joy of it so the market can reward results  
+- they comment on the quandaries of centralized social media policy and algorithms that serve the attention-maximizing business interests of these "publicly-traded companies" with a fiduciary duty to time-suck, and Jim says the only alternative is owning the content and platform yourself  
+- Tara Palmeri comments on tech workers not even understanding their own algorithms, and Jim pushes back saying they understand—the whole intention is simply businesses maximizing dopamine and forming addictions to the platform  
+- Tara says most thriving information has a bias, attracting mass online viewership  
+- Jim agrees that the mainstream doesn’t get into the nuances or depths available for niche creators acting without central coordination
 
 
 ### 3.3 Government-Sponsored Enterprise Reform
