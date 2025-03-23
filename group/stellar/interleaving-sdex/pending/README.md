@@ -1,4 +1,4 @@
-Much of this ought be worked into the _liqduity_ paper.
+Much of this ought to be worked into the _liquidity_ paper.
 
 Some hrefs I'd like to keep:
 
