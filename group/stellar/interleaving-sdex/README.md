@@ -26,7 +26,7 @@ This post explains that perspective as clearly as I can with five days to write 
 
 Speaking of Soroban news, I'd like to highlight @SirTyson for his outstanding recent informational videos.[^main-g-ref] It's rare to find a developer of such high caliber as Garand who can also explain their work [in plain English](https://stellar.org/blog/developers/introducing-state-archival-the-solution-to-state-bloat-on-stellar). This ongoing treat stands strongly as a magnet for [new users](https://youtu.be/W4PXPzmzn0A) discovering the network.[^permissionless] 🧲
 
-[<img width="450" alt="garand-eloquent" src="https://github.com/user-attachments/assets/af4ba303-f9b7-45b8-9661-3b1acae2f4e4">](https://consensus2024.coindesk.com/agenda/event/-performance-meets-scale-state-archival-and-multidimensional-fees-355)[^drs-discord]
+[<img width="450" alt="garand-eloquent" src="imgs/garand-tyson-meme.png">](https://consensus2024.coindesk.com/agenda/event/-performance-meets-scale-state-archival-and-multidimensional-fees-355)[^drs-discord]
 
 Garand's sentiments in [this short release](https://x.com/StellarOrg/status/1811498824910930300) captured the wide array of applications we can build:
 
@@ -95,7 +95,7 @@ It seems the network aims for similar goals: empowering anyone to invest, transa
 
 This is why I'm so concerned about the emergence of non-protocol DEXes across the industry, which naturally compete. In the spirit of open-source, might I suggest that the best approach follows the organic and necessary axiom that one source of liquidity lets us best match all orders between all parties fairly? In contrast, we can let new options compete for trading interest and follow the footsteps of Wall Street: 🏛
 
-[<img width="640" alt="introducing-routers" src="https://github.com/user-attachments/assets/8745849f-a66a-4839-a9cc-ad69562c13fc">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
+[<img width="640" alt="introducing-routers" src="imgs/introducing-dex-routers.png">](https://blocktransfer.com/.well-known/yellowpaper.pdf)
 
 [^types]: _See, e.g.,_ services splitting path payments into optimal chunks, splitting orders between three equivalent AMM contracts, and quantifying aggregated LP depth statistics.
 
@@ -140,9 +140,9 @@ The stable protocol best deals with these [regulated edge cases](https://youtu.b
 
 There seems to be no other truly decentralized, distributed, and permissionless order book. Do you think this makes the SDEX something special and worth all protections to continue explicitly managing the ledger's liquidity without external states? Should we keep it in whole?
 
-[![contract-risks](https://github.com/user-attachments/assets/5824aacc-a47f-46de-8720-9b080a6ffe66)](https://youtu.be/nOh-7SzI6gM)
+[![contract-risks](imgs/centralized-design-principles.png)](https://youtu.be/nOh-7SzI6gM)
 
-Nakamoto's [unkept promise](https://github.com/user-attachments/assets/b4b34d6b-94ea-40e3-8dfd-beb0239e5e9e) was an escape from the tyranny of centralized control. But the liquidity questions plaguing the industry around central exchanges still leave true ownership entirely up in the air.[^cro] They well achieved new [monetary standards](https://youtu.be/W2oRRGVo9xs) since:
+Nakamoto's [unkept promise](imgs/unkept-promise-snippet.png) was an escape from the tyranny of centralized control. But the liquidity questions plaguing the industry around central exchanges still leave true ownership entirely up in the air.[^cro] They well achieved new [monetary standards](https://youtu.be/W2oRRGVo9xs) since:
 
 > "21 million is not a feature of Bitcoin. It is Bitcoin."
 
