@@ -12,7 +12,7 @@ But the other week, I accidentally [did this](https://github.com/blocktransfer/y
 
 Accordingly, the view here now looks relatively trashy:
 
-![yp-commits](https://github.com/user-attachments/assets/a71accc2-c815-4991-b713-792e67b0c2b8)
+![yp-commits](imgs/universal-disorganized-bulk.png)
 
 # Rebase and Merge 🙏
 
@@ -20,9 +20,9 @@ However, more relevant to adequate public disclosures, the logic behind the chan
 
 In a perfect world, each category of change would have its own commit detailing the inspiration, motivation, and significance of the change. Not only does this create a prettier repo (below)[^whop], but it lets anyone easily see what's happening with their favorite projects without diving into the complexities of source code. And I beg you: this is web3 we're talking about; could we please keep things mildly interesting with an emoji?
 
-![prsnl-repo](https://github.com/user-attachments/assets/60679778-3f19-4bbe-b0cb-61f533f167e2)
+![prsnl-repo](imgs/pretty-specific-commits.png)
 
-Emojis let you add valuable context that would otherwise necessitate a bland tag. Consider a 🐛 instead of `bug:`, 🔨 instead of `fix:`, etc. It's a quick [keyboard shortcut](TODO_WRITE_ARTICLE_ON_HOW_USE_EMOJI_SHORTCUTS) and search that really only takes a second even though it adds so much appeal.
+Emojis let you add valuable context that would otherwise necessitate a bland tag. Consider a 🐛 instead of `bug:`, 🔨 instead of `fix:`, etc. It's a quick [keyboard shortcut](TODO_WRITE_ARTICLE_ON_HOW_USE_EMOJI_SHORTCUTS) and search that really only takes a second even though it adds so much appeal. <!-- lol -->
 
 [^whop]: The hasty `Update resources.html` was a [quick fix](https://github.com/JFWooten4/JFWooten4/commit/2fcfedad073958a44bbd3034c3e2c58ac9e734a6) after [updating](https://github.com/JFWooten4/JFWooten4/commit/4436b5c81dd50f8f5ad8d142bd69bfcc3dd985bb) the page's redirect URL. By not following my own convention,[^tst] I drastically limited the valuable public disclosure, auditability, and transmission.
 
