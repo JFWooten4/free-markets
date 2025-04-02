@@ -52,7 +52,7 @@ I think this is perfectly fine for someone that makes a few minor data contribut
 
 In fact, Chives is actually paying me to work on TAD3, the blockchain DRS.[^chives] In his own words, this is since he's, "in a pretty unique situation where I'm able to spend a lot of time on project efforts while still meeting the expectations of my employer." This is an innovative, empowering, and remarkable position from my perspective, as someone living off his savings that's spoken to other community members who've tried the same and run out of cash.
 
-[<img width="350" alt="chives-cameo" src="https://github.com/user-attachments/assets/d4cbf320-ba3f-4059-8a82-cb3f0108be05">](https://discord.com/channels/955819881989808128/1059994216945684530/1233373949040267345)
+[<img width="350" alt="chives-cameo" src="imgs/wall-st-chives.png">](https://discord.com/channels/955819881989808128/1059994216945684530/1233373949040267345)
 
 Namely, I remember trying to balance running a [family fund](https://www.linkedin.com/in/jfwooten4/details/experience/) with 23-credit-hour semesters at Georgia Tech. As someone deeply obsessed with markets, it [infuriated me](https://www.instagram.com/p/CHJa7iosPJ1) when my split attention cost me a simple trade. Eventually, it got so stressful that I started [running away](https://www.facebook.com/share/zsubRjX7STciSige/) from my responsibilities at a most crucial time.
 
@@ -60,7 +60,7 @@ Namely, I remember trying to balance running a [family fund](https://www.linkedi
 
 Capitalism works because each of us can work on that one thing we truly know best. For some of our community like @JamesAlfonse, it's [deploying](https://github.com/WhyDRS/Database/pull/3) incredible distributed databases. For [others](https://x.com/JFWooten4/status/1790088912896930174), it's (at least partially) condensing nuanced research into memes:
 
-[<img width="500" alt="6days-meme" src="https://github.com/user-attachments/assets/9ee79e5c-285a-4a0a-8c5a-a6f00c00dffe">](https://discord.com/channels/1102309240145707049/1118990437684875357/1228310302156918834)
+[<img width="500" alt="6days-meme" src="imgs/6days-custody-meme.png">](https://discord.com/channels/1102309240145707049/1118990437684875357/1228310302156918834)
 
 I'm writing this in a voice channel where Bob and Pickle are going back and forth on specific flooring construction materials. If you start tiling, then they know everything there is about grout, thinset, or trowel—from experience. 🧱 Coincidentally, the founder of Laylor Corporation also got her start in [masonry](https://www.youtube.com/watch?t=355&v=_0Ec44b6vrw).
 
@@ -106,7 +106,7 @@ Through our incredible DRS advocacy, we're handing the SEC a proven [replacement
 
 All this is why I recommend we exclusively employ the [GNU Affero General Public License](https://medium.com/swlh/understanding-the-agpl-the-most-misunderstood-license-86fd1fe91275).[^docs] Given the acquisition of a blockchain transfer agent by DTCC, this seems to be the only way to protect our community from being squashed by [plutocracy](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/).[^monopoly] It's a native [solution](https://www.youtube.com/playlist?list=PLD_o9ntBnmGZNoWcgoypRlxZiIebyRYoT) that means all our work stays free, in the hands of investors like you.
 
-[<img width="280" alt="development-consensus" src="https://github.com/user-attachments/assets/74aee1e0-05c6-4d18-b3cd-d0a383103ca7">](https://medium.com/@bitcoinroundtable/bitcoin-roundtable-consensus-266d475a61ff)
+[<img width="280" alt="development-consensus" src="imgs/segwit-2x-handshake.png">](https://medium.com/@bitcoinroundtable/bitcoin-roundtable-consensus-266d475a61ff)
 
 ## 3.3 Cementing Change
 
