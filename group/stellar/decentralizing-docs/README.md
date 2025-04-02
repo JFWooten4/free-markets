@@ -46,7 +46,7 @@ Thankfully, our diverse, brilliant, and hardworking community seems to fall on t
 
 ## 2.3 Shared, Nonproprietary Market Upgrades
 
-I wholeheartedly believe that only together do we stand a chance at freeing our markets from Wall Street's tight oligopolistic grasp. And if we elect to act in unison, it seems like we might just give investors the saving grace they didn't know they needed. Might we act collectively amidst this great [turning point](https://github.com/user-attachments/assets/45d7d0ea-e9fe-45f4-bf2a-ae3c82c31c24) so that the next great financial system doesn't face the [quandaries of today's](https://github.com/stellar/stellar-docs/issues/1013)?
+I wholeheartedly believe that only together do we stand a chance at freeing our markets from Wall Street's tight oligopolistic grasp. And if we elect to act in unison, it seems like we might just give investors the saving grace they didn't know they needed. Might we act collectively amidst this great [turning point](imgs/community-must-act-now.png) so that the next great financial system doesn't face the [quandaries of today's](https://github.com/stellar/stellar-docs/issues/1013)?
 
 Indeed, if we are all sincerely "driven by technology that helps people to [truly own what is theirs](https://youtu.be/5wUhyR94rho)," then it seems natural that the network's documentation itself ought live at the whim of [the community](https://discord.gg/stellardev). Do you find this perspective particularly material, given:
 
@@ -62,7 +62,7 @@ As inspired by our community and deeply evident in the Network's design, might w
 
 Do you think it's possible and worthwhile to engineer these free markets? Might the crowdsourcing ethos so evident in protocol development itself spread to the key responsibility of widespread education through the docs themselves? 📖 This is what I think of when contemplating your generous, unsolicited, and pertinent feedback, Silence.
 
-[<img src="https://github.com/user-attachments/assets/a000c103-9b40-41e6-9d5b-216a2b95027c" alt="centralized-stock-exchange-quandaries" width="640"/>](https://deoccupywallst.com)
+[<img src="imgs/centralized-stock-exchange-quandaries.png" alt="centralized-stock-exchange-quandaries" width="640"/>](https://deoccupywallst.com)
 
 We're tackling an unprecedented common enemy with a unique ability to buy their way out of every past catastrophe. As someone that didn't attend Meridian [due to cost](https://discord.com/channels/761985725453303838/1275450859404267612/1282436597715042307), I believe so wholeheartedly that the unique community consensus methods employed by Stellar can sincerely replace their broker monopolies. Might we contemplate further how employing a regulation-aware development strategy could best serve us?
 

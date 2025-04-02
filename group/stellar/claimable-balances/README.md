@@ -12,7 +12,7 @@ Before diving into this post, I'd like to shine a spotlight on @ankeliu. Anke ha
 
 The deployment of NQG on Soroban represents a significant leap forward in our quest for a more democratic and transparent decision-making process. By integrating reputation-based voting power with the flexibility of opt-in group delegation, NQG sets a new standard for governance models. 🗳️ It ensures that every voice within our community can be heard and valued, paving the way for a more inclusive and equitable future.
 
-[<img width="450" alt="NQG-meme" src="https://github.com/user-attachments/assets/5d0f87a6-2b0e-4b26-a702-bcd6091cd4d7">](https://en.wikipedia.org/wiki/Open_government)
+[<img width="450" alt="NQG-meme" src="imgs/nqg-gov-meme.png">](https://en.wikipedia.org/wiki/Open_government)
 
 The journey to develop and implement NQG has been nothing short of remarkable.[^anke_work] It embodies countless hours of research, an undeniable large commitment of financial resources, and generous community involvement and data shaping.[^anke_efforts] Anke's vision and perseverance have been the guiding force behind this initiative, transforming it from a conceptual framework into a tangible, open-source reality [now available on mainnet](https://medium.com/stellar-community/scfs-implementation-of-nqg-on-mainnet-open-source-08ca1656cfc8). 🥂
 
@@ -97,7 +97,7 @@ Might the network continue adopting a dual approach to data storage:
 
 Implementing a rent-based storage model for this type of data addresses the issue of state bloat and ensures sustainable network performance. Soroban's approach to state expiration exemplifies this strategy, incentivizing efficient storage management as well as commonplace execution runtimes:
 
-[![state-bloat](https://github.com/user-attachments/assets/6a48ddfd-b63b-4a30-8699-2406e129c791)](https://consensus2024.coindesk.com/agenda/event/-performance-meets-scale-state-archival-and-multidimensional-fees-355)
+[![state-bloat](imgs/state-bloat-meme.png)](https://consensus2024.coindesk.com/agenda/event/-performance-meets-scale-state-archival-and-multidimensional-fees-355)
 
 Because CBs are not Soroban contracts, I believe it bears reiterating Soroban's common objectives:
 
@@ -147,7 +147,7 @@ Lastly, the related cost per CB issue seems similar to unknowing conundrum of se
 
 As many other members I've talked to, the community's relentless humanitarian mission inspired, astounded, and enticed my imagination. Never would I imagine such care from a financial protocol when learning about the existing banking system as a kid. Our community is now planting the seeds for what might just grow into the world's most stable oak. 🌳
 
-[<img width="450" alt="collective-impact" src="https://github.com/user-attachments/assets/9434007f-f3e6-4b66-8d13-2dc4e68b855d">](https://en.wikipedia.org/wiki/Stellar_(payment_network)#cite_ref-30)
+[<img width="450" alt="collective-impact-roots" src="imgs/collective-impact-tree.png">](https://en.wikipedia.org/wiki/Stellar_(payment_network)#cite_ref-30)
 
 Let me know if this line of reasoning makes sense to you. Would love to hear how you approach any stellar principles, involvement, and adoption.[^status_quo] Claimable balances are a technological marvel that give us a real opportunity to displace incumbent oligopolies through innovation. 🌱
 
