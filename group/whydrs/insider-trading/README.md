@@ -79,7 +79,7 @@ Clearly, we aren’t building these new systems to foster increased government o
 Every company starts as an idea in someone’s head. In other words, 100% of the first company employees have insider knowledge, largely because the actual product might not even be built yet. 💭 Accordingly, early pitches clearly represent an insider conveying their knowledge to an investor until they can convince them to pay money for a chance at a dream. 🙇🏽‍♂️ For example:
 ***
 
-[![Video](imgs/brian-chesky-story.png)](https://youtu.be/ZU8MP3vVE4s)
+[<img width="320" alt="Video" src="imgs/brian-chesky-story.png">](https://youtu.be/ZU8MP3vVE4s)
 
 ### Securities Anti-Fraud Laws Hold Issuers Accountable 🛡️
 
