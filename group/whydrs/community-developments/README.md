@@ -7,7 +7,7 @@ dialog: https://lemmy.whynotdrs.org/post/1421770 & https://discord.com/channels/
 # Re: Discord Community Developments & Our Nonprofit Growth
 
 <!--- make landscape if you can AI expand here --->
-![cover](https://lemmy.whynotdrs.org/pictrs/image/d478c769-4dac-43f9-a52e-e9146113eaba.webp) 
+<img width="450" alt="cover" src="imgs/hammer-n-nail.png">
 
 It's been a very active week as many of us turn to WhyDRS with increasing fervor. 🤝 From what I've seen, that means more time, effort, and thought put into our next steps. There's a long road ahead, as we've all discovered these past few years imo. Incredible to think how much we can all accomplish together. 🛤
 
@@ -197,7 +197,8 @@ If Block Transfer is the transfer agent for issuers in question, then we could t
 
 # 10. Local Transfer Restrictions
 
-![certificate](https://lemmy.whynotdrs.org/pictrs/image/3c91ae1c-a9f7-4df0-9630-c317e8b81ca1.webp)
+[<img width="280" alt="local-certificate" src="imgs/jack-box-certificate.png">](imgs/jack-box-certificate.png)
+
 > I believe this is a list of the cities you can transfer certificates from one person to another.  I hadn’t seen a list like this before.
 >
 > &mdash; [6days1week](https://discord.com/channels/955819881989808128/1141860946302734336/1236392655835893801)
