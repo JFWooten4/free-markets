@@ -35,7 +35,8 @@ Let’s talk more about digital assets in the comments. 💬 I think Ethereum’
 
 Insider trading laws have a relatively interesting history, which warrants a scholarly introduction:
 ***
-[![Video](imgs/classroom-insider-laws.png)](https://youtu.be/ho0![alt text](<Screenshot 2025-04-02 at 6.37.05 PM.png>)dDT1drns)
+
+[<img width="420" alt="Video" src="imgs/classroom-insider-laws.png">](https://youtu.be/ho0dDT1drns)
 
 ### Our Current Rules Evolved from State to Federal Law 📜
 
