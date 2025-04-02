@@ -6,7 +6,7 @@ dialog: https://github.com/orgs/WhyDRS/discussions/16
 
 # WhyDRS at Structured Finance Association's 2025 SFVegas
 
-[<img width="580" alt="embed-placeholder-raw-notes" src="https://github.com/user-attachments/assets/9ce3e254-b10e-4cff-9fc0-d0d7177fce2b">](https://github.com/JFWooten4/free-markets/pull/41/commits/6269f0281a0d18c4d0c3cdd016c708b033be4da2)
+[<img width="580" alt="embed-placeholder-raw-notes" src="imgs/video-pending-image.png">](https://github.com/JFWooten4/free-markets/pull/41/commits/6269f0281a0d18c4d0c3cdd016c708b033be4da2)
 
 Firstly, thanks to the community for [voting](https://discord.com/channels/1102309240145707049/1122936843537764352/1310304779788095599) me to represent the movement at our first "official" industry event. I know a lot of apes have tried (and sometimes succeeded) at getting into closed-door events like these before on an individual basis. Hopefully, this involvement feature can inspire increasing upcoming public media involvement and industry activism.[^light-ex]
 
