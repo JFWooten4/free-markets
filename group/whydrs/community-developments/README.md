@@ -219,7 +219,7 @@ Given the global desire to own American securities and the widespread use of dig
 
 This extends the broker implications from #1 and the SEC's historic leniency on Plans, as discussed. Relevantly, companies can choose their agent or another tabulation monopoly to manage and inspect the vote per [discussion thereto](https://discord.com/channels/955819881989808128/1092773217187401758/1232702462599761940). The implication from the EDGAR link there falls onto Delaware courts, where everyone operates from. When they rule the partial shares valid under the standard pretense of property rights, then the voting implications expand greatly depending on how honest your outsourced master and book tabulator [decides to act](https://discord.com/channels/1102309240145707049/1102309240741310503/1235236333291704360), given no meaningful regulation over "black box" voting results. I don't see a way to fix this without [completely digital votes](https://patent.jfwooten4.com). 🗳
 
-![larrybitterman](https://lemmy.whynotdrs.org/pictrs/image/9ace5d68-0597-48c7-9376-ec62d0a8ed23.webp)
+[<img width="640" alt="larrybitterman" src="imgs/duplicate-vote-mailings.png">](imgs/duplicate-vote-mailings.png)
 
 [Environmental impacts](https://discord.com/channels/1102309240145707049/1102309240741310503/1237167774053171262) 🌍
 

@@ -35,7 +35,7 @@ Let’s talk more about digital assets in the comments. 💬 I think Ethereum’
 
 Insider trading laws have a relatively interesting history, which warrants a scholarly introduction:
 ***
-[![Video](https://lemmy.whynotdrs.org/pictrs/image/a94427bd-be11-4845-b0d5-24f5ef7b58ec.jpeg)](https://youtu.be/ho0dDT1drns)
+[![Video](imgs/classroom-insider-laws.png)](https://youtu.be/ho0![alt text](<Screenshot 2025-04-02 at 6.37.05 PM.png>)dDT1drns)
 
 ### Our Current Rules Evolved from State to Federal Law 📜
 
@@ -77,8 +77,8 @@ Clearly, we aren’t building these new systems to foster increased government o
 
 Every company starts as an idea in someone’s head. In other words, 100% of the first company employees have insider knowledge, largely because the actual product might not even be built yet. 💭 Accordingly, early pitches clearly represent an insider conveying their knowledge to an investor until they can convince them to pay money for a chance at a dream. 🙇🏽‍♂️ For example:
 ***
-[
-![Video](https://lemmy.whynotdrs.org/pictrs/image/1a052b95-609e-4502-898c-df138f6d0e23.png)](https://youtu.be/ZU8MP3vVE4s)
+
+[![Video](imgs/brian-chesky-story.png)](https://youtu.be/ZU8MP3vVE4s)
 
 ### Securities Anti-Fraud Laws Hold Issuers Accountable 🛡️
 
@@ -94,7 +94,8 @@ Early employees often wear all hats at a startup. Say over 80% of these employee
 
 However, many private offering registrations or exemptions rely on unspecific compliance data. That makes it hard to ensure comprehensive reliance on current laws. 📄 Take for example a timeline of statements needed in some 506(b) placements with unaccredited investors:
 ***
-![](https://lemmy.whynotdrs.org/pictrs/image/6462280d-a817-46ab-b9a7-2dabb202a02c.jpeg)
+
+<img width="640" alt="506b unaccredited financials" src="imgs/506b-unaccredited-financials.png">
 
 ### Lack of Clarity 🤔
 
