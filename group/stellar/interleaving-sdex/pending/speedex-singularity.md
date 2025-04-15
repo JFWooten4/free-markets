@@ -1,4 +1,7 @@
 - https://x.com/kalepail/status/1907254946820432289
+
+> Fragmentation can reduce _*static trading costs*_ via competition, but can also undermine liquidity by enabling arbitrage that makes market-making riskier.
+
 - "Compared to the prevailing duopoly, we predict the counterfactual monopoly spread to be 23% lower." from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2782692
   - University of British Columbia
   - Northwestern University
