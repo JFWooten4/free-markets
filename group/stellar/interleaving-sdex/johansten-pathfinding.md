@@ -4,6 +4,20 @@ submit: 15 May 2024
 dialog: https://github.com/stellar/stellar-docs/issues/1545
 ~~~
 
+```drafting
+GOAL: Johan thwoign together a simple individual page section on pathfinding
+WHY: JH is na expert  on the  cpore pathfind algo,m  and  someone who deeply resposects hte Core efficincy.
+
+A  lot  pof people look at the  DEX and see remmitance oppoortujnities,  perhaps not  fulyl comprehending  how absolutely  insane 
+
+```
+
+href:
+- dissalow on XRPL  at  https://github.com/XRPLF/rippled/issues/1257#issuecomment-670095772
+- "I believe path payments to be one of the most interesting and important aspects of the Stellar blockchain." — [Tyler](https://youtu.be/KzlSgSPStz8?t=164)
+  - because theyt "allow you to do a lot of theraet things you erreally couldnt do witho ut a lo t of headlzchac e [not sic]
+- diredct  arb  form https://github.com/stellar/stellar-core/pull/1077  whcih  is  fropm past  questikoninkg  at  https://github.com/stellar-deprecated/horizon/issues/229 (finding  stellar-core bug)
+
 re orgiignal convo doc'd at 
 
 ### Best Execution
