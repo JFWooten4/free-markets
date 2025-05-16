@@ -12,13 +12,53 @@ A  lot  pof people look at the  DEX and see remmitance oppoortujnities,  perhaps
 
 ```
 
+
+appreciated past work pre-CAP-3: https://github.com/stellar/stellar-protocol/issues/36#issuecomment-396448926
+staring, we have work prior CAP3 for credit-reminints of Ripple FTDs (JedX3 def.)
+bascically prior work promoting liquidity o support DEX stability via debit backs
+
+Horizon’s pathfinding to determine the path before coore consensus
+(differenes here between limiting core routes for AtomicResps)
+Doesnt document auto-routing of markt limit orders at all
+undelying reliance on pathfinding intermediaties (SB)
+
+Since you referenced me, and my custom pathfinder, is that something you think could be used as a start? From what I remember that's about a page of code, the central parts. I have no idea what Horizon ended up using after they rewrote it, but I'm assuming a depth-first search, just as I used.
+
+Starting with X amount of asset A as a source asset, trying to get to B:
+
+You enumerate all assets you can trade to in one step, be it DEX order books, or AMMs.
+For each asset in step 1, you calculate how much of this asset the trade gets you.
+If you've encountered this asset before, and your total was higher then, move on to the next asset, because you already got here in a cheaper way, and continuing on this path is a waste of time.
+If there's not enough liquidity, you stop, and move on to the next asset.
+If the asset is B, record the path it took you to get here
+Unless you've exhausted all the hops, go to step 1 but with this current asset as your source asset.
+When you've enumerated all you can, your best path from A to B is the last path recorded in step 3.
+Dumbed down a bit: you start trying all possible paths you can go from A, but you stop each path if there's not enough liquidity, or if you've been to an asset before and you got there in a cheaper way.
+
+
+
+
+
+
 href:
 - dissalow on XRPL  at  https://github.com/XRPLF/rippled/issues/1257#issuecomment-670095772
 - "I believe path payments to be one of the most interesting and important aspects of the Stellar blockchain." — [Tyler](https://youtu.be/KzlSgSPStz8?t=164)
   - because theyt "allow you to do a lot of theraet things you erreally couldnt do witho ut a lo t of headlzchac e [not sic]
 - diredct  arb  form https://github.com/stellar/stellar-core/pull/1077  whcih  is  fropm past  questikoninkg  at  https://github.com/stellar-deprecated/horizon/issues/229 (finding  stellar-core bug)
 
+
+
+
+new page at https://github.com/stellar/stellar-docs/tree/main/docs/learn/encyclopedia/sdex
+
+
+
+
+
+
+
 re orgiignal convo doc'd at 
+
 
 ### Best Execution
 The orderbook only matches offers at the price specified or better, when avaliable. For instance, say there are four buyers offering 10 bananas per apple. You can sell an apple for 7 bananas, and the offer automatically exchanges for the higher 10 bananas.
