@@ -54,10 +54,46 @@ new page at https://github.com/stellar/stellar-docs/tree/main/docs/learn/encyclo
 
 
 
+damn we have mor:
+I want them to be used *everywhere*, as much as possible. Not, "we really should tell remittance apps to use path payments". *Everywhere*.
+Why shouldn't you get the option to use your smartlands to pay for your parking? I mean, why isn't that the *default*?
+
+So, I want to turn everything up to the max, and work my way backwards to see how we can make it happen.
+
+Stargazer is path payments *only*, and practically unusable at the moment because of it, because path finding has exploded in execution time primarily due to NFTs. So I had to write my own pathfinder, and now it's doing OK.
+
+If you look at it from a UX perspective, you're not doing one path find call per payment. If path finding is instant, you're maybe doing one per digit. If it's almost instant, you're maybe doing *ten* per digit. So you have to sit down and think things through really hard.
+--- https://groups.google.com/g/stellar-dev/c/wToe6YE2xfU/m/m6bvzXp0BQAJ
 
 
 
-re orgiignal convo doc'd at 
+really thought through tthe depths like
+Well I suppose that if auth_required means you can't hold or trade an asset without authorization, then logically you shouldn't be able to use it into path payment at all.
+Johan Stén's profile photo
+Johan Stén<johan.sten@gmail.com>
+unread,
+Oct 16, 2018, 10:28:08 AM
+to mister.ticot@gmail.com, stellar-dev@googlegroups.com
+If that's the case, I don't see how Lightning will *ever* work, since that is basically the same setup -- a payment going through a chain of intermediaries.
+
+Should or shouldn't, path payments *do* work that way now. I rely on it a couple of times a month, myself.
+
+
+
+
+
+ss!!! We have Ticot reffering to XLM as unicversal base asset just like Garand at 
+https://groups.google.com/g/stellar-dev/c/4t_Z7dkRhSc/m/SdZqCNdaBAAJ )where Jhan jiumps in wiht the pathfinding algorithm implnentation way back in '18)
+fuck man
+[Garand's comments] that "Where soroban dex potentially fits into this picture is if you want to trade asset a in speedx 0 for asset b in speedx 1, you can't do that directly since they're in different speedx's. The way the speedx works, no asset can be in multiple speedx's, except for the lumen, which is in all speedx's. So you can trade asset a for lumens in ledger 0, then trade lumens for asset b in ledger 1. Or alternatively, trade directly via soroban dex, which would be more expensive and less effecient but provide more trading pairs" which is followed up with "to prevent liquidity fragmentation and arbitrage,"
+
+
+
+we have path payments specifically referenced by core team as a means to creat IoC orders at https://groups.google.com/g/stellar-dev/c/zks0oi4v-7g/m/sbw5vtstCwAJ
+
+
+
+## 723 commetns
 
 
 ### Best Execution
