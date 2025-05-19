@@ -29,3 +29,11 @@ unstructured raw flows:
 
 _See also_ proprietary smart swap implementation for how much $?
 in re smart swap and such for the elabroation on protprietarity
+
+
+---
+
+Core David promoting deep liquidity (implicating permanent offers) at https://groups.google.com/g/stellar-dev/c/LIFvbMi9jPo/m/NkjrfZAnAQAJ
+later predicts that "people just creating bogus assets to collect the reward."
+
+_See also_ https://scopuly.com/pools as FOSS e
