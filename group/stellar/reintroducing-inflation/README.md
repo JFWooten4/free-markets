@@ -2,3 +2,6 @@
 - "Just imagine if governments start to distribute inflation funds to the largest corporations instead of investing them to the scientific and social projects."
 - "There is no [~~]simple[~~] way to automatically distribute rewards to market makers,[...] crucial network validators, important ecosystem projects."
 - "we can re-enable the inflation mechanism again in a decade or so, but we'll have a much better understanding of how to implement it right." ✅
+
+https://discord.com/channels/897514728459468821/1082054027317096478/1372032484988026891
+jusis

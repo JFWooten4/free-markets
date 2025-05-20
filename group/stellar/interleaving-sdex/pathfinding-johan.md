@@ -11,7 +11,20 @@ WHY: JH is na expert  on the  cpore pathfind algo,m  and  someone who deeply res
 A  lot  pof people look at the  DEX and see remmitance oppoortujnities,  perhaps not  fulyl comprehending  how absolutely  insane 
 
 ```
+https://github.com/stellar/stellar-docs/pull/1496
+Manage data public info 
 
+
+# "Finding out where the boundaries are, and going beyond them
+
+# [very direct repsonse to tx ordering](https://discord.com/channels/897514728459468821/907476473739354153/1273108124194050140) <!-- rte Justin href here , too -->
+
+# [most people don't understand trust](https://discord.com/channels/897514728459468821/905516645408182343/1366230106892140646)
+"in reality the way it's done on the social layer of it pushes it towards centralization, because most people don't understand trust, or think through what it means to trust someone in this context, and they just go with the validators already trusted by others, so you get a power-law effect
+
+## pastg obs of "blocks were full of failed swaps" and the implications there {https://discord.com/channels/897514728459468821/966788672164855829/1372005962503815219}
+segues to arbitradfe difgscussions
+just prior we have Rahim (TAG RE 1558!!!) sasying "some changes to core to filter out some of the arb transactions"
 
 appreciated past work pre-CAP-3: https://github.com/stellar/stellar-protocol/issues/36#issuecomment-396448926
 staring, we have work prior CAP3 for credit-reminints of Ripple FTDs (JedX3 def.)
