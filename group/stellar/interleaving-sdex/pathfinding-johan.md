@@ -15,8 +15,8 @@ THath's the  easy explanation:  nobody can directly trasnact with  each other  s
 
 
 
-
-
+https://youtu.be/bP74RBTE8kI?t=406
+^ the problem with the stock makret
 
 
 
