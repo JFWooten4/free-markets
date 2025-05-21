@@ -1,23 +1,50 @@
 ~~~
 status: Draft
-submit: 15 May 2024
+submit: 21 May 2024
 dialog: https://github.com/stellar/stellar-docs/issues/1545
 ~~~
 
-```drafting
-GOAL: Johan thwoign together a simple individual page section on pathfinding
+
+Hi Johan,
+
+Based o n l imited i nvestigation, [your  ijmpolmentation](https://github.com/future-tense/stellar-pathfinder-server)  might just b e the  first  custom pathfiniding  imkpolmenetation. Pathfinding matters a lot  oin the  traditioknal  financial  systme, which perhaps  you've seen firsthand  with extractive conversion  rates.  Access  to exchanges  thesmlseves  is one main  reason I've found  increasing costs through middlemen  over the years.
+
+THath's the  easy explanation:  nobody can directly trasnact with  each other  sans brokers. But  pathfinding is  hte  more sinister hidden  evil  corrupting Wall Street  andd others.  Given  itss significantce  and  ccmmon misunderstandings, I'd  sincerely  appreciate your h elp ccontinuing [past efforts](https://wooten.link/liquidity). 💜
+
+## Existing Limitations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://dx.doi.org/10.1017/S0022109019000814
+dupoluy
+
+
+
 WHY: JH is na expert  on the  cpore pathfind algo,m  and  someone who deeply resposects hte Core efficincy.
 
 A  lot  pof people look at the  DEX and see remmitance oppoortujnities,  perhaps not  fulyl comprehending  how absolutely  insane 
 
-```
-https://github.com/stellar/stellar-docs/pull/1496
-Manage data public info 
 
 
 # "Finding out where the boundaries are, and going beyond them
 
-# [very direct repsonse to tx ordering](https://discord.com/channels/897514728459468821/907476473739354153/1273108124194050140) <!-- rte Justin href here , too -->
+# [very direct repsonse to tx ordering](https://discord.com/channels/897514728459468821/907476473739354153/1273108124194050140)
+"Is that really true though? I know Ripple had issues w/ people front running trades just by pushing txs w/ hashes they had generated in the required ranges. IIRC they added the set of all included txs to the hashing so it was still deterministic. IIRC Stellar did some similar update 
+(I.e.. sort on hash(hash(tx) | hash(all tx hashes, sorted))) 
+
 
 # [most people don't understand trust](https://discord.com/channels/897514728459468821/905516645408182343/1366230106892140646)
 "in reality the way it's done on the social layer of it pushes it towards centralization, because most people don't understand trust, or think through what it means to trust someone in this context, and they just go with the validators already trusted by others, so you get a power-law effect
@@ -64,6 +91,8 @@ href:
 
 new page at https://github.com/stellar/stellar-docs/tree/main/docs/learn/encyclopedia/sdex
 
+#1496
+Manage data public info 
 
 
 
