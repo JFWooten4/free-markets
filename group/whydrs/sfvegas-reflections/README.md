@@ -6,11 +6,13 @@ dialog: https://github.com/orgs/WhyDRS/discussions/16
 
 # WhyDRS at Structured Finance Association's 2025 SFVegas
 
-[<img width="580" alt="embed-placeholder-raw-notes" src="imgs/video-pending-image.png">](https://github.com/JFWooten4/free-markets/pull/41/commits/6269f0281a0d18c4d0c3cdd016c708b033be4da2)
+[<img width="580" alt="embed-placeholder-raw-notes" src="imgs/whydrs-interim-thumbnail.png">](https://youtu.be/JcLNcEvZaXU)
 
 Firstly, thanks to the community for [voting](https://discord.com/channels/1102309240145707049/1122936843537764352/1310304779788095599) me to represent the movement at our first "official" industry event. I know a lot of apes have tried (and sometimes succeeded) at getting into closed-door events like these before on an individual basis. Hopefully, this involvement feature can inspire increasing upcoming public media involvement and industry activism.[^light-ex]
 
 I say this because the vast swath of individuals I spoke with throughout the four days cared very deeply about (i) where I was geographically from and (ii) what organization I participated in. From Congressperson to writer-reporters, these two items never failed to come up, despite my extensive outward focus on _what_ people do or _why_ they do it. Thus, the community name in this case not only opened the door to further conversation when configuring my speaking role, but it also inspired back-and-forth between people there who largely never considered retail involvement in bond placements or structured products.
+
+_Further discussed in Taking Stock [Ep. 63](https://wooten.link/ts-63)._
 
 > [!TIP]
 > Much of the reflections and notes from the conference naturally delve into [structured products](https://structuredfinance.org/about-securitization), which are generally managed exclusively by big banks, hedge funds, and other intermediaries. From my point of view, it's practically the most centralized sector of finance, which is why I find it so interesting to study and plan to convert towards a more decentralized system accessible by anyone, not just the select few hired by these middlemen. Yes, deposit-taking institutions count as middlemen, and no, I do not plan on diving into extensive granularities over particular banking business models.
