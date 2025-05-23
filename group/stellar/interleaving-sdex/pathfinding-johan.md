@@ -45,7 +45,7 @@ The exchange o f one asset to another is so simple. Yet it's the first place man
 
 ### UNbreaking Horizno
 
- There are realk challenges we'll overcome to pay for everydaay items  iwth real-world asset.s To  make this happen, we'll need stellar protocol routing. This pathfinding hodls the key  to llocking liquidity uin the DEX.
+ TWEe canm overcome our  challenges paying for everydaay items  iwth real-world asset.s 🧠 To  make this happen, we'll need stellar protocol routing. This pathfinding hodls the key  to llocking liquidity uin the DEX.
 
 
 
