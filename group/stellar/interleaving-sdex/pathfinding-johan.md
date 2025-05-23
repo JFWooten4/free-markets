@@ -33,7 +33,19 @@ The top aAmerican makret maker is opening a new stock exchange just so they can 
 
 The system is so bloated that the present regulations globally just cna't protect users from this exploitation. The governance is so difficult that the only choice s leave everyone's portfolios teetering on the trust of a select few enterprises.Conglomerates with the same isntitutional intrests who took everything from us when Nakamoto started up.
 
+But, here in core, we hve a solution which doens't  serve the rthschilds. A framework which fsvors efficiencieny,  egalitairnaism,  and excellence  at  the ighiest techinal standars. And,  quite  differnetly from even other "ecntelaize exchanges," it's  a  mdoe;l posied to  finally taker way theri choking reins.
 
+### profit  center
+
+Trust, especially in the SCP  context,  is super nuanced. Without proper safegaurds,  we risk centrlaization at the social latyer. Now, imagein that quandarey scaled to infinity  for an established  routing system.
+
+TRhat's wehat Apes sw  in 2021 when one agency  disabled stoccck trading. This Establishment handled  order orrouting  for hundreds of brokers with  more users  than  existing network accountsx. In later  Congressional investigation, they receivved no disciplinary actiopn.
+
+The exchange o f one asset to another is so simple. Yet it's the first place many companies exploit to profit off thier custoemrs. We are all  too conditioned into paying fees which  fundamentaly  confict with using path payments  everywehre.
+
+### UNbreaking Horizno
+
+ There are realk challenges we'll overcome to pay for everydaay items  iwth real-world asset.s To  make this happen, we'll need stellar protocol routing. This pathfinding hodls the key  to llocking liquidity uin the DEX.
 
 
 
@@ -47,8 +59,7 @@ A  lot  pof people look at the  DEX and see remmitance oppoortujnities,  perhaps
 
 
 
-# [most people don't understand trust](https://discord.com/channels/897514728459468821/905516645408182343/1366230106892140646)
-"in reality the way it's done on the social layer of it pushes it towards centralization, because most people don't understand trust, or think through what it means to trust someone in this context, and they just go with the validators already trusted by others, so you get a power-law effect
+
 
 ## pastg obs of "blocks were full of failed swaps" and the implications there {https://discord.com/channels/897514728459468821/966788672164855829/1372005962503815219}
 segues to arbitradfe difgscussions
@@ -95,13 +106,6 @@ new page at https://github.com/stellar/stellar-docs/tree/main/docs/learn/encyclo
 #1496
 Manage data public info 
 
-
-
-damn we have mor:
-I want them to be used *everywhere*, as much as possible. Not, "we really should tell remittance apps to use path payments". *Everywhere*.
-Why shouldn't you get the option to use your smartlands to pay for your parking? I mean, why isn't that the *default*?
-
-So, I want to turn everything up to the max, and work my way backwards to see how we can make it happen.
 
 Stargazer is path payments *only*, and practically unusable at the moment because of it, because path finding has exploded in execution time primarily due to NFTs. So I had to write my own pathfinder, and now it's doing OK.
 
