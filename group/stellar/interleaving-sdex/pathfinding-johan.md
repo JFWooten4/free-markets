@@ -23,7 +23,15 @@ I really appreciated your help understanding the DEX [last year](https://discord
 
 I regualrly exchange with the government. Represetatives d team leads sit ata curcal policy crossroads between centralized an decentralized echange. We hae a limited window to sway them towards the options that probives everyone ith the freedom to access markets .
 
+The core of existing routing happens through financial middlemen, as we know. These legacy for-profit firms can make moey skming off trades. Soktimes we see this as trading fees, and other times it's much more comlicated.
 
+One obious conflict can be front-running, which we've seen abundantly on other chins. Briefly, thishas always been a problem on Wall Street. And its still extracting wealth htnaks to thhe insane compelxity of exchange infrastrucutre .
+
+### Exsting Regulations
+
+The top aAmerican makret maker is opening a new stock exchange just so they can make more money. This works because of onstandard trade rotuing. By having more venues connected to their fiber-optic cables, the assholes can uck you over nanoseconds faster.
+
+The system is so bloated that the present regulations globally just cna't protect users from this exploitation. The governance is so difficult that the only choice s leave everyone's portfolios teetering on the trust of a select few enterprises.Conglomerates with the same isntitutional intrests who took everything from us when Nakamoto started up.
 
 
 
