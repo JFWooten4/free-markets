@@ -13,23 +13,21 @@ THath's the  easy explanation:  nobody can directly trasnact with  each other  s
 
 ## Existing Limitations
 
+I approach pathfindin fro the perspective of trasditiona stock-market order routing. This is a [really big problem](https://youtu.be/bP74RBTE8kI?t=406).[^int] Waht we hve with the DEX stads as the only option distributed as a truly free market.
 
+Th  oot of problems across markets comes from [capitalist competition](https://dx.doi.org/10.1017/S0022109019000814) for a public good and natural monopoly. The referenced study extensively finds that a single market for the tocks of the world would yield at least 20% lower effective spreads than a duolopol. Americans are all too familair with tow porminent competiting firms, but much of the same can be said abotu private excchange extrating rents abroad.
 
-https://youtu.be/bP74RBTE8kI?t=406
-^ the problem with the stock makret
+I really appreciated your help understanding the DEX [last year](https://discord.com/channels/897514728459468821/907476473739354153/1273108124194050140). Theres noone I can think of across the ecosystem more adept to explain the existing pathfinding than yourself. 💜  kow we saw some misunsetatnfings about hte xisting pathfindign in disucssions at the end flasst year in Global and a liquidity-incentive server, so how about helping clear things up for everyone?
 
+## Preset Cnfusion
 
-
-
-
-
-
-
+I regualrly exchange with the government. Represetatives d team leads sit ata curcal policy crossroads between centralized an decentralized echange. We hae a limited window to sway them towards the options that probives everyone ith the freedom to access markets .
 
 
 
-https://dx.doi.org/10.1017/S0022109019000814
-dupoluy
+
+
+
 
 
 
@@ -39,11 +37,6 @@ A  lot  pof people look at the  DEX and see remmitance oppoortujnities,  perhaps
 
 
 
-# "Finding out where the boundaries are, and going beyond them
-
-# [very direct repsonse to tx ordering](https://discord.com/channels/897514728459468821/907476473739354153/1273108124194050140)
-"Is that really true though? I know Ripple had issues w/ people front running trades just by pushing txs w/ hashes they had generated in the required ranges. IIRC they added the set of all included txs to the hashing so it was still deterministic. IIRC Stellar did some similar update 
-(I.e.. sort on hash(hash(tx) | hash(all tx hashes, sorted))) 
 
 
 # [most people don't understand trust](https://discord.com/channels/897514728459468821/905516645408182343/1366230106892140646)
@@ -111,14 +104,8 @@ If you look at it from a UX perspective, you're not doing one path find call per
 
 really thought through tthe depths like
 Well I suppose that if auth_required means you can't hold or trade an asset without authorization, then logically you shouldn't be able to use it into path payment at all.
-Johan Stén's profile photo
-Johan Stén<johan.sten@gmail.com>
-unread,
-Oct 16, 2018, 10:28:08 AM
-to mister.ticot@gmail.com, stellar-dev@googlegroups.com
-If that's the case, I don't see how Lightning will *ever* work, since that is basically the same setup -- a payment going through a chain of intermediaries.
 
-Should or shouldn't, path payments *do* work that way now. I rely on it a couple of times a month, myself.
+
 
 
 
@@ -127,12 +114,13 @@ Should or shouldn't, path payments *do* work that way now. I rely on it a couple
 ss!!! We have Ticot reffering to XLM as unicversal base asset just like Garand at 
 https://groups.google.com/g/stellar-dev/c/4t_Z7dkRhSc/m/SdZqCNdaBAAJ )where Jhan jiumps in wiht the pathfinding algorithm implnentation way back in '18)
 fuck man
+
 [Garand's comments] that "Where soroban dex potentially fits into this picture is if you want to trade asset a in speedx 0 for asset b in speedx 1, you can't do that directly since they're in different speedx's. The way the speedx works, no asset can be in multiple speedx's, except for the lumen, which is in all speedx's. So you can trade asset a for lumens in ledger 0, then trade lumens for asset b in ledger 1. Or alternatively, trade directly via soroban dex, which would be more expensive and less effecient but provide more trading pairs" which is followed up with "to prevent liquidity fragmentation and arbitrage,"
 
 
 
 we have path payments specifically referenced by core team as a means to creat IoC orders at https://groups.google.com/g/stellar-dev/c/zks0oi4v-7g/m/sbw5vtstCwAJ
-
+ 
 
 
 ## 723 commetns
@@ -153,3 +141,5 @@ Both the order book and AMMs coexist, providing multiple avenues for liquidity. 
 
 
 also we have the nbew section titling as `Conversion Liquifdity`
+
+[^int]: Whl tis vieo focuses on the American market where I work, the problem is just as bad everywhere else on the planet. Adn for the countries not fortunate aenough to have a central stokc exchange , we see the horrific affets f malinvestment and unfune innovation. I think it'd be cool if the whole world was on the same playing field hwen it comes to euntrperenurial creativity, the core tenneanrt of a marketplace for capital.
