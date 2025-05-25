@@ -7,45 +7,46 @@ dialog: https://github.com/stellar/stellar-docs/issues/1545
 
 Hi Johan,
 
-Based o n l imited i nvestigation, [your  ijmpolmentation](https://github.com/future-tense/stellar-pathfinder-server)  might just b e the  first  custom pathfiniding  imkpolmenetation. Pathfinding matters a lot  oin the  traditioknal  financial  systme, which perhaps  you've seen firsthand  with extractive conversion  rates.  Access  to exchanges  thesmlseves  is one main  reason I've found  increasing costs through middlemen  over the years.
+Based on limited investigation, [your implementation](https://github.com/future-tense/stellar-pathfinder-server) might just be the first custom pathfinding implementation. Pathfinding matters a lot in the traditional financial system—which perhaps you've seen firsthand with extractive conversion rates. Access to exchanges themselves is one main reason I’ve found increasing costs through middlemen over the years.
 
-THath's the  easy explanation:  nobody can directly trasnact with  each other  sans brokers. But  pathfinding is  hte  more sinister hidden  evil  corrupting Wall Street  andd others.  Given  itss significantce  and  ccmmon misunderstandings, I'd  sincerely  appreciate your h elp ccontinuing [past efforts](https://wooten.link/liquidity). 💜
+That’s the easy explanation: nobody can directly transact with each other sans brokers. But pathfinding is the more sinister hidden evil corrupting Wall Street and others. Given its significance and common misunderstandings, I’d sincerely appreciate your help continuing [past efforts](https://wooten.link/liquidity). 💜
 
 ## Existing Limitations
 
-I approach pathfindin fro the perspective of trasditiona stock-market order routing. This is a [really big problem](https://youtu.be/bP74RBTE8kI?t=406).[^int] Waht we hve with the DEX stads as the only option distributed as a truly free market.
+I approach pathfinding from the perspective of traditional stock-market order routing. This is a [really big problem](https://youtu.be/bP74RBTE8kI?t=406).[^int] What we have with the DEX stands as the only option distributed as a truly free market.
 
-Th  oot of problems across markets comes from [capitalist competition](https://dx.doi.org/10.1017/S0022109019000814) for a public good and natural monopoly. The referenced study extensively finds that a single market for the tocks of the world would yield at least 20% lower effective spreads than a duolopol. Americans are all too familair with tow porminent competiting firms, but much of the same can be said abotu private excchange extrating rents abroad.
+The root of problems across markets comes from [capitalist competition](https://dx.doi.org/10.1017/S0022109019000814) for a public good and natural monopoly. The referenced study extensively finds that a single market for the stocks of the world would yield at least 20% lower effective spreads than a duopoly. Americans are all too familiar with two prominent competing firms, but much of the same can be said about private exchanges extracting rents abroad.
 
-I really appreciated your help understanding the DEX [last year](https://discord.com/channels/897514728459468821/907476473739354153/1273108124194050140). Theres noone I can think of across the ecosystem more adept to explain the existing pathfinding than yourself. 💜  kow we saw some misunsetatnfings about hte xisting pathfindign in disucssions at the end flasst year in Global and a liquidity-incentive server, so how about helping clear things up for everyone?
+I really appreciated your help understanding the DEX [last year](https://discord.com/channels/897514728459468821/907476473739354153/1273108124194050140). There’s no one I can think of across the ecosystem more adept at explaining the existing pathfinding than yourself. 💜 I know we saw some misunderstandings about the existing pathfinding in discussions at the end of last year in Global and a liquidity-incentive server, so how about helping clear things up for everyone?
 
-## Preset Cnfusion
+## Present Confusion
 
-I regualrly exchange with the government. Represetatives d team leads sit ata curcal policy crossroads between centralized an decentralized echange. We hae a limited window to sway them towards the options that probives everyone ith the freedom to access markets .
+I regularly exchange with the government. Representatives and team leads sit at a crucial policy crossroads between centralized and decentralized exchange. We have a limited window to sway them towards the option that provides everyone with the freedom to access markets.
 
-The core of existing routing happens through financial middlemen, as we know. These legacy for-profit firms can make moey skming off trades. Soktimes we see this as trading fees, and other times it's much more comlicated.
+The core of existing routing happens through financial middlemen, as we know. These legacy for-profit firms can make money skimming off trades. Sometimes we see this as trading fees, and other times it's much more complicated.
 
-One obious conflict can be front-running, which we've seen abundantly on other chins. Briefly, thishas always been a problem on Wall Street. And its still extracting wealth htnaks to thhe insane compelxity of exchange infrastrucutre .
+One obvious conflict can be front-running, which we’ve seen abundantly on other chains. Briefly, this has always been a problem on Wall Street. And it’s still extracting wealth thanks to the insane complexity of exchange infrastructure.
 
-### Exsting Regulations
+### Existing Regulations
 
-The top aAmerican makret maker is opening a new stock exchange just so they can make more money. This works because of onstandard trade rotuing. By having more venues connected to their fiber-optic cables, the assholes can uck you over nanoseconds faster.
+The top American market maker is opening a new stock exchange just so they can make more money. This works because of nonstandard trade routing. By having more venues connected to their fiber-optic cables, the assholes can fuck you over nanoseconds faster.
 
-The system is so bloated that the present regulations globally just cna't protect users from this exploitation. The governance is so difficult that the only choice s leave everyone's portfolios teetering on the trust of a select few enterprises.Conglomerates with the same isntitutional intrests who took everything from us when Nakamoto started up.
+The system is so bloated that the present regulations globally just can’t protect users from this exploitation. The governance is so difficult that the only choice is to leave everyone’s portfolios teetering on the trust of a select few enterprises—conglomerates with the same institutional interests who took everything from us when Nakamoto started up.
 
-But, here in core, we hve a solution which doens't  serve the rthschilds. A framework which fsvors efficiencieny,  egalitairnaism,  and excellence  at  the ighiest techinal standars. And,  quite  differnetly from even other "ecntelaize exchanges," it's  a  mdoe;l posied to  finally taker way theri choking reins.
+But here in Core, we have a solution which doesn’t serve the Rothschilds. A framework which favors efficiency, egalitarianism, and excellence at the highest technical standards. And, quite differently from even other “decentralized exchanges,” it’s a model poised to finally take away their choking reins.
 
-### profit  center
+### Profit Center
 
-Trust, especially in the SCP  context,  is super nuanced. Without proper safegaurds,  we risk centrlaization at the social latyer. Now, imagein that quandarey scaled to infinity  for an established  routing system.
+Trust, especially in the SCP context, is super nuanced. Without proper safeguards, we risk centralization at the social layer. Now, imagine that quandary scaled to infinity for an established routing system.
 
-TRhat's wehat Apes sw  in 2021 when one agency  disabled stoccck trading. This Establishment handled  order orrouting  for hundreds of brokers with  more users  than  existing network accountsx. In later  Congressional investigation, they receivved no disciplinary actiopn.
+That’s what Apes saw in 2021 when one agency disabled stock trading. This Establishment handled order routing for hundreds of brokers with more users than existing network accounts. In later Congressional investigation, they received no disciplinary action.
 
-The exchange o f one asset to another is so simple. Yet it's the first place many companies exploit to profit off thier custoemrs. We are all  too conditioned into paying fees which  fundamentaly  confict with using path payments  everywehre.
+The exchange of one asset to another is so simple. Yet it’s the first place many companies exploit to profit off their customers. We are all too conditioned into paying fees which fundamentally conflict with using path payments everywhere.
 
-### UNbreaking Horizno
+### UNbreaking Horizon
 
- TWEe canm overcome our  challenges paying for everydaay items  iwth real-world asset.s 🧠 To  make this happen, we'll need stellar protocol routing. This pathfinding hodls the key  to llocking liquidity uin the DEX.
+We can overcome our challenges paying for everyday items with real-world assets. 🧠 To make this happen, we’ll need Stellar protocol routing. This pathfinding holds the key to unlocking liquidity in the DEX.
+
 
 
 
@@ -155,3 +156,10 @@ Both the order book and AMMs coexist, providing multiple avenues for liquidity. 
 also we have the nbew section titling as `Conversion Liquifdity`
 
 [^int]: Whl tis vieo focuses on the American market where I work, the problem is just as bad everywhere else on the planet. Adn for the countries not fortunate aenough to have a central stokc exchange , we see the horrific affets f malinvestment and unfune innovation. I think it'd be cool if the whole world was on the same playing field hwen it comes to euntrperenurial creativity, the core tenneanrt of a marketplace for capital.
+
+Starting with X amount of asset A as a source asset, trying to get to B:
+
+
+I have no idea what Horizon ended up using after they rewrote it, but I'm assuming a depth-first search
+
+Dumbed down a bit: you start trying all possible paths you can go from A, but you stop each path if there's not enough liquidity, or if you've been to an asset before and you got there in a cheaper way
