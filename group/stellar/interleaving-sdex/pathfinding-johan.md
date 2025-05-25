@@ -72,57 +72,10 @@ Given your  experince, would y ou be ever  so kind as to conisder adding a page 
 
 
 
-Horizon’s pathfinding to determine the path before coore consensus
-(differenes here between limiting core routes for AtomicResps)
-Doesnt document auto-routing of markt limit orders at all
-undelying reliance on pathfinding intermediaties (SB)
 
 
 
 
-
-
-
-
-
-
-- diredct  arb  form https://github.com/stellar/stellar-core/pull/1077  whcih  is  fropm past  questikoninkg  at  https://github.com/stellar-deprecated/horizon/issues/229 (finding  stellar-core bug)
-
-
-
-
-new page at https://github.com/stellar/stellar-docs/tree/main/docs/learn/encyclopedia/sdex
-
-#1496
-Manage data public info 
-
-
-Stargazer is path payments *only*, and practically unusable at the moment because of it, because path finding has exploded in execution time primarily due to NFTs. So I had to write my own pathfinder, and now it's doing OK.
-
-If you look at it from a UX perspective, you're not doing one path find call per payment. If path finding is instant, you're maybe doing one per digit. If it's almost instant, you're maybe doing *ten* per digit. So you have to sit down and think things through really hard.
---- https://groups.google.com/g/stellar-dev/c/wToe6YE2xfU/m/m6bvzXp0BQAJ
-
-
-
-really thought through tthe depths like
-Well I suppose that if auth_required means you can't hold or trade an asset without authorization, then logically you shouldn't be able to use it into path payment at all.
-
-
-
-
-
-
-
-ss!!! We have Ticot reffering to XLM as unicversal base asset just like Garand at 
-https://groups.google.com/g/stellar-dev/c/4t_Z7dkRhSc/m/SdZqCNdaBAAJ )where Jhan jiumps in wiht the pathfinding algorithm implnentation way back in '18)
-fuck man
-
-[Garand's comments] that "Where soroban dex potentially fits into this picture is if you want to trade asset a in speedx 0 for asset b in speedx 1, you can't do that directly since they're in different speedx's. The way the speedx works, no asset can be in multiple speedx's, except for the lumen, which is in all speedx's. So you can trade asset a for lumens in ledger 0, then trade lumens for asset b in ledger 1. Or alternatively, trade directly via soroban dex, which would be more expensive and less effecient but provide more trading pairs" which is followed up with "to prevent liquidity fragmentation and arbitrage,"
-
-
-
-we have path payments specifically referenced by core team as a means to creat IoC orders at https://groups.google.com/g/stellar-dev/c/zks0oi4v-7g/m/sbw5vtstCwAJ
- 
 
 
 ## 723 commetns
@@ -142,23 +95,12 @@ When sending path payments, your transfer can hop between up to six order books 
 Both the order book and AMMs coexist, providing multiple avenues for liquidity. Instead of having to choose whether to go through the order book or an AMM, the pathfinding algorithm automatically checks both sources of liquidity and executes new trades using whichever offers the better rate. It also exchanges with an AMM over an order book at each step if the entire conversation happens at a price equal to or better than limit offers.
 
 
-also we have the nbew section titling as `Conversion Liquifdity`
+
 
 [^int]: Whl tis vieo focuses on the American market where I work, the problem is just as bad everywhere else on the planet. Adn for the countries not fortunate aenough to have a central stokc exchange , we see the horrific affets f malinvestment and unfune innovation. I think it'd be cool if the whole world was on the same playing field hwen it comes to euntrperenurial creativity, the core tenneanrt of a marketplace for capital.
-
-
-
-
-
-Dumbed down a bit: you start trying all possible paths you can go from A, but you stop each path if there's not enough liquidity, or if you've been to an asset before and you got there in a cheaper way
-
-
-
-
-
 
 [^xc]: I rmemeber  trying to learn HTML andd CSS i n hgih school should onlien  courses. I was  so bad at it that I'd starte at coding screens  for hours jsut to  get  simple headings to render. And  dont' even get me  started on the hnumber of hours I've spent troubleshooting Truffle, literally just to compile code.
 
 [^jed]: Notably, Jed  suggests o ffloading  orderbook  cleanup to service providers processing  informatiuon  updates which are  "expensive  to prevent." We ahve seen  this sasme argument made for native pathfinding, and  I would suggest communtiy members contemplating routing services ask themselves what might happen  to the Remarkable  existing liquidty  of  all ysers had  to use "StellarBroker.com" Inc. I love the debiting DEX stability we [uniquely](https://github.com/XRPLF/rippled/issues/1257) enjoy.
 
-[^terminus]: _See, e.g.,_ how Tyler [believes](https://youtu.be/KzlSgSPStz8?t=164) "path payments to be one of the most interesting and important aspects of the Stellar blockchain."  Even  your own past  work with  Stargazerr dove  into the  detials  at  a level  unomcmmon  throughout network alpplcications. 🚀 
+[^terminus]: _See, e.g.,_ how Tyler [believes](https://youtu.be/KzlSgSPStz8?t=164) "path payments to be one of the most interesting and important aspects of the Stellar blockchain."  Even  your own past  work with  Stargazerr dove  into the  detials  at  a level  unomcmmon  throughout network alpplcications. 🚀  _See also_ the core  team [referencing](https://groups.google.com/g/stellar-dev/c/zks0oi4v-7g/m/sbw5vtstCwAJ)  path payments  as a  means  to implement FoK orders  common  in  isntutuiional adoptionps of market-making algorithms.
