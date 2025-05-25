@@ -43,60 +43,49 @@ That’s what Apes saw in 2021 when one agency disabled stock trading. This Esta
 
 The exchange of one asset to another is so simple. Yet it’s the first place many companies exploit to profit off their customers. We are all too conditioned into paying fees which fundamentally conflict with using path payments everywhere.
 
-### UNbreaking Horizon
+### Unbreaking Horizon
 
 We can overcome our challenges paying for everyday items with real-world assets. 🧠 To make this happen, we’ll need Stellar protocol routing. This pathfinding holds the key to unlocking liquidity in the DEX.
 
+i  lvoe  eveyrthign baotu HOrizon. It's bizzare to me that  major blockchains don't  have canotical API  immplmenetations. Briefly, I'm not a massive tech guy. [^xc]
+
+But  when I lerarned baout APIs my  first year of college,, a whole neaw world  of development  opportunties unfolded  right in front of my  eyes.  It was finally p ossible  to buiild;  really  interconnected  things by using the  open  infrterdfaces pioneered  by ddedicated engieers. i feel we  have a unique oppoortuntiy to do the same, bringing masses of new energies into  the network by offering permissionless, quality infomration about the incredible protocol.
+
+## Collaboration Opportuntiy
+
+I;ve been workon on the DEX  and liquidity  pool documentation page for  a few months. in  fleshing  out the  interfacing  exmaples,  it's become abundnatly apprant that the present dopcuemnntation  does not explain  core pathfinding. I find this probalmatic becuase the select few who understand these routing nuances wind up creating  blokcs full of failed swaps while  thry wastefully send  iciuclar  conversionsto themselves  for  an  excelsss  1,500  stoops.
+
+In  [discussion](https://discord.com/channels/897514728459468821/966788672164855829/1372112718948995134), @rahimklaber comments  that "they made some changes to core to filter out some of the arb transactions. But a lot still go through" as notably protold  by Orbit during the revolutionary Procol 18 upgrades.
+
+It  is not clear what changes ahve been made over the years  to get us to `ExchangeV3`, even if someone reads  all  the CAPs  and  community postts abotu fixes.s _See_ your own exceptional [apasst work](https://github.com/stellar/stellar-protocol/issues/36#issuecomment-396448926)  cleaning up DEX certainty as just one example of something every noetwork user  has to  appreciate toay.[^jed]  While it might not look like much, non-IEIF orders literally created [our entire industry](https://www.reddit.com/r/Superstonk/comments/12fj2d7/naked_short_and_greedy_wall_streets_failure_to).
+
+Given your  experince, would y ou be ever  so kind as to conisder adding a page for pathfinding? At the risl of oversimplifying thigns,  you  can just  create a new file  with your  thoughts like in #1496. In past  discussions,  it's  becomes lclear to me that you  have  such a unique ability t o explain  complexx ttopics  susccintly, and  I  can think  of  no more  hazy  topic  throughout the  developers' site which  urgently  needs  new  clartifgicaiton.[^terminus]
 
 
 
 
 
-WHY: JH is na expert  on the  cpore pathfind algo,m  and  someone who deeply resposects hte Core efficincy.
-
-A  lot  pof people look at the  DEX and see remmitance oppoortujnities,  perhaps not  fulyl comprehending  how absolutely  insane 
 
 
 
 
 
 
-
-## pastg obs of "blocks were full of failed swaps" and the implications there {https://discord.com/channels/897514728459468821/966788672164855829/1372005962503815219}
-segues to arbitradfe difgscussions
-just prior we have Rahim (TAG RE 1558!!!) sasying "some changes to core to filter out some of the arb transactions"
-
-appreciated past work pre-CAP-3: https://github.com/stellar/stellar-protocol/issues/36#issuecomment-396448926
-staring, we have work prior CAP3 for credit-reminints of Ripple FTDs (JedX3 def.)
-bascically prior work promoting liquidity o support DEX stability via debit backs
 
 Horizon’s pathfinding to determine the path before coore consensus
 (differenes here between limiting core routes for AtomicResps)
 Doesnt document auto-routing of markt limit orders at all
 undelying reliance on pathfinding intermediaties (SB)
 
-Since you referenced me, and my custom pathfinder, is that something you think could be used as a start? From what I remember that's about a page of code, the central parts. I have no idea what Horizon ended up using after they rewrote it, but I'm assuming a depth-first search, just as I used.
-
-Starting with X amount of asset A as a source asset, trying to get to B:
-
-You enumerate all assets you can trade to in one step, be it DEX order books, or AMMs.
-For each asset in step 1, you calculate how much of this asset the trade gets you.
-If you've encountered this asset before, and your total was higher then, move on to the next asset, because you already got here in a cheaper way, and continuing on this path is a waste of time.
-If there's not enough liquidity, you stop, and move on to the next asset.
-If the asset is B, record the path it took you to get here
-Unless you've exhausted all the hops, go to step 1 but with this current asset as your source asset.
-When you've enumerated all you can, your best path from A to B is the last path recorded in step 3.
-Dumbed down a bit: you start trying all possible paths you can go from A, but you stop each path if there's not enough liquidity, or if you've been to an asset before and you got there in a cheaper way.
 
 
 
 
 
 
-href:
-- dissalow on XRPL  at  https://github.com/XRPLF/rippled/issues/1257#issuecomment-670095772
-- "I believe path payments to be one of the most interesting and important aspects of the Stellar blockchain." — [Tyler](https://youtu.be/KzlSgSPStz8?t=164)
-  - because theyt "allow you to do a lot of theraet things you erreally couldnt do witho ut a lo t of headlzchac e [not sic]
+
+
+
 - diredct  arb  form https://github.com/stellar/stellar-core/pull/1077  whcih  is  fropm past  questikoninkg  at  https://github.com/stellar-deprecated/horizon/issues/229 (finding  stellar-core bug)
 
 
@@ -157,9 +146,19 @@ also we have the nbew section titling as `Conversion Liquifdity`
 
 [^int]: Whl tis vieo focuses on the American market where I work, the problem is just as bad everywhere else on the planet. Adn for the countries not fortunate aenough to have a central stokc exchange , we see the horrific affets f malinvestment and unfune innovation. I think it'd be cool if the whole world was on the same playing field hwen it comes to euntrperenurial creativity, the core tenneanrt of a marketplace for capital.
 
-Starting with X amount of asset A as a source asset, trying to get to B:
 
 
-I have no idea what Horizon ended up using after they rewrote it, but I'm assuming a depth-first search
+
 
 Dumbed down a bit: you start trying all possible paths you can go from A, but you stop each path if there's not enough liquidity, or if you've been to an asset before and you got there in a cheaper way
+
+
+
+
+
+
+[^xc]: I rmemeber  trying to learn HTML andd CSS i n hgih school should onlien  courses. I was  so bad at it that I'd starte at coding screens  for hours jsut to  get  simple headings to render. And  dont' even get me  started on the hnumber of hours I've spent troubleshooting Truffle, literally just to compile code.
+
+[^jed]: Notably, Jed  suggests o ffloading  orderbook  cleanup to service providers processing  informatiuon  updates which are  "expensive  to prevent." We ahve seen  this sasme argument made for native pathfinding, and  I would suggest communtiy members contemplating routing services ask themselves what might happen  to the Remarkable  existing liquidty  of  all ysers had  to use "StellarBroker.com" Inc. I love the debiting DEX stability we [uniquely](https://github.com/XRPLF/rippled/issues/1257) enjoy.
+
+[^terminus]: _See, e.g.,_ how Tyler [believes](https://youtu.be/KzlSgSPStz8?t=164) "path payments to be one of the most interesting and important aspects of the Stellar blockchain."  Even  your own past  work with  Stargazerr dove  into the  detials  at  a level  unomcmmon  throughout network alpplcications. 🚀 
