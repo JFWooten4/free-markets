@@ -4,7 +4,6 @@ submit: 21 May 2024
 dialog: https://github.com/stellar/stellar-docs/issues/1545
 ~~~
 
-
 Hi Johan,
 
 Based on limited investigation, [your implementation](https://github.com/future-tense/stellar-pathfinder-server) might just be the first custom pathfinding implementation. Pathfinding matters a lot in the traditional financial system—which perhaps you've seen firsthand with extractive conversion rates. Access to exchanges themselves is one main reason I’ve found increasing costs through middlemen over the years.
@@ -47,60 +46,25 @@ The exchange of one asset to another is so simple. Yet it’s the first place ma
 
 We can overcome our challenges paying for everyday items with real-world assets. 🧠 To make this happen, we’ll need Stellar protocol routing. This pathfinding holds the key to unlocking liquidity in the DEX.
 
-i  lvoe  eveyrthign baotu HOrizon. It's bizzare to me that  major blockchains don't  have canotical API  immplmenetations. Briefly, I'm not a massive tech guy. [^xc]
+I love everything about Horizon. It's bizarre to me that major blockchains don't have canonical API implementations. Briefly, I'm not a massive tech guy.[^xc]
 
-But  when I lerarned baout APIs my  first year of college,, a whole neaw world  of development  opportunties unfolded  right in front of my  eyes.  It was finally p ossible  to buiild;  really  interconnected  things by using the  open  infrterdfaces pioneered  by ddedicated engieers. i feel we  have a unique oppoortuntiy to do the same, bringing masses of new energies into  the network by offering permissionless, quality infomration about the incredible protocol.
+But when I learned about APIs my first year of college, a whole new world of development opportunities unfolded right in front of my eyes. It was finally possible to build really interconnected things by using the open interfaces pioneered by dedicated engineers. I feel we have a unique opportunity to do the same, bringing masses of new energies into the network by offering permissionless, quality information about the incredible protocol.
 
-## Collaboration Opportuntiy
+## Collaboration Opportunity
 
-I;ve been workon on the DEX  and liquidity  pool documentation page for  a few months. in  fleshing  out the  interfacing  exmaples,  it's become abundnatly apprant that the present dopcuemnntation  does not explain  core pathfinding. I find this probalmatic becuase the select few who understand these routing nuances wind up creating  blokcs full of failed swaps while  thry wastefully send  iciuclar  conversionsto themselves  for  an  excelsss  1,500  stoops.
+I've been working on the DEX and liquidity pool documentation page for a few months. In fleshing out the interfacing examples, it's become abundantly apparent that the present documentation does not explain core pathfinding. I find this problematic because the select few who understand these routing nuances wind up creating blocks full of failed swaps while they wastefully send circular conversions to themselves for an excess 1,500 stroops.
 
-In  [discussion](https://discord.com/channels/897514728459468821/966788672164855829/1372112718948995134), @rahimklaber comments  that "they made some changes to core to filter out some of the arb transactions. But a lot still go through" as notably protold  by Orbit during the revolutionary Procol 18 upgrades.
+In [discussion](https://discord.com/channels/897514728459468821/966788672164855829/1372112718948995134), @rahimklaber comments that "they made some changes to core to filter out some of the arb transactions. But a lot still go through" as notably protold by Orbit during the revolutionary Protocol 18 upgrades.
 
-It  is not clear what changes ahve been made over the years  to get us to `ExchangeV3`, even if someone reads  all  the CAPs  and  community postts abotu fixes.s _See_ your own exceptional [apasst work](https://github.com/stellar/stellar-protocol/issues/36#issuecomment-396448926)  cleaning up DEX certainty as just one example of something every noetwork user  has to  appreciate toay.[^jed]  While it might not look like much, non-IEIF orders literally created [our entire industry](https://www.reddit.com/r/Superstonk/comments/12fj2d7/naked_short_and_greedy_wall_streets_failure_to).
+It is not clear what changes have been made over the years to get us to `ExchangeV3`, even if someone reads all the CAPs and community posts about fixes. _See_ your own exceptional [past work](https://github.com/stellar/stellar-protocol/issues/36#issuecomment-396448926) cleaning up DEX certainty as just one example of something every network user has to appreciate today.[^jed] While it might not look like much, non-IEIF orders literally created [our entire industry](https://www.reddit.com/r/Superstonk/comments/12fj2d7/naked_short_and_greedy_wall_streets_failure_to).
 
-Given your  experince, would y ou be ever  so kind as to conisder adding a page for pathfinding? At the risl of oversimplifying thigns,  you  can just  create a new file  with your  thoughts like in #1496. In past  discussions,  it's  becomes lclear to me that you  have  such a unique ability t o explain  complexx ttopics  susccintly, and  I  can think  of  no more  hazy  topic  throughout the  developers' site which  urgently  needs  new  clartifgicaiton.[^terminus]
-
-
+Given your experience, would you be ever so kind as to consider adding a page for pathfinding? At the risk of oversimplifying things, you can just create a new file with your thoughts like in #1496. In past discussions, it's become clear to me that you have such a unique ability to explain complex topics succinctly, and I can think of no more hazy topic throughout the developers' site which urgently needs new clarification.[^terminus]
 
 
+[^int]: While this video focuses on the American market where I work, the problem is just as bad everywhere else on the planet. And for the countries not fortunate enough to have a central stock exchange, we see the horrific effects of malinvestment and unfunded innovation. I think it'd be cool if the whole world was on the same playing field when it comes to entrepreneurial creativity, the core tenet of a marketplace for capital.
 
+[^xc]: I remember trying to learn HTML and CSS in high school through online courses. I was so bad at it that I'd stare at coding screens for hours just to get simple headings to render. And don't even get me started on the number of hours I've spent troubleshooting Truffle, literally just to compile code.
 
+[^jed]: Notably, Jed suggests offloading order book cleanup to service providers processing information updates which are "expensive to prevent." We have seen this same argument made for native pathfinding, and I would suggest community members contemplating routing services ask themselves what might happen to the remarkable existing liquidity if all users had to use "StellarBroker.com" Inc. I love the debiting DEX stability we [uniquely](https://github.com/XRPLF/rippled/issues/1257) enjoy.
 
-
-
-
-
-
-
-
-
-
-
-
-## 723 commetns
-
-
-### Best Execution
-The orderbook only matches offers at the price specified or better, when avaliable. For instance, say there are four buyers offering 10 bananas per apple. You can sell an apple for 7 bananas, and the offer automatically exchanges for the higher 10 bananas.
-
-In traditinal markets, this is precisely how market orders allow instant trades. They simply execute agains the best avaliable prices in the common orderbook. And since we can see every offer, the DEX also gives us the handy ability to know if there's enough orders at the prevailing price.
-
-When you submit an order, Stellar will also check wheter an AMM (below) offers a better rate than priced orders. If so, your trade executes against the pool at the better conversion rate without priced DEX liquidity. To better understad the market, let's uncover the spread between the best AstroDollar offers, calculting a midpoint trading price.
-
-
-####  Path Hops
-When sending path payments, your transfer can hop between up to six order books or AMMs to find the best price. Validators perform this arithmatic automatically, allowing you to specify only the lowest total amount you will accept. At each step in the path, the network calculates the optimal source of liquidity to convert through given your destination asset.
-
-Both the order book and AMMs coexist, providing multiple avenues for liquidity. Instead of having to choose whether to go through the order book or an AMM, the pathfinding algorithm automatically checks both sources of liquidity and executes new trades using whichever offers the better rate. It also exchanges with an AMM over an order book at each step if the entire conversation happens at a price equal to or better than limit offers.
-
-
-
-
-[^int]: Whl tis vieo focuses on the American market where I work, the problem is just as bad everywhere else on the planet. Adn for the countries not fortunate aenough to have a central stokc exchange , we see the horrific affets f malinvestment and unfune innovation. I think it'd be cool if the whole world was on the same playing field hwen it comes to euntrperenurial creativity, the core tenneanrt of a marketplace for capital.
-
-[^xc]: I rmemeber  trying to learn HTML andd CSS i n hgih school should onlien  courses. I was  so bad at it that I'd starte at coding screens  for hours jsut to  get  simple headings to render. And  dont' even get me  started on the hnumber of hours I've spent troubleshooting Truffle, literally just to compile code.
-
-[^jed]: Notably, Jed  suggests o ffloading  orderbook  cleanup to service providers processing  informatiuon  updates which are  "expensive  to prevent." We ahve seen  this sasme argument made for native pathfinding, and  I would suggest communtiy members contemplating routing services ask themselves what might happen  to the Remarkable  existing liquidty  of  all ysers had  to use "StellarBroker.com" Inc. I love the debiting DEX stability we [uniquely](https://github.com/XRPLF/rippled/issues/1257) enjoy.
-
-[^terminus]: _See, e.g.,_ how Tyler [believes](https://youtu.be/KzlSgSPStz8?t=164) "path payments to be one of the most interesting and important aspects of the Stellar blockchain."  Even  your own past  work with  Stargazerr dove  into the  detials  at  a level  unomcmmon  throughout network alpplcications. 🚀  _See also_ the core  team [referencing](https://groups.google.com/g/stellar-dev/c/zks0oi4v-7g/m/sbw5vtstCwAJ)  path payments  as a  means  to implement FoK orders  common  in  isntutuiional adoptionps of market-making algorithms.
+[^terminus]: _See, e.g.,_ how Tyler [believes](https://youtu.be/KzlSgSPStz8?t=164) "path payments to be one of the most interesting and important aspects of the Stellar blockchain." Even your own past work with Stargazer dove into the details at a level uncommon throughout network applications. 🚀 _See also_ the core team [referencing](https://groups.google.com/g/stellar-dev/c/zks0oi4v-7g/m/sbw5vtstCwAJ) path payments as a means to implement FoK orders common in institutional adoptions of market-making algorithms.
