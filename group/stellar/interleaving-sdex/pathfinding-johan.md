@@ -1,6 +1,6 @@
 ~~~
-status: Draft
-submit: 21 May 2024
+status: Final
+submit: 26 May 2024
 dialog: https://github.com/stellar/stellar-docs/issues/1545
 ~~~
 
