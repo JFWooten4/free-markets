@@ -1,0 +1,1 @@
+- "actively building on Stellar, showing up at community events, and really engaging with the ecosystem" [Emir](https://discord.com/channels/897514728459468821/1124340476288454657/1378066255613005865)
