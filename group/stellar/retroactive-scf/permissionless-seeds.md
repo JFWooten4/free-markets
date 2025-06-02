@@ -24,3 +24,5 @@ _see also_  https://github.com/stellar/stellar-docs/commit/a8e083128f31446749ffe
 eally good coutnerpoit exact same  thign 9as intro) at  https://github.com/stellar/stellar-core/pull/4751/files
 
 solution likey around letting anyone move from draft to active in PR 
+
+diction as THE FOUDNATION
