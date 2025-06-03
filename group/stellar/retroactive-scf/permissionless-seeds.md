@@ -39,3 +39,20 @@ some m embers use items l ikke Gdocs as  was done in  SEP53  during the  fradtin
 easier  low-level comments htan a formal pR  on  an  indiviau.s  brnamcjh  
 
 how  to re ceive input  nad post  progress with  ANONOMYITY
+
+###  complimenting hte miedum of a draft  PR
+
+doog forum through line commenting here with speicrfic items
+
+challenging to reccomend for Discussion flows in SDFpoliiciy
+
+comparativelyt, anyone  can  csuggest  changes i n real time
+
+
+#  super  papreciate
+
+#1731 which  rmeoved  the list
+
+> Unlike CAPs, that have a formal list of folks who review and approve the acceptance of CAPs, SEPs don't have a formal list of accepters and have a "lightweight process for approval," as noted by the ecosystem README. SEPs can be proposed and merged on a loose set of requirements as noted in the README.
+  - leigh  
+
