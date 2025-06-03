@@ -26,3 +26,16 @@ eally good coutnerpoit exact same  thign 9as intro) at  https://github.com/stell
 solution likey around letting anyone move from draft to active in PR 
 
 diction as THE FOUDNATION
+
+
+
+
+
+
+#$#  [ermissionelss  commenting
+
+some m embers use items l ikke Gdocs as  was done in  SEP53  during the  fradting and revviewe process
+
+easier  low-level comments htan a formal pR  on  an  indiviau.s  brnamcjh  
+
+how  to re ceive input  nad post  progress with  ANONOMYITY
