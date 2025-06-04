@@ -19,96 +19,96 @@ More SEPs will be authored. If an author doesn't actively pursue developing cons
 SEPs will be more narrowly scoped, because the larger the scope of a SEP, the less likely consensus on the proposal in its entirety is achieved, which would result in competing SEPs being authored.
 
 
+### Response to Discussion on Barriers to Submitting SEPs
 
-### Response to  Discssion on Barriers to Submiting SEPs
+I'd like to hear the perspective of @ankeliu on this one. Anke's overseen the transformation of the SCF over these last meaningful years. Recently, funding changes allow:
 
-I';d lik to hear the persective of @ankeliu on this one.  Anke;s overseen  the transofmration  of the  SCF over these  last  menaingful years.  Relvetantly, recent funding changes allow :
+- Teams to receive training from an outside consultant with or without grant approval.
+- Direct access to SDF team members to discuss network questions and visions.
+- Smaller awards and review processes to prove the viability of a new project concept.
 
-- Teams to receive  training  from  an outside consultant with or without  grant approval,
-- Direct  ascccess  to  SDF team  members  to  discuss  network  questiosn ajd visions, and
-- Skmaller awardds  and review p rocesses  to  prove  the  viability of a new  project concept.
-
-The dfirect manifestation o f these efoforts lead  to  the  [Kickstart](https://web.archive.org/web/20250422192912/https://stellarcommunityfund.gitbook.io/scf-handbook/scf-awards/scf-kickstart)  new program this year. Brioaodlky, these  changes coincide with  an overhaul of  the voting and governance system designed to gie the little  guy  a real  voicce.    I saw the genesis of these  changes i roundd 11, and  they  seem aligned with  Jake;'s  ethos of smlaler contributions foorm a diverce developer-base without consensus.
+The direct manifestation of these efforts led to the [Kickstart](https://web.archive.org/web/20250422192912/https://stellarcommunityfund.gitbook.io/scf-handbook/scf-awards/scf-kickstart) new program this year. Broadly, these changes coincide with an overhaul of the voting and governance system designed to give the little guy a real voice. I saw the genesis of these changes in Round 11, and they seem aligned with Jake's ethos of smaller contributions from a diverse developer-base without consensus.
 
 https://web.archive.org/web/20250422192912/https://stellarcommunityfund.gitbook.io/scf-handbook/scf-awards/scf-kickstart
 
 https://stellarcommunityfund.gitbook.io/scf-handbook/scf-awards/scf-build/legacy-projects
 
-we have existing +1 form leigh in re #1735 as an  example not merged
+We have existing +1 from Leigh in re #1735 as an example not merged.
 
-_see also_  https://github.com/stellar/stellar-docs/commit/a8e083128f31446749ffed84b786169abb4bc3d6
-eally good coutnerpoit exact same  thign 9as intro) at  https://github.com/stellar/stellar-core/pull/4751/files
+_See also_ https://github.com/stellar/stellar-docs/commit/a8e083128f31446749ffed84b786169abb4bc3d6
 
-solution likey around letting anyone move from draft to active in PR 
+Really good counterpoint (exact same thing as intro) at https://github.com/stellar/stellar-core/pull/4751/files
 
-diction as THE FOUDNATION
+Solution likely around letting anyone move from draft to active in PR.
 
+Diction as THE FOUNDATION.
 
+INSPIRING with needing fix since 2018 from https://github.com/stellar/stellar-protocol/issues/80#issuecomment-386857773 joahn
 
-INPSIRTING with needing fix since 2018  from https://github.com/stellar/stellar-protocol/issues/80#issuecomment-386857773 joahn
+---
 
+## Permissionless Commenting
 
-#$#  [ermissionelss  commenting
+Some members use items like GDocs as was done in SEP-53 during the drafting and review process:
 
-some m embers use items l ikke Gdocs as  was done in  SEP53  during the  fradting and revviewe process
 https://docs.google.com/document/d/1swCef4z5XVy6aH9naX7lotp4VboDE3JlScAIZhXqkW4/edit?tab=t.0
-s there a way we could consider that case by asking multiple person to prove ownership of multiple keys and then concatenate these to prove ownership of the account?
-overcat
-overcat
-3:07 AM Mar 24
+
+> Is there a way we could consider that case by asking multiple persons to prove ownership of multiple keys and then concatenate these to prove ownership of the account?
+> 
+> — overcat
+
 For multi-signature accounts, I think we cannot do this off-chain because the signer list may be updated at any time.
 
-easier  low-level comments htan a formal pR  on  an  indiviau.s  brnamcjh  
+Easier low-level comments than a formal PR on an individual's branch.
 
-how  to re ceive input  nad post  progress with  ANONOMYITY
+How to receive input and post progress with anonymity.
 
-###  complimenting hte miedum of a draft  PR
+### Complimenting the Medium of a Draft PR
 
-doog forum through line commenting here with speicrfic items
+Good forum through line commenting here with specific items.
 
-challenging to reccomend for Discussion flows in SDFpoliiciy
+Challenging to recommend for discussion flows in SDF policy.
 
-comparativelyt, anyone  can  csuggest  changes i n real time
-^ ex: https://github.com/stellar/stellar-docs/pull/1557#issuecomment-2917081976
+Comparatively, anyone can suggest changes in real time.
 
+^ Ex: https://github.com/stellar/stellar-docs/pull/1557#issuecomment-2917081976
 
-### equiv implcications for l ocal  changes per DOCS
+---
 
-we hjave the  commit  historyh here https://github.com/stellar-deprecated/docs/blob/master/validators.md
+### Equivalent Implications for Local Changes per DOCS
 
-check if largely SDF or communtiy
+We have the commit history here:
 
-adn  then  from that we have stale ones at 
+https://github.com/stellar-deprecated/docs/blob/master/validators.md
 
+Check if largely SDF or community.
 
+And then from that we have stale ones at:
 
-#  super  papreciate
+# Super appreciate
 
-#1731 which  rmeoved  the list
-after orbit sel-removed in 1728
+#1731 which removed the list after Orbit self-removed in #1728.
 
 > Unlike CAPs, that have a formal list of folks who review and approve the acceptance of CAPs, SEPs don't have a formal list of accepters and have a "lightweight process for approval," as noted by the ecosystem README. SEPs can be proposed and merged on a loose set of requirements as noted in the README.
-  - leigh   b1731
+> 
+> — Leigh #1731
 
+---
 
+## Existing Syntax PRs from 53-FIX
 
+Nearly fifteen percent of PRs to repo are closed without merging.
 
-##  existing synta x PRs from 53-FIX
+---
 
-nearly fiftenn percent of PRs  to  repo are closed without merging
+## SEP Versioning
 
-
-
-
-
-
-SEP Versioning
 Unlike CAPs, SEPs are assigned versions because they are dynamic and change over time. SEPs use semantic versioning in the form vMAJOR.MINOR.PATCH to determine an appropriate version for each change.
 
-During draft a SEP should have a major version of 0 to indicate that anything in the SEP may change at anytime. Once a SEP moves to Active it should be changed to v1.0.0 and the rules of semantic versioning apply.
+During draft a SEP should have a major version of 0 to indicate that anything in the SEP may change at any time. Once a SEP moves to Active it should be changed to v1.0.0 and the rules of semantic versioning apply.
 
-All changes to a SEP should be accompanied by an update to its version, no matter how small even typographical corrections. The exceptions that do not require version updates:
+All changes to a SEP should be accompanied by an update to its version, no matter how small, even typographical corrections. The exceptions that do not require version updates:
 
-Correcting metadata in the Pragma section.
-Updating broken links.
-Updating links to implementations.
+- Correcting metadata in the Pragma section.
+- Updating broken links.
+- Updating links to implementations.
