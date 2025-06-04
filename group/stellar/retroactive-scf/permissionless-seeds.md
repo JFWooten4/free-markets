@@ -1,6 +1,6 @@
 ```
 status: Draft
-submit: 4 Jun 2025
+submit: 10 Jun 2025
 dialog: https://github.com/stellar/stellar-protocol/pull/1740#discussion_r2119446671
 ```
 
@@ -47,6 +47,17 @@ doog forum through line commenting here with speicrfic items
 challenging to reccomend for Discussion flows in SDFpoliiciy
 
 comparativelyt, anyone  can  csuggest  changes i n real time
+^ ex: https://github.com/stellar/stellar-docs/pull/1557#issuecomment-2917081976
+
+
+### equiv implcications for l ocal  changes per DOCS
+
+we hjave the  commit  historyh here https://github.com/stellar-deprecated/docs/blob/master/validators.md
+
+check if largely SDF or communtiy
+
+adn  then  from that we have stale ones at 
+
 
 
 #  super  papreciate
@@ -55,4 +66,11 @@ comparativelyt, anyone  can  csuggest  changes i n real time
 
 > Unlike CAPs, that have a formal list of folks who review and approve the acceptance of CAPs, SEPs don't have a formal list of accepters and have a "lightweight process for approval," as noted by the ecosystem README. SEPs can be proposed and merged on a loose set of requirements as noted in the README.
   - leigh  
+
+
+
+
+##  existing synta x PRs from 53-FIX
+
+nearly fiftenn percent of PRs  to  repo are closed without merging
 
