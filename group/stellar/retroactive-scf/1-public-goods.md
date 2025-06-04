@@ -38,3 +38,5 @@ coudl intro  a new Discord l ol
 ---
 
 need  coimmunity memebrs to have the  chance to express their intents, not satisfy                                                                                           vc ineterst
+
+this implcicates  the  overfunding  of [the  EF](https://stellar.expert/explorer/public/account/GDUY7J7A33TQWOSOQGDO776GGLM3UQERL4J3SPT56F6YS4ID7MLDERI4)
