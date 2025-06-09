@@ -121,3 +121,11 @@ All changes to a SEP should be accompanied by an update to its version, no matte
 - Correcting metadata in the Pragma section.
 - Updating broken links.
 - Updating links to implementations.
+
+
+
+# old  redesign  prpping notes o n  centralization
+
+First we have  a design hashing mechanism which implies completeness  of genesis  draft  (https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097069)
+
+clearly this is undrealistic if  we awnat to spur  conversaiton
