@@ -129,3 +129,10 @@ All changes to a SEP should be accompanied by an update to its version, no matte
 First we have  a design hashing mechanism which implies completeness  of genesis  draft  (https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097069)
 
 clearly this is undrealistic if  we awnat to spur  conversaiton
+
+_comlpare_  to  permissioknelss ness of  openingan issue  or  PR :
+
+> In Ethereum they just assign the number before merging, by using for example the pull request ID as ID generator, so the burden on editors is low.
+— Nich  at https://github.com/stellar/stellar-protocol/pull/247#issuecomment-460882210
+
+(affrim the schemnics on PR  v Issues  for  the EIPs  as a case study)
