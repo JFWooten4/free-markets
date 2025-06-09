@@ -4,6 +4,9 @@ submit: 10 Jun 2025
 dialog: https://github.com/stellar/stellar-protocol/pull/1740#discussion_r2119446671
 ```
 
+href base is https://github.com/stellar/stellar-docs/pull/723#issuecomment-2410026689
+
+
 There seems to be two differences between Draft and Active:
 
 Draft proposals should not be adopted, while Active proposals can be adopted
