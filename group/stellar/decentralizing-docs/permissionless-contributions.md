@@ -1,6 +1,6 @@
 ```
 status: Draft
-submit: 10 Jun 2025
+submit: 11 Jun 2025
 dialog: https://github.com/stellar/stellar-protocol/pull/1740#discussion_r2119446671
 ```
 
