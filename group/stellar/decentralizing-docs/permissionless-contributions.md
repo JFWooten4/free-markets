@@ -126,7 +126,8 @@ All changes to a SEP should be accompanied by an update to its version, no matte
 
 # old  redesign  prpping notes o n  centralization
 
-First we have  a design hashing mechanism which implies completeness  of genesis  draft  (https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097069)
+First we have  a design hashing mechanism which implies completeness  of genesis  draft  (https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097069) 
+[designed ot  support github identificaiton, but this  shoudl  be  a  littel implicit i n the PR (https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097721)]
 
 clearly this is undrealistic if  we awnat to spur  conversaiton
 
@@ -136,3 +137,12 @@ _comlpare_  to  permissioknelss ness of  openingan issue  or  PR :
 — Nich  at https://github.com/stellar/stellar-protocol/pull/247#issuecomment-460882210
 
 (affrim the schemnics on PR  v Issues  for  the EIPs  as a case study)
+
+## Stale  state as  namign  info
+
+>  Yeah I actually just changed it to `Rejected` or Perma-`Draft`. Basically if something doesn't ever get a decision or loses momentum will just stay as a draft.
+— https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097484
+
+##  segue to 1044 in  
+https://github.com/stellar/.github/pull/29
+++  https://github.com/stellar/stellar-protocol/pull/1555
