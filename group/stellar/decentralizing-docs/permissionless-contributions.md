@@ -146,3 +146,19 @@ _comlpare_  to  permissioknelss ness of  openingan issue  or  PR :
 ##  segue to 1044 in  
 https://github.com/stellar/.github/pull/29
 ++  https://github.com/stellar/stellar-protocol/pull/1555
+
+## laslt,y  menaingfully,  we  have direct  feedback  on the states form sep 6  aughotr
+same importance as 24
+
+> My experiences implementing SEP-6 says that there needs to be more feedback after a final draft has been reached. We made several significant changes to the spec (data shape, /fee endpoint) due to issues discovered during implementation.
+
+> It might be worth gating "ready for wide adoption" behind a limited number of prototype implementations to try to discover needs that weren't anticipated. A hands-on implementation with a key partner and members of the SEP team seems like it would give a lot of opportunity to optimize and clarify the spec text.
+—  https://github.com/stellar/stellar-protocol/pull/247#discussion_r258119383
+
+(replied  by Johnny):
+> One thing I did was add an "Active" category where a SEP can continue to be updated, but is generally worth putting out into the world. The TOML file for example would always be "Active". Things should naturally graduate towards "Final" when they can, and I think honestly we can beta test Draft proposals out? Happy for additional feedback though, I do like this idea.
+
+later we have discussikon from the EIP inspiration
+"Ideally as we get more drafts we'll have some form of static site or HTML generator that uses that metadata."
+This references GatsbyJS — a React-based static site generator — which was intended to render a web frontend of CAPs/SEPs, similar to how Ethereum renders  ---- https://www.gatsbyjs.com/
+laslt,y we  ahjve segregasted dsisucssion mercvhanmisms from exceptoipnmal; members atg  https://discord.com/channels/897514728459468821/905516645408182343/1207266598860361788
