@@ -11,3 +11,6 @@
   -  fdives i nto the  slippage triplciate pricing problem
   -  "meaningful user experience issue that need to be dealt with"
   
+
+"We're really thankful for all the feedback we've received about the orderbook — in due time it will become a larger theme of our development efforts (especially around performance)"
+— https://github.com/stellar/stellar-protocol/issues/180#issuecomment-473099807
