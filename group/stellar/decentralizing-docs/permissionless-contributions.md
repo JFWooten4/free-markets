@@ -141,7 +141,7 @@ _comlpare_  to  permissioknelss ness of  openingan issue  or  PR :
 ## Stale  state as  namign  info
 
 >  Yeah I actually just changed it to `Rejected` or Perma-`Draft`. Basically if something doesn't ever get a decision or loses momentum will just stay as a draft.
-— https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097484
+— https://github.com/stellar/stellar-protocol/pull/247#discussion_r263097a4
 
 ##  segue to 1044 in  
 https://github.com/stellar/.github/pull/29
@@ -162,3 +162,20 @@ later we have discussikon from the EIP inspiration
 "Ideally as we get more drafts we'll have some form of static site or HTML generator that uses that metadata."
 This references GatsbyJS — a React-based static site generator — which was intended to render a web frontend of CAPs/SEPs, similar to how Ethereum renders  ---- https://www.gatsbyjs.com/
 laslt,y we  ahjve segregasted dsisucssion mercvhanmisms from exceptoipnmal; members atg  https://discord.com/channels/897514728459468821/905516645408182343/1207266598860361788
+
+
+
+
+#  final points windowed))
+
+- [isolated  chatgs](https://github.com/MisterTicot-contribs/better-dex/tree/master)
+-  CAP dscussion in a GH issue??  https://github.com/stellar/stellar-protocol/blob/master/core/cap-0006.md  (which  is  "closing"  at  https://github.com/stellar/stellar-protocol/issues/180#issuecomment-473099807)
+- removed context  by Jake:
+   > I'm arguing for this as someone who may be the biggest offender of abusing SEPs in the Active status. I've moved SEPs to Active too soon, made many significant changes to Active SEPs over time, and kept SEPs in Active for too long.
+
+"Similarly to [BIPs](https://github.com/bitcoin/bips) and [EIPs](https://github.com/ethereum/EIPs), CAPs and SEPs are the proposals of standards to improve Stellar protocol and related client APIs." at  https://github.com/stellar/stellar-protocol/pull/247/files
+
+### sep48 fast  turnarounds  (withihn 1  hr at poiunts)
+
+-  https://github.com/stellar/stellar-protocol/commits/master/ecosystem/sep-0048.md
+- https://github.com/stellar/stellar-protocol/pull/1733 (representative  backdoor  submission)
