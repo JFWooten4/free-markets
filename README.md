@@ -1,5 +1,7 @@
 Hi and welcome to my blog. 👋🏼
 
-I'm in the process of making this a website so that you can reference stable URLs outside of GitHub :)
+The posts in this repository are published automatically with **GitHub Pages**. Just browse to the Pages URL (usually `https://<username>.github.io/<repo>/`) to read them online.
 
-Please let me know your throughts in the Discussions tab!
+All the Markdown files under `docs/` become pages on the site. Edit them directly and push to Git to update the website.
+
+Please let me know your thoughts in the Discussions tab!
