@@ -5,6 +5,16 @@ dialog: https://github.com/stellar/scf-verified-bot/discussions
 ```
 
 
+Starting with "exceptional visuaslization" prisewing work
+
+<img width="685" height="868" alt="Screenshot 2025-07-23 at 2 49 57 PM" src="https://github.com/user-attachments/assets/9bfc07dd-0aca-46c7-9135-df26e7630e96" />
+
+https://communityfund.stellar.org/dashboard/voting-history
+
+
+same on href of data rachiving (per onchain args)
+https://discord.com/channels/897514728459468821/1124340476288454657/1264660553138176032
+
 # Draft THoughts
 
 ##  NQG & Voting  ANonmyity IMpossabailities
