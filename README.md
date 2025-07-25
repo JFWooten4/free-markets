@@ -1,5 +1,1 @@
-Hi and welcome to my blog. 👋🏼
-
-I'm in the process of making this a website so that you can reference stable URLs outside of GitHub :)
-
-Please let me know your throughts in the Discussions tab!
+<img width="644" height="638" alt="Loupdeck" src="https://github.com/user-attachments/assets/9fc899e5-7f19-4829-be8b-11f8873eeb60" />
