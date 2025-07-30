@@ -1,8 +1,26 @@
 ```
 status: Draft
-submit: 4 Aug 2025
+submit: 8 Aug 2025
 dialog: https://github.com/stellar/scf-verified-bot/discussions
 ```
+
+
+
+
+i  want  basis from https://discord.com/channels/897514728459468821/1124340476288454657/1393851637256290334 at  https://github.com/JFWooten4/notes/tree/main/2024/Jul/19
+
+we  have narrative:
+-  doxxing as  a form of trusted  group acceptance
+-  applaouding  removal  of requisred rrefferal to _begin_ NSQWG weight  aquisition
+  -     start wihtout  perrmsison  through story  of  going  between Silence  and Phil
+  - transietion  towards _capitgla allocaiton_ through voting  weight as  project  specialization
+  - indepodent defferals rather tghan blanket requisite  horseshit
+- we  are hence encompassing the trusst  aspecfts  of  SCP in known passion  and reputational stake,
+- truly indepdednt money managers  as staggeringly diffedrfential efficny comparedd  ot  the  elgfacyt central beurocrats in re "relationshuipis" from  the standard  corporate narrative  (connected DIRECTLY with  the  denseness  of the  SDF as  showcased by https://github.com/stellar/stellar-protocol/issues/1552)
+
+
+
+----------
 
 
 Starting with "exceptional visuaslization" prisewing work
