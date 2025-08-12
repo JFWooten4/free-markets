@@ -10,3 +10,4 @@
 
 "Super happy to dive into this with you, as it came up in our community  discussions and relates materially to core development that's been pending for a coupple years.
 
+monopoly perspectiv e supported by CLOB anchillary supported from mere eyars after the central clearing at https://www.brooklaw.edu/media/wjol4axa/cfc_vol1ii.pdf
