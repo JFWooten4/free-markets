@@ -1,7 +1,7 @@
 ```
-Status: Draft  
-Submit: 8 Aug 2025  
-Dialog: https://github.com/stellar/scf-verified-bot/discussions  
+Status: Draft
+Submit: 8 Aug 2025
+Dialog: https://github.com/stellar/scf-verified-bot/discussions
 ```
 
 I want basis from https://discord.com/channels/897514728459468821/1124340476288454657/1393851637256290334 at https://github.com/JFWooten4/notes/tree/main/2024/Jul/19  
@@ -21,9 +21,9 @@ We have narrative:
 
 Prerequisite Reading: Thing. TLDR: THE PROXY VOTING POST.  
 
-) DF(RK filing not a cat https://www.sec.gov/Archives/edgar/data/1766502/000110465924076457/tm2418581d1_sc13g.htm  
+[DF/RK filing not a cat](https://www.sec.gov/Archives/edgar/data/1766502/000110465924076457/tm2418581d1_sc13g.htm)
 
-Note 86 https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf  
+[Note 86](https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf)
 
 ### Public voting  
 
@@ -33,22 +33,17 @@ Delegation to anke authority given expertise
 
 Really ride her ass up high!  
 
-Then we have and need deference to single eg of freelance experience at [[[href of ppt explaining how I wanted logo designed, didn’t see in any of the canvas]]]  
+Then we have and need deference to single eg of freelance experience at [_See_   lost  central Syndicate logo design  presentation impl.s_]  
 
-# Interim Narrative  
+# drafted Narrative  
 
-Given the recent genius act news and the SDF's active public involvement therewith, I believe it’s due time to contemplate the forum of ongoing grants.  
+💜Given the recent genius act news and the SDF's active public involvement therewith, I believe it’s due time to contemplate the forum of ongoing grants.  
 
-Challenge in the central structure within the Discord  
+!Challenge in the central structure within the Discord  
 
-Cool I guess for like the entrenched in-group  
+- Cool I guess for like the entrenched in-group  
 
-Not awesome for an analysis of competence  
+- Not awesome for an analysis of competence  
 
-(Can come back to the sentiment there)  
+- (Can come back to the sentiment there)  
 
-If continuing, we need prep more reg  
-
-That means more scrutiny of $  
-
-See https://github.com/stellar/stellar-docs/issues/794  

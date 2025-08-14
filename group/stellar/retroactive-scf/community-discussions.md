@@ -11,7 +11,7 @@ Hello hello!
 
 This post responds preliminarily to points [brought up](https://github.com/JFWooten4/notes/blob/ebbcd987f9239b28ec5cbdf9830a4bc08637ceb6/2025/Jul/11.md)  last SCF sSturcuutre meeting. I asked for a public palce to submit efforts, and after some contempaltion I couldn;t think of a better placed to writge than this exceptionally ujnderappreciated repo!
 
-All around some excpetional work here from @silence48 in #1.[^cf-next] 🎉 Sincerely cannot wait to see what comes out of the brewing pot next from @ankelui and team,
+All around some excpetional work here from @silence48 in #1.[^cf-next] 🎉 Sincerely cannot wait to see what comes out of the brewing pot next from @ankeliu and team,
 
 ### Upgraded Visuals
 
@@ -33,7 +33,7 @@ That's why I've been mapping out the application of NQG to  our [nonprofit  ocmm
 
 ## req. fn.s
 
-
+https://github.com/stellar/stellar-docs/issues/794
 
 
 [^round-37]
