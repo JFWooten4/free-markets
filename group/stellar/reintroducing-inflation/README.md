@@ -5,3 +5,5 @@
 
 https://discord.com/channels/897514728459468821/1082054027317096478/1372032484988026891
 jusis
+
+https://groups.google.com/g/stellar-dev/c/LIFvbMi9jPo/m/TIuZcXlyDQAJ
