@@ -1,7 +1,7 @@
 ```
-status: Draft
+status: Published
 submit: 14 Aug 2025
-dialog: https://github.com/stellar/scf-verified-bot/discussions
+dialog: https://github.com/stellar/scf-verified-bot/discussions/2
 ```
 
 # 🪔 How can we pour gasoline on fiery innovator passion?
