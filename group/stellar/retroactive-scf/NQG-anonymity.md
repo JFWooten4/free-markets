@@ -4,10 +4,11 @@ Submit: 8 Aug 2025
 Dialog: https://github.com/stellar/scf-verified-bot/discussions
 ```
 
-I want basis from https://discord.com/channels/897514728459468821/1124340476288454657/1393851637256290334 at https://github.com/JFWooten4/notes/tree/main/2024/Jul/19  
+I want basis from [channels](https://discord.com/channels/897514728459468821/1124340476288454657/1393851637256290334) at [Hirsh](https://github.com/JFWooten4/notes/tree/main/2024/Jul/19).
 
-We have narrative:  
-- Doxxing as a form of trusted group acceptance  
+#  Meeting Points
+
+- !Doxxing as a form of trusted group acceptance  
 - Applauding removal of required referral to _begin_ NSQWG weight acquisition  
   - Start without permission through story of going between Silence and Phil  
   - Transition towards _capital allocation_ through voting weight as project specialization  

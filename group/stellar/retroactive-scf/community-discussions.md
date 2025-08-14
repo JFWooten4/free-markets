@@ -36,6 +36,10 @@ That's why I've been mapping out the application of NQG to  our [nonprofit  ocmm
 https://github.com/stellar/stellar-docs/issues/794
 
 
+[^joahn0ask]
+
+[^joahn0ask]: 
+
 [^round-37]
 
 [^round-37]: Navigator progression stalling on time-0basis with strange inclusion of delegation
