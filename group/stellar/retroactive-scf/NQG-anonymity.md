@@ -20,7 +20,7 @@ I want basis from [channels](https://discord.com/channels/897514728459468821/112
 
 ## NQG & Voting Anonymity Impossibilities  
 
-Prerequisite Reading: Thing. TLDR: THE PROXY VOTING POST.  
+["Prerequisite Reading"](https://www.blocktransfer.com/blog/post/proxy-voting-flaws)
 
 [DF/RK filing not a cat](https://www.sec.gov/Archives/edgar/data/1766502/000110465924076457/tm2418581d1_sc13g.htm)
 
