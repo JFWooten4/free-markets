@@ -26,9 +26,21 @@ All these devleopments are incredible to say the least, and I really can't wait 
 
 That's why I've been mapping out the application of NQG to  our [nonprofit  ocmmunity](https://www.whydrs.org/the-first-duna) since its ignenous incenption and publcciation.  I  cna't  think  of  a better testing-fogunds "in the fire" of Symbal and reputational attacks than the communtiy fund.[^asets!]
 
+I trust this ocmmunity with my everything.  There's not a single thing I wouldvnt give to  see us successd in our just cause . That  conviction and dedication  can't be "bought" with singular develoment grants.
+
+Through the DRS movement to fight  Wall Street  ocrruption, I've seen  jus hte most amazing facets o f this communal effort based on shared valuies.  And, critically, it's something very  fgragile which requirres nuturing and supportive envior,ents., We have for  the first time the chancce to give this power away.[^fluttercard]
+
+### Decentralizing Capital
 
 
+easyu segue to meeting  structure notes
 
+--that'ss enoughfo r  now--
+
+
+##### COPMMUNITAY, perh aps we  can gend on somthing like this? Fuckl I want the dierct backlink to letter
+
+we have [drafting  throughts](https://github.com/JFWooten4/free-markets/pull/59#issuecomment-3124291999)
 
 
 ## req. fn.s
@@ -49,3 +61,5 @@ https://github.com/stellar/stellar-docs/issues/794
 [^legacy-data]: And to see tall this despite some legacy [migration  constraints](https://discord.com/channels/897514728459468821/1124340476288454657/1264660553138176032). I can only hypothesize how much time everyone spends in AirTable.
 
 [^asets!]: I'm an asset managemtn guy  forged from the depths fo caitalist markets. That's why my main indicators of systemic competaence revovle aroudn total funds secured and distributed  by systems.
+
+[^fluttercard]: _See, e.g.,_ @christian-rogobete's excempary work  affirming [community contributions](https://github.com/Soneso/stellar_flutter_sdk/pull/68#issuecomment-1645236102)  through supportive remarks not broadly seen i nopen-source work which treats people like machines following monetary orders. Soneso even  goes so far as to [merge](https://github.com/Soneso/stellar_flutter_sdk/pull/69) mistakes without judment which can soo often discourage  open participation and voicing  of one's true  feelings. 💜
