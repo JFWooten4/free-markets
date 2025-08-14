@@ -8,6 +8,8 @@ I want basis from [channels](https://discord.com/channels/897514728459468821/112
 
 #  Meeting Points
 
+
+- unanymous pub goods 1 approval
 - !Doxxing as a form of trusted group acceptance  
 - Applauding removal of required referral to _begin_ NSQWG weight acquisition  
   - Start without permission through story of going between Silence and Phil  

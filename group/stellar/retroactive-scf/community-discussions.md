@@ -41,24 +41,19 @@ I wonder what our developments could liiiok like with annm inlclusive proccess t
 
 
 (working independence needed for full-time contributions)
-X  =  silence?
 
 
-unanymous pub goods 1 approval
+
 
 easyu segue to meeting  structure notes
 
---that'ss enoughfo r  now--
-
-
-##### COPMMUNITAY, perh aps we  can gend on somthing like this? Fuckl I want the dierct backlink to letter
 
 
 
 
 [^meetings-gitbook]
 
-[^meetings-gitbook]: 
+[^meetings-gitbook]: I knwo how  temptinng it  can be to seek immediate  control over development dnnaarratives, espeically  when   you've put so much into crafting the systme itself. But we need others to recognize our shared goals,  andd a lot  of those communtiy embers may  not be conmfortbale popping into a syncorhonous voice acall. I realyl  think we should release the meetings through  a gitbook tab like [herre](https://developers.stellar.org/meetings/2024/01/26).
 
 [^joahn0ask]: @johansten comes to mind as someone who's devleoped so much for the ecosystem held back by a lack of peerhaps the most important tool: capital,.  With so much indepdnet self-incclined action at stake, I  appreciated his [perspective](https://discord.com/channels/761985725453303838/1396309530228559872/1404582856570699826) on recenf funding developments elsewhere  [advocated](https://discord.com/channels/897514728459468821/1124340476288454657/1395859048020185098).  THey're somone I'd love  to discuss nuanceds with tommorow,  but they will likely need either extremely gfood meeting  notes  or a recording given their very differnt timezone. 
 
