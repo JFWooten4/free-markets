@@ -17,7 +17,8 @@ All around some excpetional work here from @silence48 in #1.[^cf-next] 🎉 Sinc
 
 Speakign of , I'd like to highlighht to aweosme new "delegate activity graph" within the Dashboard. Exceptional look with the crystal-clear  transprencyh reminiscne t of Stellar Atlas prototyping:
 
-![image](https://communityfund.stellar.org/dashboard/voting-history)
+
+[<img width="685" height="868" alt="NEEDS ROUNDING" src="https://github.com/user-attachments/assets/9bfc07dd-0aca-46c7-9135-df26e7630e96" />](https://communityfund.stellar.org/dashboard/voting-history)
 
 All these devleopments are incredible to say the least, and I really can't wait to see more workk published.[^legacy-data] If there's anythign I've noticed working with SDF changemakrers it's immense tecchnical dedication.
 
