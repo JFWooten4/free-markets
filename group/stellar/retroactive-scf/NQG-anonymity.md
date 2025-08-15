@@ -8,6 +8,9 @@ I want basis from [channels](https://discord.com/channels/897514728459468821/112
 
 #  Meeting Points (next one needs a more gneeric background for ffund _Mandate_)
 
+
+## meeting recording objectivist approach
+
 https://discord.com/channels/897514728459468821/1405252330592403648/1405579650226192465
 - unanymous pub goods 1 approval
 - !Doxxing as a form of trusted group acceptance  
