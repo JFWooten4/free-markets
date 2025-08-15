@@ -11,6 +11,12 @@ I want basis from [channels](https://discord.com/channels/897514728459468821/112
 
 ## meeting recording objectivist approach
 
+
+diccarded points
+- indepdendnt delelgation
+-  they thin kSCF is "too  complicated" — Gmema
+-  
+ 
 https://discord.com/channels/897514728459468821/1405252330592403648/1405579650226192465
 - unanymous pub goods 1 approval
 - !Doxxing as a form of trusted group acceptance  
