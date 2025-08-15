@@ -1,6 +1,6 @@
 ```
 Status: Draft
-Submit: 8 Aug 2025
+Submit: 14 Aug 2025
 Dialog: https://github.com/stellar/scf-verified-bot/discussions
 ```
 
