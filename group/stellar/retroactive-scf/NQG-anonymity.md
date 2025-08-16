@@ -17,7 +17,7 @@ diccarded points
 -  they thin kSCF is "too  complicated" — Gmema
 -  
  
-https://discord.com/channels/897514728459468821/1405252330592403648/1405579650226192465
+~~https://discord.com/channels/897514728459468821/1405252330592403648/1405579650226192465~~ seperate got ng power from funding as visavi Dom in chat
 - unanymous pub goods 1 approval
 - !Doxxing as a form of trusted group acceptance  
 - Applauding removal of required referral to _begin_ NSQWG weight acquisition  
