@@ -14,3 +14,9 @@ Submitted through 'John' username using perosnal omain Google account.
 
 ## Body
 
+
+
+
+
+
+https://x.com/tomerweller/status/1978911255277547580
