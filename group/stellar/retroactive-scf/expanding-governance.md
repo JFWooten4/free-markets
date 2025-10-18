@@ -18,5 +18,17 @@ Submitted through 'John' username using perosnal omain Google account.
 
 
 
+direc t e rference first meeting recording interatction
+
+I love tomeer (but not prhased like that) and can thing of only a few other equally-competatnt leaders at the Foudnation's review helm, but her will lead us into a fault if we don't expand the perview of review efforts before they hit a network vote, . .. The votes are lopsidingly dominated, as shown in NQG_FROUND_1_DECAY_TO_2 and SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE 
+
+
+'softare has bugss BS'
+
+
+
+
+
+
 
 https://x.com/tomerweller/status/1978911255277547580
