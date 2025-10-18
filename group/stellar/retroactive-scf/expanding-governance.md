@@ -14,6 +14,10 @@ Submitted through 'John' username using perosnal omain Google account.
 
 ## Body
 
+needs to deceat the carpetbagd resistance to change bs
+direct wow is holding on to how it was
+
+
 
 dir href sledge shipping but by URL_SDF_NETOWKR_FEATURE_COMPLETE
 re supporting bugs
