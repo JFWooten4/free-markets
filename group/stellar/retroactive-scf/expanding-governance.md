@@ -37,3 +37,8 @@ S/A prob needs to be tim and paulEW QQ full names
 
 
 https://x.com/tomerweller/status/1978911255277547580
+
+
+
+
+Grand would be an exceptional concession to make in an ending question❓ 
