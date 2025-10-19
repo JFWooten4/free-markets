@@ -18,3 +18,9 @@ https://web.archive.org/web/20250422192912/https://stellarcommunityfund.gitbook.
 
 https://stellarcommunityfund.gitbook.io/scf-handbook/scf-awards/scf-build/legacy-projects
 
+
+
+
+---
+150K is a byproduct of single-application centralization )(like wetf?)
+https://x.com/anke_g_liu/status/1979536741636706339
