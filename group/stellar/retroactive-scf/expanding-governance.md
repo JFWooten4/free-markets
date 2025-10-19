@@ -43,3 +43,25 @@ https://x.com/tomerweller/status/1978911255277547580
 
 Grand would be an exceptional concession to make in an ending question❓
 obve be the basis here not linked is the experience in re three times Tokyo 🗼 
+
+### power
+
+the timeline is iall i care about 
+
+- d---abbiyucbnent on Friday DOWNTO Wendesday, ~~a weekend a+
+- TODOs in CAP76 three days before network updagrade deployment
+
+#### source
+FROM JUSTING:
+
+ICYMI: Monday, we plan to release a new version of Stellar Core that patches a bug with state archival (the bug is currently quarantined; this will fix the underlying issue).
+
+We plan to upgrade Testnet Tuesay, and to schedule a Mainnet upgrade vote for Wendesday.
+
+That means we are asking you to move quickly, install the new version of Stellar Core, and arm your validator for the vote in the window of time between release and upgrade.
+
+Please be ready!  We'll share instructions and links here as soon as they're ready. 
+
+For now, you can read more in this blog post:
+https://stellar.org/blog/developers/addressing-state-archival-inconsistencies-protocol-upgrade-vote-next-week
+Stellar | Addressing State Archival Inconsistencies: Protocol Upgra...
