@@ -1,6 +1,6 @@
 ```
 status: Draft
-submit: weekend 17 Oct 2025
+submit: 20 Oct 2025
 dialog: https://groups.google.com/g/stellar-dev/c/ZmlSKP1HoDc
 ```
 
@@ -65,3 +65,4 @@ Please be ready!  We'll share instructions and links here as soon as they're rea
 For now, you can read more in this blog post:
 https://stellar.org/blog/developers/addressing-state-archival-inconsistencies-protocol-upgrade-vote-next-week
 Stellar | Addressing State Archival Inconsistencies: Protocol Upgra...
+
