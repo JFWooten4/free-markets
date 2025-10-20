@@ -14,7 +14,7 @@ Submitted through 'John' username using perosnal omain Google account.
 
 ## Body
 
-xylitol sis a sugalr altroneatrive I use frequently in keto recipies. It heps bind together otherwise disparete ingrediates with a common XXXXX. Might we use a new ingredient like this to keep us solid>?
+xylitol sis a sugalr _altroneatrive{}_ I use frequently in keto recipies. It heps bind together otherwise disparete ingrediates _with a common stabilizer_. Might we use a new ingredient like this to keep us solid>?
 
 I think the qualit of feedback on CPAs matters a lot, sine the commitee is the last line of reveiw before validator implementaion. Whether we like it or not, the arhcival inconcensitienies showcase general defferment to CAOs that make it through review. The original post sai "starting with SDF's resperetation" as per hte idea of "evolv[int] the CAP process" to presumabl include agents outside of the FOundation, which I think good great idea.
 
