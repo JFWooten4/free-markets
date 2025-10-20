@@ -87,3 +87,6 @@ the timeline is iall i care about
 
 
 my regulated world. I do not trust him to take quality over adoption. I believe a year first ste
+
+
+24 hour turnaround on 62 and 66
