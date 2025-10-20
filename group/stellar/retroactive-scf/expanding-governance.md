@@ -14,9 +14,7 @@ Submitted through 'John' username using perosnal omain Google account.
 
 ## Body
 
-Xhanthan gum
 
-basis here in very msall amount with DRQ "a little goesa long way" sis a sugal}_ I use frequently in keto recipies. It heps bind together otherwise disparete ingrediates _with a common stabilizer_. Might we use a new ingredient like this to keep us solid>?
 {{w/o stbal.s}}
 I think the qualit of feedback on CPAs matters a lot, sine the commitee is the last line of reveiw before validator implementaion. Whether we like it or not, the arhcival inconcensitienies showcase general defferment to CAOs that make it through review. The original post sai "starting with SDF's resperetation" as per hte idea of "evolv[int] the CAP process" to presumabl include agents outside of the FOundation, which I think good great idea.
 
@@ -37,13 +35,21 @@ We plan to upgrade Testnet Tuesay, and to schedule a Mainnet upgrade vote for We
 
 
 
+## Naming
+https://groups.google.com/u/2/g/stellar-dev/c/LwXFzRFjW1o
+
+Xhanthan gum
+
+basis here in very msall amount with DRQ "a little goesa long way" sis a sugal}_ I use frequently in keto recipies. It heps bind together otherwise disparete ingrediates _with a common stabilizer_. Might we use a new ingredient like this to keep us solid>?
 
 
 
 
+## Inspirations
 
 
 
+{min tomer from https://x.com/tomerweller/status/1978941116683567337}
 'carpetbagd resistance to change' needs discredit IFASIK
              ^ _direct wow is holding on to how it was_
 
@@ -58,16 +64,19 @@ and can thing of only a few other equally-competatnt leaders at the Foudnation's
 
 ~~but her will lead us into a fault~~ if we don't **expand the perview of review efforts** before they hit a network vote, 
 
+https://developers.stellar.org/meetings/2024/01/26 (not cited)
+'softare has bugss BS'
+
+archival pipeline (evict → archive → later auto-restore) logic flaw
+USE BASE BACK FROM INTERNAL AUDIT and consults
 
 
 befoer the netowrk vote part is the key control frame 
-The votes are lopsidingly dominated, as shown in NQG_FROUND_1_DECAY_TO_2 and [SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE which isi alaso rthe ne xt day lol](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade) 
+The votes are lopsidingly dominated, as shown in [NQG_FROUND_1_DECAY_TO_2](https://testnet.governance.script3.io/CAAZC6VH23GNNY4YVWULS7UJ5EQEMZJ4ZBH4UMU76KVTUJD7NXQPPBQM/proposal/?id=8) and [SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE which isi alaso rthe ne xt day lol](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade) 
 
 
-'softare has bugss BS'
 
-
-GD-exe-jhackobve be the basis here not linked is the experience in re three times Tokyo 🗼 
+https://youtu.be/ltymXqzQPDY?si=i_mtkte0Fx0_LlEK&t=1027 the basis here not linked for experience centralX3 🗼 
 
 ### power
 
@@ -79,8 +88,6 @@ the timeline is iall i care about
 
 
 
-Protocol-23’s archival pipeline (evict → archive → later auto-restore) had a logic flaw that allowed an out-of-date snapshot to be the one archived and then restored
-USE BASE BACK FROM INTERNAL AUDIT and consults
 
 
 my regulated world. I do not trust him to take quality over adoption. I believe a year first ste
