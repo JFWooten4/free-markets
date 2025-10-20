@@ -51,6 +51,8 @@ My regulated world. I do not trust him to take quality over adoption. I believe 
 
 ## Emails
 
+### CAP Team
+
 {{w/o stbal.s}}
 I think the quality of feedback on CPAs matters a lot, since the committee is the last line of review before validator implementation. Whether we like it or not, the archival inconsistencies showcase general deferment to CAOs that make it through review. The original post said "starting with SDF's representation" as per the idea of "evolving the CAP process" to presumably include agents outside of the Foundation, which I think is a great idea.
 
@@ -62,12 +64,14 @@ No way to be certain of code obvious because it was made by humans as per Justin
 _We_ do everything possible.
 PAST
 
-PRES
+
+PRES - epxloit within a month of Whisk
 ICYMI: Monday, we plan to release a new version of Stellar Core that patches a bug with state archival (the bug is currently quarantined; this will fix the underlying issue).
 
 We plan to upgrade Testnet Tuesday, and to schedule a Mainnet upgrade vote for Wednesday.
 
-## Naming
+### SEC View
+
 https://groups.google.com/u/2/g/stellar-dev/c/LwXFzRFjW1o
 
 Xanthan gum
