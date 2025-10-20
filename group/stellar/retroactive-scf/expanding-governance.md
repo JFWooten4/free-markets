@@ -21,57 +21,25 @@ Relations continuioned seperating during [AMM discussions](https://wooten.link/1
 I am amking extensive efforts to dissoviate from this back and forth in the past and focuso on p[matters at hand](https://x.com/tomerweller/status/1978941116683567337). But these changts introducesd a belief. Iunderstand from leadership that people like myself who care about decentralization are "resistance t to change" and just afraid something new will come along. This is more htan holding on to how thigns were, it's months of compliance work
 
 
-
-
-"[Feature complete](https://resources.stellar.org/hubfs/Q4%202024%20Quarterly%20Report.pdf#page=36)"
-Re supporting bugs and shipping features quickly???
-
-if we don't **expand the purview of review efforts** before they hit a network vote.
-
-
-Archival pipeline (evict → archive → later auto-restore) logic flaw.
-Use base back from internal audit and consults.
-
-Before the network vote part is the key control frame. 
-The votes are lopsidedly dominated, as shown in [NQG_FROUND_1_DECAY_TO_2](https://testnet.governance.script3.io/CAAZC6VH23GNNY4YVWULS7UJ5EQEMZJ4ZBH4UMU76KVTUJD7NXQPPBQM/proposal/?id=8) and [SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE which is also the next day lol](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade).
-
-https://youtu.be/ltymXqzQPDY?t=1027 The basis here not linked for experience central X3 🗼
-
-### Power
-
-The timeline is all I care about.
-
-- Deployment on Friday down to Wednesday, ~~a weekend a+~~
-- TODOs in CAP76 three days before network upgrade deployment
-
-My regulated world. I do not trust him to take quality over adoption. I believe a year first step.
-
-.
-
-
 ## Emails
 
 ### CAP Team
 
-I think the quality of feedback on CPAs matters a lot, since the committee is the last line of review before validator implementation. Whether we like it or not, the archival inconsistencies showcase general deferment to CAOs that make it through review. The original post said "starting with SDF's representation" as per the idea of "evolving the CAP process" to presumably include agents outside of the Foundation, which I think is a great idea.
-
-I've discussed this with prominent community members, and I think we should expand this three-person group to include indepdennt memebrs who will consistently choose quality over speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens isn't enugh incentive than, I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints which oft seem lodged deep within opque Slack chatter.
+I think the quality of feedback on CPAs matters a lot, since the committee is the last line of review before validator implementation. Whether we like it or not, the archival inconsistencies showcase general deferment to CAOs that make it through review. The original post said "starting with SDF's representation" as per the idea of "evolving the CAP process" to presumably include agents outside of the Foundation, which seems like a great idea given our productive public forums and [contuneing research](https://youtu.be/ltymXqzQPDY?t=1027) despite "feature completelness" to perfect developments responsibly.
 
 <img width="600" alt="Google Photo" src="imgs/marta-good.png">
 
-Blockchain should not update such critical governance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of proposal based only on the response of David's email. Might it be worth spending more than a few days approving these changes to receive enhanced written feedback from exceptional community members like Tim Baker or Johan Stén? I've risked my entire career on the decentralization of the network as a requisite to trade securities; should we really settle for entire upgrades in a day.
+I've discussed this with prominent community members, and I think we should expand this three-person group to include indepdennt memebrs who will consistently choose quality over adoption speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens isn't enugh incentive than, I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints which oft seem lodged deep within opque Slack chatter.
+
+Blockchain should not update such critical governance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of proposal based only on the response of David's email. Might it be worth spending more than a few days approving these changes to receive enhanced written feedback from exceptional community members like Tim Baker or Johan Stén? I've risked my entire career on the decentralization of the network as a requisite to trade securities; might we continue these efforts by giving others the ability to 
 
 
-buginmpelmented off the review of [one person](https://github.com/stellar/stellar-core/pull/4767) who authorted the [original logic](https://github.com/stellar/stellar-core/pull/4610). I agree that softwre made by humands might not be perfect, but maybe we could cpnsider the iwdom of our empassioned developer community more? Ecpsystem memebrs made this image because they truly care and pexxsxs
+buginmpelmented off the review of [one person](https://github.com/stellar/stellar-core/pull/4767) who authorted the [original logic](https://github.com/stellar/stellar-core/pull/4610). I agree that softwre made by humands might not be perfect, but maybe we could cpnsider the iwdom of our empassioned developer community more? Ecpsystem memebrs because they truly care and pexxsxs
 
-No way to be certain of code obvious because it was made by humans as per Justin.
-_We_ do everything possible.
-PAST
-
-
-PRES - epxloit within a month of Whisk
-ICYMI: Monday, we plan to release a new version of Stellar Core that patches a bug with state archival (the bug is currently quarantined; this will fix the underlying issue).
-
+**expand the purview of review efforts** before they hit a network vote
+No way to be certain of code obvious 
+because it was made by humans
+_We_ do everything possible
 
 John
 
