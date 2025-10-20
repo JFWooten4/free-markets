@@ -1,16 +1,55 @@
 Status: Draft
 Submit: 20 Oct 2025
-Dialog: https://groups.google.com/g/stellar-dev/c/ZmlSKP1HoDc
+Dialog: https://groups.google.com/g/stellar-dev/c/ZmlSKP1HoDc & https://groups.google.com/g/stellar-dev/c/LwXFzRFjW1o
 
 ## Context
 
 The present submission panel for the public goods award goes through three SDF individuals, which is centralized. I want to get us on track to expand power over common Foundation-run assets. This starts with bringing the ecosystem into the loop for co-advancement discussions over and above validator votes.
 
-## Means
+### Means
 
 Submitted through 'John' username using personal domain Google account.
 
-## Body
+### Background
+
+Tomer is a great develop.,r anAnd i can think of only a few other equally competent leaders at the Foundation's review helm. That said, a lof of my perspective here came from our [first interaction](https://developers.stellar.org/meetings/2024/01/26) (at 8:26 to 21:00) where he presented the view that "software [even Bitcoin] has bugs." I don't think this is an acceptable standrd of care for something that has coordinated development evfforts like our core owrk. 
+
+Relations continuioned seperating during [AMM discussions](https://wooten.link/1558) when Tomer claimed Routers could salovle all the problems of disparete liqudiity. This is not acceptable for a myriad of reasons, and I would like more work done to get contracts invoking the native DEX. Sthis was [flatly denied](https://discord.com/channels/761985725453303838/1302004423483981924/1302299862359867492) in a very repestable public quorum prior to [migration flaws](https://aqua.network/governance/proposal/104).
+
+I am amking extensive efforts to dissoviate from this back and forth in the past and focuso on p[matters at hand](https://x.com/tomerweller/status/1978941116683567337). But these changts introducesd a belief. Iunderstand from leadership that people like myself who care about decentralization are "resistance t to change" and just afraid something new will come along. This is more htan holding on to how thigns were, it's months of compliance work
+
+
+
+
+"[Feature complete](https://resources.stellar.org/hubfs/Q4%202024%20Quarterly%20Report.pdf#page=36)"
+Re supporting bugs and shipping features quickly???
+
+if we don't **expand the purview of review efforts** before they hit a network vote.
+
+ (not cited)
+'Software has bugs BS.'
+
+Archival pipeline (evict → archive → later auto-restore) logic flaw.
+Use base back from internal audit and consults.
+
+Before the network vote part is the key control frame. 
+The votes are lopsidedly dominated, as shown in [NQG_FROUND_1_DECAY_TO_2](https://testnet.governance.script3.io/CAAZC6VH23GNNY4YVWULS7UJ5EQEMZJ4ZBH4UMU76KVTUJD7NXQPPBQM/proposal/?id=8) and [SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE which is also the next day lol](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade).
+
+https://youtu.be/ltymXqzQPDY?t=1027 The basis here not linked for experience central X3 🗼
+
+### Power
+
+The timeline is all I care about.
+
+- Deployment on Friday down to Wednesday, ~~a weekend a+~~
+- TODOs in CAP76 three days before network upgrade deployment
+
+My regulated world. I do not trust him to take quality over adoption. I believe a year first step.
+
+24-hour turnaround on 62 and 66.
+
+
+## Emails
 
 {{w/o stbal.s}}
 I think the quality of feedback on CPAs matters a lot, since the committee is the last line of review before validator implementation. Whether we like it or not, the archival inconsistencies showcase general deferment to CAOs that make it through review. The original post said "starting with SDF's representation" as per the idea of "evolving the CAP process" to presumably include agents outside of the Foundation, which I think is a great idea.
@@ -34,39 +73,3 @@ https://groups.google.com/u/2/g/stellar-dev/c/LwXFzRFjW1o
 Xanthan gum
 
 Basis here in very small amount with DRQ "a little goes a long way" is a signal I use frequently in keto recipes. It helps bind together otherwise disparate ingredients _with a common stabilizer_. Might we use a new ingredient like this to keep us solid?
-
-## Inspirations
-
-{min Tomer from https://fxtwitter.com/tomerweller/status/1978941116683567337}
-'Carpetbagged resistance to change' needs discredit IFASIK.
-^ _Direct wow is holding on to how it was._
-
-"[Feature complete](https://resources.stellar.org/hubfs/Q4%202024%20Quarterly%20Report.pdf#page=36)"
-Re supporting bugs and shipping features quickly???
-
-Dissociated Tomer’s
-And can think of only a few other equally competent leaders at the Foundation's review helm.
-
-~~But her will lead us into a fault~~ if we don't **expand the purview of review efforts** before they hit a network vote.
-
-https://developers.stellar.org/meetings/2024/01/26 (not cited)
-'Software has bugs BS.'
-
-Archival pipeline (evict → archive → later auto-restore) logic flaw.
-Use base back from internal audit and consults.
-
-Before the network vote part is the key control frame. 
-The votes are lopsidedly dominated, as shown in [NQG_FROUND_1_DECAY_TO_2](https://testnet.governance.script3.io/CAAZC6VH23GNNY4YVWULS7UJ5EQEMZJ4ZBH4UMU76KVTUJD7NXQPPBQM/proposal/?id=8) and [SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE which is also the next day lol](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade).
-
-https://youtu.be/ltymXqzQPDY?t=1027 The basis here not linked for experience central X3 🗼
-
-### Power
-
-The timeline is all I care about.
-
-- Deployment on Friday down to Wednesday, ~~a weekend a+~~
-- TODOs in CAP76 three days before network upgrade deployment
-
-My regulated world. I do not trust him to take quality over adoption. I believe a year first step.
-
-24-hour turnaround on 62 and 66.
