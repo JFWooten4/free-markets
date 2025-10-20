@@ -26,18 +26,20 @@ no way to be certain of code obcvs becuaems made by himas as per justin
 _we_ do everyting possibrl
 
 
-
-needs to deceat the carpetbagd resistance to change bs
-direct wow is holding on to how it was
+'carpetbagd resistance to change' needs discredit IFASIK
+             ^ _direct wow is holding on to how it was_
 
 
 
 dir href sledge shipping but by URL_SDF_NETOWKR_FEATURE_COMPLETE
-re supporting bugs
+
 
 "[feature compelte](https://stellar.org/foundation/roadmap)"
+re supporting bugs
 
-direc t e rference first meeting recording interatction
+***********direc t e rference first meeting recording interatction***********
+this is th e 2024-1-26 exec.
+
 
 I love tomeer (but not prhased like that) and can thing of only a few other equally-competatnt leaders at the Foudnation's review helm, but her will lead us into a fault if we don't expand the perview of review efforts before they hit a network vote, . .. The votes are lopsidingly dominated, as shown in NQG_FROUND_1_DECAY_TO_2 and SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE 
 
