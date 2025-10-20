@@ -55,9 +55,12 @@ My regulated world. I do not trust him to take quality over adoption. I believe 
 
 I think the quality of feedback on CPAs matters a lot, since the committee is the last line of review before validator implementation. Whether we like it or not, the archival inconsistencies showcase general deferment to CAOs that make it through review. The original post said "starting with SDF's representation" as per the idea of "evolving the CAP process" to presumably include agents outside of the Foundation, which I think is a great idea.
 
-I've discussed this with prominent community members, and I think we should expand this three-person group to include indepdennt memebrs who will consistently choose quality over speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the 24-hour turnaround on 62 and 66 which were exploited in a month. If the vast holdings of lumens isn't enugh incentive than I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints.
+I've discussed this with prominent community members, and I think we should expand this three-person group to include indepdennt memebrs who will consistently choose quality over speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens isn't enugh incentive than I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints.
 
 Blockchain should not update such critical governance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of proposal based on the response of one email. {?} Might it be worth spending more than a few days approving these changes to receive enhanced written feedback from exceptional community members like Tim Baker or Johan Stén? I've risked my entire career on the decentralization of the network as a requisite to trade securities; should we really settle for entire upgrades in a day.
+
+
+buginmpelmented off the review of [one person](https://github.com/stellar/stellar-core/pull/4767) who authorted the [original logic](https://github.com/stellar/stellar-core/pull/4610). I agree that softwre made by humands might not be perfect, but maybe we could cpnsider the iwdom of our empassioned developer community more?
 
 No way to be certain of code obvious because it was made by humans as per Justin.
 _We_ do everything possible.
