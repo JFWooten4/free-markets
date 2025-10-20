@@ -1,6 +1,8 @@
+```
 Status: Draft
 Submit: 20 Oct 2025
 Dialog: https://groups.google.com/g/stellar-dev/c/ZmlSKP1HoDc & https://groups.google.com/g/stellar-dev/c/LwXFzRFjW1o
+```
 
 ## Context
 
@@ -26,8 +28,6 @@ Re supporting bugs and shipping features quickly???
 
 if we don't **expand the purview of review efforts** before they hit a network vote.
 
- (not cited)
-'Software has bugs BS.'
 
 Archival pipeline (evict → archive → later auto-restore) logic flaw.
 Use base back from internal audit and consults.
@@ -72,8 +72,10 @@ We plan to upgrade Testnet Tuesday, and to schedule a Mainnet upgrade vote for W
 
 ### SEC View
 
-https://groups.google.com/u/2/g/stellar-dev/c/LwXFzRFjW1o
+For clarity fo documetnation, the majority of public information annoucned about this explout can be rfound in [this thread](https://x.com/JrBaruc/status/1979213431615218171). As for the naming chat, I prpose we call the itnerum P24 upgrade "Xanthan" for a niche keto thichecning agent . I add just a pinch to harden up an otherwise unstable liquid mixture so that it mbakes together just right.
 
-Xanthan gum
+<img width="450" alt="Google Photo" src="imgs/xanthan-gum.png">
 
-Basis here in very small amount with DRQ "a little goes a long way" is a signal I use frequently in keto recipes. It helps bind together otherwise disparate ingredients _with a common stabilizer_. Might we use a new ingredient like this to keep us solid?
+A little community prudence has gone a long way fixing [past bugs](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade). I hope we can walk away form this incident with a little more humility and deference to community developer conversations. In past meetings, little written preparetory materials and domineering controls make it hard to express live dissent or question methods.
+
+For instance, the related [CAP66](https://youtu.be/JDlIL5y5bn8) and [CAP62](https://youtu.be/u204TwiHJpE) discussions were not open-mic for input from developers, being just a single monolague in letter. How miuch gwe indcentivize and promote more eocysstem involvement above and beyond validator voting, since diverse viewpoints and increased eyes make bugs much more shoallow than thiss? I'm working on synntax changes now, and I ~~ hope they won't be squaded by a ciental viewpoint of what conversation should be like as I was in ~~
