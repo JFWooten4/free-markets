@@ -55,7 +55,9 @@ My regulated world. I do not trust him to take quality over adoption. I believe 
 
 I think the quality of feedback on CPAs matters a lot, since the committee is the last line of review before validator implementation. Whether we like it or not, the archival inconsistencies showcase general deferment to CAOs that make it through review. The original post said "starting with SDF's representation" as per the idea of "evolving the CAP process" to presumably include agents outside of the Foundation, which I think is a great idea.
 
-I've discussed this with prominent community members, and I think we should expand this three-person group to include indepdennt memebrs who will consistently choose quality over speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens isn't enugh incentive than I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints.
+I've discussed this with prominent community members, and I think we should expand this three-person group to include indepdennt memebrs who will consistently choose quality over speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens isn't enugh incentive than, I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints which oft seem lodged deep within opque Slack chatter.
+
+<img width="600" alt="Google Photo" src="imgs/marta-4767.png">
 
 Blockchain should not update such critical governance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of proposal based only on the response of David's email. Might it be worth spending more than a few days approving these changes to receive enhanced written feedback from exceptional community members like Tim Baker or Johan Stén? I've risked my entire career on the decentralization of the network as a requisite to trade securities; should we really settle for entire upgrades in a day.
 
@@ -70,7 +72,8 @@ PAST
 PRES - epxloit within a month of Whisk
 ICYMI: Monday, we plan to release a new version of Stellar Core that patches a bug with state archival (the bug is currently quarantined; this will fix the underlying issue).
 
-We plan to upgrade Testnet Tuesday, and to schedule a Mainnet upgrade vote for Wednesday.
+
+John
 
 ### SEC View
 
@@ -82,3 +85,7 @@ A little community prudence has gone a long way fixing [past bugs](https://stell
 
 For instance, the related [CAP66](https://youtu.be/JDlIL5y5bn8) and [CAP62](https://youtu.be/u204TwiHJpE) discussions were not open-mic for input from developers, being just a single monolague in letter. How miuch gwe indcentivize and promote more eocysstem involvement above and beyond validator voting, since diverse viewpoints and increased eyes make bugs much more shoallow than thiss? My industry was riddled by fraud because of oloopholes indsturced during criss,which mimic central viewpoints apparent in TODOs and clear synntax changes just a couple of days before the proposed hastly upgrade.
 
+
+In good faith,
+
+John Wooten
