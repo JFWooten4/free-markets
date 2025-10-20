@@ -18,7 +18,7 @@ Submitted through 'John' username using perosnal omain Google account.
 
  I've discussed this with prominent community members, and flatly I do not believe this htree-perosn group will consisitnely chose quality over speed {CHECK HE}. Tomer dismissed my oncerns over the Protocol 20 bug, but that call was  overruled by a quorum that may no longer exist in public documentation with this change . Complete power in the hands of FOundation members just doens't make sense to me given the realtive uniformity of voiewpoints.
 
- Blokchsin should not update such critical govenrmance mechanisms [within 3 days{}](1792) off the response of one email. {?} Might it be owrth spending omre than a few days approivng these changes to receive enhanced written feedback fomr exceptional communtiy members like Tim FlgihtP{ or Phil Discordzz{? I've risked m entire career n the decnetralization of the network as a requisite to trade securities; should we really settle for entire upgrades in dy?
+ Blokchsin should not update such critical govenrmance mechanisms [within 3 days{}](1792) off the response of one email. {?} Might it be owrth spending omre than a few days approivng these changes to receive enhanced written feedback fomr exceptional communtiy members like Tim FlgihtP{ or Phil Discordzz{? I've risked m entire career n the decnetralization of the network as a requisite to trade securities; should we really settle for entire upgrades in dy.
 
 
 
@@ -89,5 +89,6 @@ Please be ready!  We'll share instructions and links here as soon as they're rea
 For now, you can read more in this blog post:
 https://stellar.org/blog/developers/addressing-state-archival-inconsistencies-protocol-upgrade-vote-next-week
 Stellar | Addressing State Archival Inconsistencies: Protocol Upgra...
+
 
 
