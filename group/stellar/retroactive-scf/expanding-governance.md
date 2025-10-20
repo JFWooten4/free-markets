@@ -57,7 +57,7 @@ I think the quality of feedback on CPAs matters a lot, since the committee is th
 
 I've discussed this with prominent community members, and I think we should expand this three-person group to include indepdennt memebrs who will consistently choose quality over speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens isn't enugh incentive than, I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints which oft seem lodged deep within opque Slack chatter.
 
-<img width="600" alt="Google Photo" src="imgs/marta-4767.png">
+<img width="600" alt="Google Photo" src="imgs/marta-good.png">
 
 Blockchain should not update such critical governance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of proposal based only on the response of David's email. Might it be worth spending more than a few days approving these changes to receive enhanced written feedback from exceptional community members like Tim Baker or Johan Stén? I've risked my entire career on the decentralization of the network as a requisite to trade securities; should we really settle for entire upgrades in a day.
 
