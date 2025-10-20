@@ -14,11 +14,13 @@ Submitted through 'John' username using perosnal omain Google account.
 
 ## Body
 
- I think the qualit of feedback on CPAs matters a lot, sine the commitee is the last line of reveiw before validator implementaion. Whether we like it or not, the arhcival inconcensitienies showcase general defferment to CAOs that make it through review. The original post sai "starting with SDF's resperetation" as per hte idea of "evolv[int] the CAP process" to presumabl include agents outside of the FOundation, which I think good great idea.
+xylitol sis a sugalr altroneatrive I use frequently in keto recipies. It heps bind together otherwise disparete ingrediates with a common XXXXX. Might we use a new ingredient like this to keep us solid>?
 
- I've discussed this with prominent community members, and flatly I do not believe this htree-perosn group will consisitnely chose quality over speed {CHECK HE}. Tomer dismissed my oncerns over the Protocol 20 bug, but that call was  overruled by a quorum that may no longer exist in public documentation with this change . Complete power in the hands of FOundation members just doens't make sense to me given the realtive uniformity of voiewpoints.
+I think the qualit of feedback on CPAs matters a lot, sine the commitee is the last line of reveiw before validator implementaion. Whether we like it or not, the arhcival inconcensitienies showcase general defferment to CAOs that make it through review. The original post sai "starting with SDF's resperetation" as per hte idea of "evolv[int] the CAP process" to presumabl include agents outside of the FOundation, which I think good great idea.
 
- Blokchsin should not update such critical govenrmance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of porposal based on the response of one email. {?} Might it be owrth spending omre than a few days approivng these changes to receive enhanced written feedback fomr exceptional communtiy members like Tim Baker or Johan Stén? I've risked m entire career n the decnetralization of the network as a requisite to trade securities; should we really settle for entire upgrades in dy.
+I've discussed this with prominent community members, and flatly I do not believe this htree-perosn group will consisitnely chose quality over speed {CHECK HE}. Tomer dismissed my oncerns over the Protocol 20 bug, but that call was  overruled by a quorum that may no longer exist in public documentation with this change . Complete power in the hands of FOundation members just doens't make sense to me given the realtive uniformity of voiewpoints.
+{{mhs}}
+Blokchsin should not update such critical govenrmance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of porposal based on the response of one email. {?} Might it be owrth spending omre than a few days approivng these changes to receive enhanced written feedback fomr exceptional communtiy members like Tim Baker or Johan Stén? I've risked m entire career n the decnetralization of the network as a requisite to trade securities; should we really settle for entire upgrades in dy.
 
 
 
@@ -51,16 +53,16 @@ re supporting bugs and shipping features quickly???
 
 DISCOCIATIET toMErS
 and can thing of only a few other equally-competatnt leaders at the Foudnation's review helm
-{{ rem change the silence call }}
-but her will lead us into a fault if we don't expand the perview of review efforts before they hit a network vote, . .. The votes are lopsidingly dominated, as shown in NQG_FROUND_1_DECAY_TO_2 and SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE 
+
+~~but her will lead us into a fault~~ if we don't **expand the perview of review efforts** before they hit a network vote, 
+
+
+
+befoer the netowrk vote part is the key control frame 
+The votes are lopsidingly dominated, as shown in NQG_FROUND_1_DECAY_TO_2 and [SDF_BLOG_POST_DISARMING_BUG_V1_UPGRADE which isi alaso rthe ne xt day lol](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade) 
 
 
 'softare has bugss BS'
-
-
-S/A prob needs to be tim and paulEW QQ full names
-
-
 
 
 https://x.com/tomerweller/status/1978911255277547580
