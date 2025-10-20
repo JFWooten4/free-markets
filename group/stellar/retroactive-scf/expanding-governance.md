@@ -22,7 +22,8 @@ Submitted through 'John' username using perosnal omain Google account.
 
 
 
-
+no way to be certain of code obcvs becuaems made by himas as per justin
+_we_ do everyting possibrl
 
 
 
@@ -34,6 +35,7 @@ direct wow is holding on to how it was
 dir href sledge shipping but by URL_SDF_NETOWKR_FEATURE_COMPLETE
 re supporting bugs
 
+"[feature compelte](https://stellar.org/foundation/roadmap)"
 
 direc t e rference first meeting recording interatction
 
