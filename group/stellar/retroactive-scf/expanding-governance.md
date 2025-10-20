@@ -46,7 +46,7 @@ We plan to upgrade Testnet Tuesay, and to schedule a Mainnet upgrade vote for We
              ^ _direct wow is holding on to how it was_
 
 
-"[feature compelte](https://stellar.org/foundation/roadmap)"
+"[feature compelte](https://resources.stellar.org/hubfs/Q4%202024%20Quarterly%20Report.pdf#page=36)"
 re supporting bugs and shipping features quickly???
 
 
