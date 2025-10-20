@@ -24,6 +24,20 @@ Submitted through 'John' username using perosnal omain Google account.
 
 no way to be certain of code obcvs becuaems made by himas as per justin
 _we_ do everyting possibrl
+PAST
+
+PRES
+ICYMI: Monday, we plan to release a new version of Stellar Core that patches a bug with state archival (the bug is currently quarantined; this will fix the underlying issue).
+
+We plan to upgrade Testnet Tuesay, and to schedule a Mainnet upgrade vote for Wendesday.
+
+
+
+
+
+
+
+
 
 
 'carpetbagd resistance to change' needs discredit IFASIK
@@ -33,8 +47,6 @@ _we_ do everyting possibrl
 "[feature compelte](https://stellar.org/foundation/roadmap)"
 re supporting bugs and shipping features quickly???
 
-***********direc t e rference first meeting recording interatction***********
-this is th e 2024-1-26 exec.
 
 
 DISCOCIATIET toMErS
@@ -66,20 +78,6 @@ the timeline is iall i care about
 - d---abbiyucbnent on Friday DOWNTO Wendesday, ~~a weekend a+
 - TODOs in CAP76 three days before network updagrade deployment
 
-#### source
-FROM JUSTING:
-
-ICYMI: Monday, we plan to release a new version of Stellar Core that patches a bug with state archival (the bug is currently quarantined; this will fix the underlying issue).
-
-We plan to upgrade Testnet Tuesay, and to schedule a Mainnet upgrade vote for Wendesday.
-
-That means we are asking you to move quickly, install the new version of Stellar Core, and arm your validator for the vote in the window of time between release and upgrade.
-
-Please be ready!  We'll share instructions and links here as soon as they're ready. 
-
-For now, you can read more in this blog post:
-https://stellar.org/blog/developers/addressing-state-archival-inconsistencies-protocol-upgrade-vote-next-week
-Stellar | Addressing State Archival Inconsistencies: Protocol Upgra...
 
 
 
