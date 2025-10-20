@@ -15,7 +15,7 @@ Submitted through 'John' username using perosnal omain Google account.
 ## Body
 
 xylitol sis a sugalr _altroneatrive{}_ I use frequently in keto recipies. It heps bind together otherwise disparete ingrediates _with a common stabilizer_. Might we use a new ingredient like this to keep us solid>?
-
+{{w/o stbal.s}}
 I think the qualit of feedback on CPAs matters a lot, sine the commitee is the last line of reveiw before validator implementaion. Whether we like it or not, the arhcival inconcensitienies showcase general defferment to CAOs that make it through review. The original post sai "starting with SDF's resperetation" as per hte idea of "evolv[int] the CAP process" to presumabl include agents outside of the FOundation, which I think good great idea.
 
 I've discussed this with prominent community members, and flatly I do not believe this htree-perosn group will consisitnely chose quality over speed {CHECK HE}. Tomer dismissed my oncerns over the Protocol 20 bug, but that call was  overruled by a quorum that may no longer exist in public documentation with this change . Complete power in the hands of FOundation members just doens't make sense to me given the realtive uniformity of voiewpoints.
