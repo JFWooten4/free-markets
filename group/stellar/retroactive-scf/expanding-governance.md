@@ -6,7 +6,7 @@ Dialog: https://groups.google.com/g/stellar-dev/c/ZmlSKP1HoDc & https://groups.g
 
 ## Context
 
-The present submission panel for the public goods award goes through three SDF individuals, which is centralized. I want to get us on track to expand power over common Foundation-run assets. This starts with bringing the ecosystem into the loop for co-advancement discussions over and above validator votes.
+The present submission panel for the public goods award goes through three SDF individuals, which is centralized. I want to get us on track to expand power over common Foundation-run assets, [continuing research](https://youtu.be/ltymXqzQPDY?t=1027) into exploits. This starts with bringing the ecosystem into the loop for co-advancement discussions over and above validator votes.
 
 ### Means
 
@@ -28,9 +28,9 @@ I think the quality of feedback on CAPs matters a lot, since the committee is th
 
 <img width="500" alt="Google Photo" src="imgs/marta-good.png">
 
-I've discussed this with prominent community members, and I think we should expand this three-person group to include independent members who will consistently choose quality over adoption speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens aren't enough incentive, then I would not trust complete power in the hands of Foundation members given the org's relative uniformity of viewpoints which often seem lodged deep within opaque Slack chatter.
+I've discussed this with prominent community members, and I think we should expand this three-person group to include independent members who will consistently choose quality over adoption speed. Just as my concerns over the Protocol 20 bug took time to mature by a quorum, I prefer adequate public documentation over the [24-hour turnaround](https://groups.google.com/g/stellar-dev/c/osfwam2kUjo/m/4aiTqTh8EgAJ) on 62 and 66 which were exploited in a month. If the vast holdings of lumens aren't enough incentive, then I would not trust complete power in the hands of Foundation members given the org's relatively uniform viewpoints which often seem lodged deep within opaque Slack chatter.
 
-Blockchain should not update such critical governance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of proposal based only on the response of David's email. Might it be worth spending more than a few days approving these changes to receive enhanced written feedback from exceptional community members like Tim Baker or Johan Stén? I've risked my entire career on the decentralization of the network as a requisite to trade securities, and over the years of developing our frameworks we've always found stability in the structure of giving others who care the ability to make their concerns known and recognized in roadmapped efforts.
+Blockchains should not update such critical governance mechanisms [within 3 hours](https://github.com/stellar/stellar-protocol/pull/1792) of proposal based only on the response of David's email. Might it be worth spending more than a few days approving these changes to receive enhanced written feedback from exceptional community members like Tim Baker or Johan Stén? I've risked my entire career on the decentralization of the network as a requisite to trade securities, and over the years of developing our frameworks we've always found stability in the structure of giving others who care the ability to make their concerns known and recognized in roadmapped efforts.
 
 John
 
