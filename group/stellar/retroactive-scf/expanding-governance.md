@@ -6,7 +6,7 @@ Dialog: https://groups.google.com/g/stellar-dev/c/ZmlSKP1HoDc & https://groups.g
 
 ## Context
 
-The present submission panel for the public goods award goes through three SDF individuals, which is centralized. I want to get us on track to expand power over common Foundation-run assets, [continuing research](https://youtu.be/ltymXqzQPDY?t=1027) into exploits. This starts with bringing the ecosystem into the loop for co-advancement discussions over and above validator votes.
+The present submission panel for the public goods award goes through three SDF individuals, which is centralized. I want to get us on track to expand power over common Foundation-run assets. This starts with bringing the ecosystem into the loop for co-advancement discussions over and above validator votes.
 
 ### Means
 
@@ -40,7 +40,7 @@ For clarity of documentation, the majority of public information announced about
 
 <img width="450" alt="Google Photo" src="imgs/xanthan-gum.png">
 
-A little community prudence has gone a long way fixing [past bugs](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade), and I can't do my job with the alternative of code reviews by [one person](https://github.com/stellar/stellar-core/pull/4767) who authored the [original logic](https://github.com/stellar/stellar-core/pull/4610). I hope we can walk away from this incident with a little more humility and deference to community developer conversations. In past meetings, little written preparatory materials and domineering controls make it hard to express live dissent or question methods.
+A little community prudence has gone a long way fixing [past bugs](https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade), and I can't do my job without [continuing research](https://youtu.be/ltymXqzQPDY?t=1027) into exploits showcased in documented code reviews by [the person](https://github.com/stellar/stellar-core/pull/4767) who authored the [original logic](https://github.com/stellar/stellar-core/pull/4610). I hope we can walk away from this incident with a little more humility and deference to community developer conversations. In past meetings, little written preparatory materials and domineering controls make it hard to express live dissent or question methods.
 
 For instance, the related [CAP66](https://youtu.be/JDlIL5y5bn8) and [CAP62](https://youtu.be/u204TwiHJpE) discussions were not open-mic for input from developers, being just a single monologue in the latter at ignorance of the wisdom of our impassioned developer community. How may we incentivize and promote more ecosystem involvement above and beyond validator voting, since diverse viewpoints and increased eyes make bugs much more shallow than this? My industry was riddled by fraud because of loopholes introduced during crises, which mimic central viewpoints apparent in TODOs and clear syntax change needs just a couple of days before the proposed hasty upgrade.
 
