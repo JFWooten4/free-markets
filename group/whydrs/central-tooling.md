@@ -4,7 +4,7 @@ submit: ? oct/nov 2024
 dialog: https://github.com/orgs/WhyDRS/discussions/new?category=ideas
 ```
 
-#  
+#  Decentalized marketing - Is it POssible and HOw SHould we APproach it?
 
 
 HEllo hi!@ I am making an effort  to doucment more thorough thorughts in coprehensive github or live deploymetn posts. I  think  it's good form to link these back  to the source of inspiring conversations.
@@ -52,13 +52,7 @@ THis connectio nwwe share over an important topic is powerful.  It yields result
 
 I recall and [earll;y outreaf](https://discord.com/channels/1102309240145707049/1102309240741310503/1260681999652229182)  related  to https://github.com/stellar/stellar-docs/issues/797—where is  asked if ther were any artists who might want to help with a community 3D design. Later on,  we saw some exceptional 3D printing from apres which made its way itno the kit of outread ch tools. 💜 It's  a veryu doiffernt approach  to  a prbroad public bidding market of  labor because we have a shared connection that leads to care and vision embedded  in outputs.[^6]
 
-
-
-
-## ChatGPT
-
-
-
+PASSION TODO
 
 
 
@@ -70,3 +64,52 @@ I recall and [earll;y outreaf](https://discord.com/channels/1102309240145707049/
 [^5]: We see this pretty  directly in  t he lackluster  initial resutls targetting narrow DRS keywords . While these are the easiest to  convert  into clicks cheaply. , they will not garner material trafficc during our brand-building stage. It's  just a fact  I;ve seen  over and over in my own  campgiaghns lo., ./
 
 [^6]: THe centralized bidding hiring does workt,  but  I really  don't like its extrernaltiies, intermediation, and negaativity. It  forces  foals  to compete in asn enviroment with imperfect information, which often just leads to a lazy answer suited by poticial needs. I've h ad plently of wood work-products  made this way, but it  crucially cremoves the incentive or ever position o f power  for independent thought  and expansive ellaborations on a scoped team agenda.
+
+
+
+## Cnetralizaiton
+
+Google Ads are  very  cventralized, writing  copy  is very  centralized, and access permissions  are very  centralized. We'll talk more about the last one in  the  snext section, but  I hope this framing just copes out how clear to me it is . We are a _DUNA_ proposing to do centralized things  that will drastically  help achive  our just and true mission to reform m the capital market. 
+
+I sincerely support these present efforts. I jsut want to make this rfeally clear, because it 's  a singificant org splitting choice. In a perfect  world., there would be onyl word fof mouth.
+
+At least in my ideal, wehgre erveryone can jsut self-orgnaize and decicate their resources to the mission 
+
+###  Slow Way
+
+We['ve been going at this for four years ,a dn there are still massive amounts of market pareenetration  to achieve in terms o f  general understanding of your ownership options. Iv''e done every  singlee  thing I can to make big progress wiht extrmee decentralization, and it's been a lot. It is doable,  buit at a certian point we need a consistent brand and product, wejther its accounting or educational materials.
+
+
+I've thought about this a lot, and I do want to keep doing things the slow and right rway./ But we have this awesome resource in the Ad grant  opporuntity, and I think it's worth taking. THe laternate only detracts from our mission of informing the public about their options  when ivnesting.
+
+
+
+
+### Trust
+
+IT m ight take some time to formatlize this,  but obviosuly  there is  a bar we need to hit for access  to t he Ads  coinsole. If you mess up,  you could accidendltyy   spend the entire month's allotmen[^7] in a few days. THis  gets into an  earlier disusccion  of how to quanitfy trust when money  is at stake.
+
+Early discussion  in the  DUNA meetings centered around reputations risks—,ike what  oculd h appen inf someone with a WHyDRS email a ccount sent something bad  to someone important. I followed  on with my throughts arouind commissioned salespoeople ', who i proposed post a sizable bond before beginning permissionless work using a Block  Tranfer  email and meeting schedulign software./[^8]
+
+
+
+### Couinterbalance
+
+https://discord.com/channels/1102309240145707049/1252215695857549342/1252217417279733761
+
+
+
+
+## ChatGPT
+
+
+
+
+was also diiscord https://discord.com/channels/1102309240145707049/1136343213091856486/1435045883061473332
+
+
+[^7]: or much more, although this  can surely  be limited by an executive admin.  But even the idea of having  a role like that is another layer of centralizing  complexity. My apporach  so far has been  to a
+ssocia
+te benedits with token owenrshpi interests/
+
+[^8]: I think direct commissions are verfy  dangerous  becasue they create a perverse i ncentive to onbaord issuers at eanyu cost e ven when they may bne detrimental to the investing public. Moreover, we put  a  really high bar on participation if you  need $50k on dpeosit  jsut to start helpign with someitnghin  you think is coo.  I think it's important we have a repitation for not serving obvious frauds.
