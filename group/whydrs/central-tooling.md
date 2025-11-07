@@ -19,13 +19,23 @@ This responds  to two choiuces  we have  looking  forward. It was [announced](ht
 From the  context,  the two m atters at hand are whterhter we :
 
 - Pay thousands of dollars to  an advertising agency, andd
-- Setup an Association-wide OPenAI accoutn  for 
+- Setup an Association-wide OPenAI accoutn  for members
 
 
 
 ## Google Ads
 
+I am extrmeley ocmpetant at  google ads, and that scareds me a little.[^3]  Ive been in positions itnerting with some of these marketing agencies and learning directly from wtheir work. While there is a lot sof specialziiton and nuance in stayhing up-to-date iwth the most recent algoriuthm changes, the  core concepts don't really change.
 
+I could dive into the accounts tommorow and have hte adspend and conversion results up drastically within a month. 
+
+### Budget
+
+On  the matter  of adspend, I think we should scale up slowly. At least at the estart, we obviosuly don't have the  sresources  to accidently go 20% over the allotment and then have a huge buiill. But, more importantly, we  have already seen the veriocity  with which they will rejefct  creatives. (those r the ads)
+
+I have extensive experinece  with this  across diffrent centralized advertising pllatfomrs. The  financial educastion and self-imporvmeent  space requiresd a lot  of tact to navigate their nuanced  policies  arouynd claims and advice. PLainly, there are ways to approach this proporely over time so thatg they become compfortabel with us .
+
+We  can  start out lower in numbers to push the boundaries and start g etting resutls with say $800/mo  spend. THen  it's a pretty  straightforward  path to upping until using most of the  generous nonfprofit credits. It's really jsut avoiding some hot keywords (like BOb pointed out) and knowing what images can be.
 
 
 
@@ -36,3 +46,7 @@ From the  context,  the two m atters at hand are whterhter we :
 
 
 
+
+[^3]: _See, e.g.,_ remakrs about  our  first client from low adspend [in thread](https://discord.com/channels/1102309240145707049/1418046119908217004/1436462276050681918). I have't  gotten around to makeing all the Syndicatge examz reponses public,[^4]  but  I  cited more o f htis  experinece peretty exptensively in Reposnse 2. It rlates  ato a lot of the early SYndicate wrok in college and then the years of financial education before that with class/
+
+[^4]: this has two prerequiestes: cenosring  all PII and configuring someowehre to host like the documents repo. I think I'll get around to the latter once we  get h te SDNY response [from  vote](https://discord.com/channels/1102309240145707049/1435385563870924810). Propbably would owrk hwell along hte  same hosting lines as the new podcast  feed ...
