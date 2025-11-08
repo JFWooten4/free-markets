@@ -6,7 +6,7 @@ dialog: https://github.com/orgs/WhyDRS/discussions/new?category=ideas
 
 # 📰 Decentralized Marketing - Is It Possible and How Should We Approach It?
 
-Hello hi! I am making an effort to document more thorough thoughts in comprehensive GitHub or live deployment posts. I think it's good form to link these back to the source of inspiring conversations.
+Hello, hi! I am making an effort to document more thorough thoughts in comprehensive GitHub or live deployment posts. I think it's good form to link these back to the source of inspiring conversations.
 
 This responds to two choices we have looking forward. It was [announced](https://discord.com/channels/1102309240145707049/1418046119908217004/1436180933903646761), so to speak in the Discord, where I'll link back a reply. More than being a reference, I just feel better with some space to flesh out these thoughts.[^1]
 
@@ -45,9 +45,10 @@ By doing marketing ourselves, we can combine the inbound campaign efforts with f
 
 This connection we share over an important topic is powerful. It yields results which I think exceed those of a distant consultancy. I think we should do what we can to incent member participation and reward our friends even if it costs a little more than brute outsourcing.
 
-I recall an [early outreach](https://discord.com/channels/1102309240145707049/1102309240741310503/1260681999652229182) related to https://github.com/stellar/stellar-docs/issues/797—where I asked if there were any artists who might want to help with a community 3D design. Later on, we saw some exceptional 3D printing from apres which made its way into the kit of outreach tools. 💜 It's a very different approach to a broad public bidding market of labor because we have a shared connection that leads to care and vision embedded in outputs.[^6]
+I recall an [early outreach](https://discord.com/channels/1102309240145707049/1102309240741310503/1260681999652229182) related to https://github.com/stellar/stellar-docs/issues/797—where I asked if there were any artists who might want to help with a community 3D design. Later on, we saw some exceptional 3D printing from apes which made its way into the kit of outreach tools. 💜 It's a very different approach to a broad public bidding market of labor because we have a shared connection that leads to care and vision embedded in outputs.[^6]
 
-PASSION TODO
+I found it thrilling to pore over early public documentation about the preliminary DAO's [advertising campaign](https://www.drsgme.org/fundraising-transparency). This sort of compilation can become a high bar that could really help the community's ability to contribute, learn, and perfect our advertising together.[^9] Can we market directly while keeping trust?
+
 
 [^3]: _See, e.g.,_ remarks about our first client from low ad spend [in thread](https://discord.com/channels/1102309240145707049/1418046119908217004/1436462276050681918). I haven't gotten around to making all the Syndicate exam responses public,[^4] but I cited more of this experience pretty extensively in Response 2. It relates a lot to the early Syndicate work in college and then the years of financial education before that with class.
 
@@ -56,6 +57,13 @@ PASSION TODO
 [^5]: We see this pretty directly in the lackluster initial results targeting narrow DRS keywords. While these are the easiest to convert into clicks cheaply, they will not garner material traffic during our brand-building stage. It's just a fact I've seen over and over in my own campaigns.
 
 [^6]: The centralized bidding hiring does work, but I really don't like its externalities, intermediation, and negativity. It forces goals to compete in an environment with imperfect information, which often just leads to a lazy answer suited by political needs. I've had plenty of work products made this way, but it crucially removes the incentive or ever position of power for independent thought and expansive elaborations on a scoped team agenda.
+
+[^9]: _See, e.g.,_ community support garnered in the face of criticism over having a holistic brand represent distributed investors. @BibicJr overcomes these qualms [in SS](https://www.reddit.com/r/Superstonk/comments/vkdbj2/drsgmeorg_temperature_check_community_discussion) and gets some great backing over full transparency, albeit this may not be as huge a challenge until / if we go over the monthly $10k. Also, if there was a git repo with current campaign keywords and monthly spend, then anyone could permissionlessly think of ways to improve our results.
+
+
+
+
+
 
 
 ## Cnetralizaiton
