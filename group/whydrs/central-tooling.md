@@ -1,7 +1,7 @@
 ```
-status: Draft
-submit: ? oct/nov 2024
-dialog: https://github.com/orgs/WhyDRS/discussions/new?category=ideas
+status: Partially Released
+submit: 7+ Nov 2025
+dialog: https://github.com/orgs/WhyDRS/discussions/57
 ```
 
 # 📰 Decentralized Marketing - Is It Possible and How Should We Approach It?
@@ -65,6 +65,7 @@ I found it thrilling to pore over early public documentation about the prelimina
 
 
 
+rest of these cna be comments
 
 ## Cnetralizaiton
 
