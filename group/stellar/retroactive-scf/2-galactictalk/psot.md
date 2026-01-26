@@ -1,7 +1,7 @@
 basically we have a 
 
 stupid
-- based on waiting 12 months ()
+- based on waiting 12 months (https://discord.com/channels/897514728459468821/1124340476288454657/1431195444616101969)
 
 and
 
@@ -14,4 +14,4 @@ so like i know its harder to tally but id rather have a million votes with weigh
 
 basically lowering the bar to even get in the cockpit
 
-()x
+(https://github.com/JFWooten4/JFWooten4/blob/ef76648a0938e641c052204f235f7f303fc8207b/headshots/setup/pilot-engage.jpg)x
