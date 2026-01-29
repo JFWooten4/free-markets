@@ -1,3 +1,11 @@
+# Main points - Tuo 
+
+ref is EU HPC program applications
+
+https://x.com/PamphileRoy/status/1981615188718567530
+
+---
+
 and obviously this gets to the comittee points for deelgatte quorums
 
 https://discord.com/channels/897514728459468821/1124340476288454657/1430563691866357934
