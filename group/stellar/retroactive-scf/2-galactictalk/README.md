@@ -4,6 +4,13 @@ ref is EU HPC program applications
 
 https://x.com/PamphileRoy/status/1981615188718567530
 
+
+Capital as masculine, penetrating
+Bringing innovation to market by sheer creative will to fund.
+As opposed to just more of the same bullshit by feminine committee.
+
+(but subtly)
+
 ---
 
 and obviously this gets to the comittee points for deelgatte quorums
