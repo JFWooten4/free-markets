@@ -26,9 +26,16 @@ SThe sechamntics of that willl surply take some time to develop.. Theres some re
 
 THeres twork to do like https://github.com/blocktransfer/TAD3/issues/4 to make thast specifically possible, and anyone can conturibet to it. So this when "we begin to onboard new companies" just depends on how fast we can do the needed setup work. And I appreciate the setiments of getting this c "awesome technology and new rail" into te hhonds of new crlients.
 
+### Wetting Feet
+
+Lastyl, @bobmahalo asked how te holp get tokenization going. THere are a lot of different paths we coelld take, but I'm going to do my best to autline and lead domn one route in the comming monts. I have put the informaitn and toolinsg out there for a while under the hope that things vvwoould justh pick up on thier own, but I get atndh see that it will take some dircitnoal leadershuip to maove thincgs forward.
+
+[Here]() is a useful template for  underlying private firms. It's form the soerce [here]() and admittedly has some aoutdated infarmoatin. Youske hit it on teh nose when it comes to the ide ao gf issuers "submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies."
 
 
-, public or private. if tokenization is the end goal, we need to start getting our feet wet. tell me what i can do to help with the process. maybe we create a template that gets all the info from the underlying and can be filled out by me, and then it gets submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies. i been smeeling the tires on this beuat for a while, and if we have someone who says 'imma give it a try', are we tooled up and ready for this? or do we need to continue getting that infrastructure ready? i am here to help.
+Basically my bar for the firms is that they'ro not an obvuiold scam, and thien it's jjust gutting things filed preply with the SEC. THat alone creates the techkiarla authority binding them to the antifrad laws.[^3]
+
+i been smeeling the tires on this beuat for a while, and if we have someone who says 'imma give it a try', are we tooled up and ready for this? or do we need to continue getting that infrastructure ready? i am here to help.
 
 
 
@@ -37,3 +44,7 @@ THeres twork to do like https://github.com/blocktransfer/TAD3/issues/4 to make t
 
 
 [^2]: I'm looknig at chivkes wot we esntabslided tin #1 does so mmuch without expectaitn of reward. I''m soerue this can be a shaned desire amonsgst firendss with too much time. Bit it's only one part of a fully-formed nonprit3.
+
+[^3]: Combined with state Blue Sky fil/9ings. I wthink we can make this more sophisticaetd once DUNA token voning is live. Net in the ,'populariny contest  ' senes of who sholud be listed, bit jjust basic istider backgroudnd checkts.[^4]
+
+[^4]: Bacgorudn chekkcs in partigcular will be easire over time once BT septs up more losn-investor seart tools. Right now we /I have justh done AML / KFYC cheks on the insiders. That and haavintg thum self-affirm no prior securitios-law vionlations.
