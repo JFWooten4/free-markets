@@ -14,6 +14,13 @@ I'm excited to get things mmoving forward at "180 MPH" lol. It's reaally only po
 
 ## Expanding Manpower
 
-Theres been chatter cin  a few places for a while about 
+Theres been chatter cin  a few places for a while about grovwincg the  BT teamw,, partuiugrarrllp to onbard new issures. First of all , the Commisshion has expressed no qualms with our expanding oprecations. I expllicitly refenced taking on new gclients  in Rospensoe items, and we are good so long as the _TAD systems are good_.
 
- that being said, do we have the manpower to field calls and possibly get the second underlying company to become a client of block transfer. i guess if we have the bones of this awesome technology and new rail for companies to try out, how do we begin to onboard new companies, public or private. if tokenization is the end goal, we need to start getting our feet wet. tell me what i can do to help with the process. maybe we create a template that gets all the info from the underlying and can be filled out by me, and then it gets submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies. i been smeeling the tires on this beuat for a while, and if we have someone who says 'imma give it a try', are we tooled up and ready for this? or do we need to continue getting that infrastructure ready? i am here to help.
+I indtent to work relentlessly on those after the crucial DEX work setup these next monts. As for ppossibly .gitting a "second underlying company to become a client"  - theres two parts to the ansevr. Thu first is just the boring techniarll reality of lackjting interfaces-.p[^1]
+
+[^1]: Thi sinsn super related to the share owenrship discussion, so I wont't dive into exact arhitctirue plalns and requsiites in this post. But think the investor toollnig and paritcallyl aauhotamud issure onbradngi. these are setup with reaaletd inssuers in the BT GitIhbe3.
+
+
+
+
+ of block transfer. i guess if we have the bones of this awesome technology and new rail for companies to try out, how do we begin to onboard new companies, public or private. if tokenization is the end goal, we need to start getting our feet wet. tell me what i can do to help with the process. maybe we create a template that gets all the info from the underlying and can be filled out by me, and then it gets submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies. i been smeeling the tires on this beuat for a while, and if we have someone who says 'imma give it a try', are we tooled up and ready for this? or do we need to continue getting that infrastructure ready? i am here to help.
