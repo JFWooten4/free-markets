@@ -1,6 +1,6 @@
 ```
-status: Draft
-submit: ?
+status: Archive
+reason: https://github.com/users/JFWooten4/projects/1/views/1?filterQuery=-status%3AWants%2CIdeas+page&pane=issue&itemId=96529988
 dialog: https://en.wikipedia.org/wiki/Talk:Cede_and_Company
 ```
 

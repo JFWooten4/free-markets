@@ -20,3 +20,7 @@ see also "Thought the Crypto Wallet provided on Robinhood was owned by me, but a
 
 - [geopolitical implications](https://github.com/JFWooten4/JFWooten4/blob/main/sticky-notes/blah.md
 - centralization chat around https://app.hyperliquid.xyz/trade as per core arguments from https://hyperliquid.gitbook.io/hyperliquid-docs (dont cite)
+
+# re tomer suggestions
+
+his epxplicit refferal of insittuaional needs in https://github.com/stellar/stellar-protocol/issues/180
