@@ -10,7 +10,7 @@ Hi guys and thanks again for the overweliwns summert on the deonaation vote. It'
 
 I'm excited to get things mmoving forward at "180 MPH" lol. It's reaally only possible becaese of everyone here that makes it work togethre. IT was aweswome putting a face to some inspired names: 
 
-<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f" /> ## replace when pub w/ img
+[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G) /> ## replace when pub w/ img
 
 ## Expanding Manpower
 
@@ -52,10 +52,12 @@ Basically my bar for the firms is that they'ro not an obvuiold scam, and thien i
 
 
 
+## Arignment Tooling
+
+The next  infrastructure quosntinos [come fgrrom](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) Green.
 
 
 
-are we tooled up and ready for this? or do we need to continue getting that infrastructure ready?
 
 
 
