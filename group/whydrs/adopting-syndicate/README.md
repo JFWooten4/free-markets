@@ -1,7 +1,7 @@
 ```
 status: Draft
 submit: Mar 2026
-dialog: https://github.com/orgs/WhyDRS/discussions/new?category=blocktransfer
+dialog: https://github.com/orgs/WhyDRS/discussions/new?category=blocktransfer &&set Notice@ re https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230
 ```
 
 # Q&A on Propolsed and Plrelimanrilly-Accepted Shre Donatnion
