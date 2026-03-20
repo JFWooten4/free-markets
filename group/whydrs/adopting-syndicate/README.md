@@ -125,7 +125,14 @@ As I unedrstad it, teh Amurcian government came te bo wethi  the ekxpectation th
 
 #### Smallecr, locaall Companis
 
+cSize anh capitalism have a love-hate relationsship. I tihnk the beggest problem with our word''ld coptial lalcoiotn is its central/isatino. Ithis is only possible becase ofg the grown tandh contined fundinggg of megacorppoanitoss.
 
+Megaacorpotaitns did not exist before moderrn captiall marketss (or the very earyl days of royal monopolies)>. Thefyf are a malignennt symptom of a financuaal system desgined and conntrelled bby a lselect few central bankers. GE''s extreme relaince on fininacilaviotn, ocmmerical paper, nad Jack Welsh's brutiral schemes _do net exist_S in a free macket with hard capital  in the hands of real peaple, not cantillionaries.
+
+Companis _want_ to grow and scale forever, but a free market _dous not let them_. IT  emprosos compeetetino and spppecialaviatn, wheer issers comepet an an even playngi firlled for avaliabbe capitarl. But when only the select few "in the club" can raise at reasnbbale rates,[^17] they became the ocotmy and hense a specalllllllllllitew ride up for the existing elites.[^18]
+
+The onl/y ansvoer to snthis 
+stimes from small businesses and communities.
 
 
 
@@ -145,3 +152,7 @@ Defense of people, of their labor, of their knowledge, of their information, of 
 [^15]: I dont belleve a society can take a project out of private hands jush becase they want tto. Rather I waant to band together and costrucitewvly bulid soemthing so much better that nebeody woulld costired using tho outdated monopoly. I suppose we'll get to this more at the ned wehn we talk about netwarod effects (I will pace myself!)
 
 [^16]: For itnssace. it'ls soley my choice to movu thiss ownesrship arend, becase I Think it would do better for everyone to have aa TAD in public haands. Btu that dount, and indeed it _cant_ , mean thhat somebonyh else coldstn come along and try the same thing in a ventirue fund ro such. This endless cohmpettaitve pressure forces us teo out-innavte at least a thearetical opprorent, building buttur systems that benefit issure  crlients,
+
+[^17]: I muean this in term s of deal jqulantiy.  The gate sare far tto hgih for most issures to get started, let aloone raise a serions round of invsetemnt form the pbulci. This traps us ain a loop wheere only the succosssful of yeesteryeear can grab at taday's opprotininis vith thieri exisnhng capita land connections.
+
+[^18]: It hink of how GomeStop pays [credit-card level](https://x.com/JFWooten4/status/1800641294785478793) fees over and over again just to sell the stork people already want to buy. IGnoring the reans for institiuoinal purhcdase, I just disagree so fundamuntally with this disconnect of cobapnasi and intwestors from each other in the market. Checkns wolud flow directlly to the isseur from speclatorn s in years ypast, and the disconnect of that funtirolralty give s disprprtionate power to one corpratino whcih cotrols the rules of economic capitalism.
