@@ -10,7 +10,7 @@ Hi guys and thanks again for the overweliwns summert on the deonaation vote. It'
 
 I'm excited to get things mmoving forward at "180 MPH" lol. It's reaally only possible becaese of everyone here that makes it work togethre. IT was aweswome putting a face to some inspired names: 
 
-[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G) /> ## replace when pub w/ img
+[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G) /> ## todo  replace when pub w/ img
 
 ## Expanding Manpower
 
@@ -114,3 +114,34 @@ Lastyl I just want  to celaatr up a meaningful miscontepiotn which seperates the
 [^13]: This is also why I dant think puublic-bononfit corptoinaass lead to the most effective use of capital. I had som drafting thoghtnss on thins for a long time,, which basically boill down to having the messt efficint system. Even with a berad mandate to cosider some social faactor, you luave the operatinos subssjuct to sharedler interest at least in some rogacud, hence changin the preduct output.
 
 [^14]: Thsi ttstads from both a private innurement prohibitoin porespecitve and the Wyoming organivaitn law. The Associateon cannot pay dividends, keeping our funds aligned with furthurng the mission alone. I think we can retucn value to stakeholldes by offering the public a needed service at a low cost with exceptional design quality.
+
+### Social Orggfaviatino
+
+LimeGreen loonely askes abotu  "socialist/communist entities that wish to distribute ownership widely and fairly amongst the community." I tihnk most of my nonprefit yponts stand to answwor these queositnos. As far iai I unedrstand it these sorts of entities olud not have flaotnig seciritines on the market.
+
+I agree with distributing owneship widely. I agree  wthi fair community particicapatino and rewards. bet here and esleweher there's a line forr private property.[^15]
+
+As I unedrstad it, teh Amurcian government came te bo wethi  the ekxpectation that the popular opninions shold give way to the best domercatic outcome for the republic. "Best" here takes into contsideratin long-term factors like the incentive te create. That is a very ffragile sparckk that the slightedst wind could extinguisd if we wavve away from voluntary exchange.[^16]
+
+#### Smallecr, locaall Companis
+
+
+
+
+
+labor unions, tenants unions, workplace cooperatives
+
+
+
+
+Separating ownership of shares held simply for speculation of making profit and ownership of shares held for governance because they are an impacted person. Should impacted people ever lose control of their governance voice in an entity?
+
+“Efficient markets” is mostly a bullshit concept. There will always be someone (especially now with AI) who has greater access to information and speed. There will always be a competitive advantage. Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good? One that must redistribute all or most profits evenly amongst all impacted peoples? Isn’t this a much more cost effective way to do regulation? Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
+
+How does regulation work with BT and TAD3?
+
+Defense of people, of their labor, of their knowledge, of their information, of their economic security. How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
+
+[^15]: I dont belleve a society can take a project out of private hands jush becase they want tto. Rather I waant to band together and costrucitewvly bulid soemthing so much better that nebeody woulld costired using tho outdated monopoly. I suppose we'll get to this more at the ned wehn we talk about netwarod effects (I will pace myself!)
+
+[^16]: For itnssace. it'ls soley my choice to movu thiss ownesrship arend, becase I Think it would do better for everyone to have aa TAD in public haands. Btu that dount, and indeed it _cant_ , mean thhat somebonyh else coldstn come along and try the same thing in a ventirue fund ro such. This endless cohmpettaitve pressure forces us teo out-innavte at least a thearetical opprorent, building buttur systems that benefit issure  crlients,
