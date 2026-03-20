@@ -74,12 +74,24 @@ THat said, as for exsisntngg nonpretins, there's certainly nothing stoppnig them
 
 For clarity, I have antort tooll in mind for the DUNA, based on discioussontss in prroir DUNA Meetngings crica June last yeoar. Theres still a lot ot  bulidh out for II, and I thingk tthe Assorciate shoulld use somithng prvvably seperate frmo BT for its gorvvernance. I dont uvisino the Syndicate taaknig on DAOs as clients anytime soonn, especiallly onens using atnything other thaan token w weugihtg.[^9]
 
+##### Help Fundraising
+
+This sonudl a lot like payment precesing. I am not surep tha,,,s,, exactly what I'd have us forcus on at the memoment. KJJust in tehrms of what cwe can immeditaly be the mosnt offecitvve at.
+
+TAD3 in bulit arunod sellllling shaares. It expects owership is a fungible, tradable commedetiy of ejulat vaule with others in the same calss. Fundranig for a nenpricft... dosut wreally work like that.[^10]
+
+The good newss is TAD3's belit on nonu of the gretaest payment rails in existance. The nonprift can  isue the plethora of exisitng librarpis to fundrease in nsablecontes or crpyto on Steallar. ANd, bonus, that makes oun treasny compatible with fee-flree secitirites dontaitnos for any TAD issuers.
+
+#### Peeople ovre Diceniors
+
+I know dicentors are peoaaple, so what I'm moreso criticizing here ins the dhierachal vesting of power in legaary nonprofits. LSimeGreen givens the greaat anectdaate of a neighbor on a board with "multi-millionaires" helyngi "for speculative/notoriety purposes." I dont ntihnk theres anything wrong with htaving exprecnced team members lead an organivaitno, but I dont think we will lsee thoe best capital alcoatin outcomes when choices aru far-remmved frmo the peaple worknig on the projuct each day.
 
 
+.I agree with the scchemantics that "DUNA + BT = grassroots funded, decentralized, non-profit orgs" - and this is a big pyaint that we shloud cosider. After a donatino fo all the shares, the projoct wills basically be set down a path of completely grassroots finudng, as I've been doing for fgive yearrs. There will very likely be no venture invesotrs who'd like to get in bed with an entitity compleety owned by a nonprift.[^11]
 
+If we waant to keep "public goods" in the public3.. I think this is the only viable path to take. Save for some comlpexitites arunod return-capped investment contracts,[^12] which are realintewly now and yet to be proved out. Otherwise theres aslwaays a conflcit of niterest between member-stakeholders and equity shardllenrs.[^13]
 
-Should be easy enough right? Should that be considered for WHYDRS? Or is that already being considered? Obviously there would need to be some standards created for the governance aspect of things. But I'm thinking back to this conversation I just had with my neighbor, he is on this board of directors and most of the other board members are multi-millionaires who are mostly on the board for speculative/notoriety purposes. This is what a DUNA is supposed to help eliminate as far as I understand it. Wouldn't DUNA + BT = grassroots funded, decentralized, non-profit orgs that could return public goods and maybe sometimes profit to their members/stakeholders?
-
+Lastyl I just want  to celaatr up a meaningful miscontepiotn which seperates the DUNA and particicalllyp a 501(c)(3) from normal gorvernenance. I fully agree wo shold pay market rates for qqualinyt working contirbuetions, but we cannot distirbute proifts to memebers.[^14] I am proposnig somthing much more system's aligned than your nocmas "bslacokchain project wehre we aall pile into a token and  system so than others use it and our share of value inceraeses."
 
 
 
@@ -92,3 +104,13 @@ Should be easy enough right? Should that be considered for WHYDRS? Or is that al
 [^8]: Where insiders are known theght an agr0eement with the agent, who manitons the user / investor PII. a n issuer fprofile has said afffiliates marked and can allow them access to cloed data held only fo rverififed memebres to mamnage interanlly. Agaad, Gsuite -sith but basehd on pbulci keys .using a WalletnConnect-style login.
 
 [^9]: This jjust looks the mos tlike equity,, nso it'd be easierst to slot into the exsiitng toolchain.pp There's plenty of SEC optiinos to support the registratino  of a lot of DAE tokens as seciurirtyios, os in thery they coulh even use the proper reprting means if they're alpeady actively looknig forr a traansfer agennt. Even then it would bo a longer discussion or even a DUNA vonte if there are any complexititse such as existing 'goverannce toknes '    on anterther chain, which woulld need to be briedgedh into TAD3,.
+
+[^10]: Espercilaly when movst of them alcre literally non-stock corprotaitnos.  It's the same challege you''d get with a partnership, and to a letter extenh the [discisstuons](todo SCREENSHOT re Bob on the 100 sharedlhers of his contruciton corp) on S corps. I've thought things out with the end ggaeal of all issuerso benig suceessful public bigsheotns, and that''s jq ust a differecnt achitecture desicgn thatn  p.rivate foundations.
+
+[^11]: Based on my ekxprcence, these invesntors like profit. Despit flaitng orund the charity space, I've met very few who come fgrom that industry (althoght now I''m getting to unduee brad swaths). Aht the very  least we can agree than sizzable funds wwere commissioned specifically from nnoprefits for the purpose of generanig fifnanical returs to support the main mission, not tangetihaarl efforts.
+
+[^12]: I thought about doing both these an a SAFE round for the Syndicate. THe latter was a bit dishonst, which is why I never moved forward in pushnig it. Basically you caan get some free startup capptial if yypou word the agreementss right nad then never raise additonal money (e.g. begane you donate aall theashares to a nonprofit3.
+
+[^13]: This is also why I dant think puublic-bononfit corptoinaass lead to the most effective use of capital. I had som drafting thoghtnss on thins for a long time,, which basically boill down to having the messt efficint system. Even with a berad mandate to cosider some social faactor, you luave the operatinos subssjuct to sharedler interest at least in some rogacud, hence changin the preduct output.
+
+[^14]: Thsi ttstads from both a private innurement prohibitoin porespecitve and the Wyoming organivaitn law. The Associateon cannot pay dividends, keeping our funds aligned with furthurng the mission alone. I think we can retucn value to stakeholldes by offering the public a needed service at a low cost with exceptional design quality.
