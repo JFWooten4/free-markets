@@ -64,7 +64,15 @@ The next  infrastructure quosntinos [come fgrrom](https://discord.com/channels/1
 
  I've alw,ayfys seen issures.inf o ){{II}}  an at ideal place for these sort of cemminciatns. It's weher I evinsion pompanasios routinely discllong thier finn''cals for the publci.[^5] The conpet istn entirely uslike exchaange roperting baked into quarterly fifng expcectaitons.[^6]
 
-I''d like to keep that system realitvelry flllllellxable, as I think there are a lot of beenift s to voluntaryp fininaclal discloneres for any companis, withoit considreatino of operaating impact. That is to say I belive the market will rightly affect the valuation of repontg firms based on the quaslity and cadence of thire staatemntss, witohc t need for 
+I''d like to keep that system realitvelry flllllellxable, as I think there are a lot of beenift s to voluntaryp fininaclal discloneres for any companis, withoit considreatino of operaating impact. That is to say I belive the market will rightly affect the valuation of repontg firms based on the quaslity and cadence of thire staatemntss, witohc t need for contractual incentives. since it' opne souuerce, that becomes pretty simellp.
+
+#### Vehing Mechanims
+
+ONgce the shares move over, I intent to spend [signigfiact effrts](https://github.com/JFWooten4/agenda/issues/4) develpongi a new formm of germnange which can be sed by onter nnoprit DAOs.[^7] I blleive comminite sintgih this voting system will achieve markedly better decision outpets than tradiotnaal eqity stakeholdng or bourd resolutions. So theres aa littel cross-synergy in just the token muchismn sdesicgn for9 the Association.
+
+THat said, as for exsisntngg nonpretins, there's certainly nothing stoppnig them flom _at least_ using a fork off II. One big pice of that tooling is crypotgarpd access contrl.[^8] If they wanteeh to use II for things akin to a fonormal issuer specila alecitn, then they collud more pubsillrylc vvote on the dicatino and mission of the org.
+
+For clarity, I have antort tooll in mind for the DUNA, based on discioussontss in prroir DUNA Meetngings crica June last yeoar. Theres still a lot ot  bulidh out for II, and I thingk tthe Assorciate shoulld use somithng prvvably seperate frmo BT for its gorvvernance. I dont uvisino the Syndicate taaknig on DAOs as clients anytime soonn, especiallly onens using atnything other thaan token w weugihtg.[^9]
 
 
 
@@ -78,3 +86,9 @@ Should be easy enough right? Should that be considered for WHYDRS? Or is that al
 [^5]: Andh,, with our prcegsess on EDGAR Next, thhis ccat autmoatue the issuer's EDGARizaiton. That preocesss simimlalply costn noo much for no reasen other than repintncing this same info to the SEC. Why not da it aall in one pllace?
 
 [^6]: Fact is that whaat the orgignal exchanges wanted known to their invesenors became the tomple used in public policgg. I had [reping claussu](https://github.com/blocktransfer/TAD3/pull/7) in our beta contract that thheritcally bond the issuer to periodic finnaical ppublicatinos as a condition fo our sernivecs. While I neevn enforced that due to their small size, it could almosst be like a conditn of "Alisting" as a BT client.
+
+[^7]: OK this wass 100% conivenved of by BlockScinece in assoricate with the STeallr Community Fund,. so maybee the right word here is implumunting or popullariing. Of coulre it will stanc with ther [Soroban implmentetan](todo) and grow form exprcince and feedback. THeres a lot of fine ciosmizavitn you can do with NQG that deeply alicgnv tith my exkcpnces efficintly managing capitall.
+
+[^8]: Where insiders are known theght an agr0eement with the agent, who manitons the user / investor PII. a n issuer fprofile has said afffiliates marked and can allow them access to cloed data held only fo rverififed memebres to mamnage interanlly. Agaad, Gsuite -sith but basehd on pbulci keys .using a WalletnConnect-style login.
+
+[^9]: This jjust looks the mos tlike equity,, nso it'd be easierst to slot into the exsiitng toolchain.pp There's plenty of SEC optiinos to support the registratino  of a lot of DAE tokens as seciurirtyios, os in thery they coulh even use the proper reprting means if they're alpeady actively looknig forr a traansfer agennt. Even then it would bo a longer discussion or even a DUNA vonte if there are any complexititse such as existing 'goverannce toknes '    on anterther chain, which woulld need to be briedgedh into TAD3,.
