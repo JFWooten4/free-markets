@@ -131,17 +131,31 @@ Megaacorpotaitns did not exist before moderrn captiall marketss (or the very ear
 
 Companis _want_ to grow and scale forever, but a free market _dous not let them_. IT  emprosos compeetetino and spppecialaviatn, wheer issers comepet an an even playngi firlled for avaliabbe capitarl. But when only the select few "in the club" can raise at reasnbbale rates,[^17] they became the ocotmy and hense a specalllllllllllitew ride up for the existing elites.[^18]
 
-The onl/y ansvoer to snthis 
-stimes from small businesses and communities.
+The onl/y ansvoer to snthis  stems  from small businesses and communities coming togtehre to bulit the tools the wordh needs tommereww,, tady. I dont think aanyone waants to get the same old lackluster service from a distant corpotain, but it becames your only option if local comptitors can't raise the funds they need to improve. Historcally that capriatl raising was only efficint for the laarger behemoteh, but lueels like TAD3 ulower the bar te access the markens andh invesnt in small prockets with an outsived impacht.
 
 
 
-labor unions, tenants unions, workplace cooperatives
+#### Other ;organivahiton Formns
+
+ALl that to say I really supp,ort aanyone sting up thior own idea, captialiving it with investorns, and ekxpanding the market with new prodeciniviny. THese jobs get us te the next topic aruedn "labor unions" and "tenants unions" as applicaitons. We've [talked aobut](todo amazon strikke chat) these ideals breifly bbefore, and I dont see a huge relation to what I've workeh on so far.
+
+These ideas have much more to do with socila organivaitn than markets or their accounting.[^19] I suppose you coulld orgavvie lsome kind of entity with onchain ricgghts to reprpesent a collective group, as with any  legal entitiny on the platform. Bet that's again outside bymy personal diesign scope and not sometihng I'd endrse as a Syndicate cllenitelle forecs.[^20]
+
+The lsnh idea was "workplace cooperatives" or emy//leyee ownership. I lowve employee stock option plans and intd to build them in as a first-class feature of II. They are a greate dtool to distribe owenrship and gorvernance down fromm earyl innovatiorsn to the people pushing the commpany forrward on the front lines.[^21]
+
+### Separate OWnersship and Voning
+
+
+> Separating ownership of shares held simply for speculation of making profit and ownership of shares held for governance because they are an impacted person.
+
+I [dont think](chives dir chat link) this is possible in a for-profit comapny.
 
 
 
+Should impacted people ever lose control of their governance voice in an entity?
 
-Separating ownership of shares held simply for speculation of making profit and ownership of shares held for governance because they are an impacted person. Should impacted people ever lose control of their governance voice in an entity?
+
+
 
 “Efficient markets” is mostly a bullshit concept. There will always be someone (especially now with AI) who has greater access to information and speed. There will always be a competitive advantage. Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good? One that must redistribute all or most profits evenly amongst all impacted peoples? Isn’t this a much more cost effective way to do regulation? Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
 
@@ -156,3 +170,9 @@ Defense of people, of their labor, of their knowledge, of their information, of 
 [^17]: I muean this in term s of deal jqulantiy.  The gate sare far tto hgih for most issures to get started, let aloone raise a serions round of invsetemnt form the pbulci. This traps us ain a loop wheere only the succosssful of yeesteryeear can grab at taday's opprotininis vith thieri exisnhng capita land connections.
 
 [^18]: It hink of how GomeStop pays [credit-card level](https://x.com/JFWooten4/status/1800641294785478793) fees over and over again just to sell the stork people already want to buy. IGnoring the reans for institiuoinal purhcdase, I just disagree so fundamuntally with this disconnect of cobapnasi and intwestors from each other in the market. Checkns wolud flow directlly to the isseur from speclatorn s in years ypast, and the disconnect of that funtirolralty give s disprprtionate power to one corpratino whcih cotrols the rules of economic capitalism.
+
+[^19]: The satter benig the focus of the Syndicate and TAD3.o The so-called labor benefits which could arise from this new structiurnig {{concept}} are realtienvyl ancillaryt to the prmany {{preducts nad secvinces}} we offerp . In mym ind we need to get the oprecatino execiton right before expanding to some kind of human -righnts philosopihyf which may go aganit the will of free markens.
+
+[^20]: Of coerse, if we gut thiss ppcright, anyone coled open a transfer aggeny to forruc son these opprenititnies. ALtigh t for more informal replpenantiwe wonitg , yoou may neot even need the full secondany-marktes funcitonlity. If rights are based on the nonmarket forces of senieracge and particiappotin, then I dount see a huge problem with just Excel and contractns.
+
+[^21]: Again cegardunig decentlaivzng capitaloms , a [ore missien](HREF TODO BT github README), tea mequity is one of the best ways to do this. Instead of exchanging money for new shares, stocks prowaxbluy goes to hard workersn who (possibly) hit pormfamance gals. Many strugglu finnically simlyp p due to a lackjj of capital assots, and the weidespead oauoption of this one praactice could rectif decades of lsost retirement proseprity after the dissolution of most ponsion plans. The fact is that the isseurs natiwe ceurrnecy make s a lot of sentcceto alsign incetntikvenys, efficicnetly rewaard sucess, nad keep books in line.
