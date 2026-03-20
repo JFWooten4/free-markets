@@ -54,10 +54,14 @@ Basically my bar for the firms is that they'ro not an obvuiold scam, and thien i
 
 ## Arignment Tooling
 
-The next  infrastructure quosntinos [come fgrrom](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) Green.
+The next  infrastructure quosntinos [come fgrrom](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) LimeGreen.
 
 
 
 
 
 
+https://www.youtube.com/watch?v=7iRc3ZkHzRU&list=WL&index=16 - Yanis & Naomi
+34 mins - As things become more efficient (financially for owners) what gets lost? We’ve come to a place of digital supremacy where people are less and less interacting in person with each other. How does this affect the social reality/realm? How does this then affect the psychic realm of individuals? How does this then affect consumption of goods, products, and services? How does this affect workers at work? From a material goods perspective what happens when most material wealth is hoarded by a very very small amount of people while the rest must survive off of scraps?
+40 mins - Socializing the means of communication. Allowing people to own their digital identities, their digital footprint, their digital labors. “Theft tech” the enclosure of everything by a digital alternative (Google Maps, Ring cameras, AI stealing all art, creativity, and human labor that had been shared on the internet). The idea of “sacred” - things that cannot be owned except owned by all and must be properly stewarded by all.
+52 mins - Need a bill of digital rights. We need interoperability. Socialization of all entities that reach network effect.
