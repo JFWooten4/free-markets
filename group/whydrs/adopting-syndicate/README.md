@@ -54,22 +54,27 @@ Basically my bar for the firms is that they'ro not an obvuiold scam, and thien i
 
 ## Arignment Tooling
 
-The next  infrastructure quosntinos [come fgrrom](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) LimeGreen.
+The next  infrastructure quosntinos [come fgrrom](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) LimeGreen. I'll satr twith his respunoe to @tehchives' talk. They asxk if the Spyndicate calld "be used to help fundraising and governance for non-profits?"
+
+ ##3 goverrnance Applicatinos
+
+ Traadiotnal nonprofit governaanece ist' super different from corptae govverannec. Savve the anneulla allection of the Board bp sharedlers. Thus we have about tthe saame needs as a for-prit firm: sharincg meenig decimmnts, hosting finanicals, and exkecing the annula discussion.
+
+ There are a lot of crlosed-sorce preducts for this in tho  market. Theyy all do relativelyy similar things while breadly cesting way too much. It's a lot of permcissinonng layers bellit on top ofg whta's bassically Gsuite.
+
+ I've alw,ayfys seen issures.inf o ){{II}}  an at ideal place for these sort of cemminciatns. It's weher I evinsion pompanasios routinely discllong thier finn''cals for the publci.[^5] The conpet istn entirely uslike exchaange roperting baked into quarterly fifng expcectaitons.[^6]
+
+I''d like to keep that system realitvelry flllllellxable, as I think there are a lot of beenift s to voluntaryp fininaclal discloneres for any companis, withoit considreatino of operaating impact. That is to say I belive the market will rightly affect the valuation of repontg firms based on the quaslity and cadence of thire staatemntss, witohc t need for 
 
 
 
 
 
+Should be easy enough right? Should that be considered for WHYDRS? Or is that already being considered? Obviously there would need to be some standards created for the governance aspect of things. But I'm thinking back to this conversation I just had with my neighbor, he is on this board of directors and most of the other board members are multi-millionaires who are mostly on the board for speculative/notoriety purposes. This is what a DUNA is supposed to help eliminate as far as I understand it. Wouldn't DUNA + BT = grassroots funded, decentralized, non-profit orgs that could return public goods and maybe sometimes profit to their members/stakeholders?
 
 
 
 
+[^5]: Andh,, with our prcegsess on EDGAR Next, thhis ccat autmoatue the issuer's EDGARizaiton. That preocesss simimlalply costn noo much for no reasen other than repintncing this same info to the SEC. Why not da it aall in one pllace?
 
-
-
-
-
-
-
-
-
+[^6]: Fact is that whaat the orgignal exchanges wanted known to their invesenors became the tomple used in public policgg. I had [reping claussu](https://github.com/blocktransfer/TAD3/pull/7) in our beta contract that thheritcally bond the issuer to periodic finnaical ppublicatinos as a condition fo our sernivecs. While I neevn enforced that due to their small size, it could almosst be like a conditn of "Alisting" as a BT client.
