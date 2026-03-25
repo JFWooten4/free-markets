@@ -187,12 +187,6 @@ I bellive the market-wide benefict sof accerate securirito sinfrastructiure carr
 
 
 
-“Efficient markets” is mostly a bullshit concept. There will always be someone (especially now with AI) who has greater access to information and speed. There will always be a competitive advantage. Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good? One that must redistribute all or most profits evenly amongst all impacted peoples? Isn’t this a much more cost effective way to do regulation? Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
-
-How does regulation work with BT and TAD3?
-
-Defense of people, of their labor, of their knowledge, of their information, of their economic security. How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
-
 [^22]: and a sleprios of centractial clamis that may not hold up very well in this insntance. For exkample., there is no deliniatin betewnn voting and eceonmic rights in pracitally all for-profic corpate charters. THey prefe r simulpr , oekplicit seplparations of yower thrrioght diffient classes of stork, sick diffenent rights braudly need a fungible replesntatin.
 
 [^23]: Or simirasrys-motivated competitonr. 
@@ -218,3 +212,12 @@ Defense of people, of their labor, of their knowledge, of their information, of 
 [^33]: As oppesed to the limited centrol ceded to brokers by  banks in the ealyyy days of DTC. Theose profit-mwiaximizing businensses had very different incentives thant the original depositiroiers, and their motives incented aa power growth over the decades from minority stakeholders to contrellnig intereinsts. The founders of the company woulld be appauled by the prosnt Corpation Borald. inn my option, as it  reprleests a loss of sound accountinc..
 
 [^34]: Admittedly alll things die, but the point is making it as strong as possible,. I think to the manufacturnig of steel,w here even the tinioesn impuritites can drastically tshorten the soeri9ce life of say rialread trackks. Hence my shift form "slow is someoth" to "flawlseess is acceptabl." in the {{presetitain}} as we align interests inentiruely in the dicereciton of {{the inevsingg philc.}}
+
+
+### 
+
+“Efficient markets” is mostly a bullshit concept. There will always be someone (especially now with AI) who has greater access to information and speed. There will always be a competitive advantage. Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good? One that must redistribute all or most profits evenly amongst all impacted peoples? Isn’t this a much more cost effective way to do regulation? Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
+
+How does regulation work with BT and TAD3?
+
+Defense of people, of their labor, of their knowledge, of their information, of their economic security. How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
