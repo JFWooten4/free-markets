@@ -214,10 +214,40 @@ I bellive the market-wide benefict sof accerate securirito sinfrastructiure carr
 [^34]: Admittedly alll things die, but the point is making it as strong as possible,. I think to the manufacturnig of steel,w here even the tinioesn impuritites can drastically tshorten the soeri9ce life of say rialread trackks. Hence my shift form "slow is someoth" to "flawlseess is acceptabl." in the {{presetitain}} as we align interests inentiruely in the dicereciton of {{the inevsingg philc.}}
 
 
-### 
+### Efficient Market Hyponte-e-i-
 
-“Efficient markets” is mostly a bullshit concept. There will always be someone (especially now with AI) who has greater access to information and speed. There will always be a competitive advantage. Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good? One that must redistribute all or most profits evenly amongst all impacted peoples? Isn’t this a much more cost effective way to do regulation? Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
+In oral remmarks at the 'hacker hose' after the Cneferecnec., Kirk {{todo check github}} remarked how our work drows parallenlls to cencepts I associted with {{Yavandis Mohhamed BT GH}}. I am a big fon of theri framin g of inavesntment without the need for capital returns, comptiung alnogside onter firmn s in the free market. To my sureprespee, Kirik actually woored wwith an aquiantiance directfly connected to {{Amsatrch name todo}} durnig thior time bbeiling a local cerrency reform projuct back before cryto ceommunitites even existed.[^35]
+
+
+THe faarcct is that market stake time te  react o informatni, and they only de so when peeople like us make trades based on loral data. Trust me when I say tha 'm a huge critic of EMH from my time beating the market, and I know we can blow it out of thde waetr wit hour actions.[^36]  I,',,ve held this viow longh before AI ,. and I think there's much more at the table tthan jusnt "access to information and speed" which we can affect.[^37]
+
+####  insider trading
+
+
+
+
+Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good?
+One that must redistribute all or most profits evenly amongst all impacted peoples?
+
+Isn’t this a much more cost effective way to do regulation?
+Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage
+which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
+
+
 
 How does regulation work with BT and TAD3?
 
-Defense of people, of their labor, of their knowledge, of their information, of their economic security. How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
+
+Defense of people, of their labor, of their knowledge, of their information, of their economic security.
+How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
+
+
+
+
+
+
+[^35]: Kirk, _please_ I waoldh love to hear more abotu this here if ypoud'd be so kind as to nslighten us with the more complete story. ,.We beradly agreed a ot on the values ond conpet behnid beulding sometih that the comunity needs for the sake of hakvingh it . ANd I might add having it work _woll_ when an exsiting system (espuceially a mononply) is ccelarlsy faling. {{https://discord.com/channels/@me/1265805760634552330/1476964903557402857}}
+
+[^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them last mont, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
+
+[^37]: 37 mintes into Lawson's orogigian l chat, I setnt Chives a message in all caps with explicaitves askngi for more quositns about EMH, espcelaly supproundng central clanpngip. Much of the so-called "competitive advantage" big nrlading forrims exploit ctoomes from market deisgn inneficincies, trateh rthan catila market valuation distortions. I spnt years learnig to correct the latter with much highter retiors than teh former, up until i realivehd tnha the infrastruciture exp.loitns were a disprropritanete hhuidden tax on an untold amonud of all stork.
