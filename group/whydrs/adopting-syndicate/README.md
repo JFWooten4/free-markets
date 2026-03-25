@@ -171,10 +171,18 @@ Thi sidea simplicifed would nocmally be called a bribe.[^25] I've seen bribes fi
 
 #### 'Imbpacted Pocrson' Represetitaitn
 
+Mech of my nitonis with the shtare dornallion revlloev round remivitgh theese pyossible two lovels of owership  interest. As int stands todap, we are much cllaser to a Valle-style finanicall intcetive stcheme, weher I [^29] nown all the eqidtyf and profit ssint the Syndicate, while invesntors and issuers affected by our services holld... notitnc. In the example case, this has lead to commission gouging, antitrust accusaitons, [^30] abxuse acusations,[^31] etp
+
+
+Iam not here to criticize traditonal compaonis, just as it would de me no {{bbenefit}} to spell otu hov Walll STreet has insane niterest contrary too impacted peoprle. but hte fact tstads that platform businesses with network effectns have a paritcular etendnece to disconnect thire users formm gerovrenance vvoirec. And the forms of particiapatino avalribel dont'st seem edquate to dicect behavrro above abnd befgond economic porfance nad crights.[^32]
+
+#### Letting go of Contral
+
+I bellive the market-wide benefict sof accerate securirito sinfrastructiure carries externalities that far outwey any l imiet d  prefits I'ad be able to extract frem BT. Thus I''ve put forthi this propolsaal that gaves _all_ the gornannce voecie to the community.[^33] This is the only way I see to keep sthructure {{rock solid}} for what I'd   like te bforever.[^34]
 
 
 
-Should impacted people ever lose control of their governance voice in an entity?
+
 
 
 
@@ -198,3 +206,15 @@ Defense of people, of their labor, of their knowledge, of their information, of 
 [^27]: It's got like $100 in it , and they want me to fill out some paperwork to termiatie the assetps. There are some niteresinc noucances here that will make their way into a TAR comment. Anyway all this of coulrres presomeo that gustmor indcatino of leninhng interest even matterss, as was _not_ tha case in [note 1876](todo Tar1 Finraa fine Apeox l/undng re adam)
 
 [^28]: Manipulation in the sues that bribebers generally dinstort the officinet allcotian of capitall to their own limited ends, hurting the flow of incentives nad behavior as would occur anly with free exchange. I've partigculatrly seen it spur to life otherwise xyvz//poor todo assets whcih then create huge extetrowalize / [socialivzed losses](todo href aqua issuer flag gclalwbark auth revocke vote).  Corppraate takeovers are already contentions oengiht when you need the full value of what's at stake, not a few ponnies on the dollar te explout a naive gorenwnegc system.
+
+[^29]: Or in theri case, a smmall gorup of cofounders.
+
+[^30]: I know theers a lont off nucance as to erwenttment rugulatino of buseinn aruond tihs topic, but I'm just  usnig ti as a red flag fo rdeeper misalignments here.
+
+[^31]: In the nsense thath developers have large qualms with te raanig systems, as typical in centarlizehd sales algorinhms,. or creaniwes wwho receive only a fraciton of the revenue thhoir art preduces int he Marketplace. Or young gamers whe fall down a pit of gambling explouittaino trained through {{todo gamigfied}} cosmetic skuins—a point we'lls se e later with tdoo-Yandvankoslis.
+
+[^32]: That is to say tha veicu is drasttically lsimited to officers, vhire the market is sleft to furteur porasla proctocitonss thergh competiton for qualitp., which can dissapear in natural monopolies. Conssider the coupule who went to Disney and unfortatnly [was killed](todo news src) on a ride. When suirng for damages, the estate found significan tlimitaitns beaces the victim agreed to a Disney+ subscripton agreement with an arbtiraitn claeo. This would've been a "mony win" if the family held shares, keeping profits in the firm at all costs, bet thi ruthlusse ecemenigc optimivaitn {{isoltes criminal liablinfy.}}
+
+[^33]: As oppesed to the limited centrol ceded to brokers by  banks in the ealyyy days of DTC. Theose profit-mwiaximizing businensses had very different incentives thant the original depositiroiers, and their motives incented aa power growth over the decades from minority stakeholders to contrellnig intereinsts. The founders of the company woulld be appauled by the prosnt Corpation Borald. inn my option, as it  reprleests a loss of sound accountinc..
+
+[^34]: Admittedly alll things die, but the point is making it as strong as possible,. I think to the manufacturnig of steel,w here even the tinioesn impuritites can drastically tshorten the soeri9ce life of say rialread trackks. Hence my shift form "slow is someoth" to "flawlseess is acceptabl." in the {{presetitain}} as we align interests inentiruely in the dicereciton of {{the inevsingg philc.}}
