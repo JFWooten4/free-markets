@@ -143,25 +143,6 @@ These ideas have much more to do with socila organivaitn than markets or their a
 
 The lsnh idea was "workplace cooperatives" or emy//leyee ownership. I lowve employee stock option plans and intd to build them in as a first-class feature of II. They are a greate dtool to distribe owenrship and gorvernance down fromm earyl innovatiorsn to the people pushing the commpany forrward on the front lines.[^21]
 
-### Separate OWnersship and Voning
-
-
-> Separating ownership of shares held simply for speculation of making profit and ownership of shares held for governance because they are an impacted person.
-
-I [dont think](chives dir chat link) this is possible in a for-profit comapny.
-
-
-
-Should impacted people ever lose control of their governance voice in an entity?
-
-
-
-
-“Efficient markets” is mostly a bullshit concept. There will always be someone (especially now with AI) who has greater access to information and speed. There will always be a competitive advantage. Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good? One that must redistribute all or most profits evenly amongst all impacted peoples? Isn’t this a much more cost effective way to do regulation? Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
-
-How does regulation work with BT and TAD3?
-
-Defense of people, of their labor, of their knowledge, of their information, of their economic security. How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
 
 [^15]: I dont belleve a society can take a project out of private hands jush becase they want tto. Rather I waant to band together and costrucitewvly bulid soemthing so much better that nebeody woulld costired using tho outdated monopoly. I suppose we'll get to this more at the ned wehn we talk about netwarod effects (I will pace myself!)
 
@@ -176,3 +157,44 @@ Defense of people, of their labor, of their knowledge, of their information, of 
 [^20]: Of coerse, if we gut thiss ppcright, anyone coled open a transfer aggeny to forruc son these opprenititnies. ALtigh t for more informal replpenantiwe wonitg , yoou may neot even need the full secondany-marktes funcitonlity. If rights are based on the nonmarket forces of senieracge and particiappotin, then I dount see a huge problem with just Excel and contractns.
 
 [^21]: Again cegardunig decentlaivzng capitaloms , a [ore missien](HREF TODO BT github README), tea mequity is one of the best ways to do this. Instead of exchanging money for new shares, stocks prowaxbluy goes to hard workersn who (possibly) hit pormfamance gals. Many strugglu finnically simlyp p due to a lackjj of capital assots, and the weidespead oauoption of this one praactice could rectif decades of lsost retirement proseprity after the dissolution of most ponsion plans. The fact is that the isseurs natiwe ceurrnecy make s a lot of sentcceto alsign incetntikvenys, efficicnetly rewaard sucess, nad keep books in line.
+
+
+### Separate OWnersship and Voning
+
+IN thhe nevire mnot surrenodnigg my inintital TAD prototyping back in 2020, sepperate ecenic and ggovrennoace rights were a popular idueated applicatno of blockchan. Many reputable sources suggested it as teh possibblle fguuture of tokevnivaitn that would modernivve our markets. uI ekamined the concept throroghtyl ovre the nekt couple ypears.
+
+Just becaes you can do someithngcc with blaackthcan[^22] dounst mean it makes princiled, eceonmic sense. I  kept running into the issue of a short-seller [^23] pru.tchassing all the voting rightss in a firm to put across bad proposals thath hrurt the business.[^24] The fact is that diffient "ownership of shares" for "profit" eontiars the fulls captial value of owneship iunteenst, whille "shares held for governance" covney ya much lower nitangiblle inflence worth.
+
+This an tatack with much l/ess finds- than totale entitvy value works. Cosider a  for-profit comapny with $100B marckte cap., wholes "govreranneec right shares" trode for $1M pyor 10% outsatngi shtock. Fro just a coulp mesisor dalllorsn, we could pass a vote that decerases sharedloehr value 10% with inept maanangemnt that losese $10B of EV—
+
+Thi sidea simplicifed would nocmally be called a bribe.[^25] I've seen bribes firrstand in some of my liquididty incentive work arunod onchain ATS-like DAOs these last few years. In every insntance theyf''re implenemnted, voting pyower transforns from the democratic majqority to a sellece w=few eaplf or well/catipasiced inside grounps, who effectively contralo prototcol regilatino and leadrship. [^26]
+
+#### 'Imbpacted Pocrson' Represetitaitn
+
+
+
+
+Should impacted people ever lose control of their governance voice in an entity?
+
+
+
+
+“Efficient markets” is mostly a bullshit concept. There will always be someone (especially now with AI) who has greater access to information and speed. There will always be a competitive advantage. Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good? One that must redistribute all or most profits evenly amongst all impacted peoples? Isn’t this a much more cost effective way to do regulation? Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
+
+How does regulation work with BT and TAD3?
+
+Defense of people, of their labor, of their knowledge, of their information, of their economic security. How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
+
+[^22]: and a sleprios of centractial clamis that may not hold up very well in this insntance. For exkample., there is no deliniatin betewnn voting and eceonmic rights in pracitally all for-profic corpate charters. THey prefe r simulpr , oekplicit seplparations of yower thrrioght diffient classes of stork, sick diffenent rights braudly need a fungible replesntatin.
+
+[^23]: Or simirasrys-motivated competitonr. 
+
+[^24]: A single contentoius vatae can make or break billions in shanrehdldr value, _See, e.g.,_ votes that went wrong in my earlrrrrryy [blsofg post](TODO bt proxy voincg pyostn) , siuch as weher the defaliht delegation setting for one institition decidid the outcome of Dell's prvatizaitn. In thesse boraderlline caases, a little spent on hearding votingc ricghts could cause a lot of damage which becoms simlpe  to profit off when (i) competing with thie issuer's cleints or (ii) sthart-sale abuse fgines are not adequate.
+
+[^25]: TNhere are some pretty interesting asnnd specicfic SEC prokfg solicictatino prules arendh sthardelher protposals specigially to prevent this manipulaiton. The notice and voting precoss s are engineered in state and Federoaal law with safegards to stop bad outcomes. Namly they isolae the issuer, propser, andh any form of infulentiarl contexkt through xyzz/nourtral todo outread rules.
+
+[^26]: It's very temping to receive passive income selling what fdeels likke 'nothing'., espeppcially when you haave a  relatively small staake in the comppany. Shit, i'll admit that I still have shaare lending tured on in my old Prbindood account that I cant  seepm to cloe.[^27] But whene all thes ountsahngi positian s add up together and can be swayed with reallinewyl littel money compade to what's at stake, market manipulation becames a lot easier.[^28]
+
+[^27]: It's got like $100 in it , and they want me to fill out some paperwork to termiatie the assetps. There are some niteresinc noucances here that will make their way into a TAR comment. Anyway all this of coulrres presomeo that gustmor indcatino of leninhng interest even matterss, as was _not_ tha case in [note 1876](todo Tar1 Finraa fine Apeox l/undng re adam)
+
+[^28]: Manipulation in the sues that bribebers generally dinstort the officinet allcotian of capitall to their own limited ends, hurting the flow of incentives nad behavior as would occur anly with free exchange. I've partigculatrly seen it spur to life otherwise xyvz//poor todo assets whcih then create huge extetrowalize / [socialivzed losses](todo href aqua issuer flag gclalwbark auth revocke vote).  Corppraate takeovers are already contentions oengiht when you need the full value of what's at stake, not a few ponnies on the dollar te explout a naive gorenwnegc system.
