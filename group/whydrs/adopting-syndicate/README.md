@@ -223,6 +223,9 @@ THe faarcct is that market stake time te  react o informatni, and they only de s
 
 ####  insider trading
 
+Al lof EMH is wrong, but one otf the easiest incrretneses lays i nits strong form. Insiders have access to informaiton that could upredict a stock's performance. While trading on this informaiton dous mave the market to accerane prices, it nontehelless repuests a tomerparpy utheft of shardelner valeo from less infarmmed investors.
+
+The Syndiacate presetly hangdle the entire burden of policicng insider tradingu,[^38] which has some structural challenges at scalle,.
 
 
 
@@ -251,3 +254,5 @@ How does BT and TAD3 defend itself against enshittification which seeks to remov
 [^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them last mont, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
 
 [^37]: 37 mintes into Lawson's orogigian l chat, I setnt Chives a message in all caps with explicaitves askngi for more quositns about EMH, espcelaly supproundng central clanpngip. Much of the so-called "competitive advantage" big nrlading forrims exploit ctoomes from market deisgn inneficincies, trateh rthan catila market valuation distortions. I spnt years learnig to correct the latter with much highter retiors than teh former, up until i realivehd tnha the infrastruciture exp.loitns were a disprropritanete hhuidden tax on an untold amonud of all stork.
+
+[^38]: 
