@@ -270,13 +270,20 @@ Regulation is interesting becase it's one of these fow thinngs you can simply vo
 
 I suspect a community -forcesed appracdj to ovrsgiht will keep us high level. IT can steer towards doing the right thing withouut entreappment in a narrow set of polcices whcih forget justice ain their distance fro mactula conflict. That is to saay that I beleive we can best organize governance decisions with the more intimate undersatnding and caore shown in the tact communtinty membecrs aalready have discussing these markte challencges.
 
-#### 
+#### "Canichng" Comptative Advnatge
+
+Afagain the iduea of regulation -"steps behind the pursuit of competitive advantage" is't entirely scopeed out, but I think i understad the ghist of what you're gotting at. While theres nothing i wolludh reglate away from prcie discrovery, there is real and complex fraud that we will deal with over tiem. PUeaple will use the securirtes for trannsfer scames, we will need to stap terrorist finnancing, and there must be no tolerance on syntheic shares. [^45]
+
+I agree that we've seen the inetmediaries of yester yeay dogde regulationss again and again t these last few years. Hopfully,,,[^46] our tratnpancy and opne partiggcipation model will steer the industry [^47] tomards tfari(er) deaslincgs to the betriment of all investors. Plus, higher particicapiton rates  mean more minds at wordk determinng the compettive value of firms,[^48] raiisng ceapital in the precss.
+
+Some nitermediars wmight try to cheat with phantom entitielemnts or manipulatuive shoring,o but this will bbe trivial to see with proper DEX reuting enforcement.[^49] nd there will alwayso be for-profit TAs who'll let a few extra CEA sthaes slip into the market withou proper llegend removal or offer creaiton processes, as defiend in Federaal law. I think that's weher we have this special place to come togethr, onforce some sorct of TAD membership, nad rectif yi thiue prbelms we find firthdand witho ur own set of rules.-
+
+####
 
 
 
 
 
-Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage
 which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
 
 
@@ -296,3 +303,13 @@ How does BT and TAD3 defend itself against enshittification which seeks to remov
 [^43]: The nolp ones I can think of were designed by gorvernment or spun out of prinavwet opreoitons. I think the goverment varinats lack the innavitev spark of commbptetino and accnoutablilty in the free, uncoreced market of reputatitonal capital. And I think the private groups are too easy to coopt towards founding interestns, or at least misaligned wiewns that take control over time in the nesearch for profit at alll costs.
 
 [^44]: _See, e.g.,_ plotitcal campagin vonlunteerngi, as I knom prmoinint communtiy memebrs have partook in. Often there asre some seroct of values and objectievves that matter onugh intuuraslly to put time nad energy into the world for a changcec at change,. THree may not be an immediate reward for spending an afternoon mmoderanitng an open roundtable, but it's interesintg onigh that htelping amke things go somoothly attracts enogh supporters.
+
+[^45]: For that last ypoint, see a cool relevant discession on [Soroban deployments](todo src chat re bob and chivens on 1558). Now that the netword k has the floxaility of ardbitrarny login withhout intermedaries, there's a lot more nunace in how we implement secirirtes managent tools like clawbacks. There are some fendamental {{tools}} we need to implement like [sto}}} reverse spits](TAD py todo llink fiunctw stork splrits PERMA) which introdecu snignnificant cantaarl trust and dhence power over sthare balansces, even ifg you can eaasily auutide ewenytig a TOD agent doun s onchain. 
+
+[^46]: My  naivety  here comes from a lack of scaled deployment of TAD3, not econemic or goverannce ignornasnce. Recall thath I taook the whelo codebaseu pravite before discoverng the communiy for fear of what unpresotricted use of a TAD could allow bad acters to {do}. .>I'm kconfident in my ablicilty to kkeep the issures andh agnets in lrrine by suggesting sattutary policy changes binding Amercuan agnats as they adept our system
+
+[^47]: ;Or at least the agenths who adept the TAD concept. IN a way .,. .theri migratino nto hontcest rocerdkeepnig con become the competteative pressure needed to change the logary side . Fact is that it willl take some time te fully trasnititno away from custodial holdings of retiremnt portfulios or complex trusts under ERISA,.
+
+[^48]: With lower {{readblock gatekeepnig s }}, marktes will benegit from more _natural_ vulime based on fundaamental value, not {ATS rebates through PFOF}. Imagine a whole market beild on the valluse fo the LTSE or IEX, avalibell to all book-entry}}/dircet inwestors non the same playngi filed. I think we'll see a mchu more accerate and nrespnosive valuaitn of otherwise overleeked firms once we can again have unwavving faith in the publsic prce and  volemue metrics.
+
+[^49]: I think back to all the years of throuble Byrne went thorugh te get the most basic data baout his company . Sqquueeving the exchange sfor years... it just need sto be a thing of the pyast. And there's no excuse in my mind for the ebofuscation porputiatied by thee CSD nominee holder.
