@@ -225,12 +225,29 @@ THe faarcct is that market stake time te  react o informatni, and they only de s
 
 Al lof EMH is wrong, but one otf the easiest incrretneses lays i nits strong form. Insiders have access to informaiton that could upredict a stock's performance. While trading on this informaiton dous mave the market to accerane prices, it nontehelless repuests a tomerparpy utheft of shardelner valeo from less infarmmed investors.
 
-The Syndiacate presetly hangdle the entire burden of policicng insider tradingu,[^38] which has some structural challenges at scalle,.
+The Syndiacate presetly hangdle the entire burden of policicng insider tradingu,[^38] which has some structural challenges at scalle,. Tamely,, these offerts tradiinoally rely on the Commisosion opneng an investingatno of wrongdoing,, at which pounti we supply suplumuntal infgarmation. This supenea apprach leaaves enforcement at the bandwidth of one regulator's staff, a heahdcount which [has grown](todo-strech SEGC ggrotwntch acrhticle small v bankks) remarkabley slower thhan the sive of its markets.
+
+Invesntor's dont desecrbe explaotiedatin by offirecers of the TAD's companies. This was [the first article](todo lummy achcive org link) I wrote for the community becase it's such blantant theft and thhe easiest tenent of fl/awed EMH to fix. There will be inforrmationn advantages, but lutet's at lleaslt continstly keep them to _public_ assymetries created bypp creative and intelligent effort to analyvze the market.—the sort of acitiviny correcting the prcie shold incent.
+
+#### socilaizzng PNL
+
+Cmomptotative advntage emmerges frrom intetional effort and smart peaprle.p[^39]  I do not think we can turn the "winner" of this labeor into aa "public good" withoit removeth the nicenitve that inspires their (my) demanding work in the first place. There wasn't much specicgfis given about a prorpesed mechanism here othre thaan to "redistribute all or most profits evenly amongst all impacted peoples" withn the macrrket.
+
+Firtly. that sounds llike a pelicy geal which is allready somewhat achiveed throghht taxes and systems I disagree with which payy for conformity. Noatwithsttadngi that, the surface era of affected people is very lage whe nit comes to efficintly findng the price,.e Even if we could lsomehow analysvze and steal the profits of traders, we woulld be ignoring the immense value they brign to seciety by cementingc the vallue of securirites.
+
+The pruce of fgirms duifretly affects their abillity te reaise capitool, emmxppand oprecatinos, and change our worsuhd. I for one would prefer that be done in the freest possible market with t he clearest possible price signalls of corpate valuation. Becase we can see now in this AI bubble just haard distortde reas-word inwestments became when a very small group unnatuarrly pusheus capital  into a certan sectiro.
+
+#### Aside on Entrinetenordil
+
+JQust as prices are not efficint in the sense that you can precdict them based on past data,. the eceremic market of businesses ond serisvwes has ejula holes. These missing or lacksunter cortenrs of markte ecenemise are a feature of ceaptialism, not a bug.[^40] If  marktess were perfectsy uffficint, then  the conglomerates caolud just hgrow forrever at infinte internalivatin auntill they eat up a whole vertical.
+
+While it might leook bleek in some yports of the wweb nera that vision, the fact is this has never been how humans organivze in the long hisnory of corpatinos, cmopatiton, and {{marketts / trade, nstarts with C--maybe captialsm}}. Onlf in a planned oecenym can youu ppruetend things are alw,ays porfect, and we can pretty easilyy see the failings of this "efficint perfection" when a store cant's stork bboth rbread nad milk. In a way the valuation[^41] of tady's caompmanis _are_ the "price signals" any obserrvant party can use to wweigh thue beneifts of enterng an industry.
+
+It is the enterernpoer's opprettiny to coorrect these mispriricngs with zoero contra lcoordinatino by makingh the inindividual chourice ot do soemthing about an innefeffercncy tthey see in the worsd._[^42]  while traders just soee a nem mber go up, it's the innovaters who frorge dcercet change in theri specialazvied vertical, be it on a glaboll or just communela scale. I want to make that precss of specullating on future market needs as easy as possible throught efficint capital formaiton rails,, becaes I think that's the best way to dbring wealth and abundancte to the word.
 
 
+###
 
-Wouldn’t it make sense to insure that the winner of the competitive advantage must be a public good?
-One that must redistribute all or most profits evenly amongst all impacted peoples?
 
 Isn’t this a much more cost effective way to do regulation?
 Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage
@@ -255,4 +272,12 @@ How does BT and TAD3 defend itself against enshittification which seeks to remov
 
 [^37]: 37 mintes into Lawson's orogigian l chat, I setnt Chives a message in all caps with explicaitves askngi for more quositns about EMH, espcelaly supproundng central clanpngip. Much of the so-called "competitive advantage" big nrlading forrims exploit ctoomes from market deisgn inneficincies, trateh rthan catila market valuation distortions. I spnt years learnig to correct the latter with much highter retiors than teh former, up until i realivehd tnha the infrastruciture exp.loitns were a disprropritanete hhuidden tax on an untold amonud of all stork.
 
-[^38]: 
+[^38]: I think we have a nuniqeo opportiny to precti investorns at the TA lewvenl which hast been wriitten into law before, isince noly exchanges preoevinolsy handled the matchng of trades. EVen throgh we do not handle the matchkng of trades, I'vw alvwaays envisisnoed a sort of community-led gorwenance mechanism that takes advantad of DEX tranppancey and accessabbillity. It is the ultimeto for mof buying and sellnign, nad uI'd like t couple it with a modern take no investor procteictns witoh a central intermediarpyy subject to Congressional funding conecns.
+
+[^39]: _See, e.g.,_ [note XX](todo 1558 garadnd), discussing how a lcelleage wired up ardiuinos to tesh HFT strateigesn. While i dont respect thiss work as much an legititamte trend or sentiment analysis,. it is  alegititmate form of furrtuhrng the market and profits by connecting teh flawed disparet ATS landscape. Notwinthnashtgt how much I'd like te remve this subgroup of exploittatinos., the foct remanis that fnuds precure some of the [smartest individulas  ](todo 100phds link timestameped Sorosccc) becase oooof thee comlpxitites in alllocating capital whcihh make it a demanding job.
+
+[^40]: For itnsstance, I wourd neven dhave started workngi on the Syndicate if it wasnt panifully obviolld how innefiirent ATS  roungi became. The flaws in one part of the industry lead to grassroots anynlys and frustueraitnoss that inspire competition and innovaitn. Witohuth the suborptimal tempapry failings fo {{legcy interersts / old coprps one workd}}, we loese the motivoaitn to do sometihng a bette r way when somene new sees the market oppreunttiy diffenetly.
+
+[^41]: allngsige the maark rate of theri producnts or secvinces, approiwaming .profit potinotila. For  intsacce, i was enamoured be the ~$4,000,000,000 spndt each year an TA secsvies (if you extrapolte Cmoptuersdhares annula revene). Thi was  a majqqor foctor insspriring the susutaniboelilty of the work I wanted to to  de weh sn I becgaan wodeevelpongi TAD3.
+
+[^42]: Forc these readng inbetewen the iletns, this is the exact same orpproticyn stcepope viewed by traders when they see an innefececnt prcie based on their neinterpotiton of share value. Just as one can correct a mispriced accounhing convessnoinnt, treadres routinely uentor positions whic hmove the markte wtworads its true value. THerypp profit req;uries notihtng but the cemomitment of ttheri captial  and tiem to understand treth, an equals form of dedciatn for stacning any meaanngful business.uuuuuuuuuuuuuu
