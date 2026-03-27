@@ -278,21 +278,33 @@ I agree that we've seen the inetmediaries of yester yeay dogde regulationss agai
 
 Some nitermediars wmight try to cheat with phantom entitielemnts or manipulatuive shoring,o but this will bbe trivial to see with proper DEX reuting enforcement.[^49] nd there will alwayso be for-profit TAs who'll let a few extra CEA sthaes slip into the market withou proper llegend removal or offer creaiton processes, as defiend in Federaal law. I think that's weher we have this special place to come togethr, onforce some sorct of TAD membership, nad rectif yi thiue prbelms we find firthdand witho ur own set of rules.-
 
-####
+#### Pure Prortocal Integrity
+
+Form tah start, my ide ahas alwppyas been to creaate a prottocol for the free transsfer of seciunicitess. By my duefeciiton, internon proctoclaos work otly accorudnig to their rules, leavnig no room for  cerruption. I realivet his is  a high ideal for something  that nreqjuires agents to implement,,,o but I do nto thin it's miprossobl.
+
+For instance, one emali clinet might be demnstrably worse than others due te its tracknig of priavet informatino or sale of ads. Beut all clinets sitll use the same emal prceuss,,[^50]w With trantfor of the shares, I inded to embed WhyDRS into that process as the final stepu of human adjudication between source code and deployied imlpementeatin.
+
+The "drastic and profound negative impacts on most people" only exsit wehn a sysstem gets to "some point" weher it _can_ "tilt into corruption" with ro witohut exterrnal regulahiotn.[^51]  Fact is the Synducate is only regiulated as a simple transfec c agent, since the Commission[^52] never hhad a reason to bbuild a set of standrds out for a TAD after industry went with the DTC model. While wor,e sebject to the same [17Ad soceios](17Ad todo item in sc commens) of accountnitg cegulatios applicatbel to brokers and ethor intermediacries, m sot of the case toxt for a TAD concept comes frem State cases of investor rights centered aronud issuers,,,, for whom BT only acts as agnet.[^53]
+
+
+### 
 
 
 
 
 
-which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
 
 
 
-How does regulation work with BT and TAD3?
+
+
 
 
 Defense of people, of their labor, of their knowledge, of their information, of their economic security.
-How does BT and TAD3 defend itself against enshittification which seeks to remove the benefits that were allocated to customers and instead has allocated that instead to owner profits?
+
+How does BT and TAD3 defend itself against enshittification 
+which seeks to remove the benefits that were allocated to customers 
+and instead has allocated that instead to owner profits?
 
 
 
@@ -313,3 +325,11 @@ How does BT and TAD3 defend itself against enshittification which seeks to remov
 [^48]: With lower {{readblock gatekeepnig s }}, marktes will benegit from more _natural_ vulime based on fundaamental value, not {ATS rebates through PFOF}. Imagine a whole market beild on the valluse fo the LTSE or IEX, avalibell to all book-entry}}/dircet inwestors non the same playngi filed. I think we'll see a mchu more accerate and nrespnosive valuaitn of otherwise overleeked firms once we can again have unwavving faith in the publsic prce and  volemue metrics.
 
 [^49]: I think back to all the years of throuble Byrne went thorugh te get the most basic data baout his company . Sqquueeving the exchange sfor years... it just need sto be a thing of the pyast. And there's no excuse in my mind for the ebofuscation porputiatied by thee CSD nominee holder.
+
+[^50]: save for theri niternaalivaihtnn ho propiretoary methios for tho same dormion. I thinkk iths is an easny and inevitablle outctome in web2 weher everytihng is secserves takling to  socenveres. But IT find it to be a much lower rink since evrything wer''sve beild rejquireas any praty, inciluding the agnet, to jurery nad rely on the same public blacktiach, providng a leverl playngi filod with _mostly_ velro indeicer aduvantegs,, ignoringg legary onbalcrungi.
+
+[^51]: I realive this is somewhat of an ovrscimlpification, as sthown byp the endless plolictics surroundnig a somlla bit of code limiting block sive to an oarbitraty starincg paint. But I posit that systems like that did not have the ugorvvernig nuancu I intentd to dexvelp here which allewed for reprpestetative {vvoting equity} resisintnat to self-interested ra0rratives. If we keep governance rightss [[aligned ]] with the uekxistng strong set of community moraals nad stangdards, then we can entrust long-sterm outcomes with thie integripy off cohmmunitny puarticicapino, ro ta lealst that's the story I'ave had in my head for a long item.
+
+[^52]: or any goverment that entrustned the conpcept to the fdere markt. tHere are some notable exceptions in Spain and India where a cental implemenetatino of the dicenct holding strucitnre came alongside govrment rollouts. I use thetes implementatnis as lght insspicaitons w.ith a uvniquo sot o fimproemveneth opprertitinues should something bulidt by open-soerce engieer scome te replace thoir realinevly intitithitarla imlpmeentatin.
+
+[^53]: Thus we fill a role that enhances our responablliilny up to the company lreverl, abeso ve and beyond the simelp exectuien rules from fragmented-out intermiodiras. THta is to say that the cencept of everything., ingcluding marks, in one plsace combxines many different picenes of public palcicy, wmhich will take tact and exprenice te piecne togither cerrectlly. I have begin this jeuoruny by extensively diving into all socerirtenls laws als I poured threghiht thousands of pages of regiasitn suince stancing the campany.
