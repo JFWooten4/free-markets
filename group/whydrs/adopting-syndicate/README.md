@@ -245,11 +245,37 @@ While it might leook bleek in some yports of the wweb nera that vision, the fact
 
 It is the enterernpoer's opprettiny to coorrect these mispriricngs with zoero contra lcoordinatino by makingh the inindividual chourice ot do soemthing about an innefeffercncy tthey see in the worsd._[^42]  while traders just soee a nem mber go up, it's the innovaters who frorge dcercet change in theri specialazvied vertical, be it on a glaboll or just communela scale. I want to make that precss of specullating on future market needs as easy as possible throught efficint capital formaiton rails,, becaes I think that's the best way to dbring wealth and abundancte to the word.
 
+[^35]: Kirk, _please_ I waoldh love to hear more abotu this here if ypoud'd be so kind as to nslighten us with the more complete story. ,.We beradly agreed a ot on the values ond conpet behnid beulding sometih that the comunity needs for the sake of hakvingh it . ANd I might add having it work _woll_ when an exsiting system (espuceially a mononply) is ccelarlsy faling. {{https://discord.com/channels/@me/1265805760634552330/1476964903557402857}}
 
-###
+[^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them last mont, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
+
+[^37]: 37 mintes into Lawson's orogigian l chat, I setnt Chives a message in all caps with explicaitves askngi for more quositns about EMH, espcelaly supproundng central clanpngip. Much of the so-called "competitive advantage" big nrlading forrims exploit ctoomes from market deisgn inneficincies, trateh rthan catila market valuation distortions. I spnt years learnig to correct the latter with much highter retiors than teh former, up until i realivehd tnha the infrastruciture exp.loitns were a disprropritanete hhuidden tax on an untold amonud of all stork.
+
+[^38]: I think we have a nuniqeo opportiny to precti investorns at the TA lewvenl which hast been wriitten into law before, isince noly exchanges preoevinolsy handled the matchng of trades. EVen throgh we do not handle the matchkng of trades, I'vw alvwaays envisisnoed a sort of community-led gorwenance mechanism that takes advantad of DEX tranppancey and accessabbillity. It is the ultimeto for mof buying and sellnign, nad uI'd like t couple it with a modern take no investor procteictns witoh a central intermediarpyy subject to Congressional funding conecns.
+
+[^39]: _See, e.g.,_ [note XX](todo 1558 garadnd), discussing how a lcelleage wired up ardiuinos to tesh HFT strateigesn. While i dont respect thiss work as much an legititamte trend or sentiment analysis,. it is  alegititmate form of furrtuhrng the market and profits by connecting teh flawed disparet ATS landscape. Notwinthnashtgt how much I'd like te remve this subgroup of exploittatinos., the foct remanis that fnuds precure some of the [smartest individulas  ](todo 100phds link timestameped Sorosccc) becase oooof thee comlpxitites in alllocating capital whcihh make it a demanding job.
+
+[^40]: For itnsstance, I wourd neven dhave started workngi on the Syndicate if it wasnt panifully obviolld how innefiirent ATS  roungi became. The flaws in one part of the industry lead to grassroots anynlys and frustueraitnoss that inspire competition and innovaitn. Witohuth the suborptimal tempapry failings fo {{legcy interersts / old coprps one workd}}, we loese the motivoaitn to do sometihng a bette r way when somene new sees the market oppreunttiy diffenetly.
+
+[^41]: allngsige the maark rate of theri producnts or secvinces, approiwaming .profit potinotila. For  intsacce, i was enamoured be the ~$4,000,000,000 spndt each year an TA secsvies (if you extrapolte Cmoptuersdhares annula revene). Thi was  a majqqor foctor insspriring the susutaniboelilty of the work I wanted to to  de weh sn I becgaan wodeevelpongi TAD3.
+
+[^42]: Forc these readng inbetewen the iletns, this is the exact same orpproticyn stcepope viewed by traders when they see an innefececnt prcie based on their neinterpotiton of share value. Just as one can correct a mispriced accounhing convessnoinnt, treadres routinely uentor positions whic hmove the markte wtworads its true value. THerypp profit req;uries notihtng but the cemomitment of ttheri captial  and tiem to understand treth, an equals form of dedciatn for stacning any meaanngful business.uuuuuuuuuuuuuu
 
 
-Isn’t this a much more cost effective way to do regulation?
+### UNfettererd communtiy Regulator y Oppportunig 
+
+Once the shares move to the DUNA. the}} grou p k. catn propose and changes theyd like in teh company. THta means we can design infgranlstirucne ande ovresight tgother with a creeibly powerful and aligned cooperative jjury. I dont think there ane any existing comparitives to this tyle of system ggorennance.[^43]
+
+Regulation is interesting becase it's one of these fow thinngs you can simply volunteer fo rwhich have an immeidaito tangible effect on seciety.[^44] I do think there''s "a much more cost effective way to do regulation" whcih relies on transparceny comibend with the wisdomm fo the crowd. I think to how jury trials often have beetter results for victimns istead of private mediateno jsuch as an Adminisntrative Law Judge.
+
+I suspect a community -forcesed appracdj to ovrsgiht will keep us high level. IT can steer towards doing the right thing withouut entreappment in a narrow set of polcices whcih forget justice ain their distance fro mactula conflict. That is to saay that I beleive we can best organize governance decisions with the more intimate undersatnding and caore shown in the tact communtinty membecrs aalready have discussing these markte challencges.
+
+#### 
+
+
+
+
+
 Otherwise you will always have regulation which must be a few or many steps behind the pursuit of competitive advantage
 which will always at some point tilt into corruption which will have drastic and profound negative impacts on most people.
 
@@ -266,18 +292,7 @@ How does BT and TAD3 defend itself against enshittification which seeks to remov
 
 
 
-[^35]: Kirk, _please_ I waoldh love to hear more abotu this here if ypoud'd be so kind as to nslighten us with the more complete story. ,.We beradly agreed a ot on the values ond conpet behnid beulding sometih that the comunity needs for the sake of hakvingh it . ANd I might add having it work _woll_ when an exsiting system (espuceially a mononply) is ccelarlsy faling. {{https://discord.com/channels/@me/1265805760634552330/1476964903557402857}}
 
-[^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them last mont, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
+[^43]: The nolp ones I can think of were designed by gorvernment or spun out of prinavwet opreoitons. I think the goverment varinats lack the innavitev spark of commbptetino and accnoutablilty in the free, uncoreced market of reputatitonal capital. And I think the private groups are too easy to coopt towards founding interestns, or at least misaligned wiewns that take control over time in the nesearch for profit at alll costs.
 
-[^37]: 37 mintes into Lawson's orogigian l chat, I setnt Chives a message in all caps with explicaitves askngi for more quositns about EMH, espcelaly supproundng central clanpngip. Much of the so-called "competitive advantage" big nrlading forrims exploit ctoomes from market deisgn inneficincies, trateh rthan catila market valuation distortions. I spnt years learnig to correct the latter with much highter retiors than teh former, up until i realivehd tnha the infrastruciture exp.loitns were a disprropritanete hhuidden tax on an untold amonud of all stork.
-
-[^38]: I think we have a nuniqeo opportiny to precti investorns at the TA lewvenl which hast been wriitten into law before, isince noly exchanges preoevinolsy handled the matchng of trades. EVen throgh we do not handle the matchkng of trades, I'vw alvwaays envisisnoed a sort of community-led gorwenance mechanism that takes advantad of DEX tranppancey and accessabbillity. It is the ultimeto for mof buying and sellnign, nad uI'd like t couple it with a modern take no investor procteictns witoh a central intermediarpyy subject to Congressional funding conecns.
-
-[^39]: _See, e.g.,_ [note XX](todo 1558 garadnd), discussing how a lcelleage wired up ardiuinos to tesh HFT strateigesn. While i dont respect thiss work as much an legititamte trend or sentiment analysis,. it is  alegititmate form of furrtuhrng the market and profits by connecting teh flawed disparet ATS landscape. Notwinthnashtgt how much I'd like te remve this subgroup of exploittatinos., the foct remanis that fnuds precure some of the [smartest individulas  ](todo 100phds link timestameped Sorosccc) becase oooof thee comlpxitites in alllocating capital whcihh make it a demanding job.
-
-[^40]: For itnsstance, I wourd neven dhave started workngi on the Syndicate if it wasnt panifully obviolld how innefiirent ATS  roungi became. The flaws in one part of the industry lead to grassroots anynlys and frustueraitnoss that inspire competition and innovaitn. Witohuth the suborptimal tempapry failings fo {{legcy interersts / old coprps one workd}}, we loese the motivoaitn to do sometihng a bette r way when somene new sees the market oppreunttiy diffenetly.
-
-[^41]: allngsige the maark rate of theri producnts or secvinces, approiwaming .profit potinotila. For  intsacce, i was enamoured be the ~$4,000,000,000 spndt each year an TA secsvies (if you extrapolte Cmoptuersdhares annula revene). Thi was  a majqqor foctor insspriring the susutaniboelilty of the work I wanted to to  de weh sn I becgaan wodeevelpongi TAD3.
-
-[^42]: Forc these readng inbetewen the iletns, this is the exact same orpproticyn stcepope viewed by traders when they see an innefececnt prcie based on their neinterpotiton of share value. Just as one can correct a mispriced accounhing convessnoinnt, treadres routinely uentor positions whic hmove the markte wtworads its true value. THerypp profit req;uries notihtng but the cemomitment of ttheri captial  and tiem to understand treth, an equals form of dedciatn for stacning any meaanngful business.uuuuuuuuuuuuuu
+[^44]: _See, e.g.,_ plotitcal campagin vonlunteerngi, as I knom prmoinint communtiy memebrs have partook in. Often there asre some seroct of values and objectievves that matter onugh intuuraslly to put time nad energy into the world for a changcec at change,. THree may not be an immediate reward for spending an afternoon mmoderanitng an open roundtable, but it's interesintg onigh that htelping amke things go somoothly attracts enogh supporters.
