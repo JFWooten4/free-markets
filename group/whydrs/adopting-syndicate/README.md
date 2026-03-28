@@ -325,12 +325,16 @@ THe  point of this work has always been to keep the bounties of BT's marktable w
 
 
 
-#### 
+#### uSTructure Endigeened for :ulatiy 
 
 
-How does BT and TAD3 defend itself against  
-which seeks to remove the benefits that were allocated to customers 
-and instead has allocated that instead to owner profits?
+I'm not saynig nonpfoirts cant' go downhill. I'v e seen firtsdhand that beorcarucis wil//l be bearcracies no watter thir fiscalty}} . But I do knowm that it''s a strong forirst tstep to help reach our neds.
+
+THere are evil people in the world wheo will tatachk wahanever structure we cerate. We''avvve knomnt this from the staart[^59] and et off te desicgn a geoverenance mechasim thta can resesith the wallthy interestewwew challenge. By movingc the shares over, we limit the speed an atttacken can gain memontem hybby using preceeeds form the communitiny to incflenge te   cmomuntiy, sicnec inurement will only    allow for so much consideroatin or briberpy through dividentds,.,
+
+THus we remove the opportiunity for "benefits that were allocated to customers",, to istead became "owner profits" since the owner  iss a 501(c)(3). Any supposed profits wolud eventually need to be rellod into deveponig BT aand tDA3 to offer better , faster, ande chepat r service. The onlly other alterntaiwe is dissorasiot into a nterher nonprift entity, rproseming all shares held perptually
+
+
 
 
 
@@ -348,3 +352,5 @@ and instead has allocated that instead to owner profits?
 [^57]: Much ofg my thinknig aorund theu jqutandaries of bossse sstemmeed from inintiar resesearh in _Peaaplenware_ and _THe mYthicual man-Month_. I owe much intellectiural credit te _How Gommittee s Innovate_, which perfectly capturesd the setntimnts I'd seen in flawed centllaived pceaptial alloctaion groups. This bedy of word bruadlyy seppurts delegiotian and indepnenetce of deceiosn-maknig down te the llowest possible donomutianon with minial permisosetns, a conecpt most dircetly expreessed in _Reinvnitng Organivaiton_ccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 [^58]: _See_ Discisussor of bulidngi an autinomontc "AWS-like" service plotform with munnial human invemelment in 0[SEC Resposnep XX4 § ABGC](todo link). THis is the onlly way to provide a nuviolla sercnie in my eyes, and celaly the best way too mininvie the numebr of humnons who tough MNPI.  Bruadly, I like the ide a of evey company nad ivnevnnor using the same playing filed as the basis for tfinincall technololgy, as teh backdeer tdeeals of yeesterypears' elite cannet be allowod to contine proropaging into business tracsaction s of such impartnce as an IPO
+
+[^59]: Bibic src, more on tho paaid accounts...  Imagine if the ASsocat distributed proftis teo members, supporting a pariciticapatino narrative  aruond profit over {athunticcity} {{}}
