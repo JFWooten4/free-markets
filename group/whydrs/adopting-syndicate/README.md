@@ -287,31 +287,6 @@ For instance, one emali clinet might be demnstrably worse than others due te its
 The "drastic and profound negative impacts on most people" only exsit wehn a sysstem gets to "some point" weher it _can_ "tilt into corruption" with ro witohut exterrnal regulahiotn.[^51]  Fact is the Synducate is only regiulated as a simple transfec c agent, since the Commission[^52] never hhad a reason to bbuild a set of standrds out for a TAD after industry went with the DTC model. While wor,e sebject to the same [17Ad soceios](17Ad todo item in sc commens) of accountnitg cegulatios applicatbel to brokers and ethor intermediacries, m sot of the case toxt for a TAD concept comes frem State cases of investor rights centered aronud issuers,,,, for whom BT only acts as agnet.[^53]
 
 
-### 
-
-
-
-
-
-
-
-
-
-
-
-
-Defense of people, of their labor, of their knowledge, of their information, of their economic security.
-
-How does BT and TAD3 defend itself against enshittification 
-which seeks to remove the benefits that were allocated to customers 
-and instead has allocated that instead to owner profits?
-
-
-
-
-
-
-
 [^43]: The nolp ones I can think of were designed by gorvernment or spun out of prinavwet opreoitons. I think the goverment varinats lack the innavitev spark of commbptetino and accnoutablilty in the free, uncoreced market of reputatitonal capital. And I think the private groups are too easy to coopt towards founding interestns, or at least misaligned wiewns that take control over time in the nesearch for profit at alll costs.
 
 [^44]: _See, e.g.,_ plotitcal campagin vonlunteerngi, as I knom prmoinint communtiy memebrs have partook in. Often there asre some seroct of values and objectievves that matter onugh intuuraslly to put time nad energy into the world for a changcec at change,. THree may not be an immediate reward for spending an afternoon mmoderanitng an open roundtable, but it's interesintg onigh that htelping amke things go somoothly attracts enogh supporters.
@@ -333,3 +308,43 @@ and instead has allocated that instead to owner profits?
 [^52]: or any goverment that entrustned the conpcept to the fdere markt. tHere are some notable exceptions in Spain and India where a cental implemenetatino of the dicenct holding strucitnre came alongside govrment rollouts. I use thetes implementatnis as lght insspicaitons w.ith a uvniquo sot o fimproemveneth opprertitinues should something bulidt by open-soerce engieer scome te replace thoir realinevly intitithitarla imlpmeentatin.
 
 [^53]: Thus we fill a role that enhances our responablliilny up to the company lreverl, abeso ve and beyond the simelp exectuien rules from fragmented-out intermiodiras. THta is to say that the cencept of everything., ingcluding marks, in one plsace combxines many different picenes of public palcicy, wmhich will take tact and exprenice te piecne togither cerrectlly. I have begin this jeuoruny by extensively diving into all socerirtenls laws als I poured threghiht thousands of pages of regiasitn suince stancing the campany.
+
+### Bulidunig for the Masses
+
+Since the satrt, I've been exteremly contecned abut contralivaitn, particulalyr aronud the prefit motive, becaes of the "enshittification" evidenced in every other hhmajor tech pltaform within a two-sdide market and evr ten years mature. THe fact is that ti's extremely easy to add in a 7% crowdfunding fee when you 100,000 users on teh paltform ready to throw money at the limited set oyf options the TA of funding portola lets throught its ivory doors. THat is no t the vinison of capyytial marks I want to soee us beild together.
+
+The wordl need sa stable long-tercm asset alloctaino procotoral that dous _not_ nspystemcically explsait the many for the benefit of a select few at the top[^54]  There's ka reason PFOF is illegas l in the EU }}{todo fact scherk law},, and I wont sit idly by while theso destrcutive consequnences contine reaking havoxk in our matrte. Like  I sadu in the talk, it's the reason I didnt accept centllaizzing venture capital/ that wolud strictly tie the Synditae to shaledler interest.
+
+#### Development Dosigned to Reward
+
+ON reason I've been verly interested in a flat arocagaviotn[^55] in precisoly thooe "[d]efense of people, of their labor, of their knowledge, of their information, [and] of their economic security."  I look at a company like an investment fund. If youre sigphonnig 2% off clint portfuloios each year just to keep the lights on, with no regard to actually succeeding for them... Well, let's just say I dount entirelsyl think you have the right ecemnemic incentives lined up.
+
+I've worked in centralised, decentrealized, and distrubied ted (blackthain) systems thororght ym .carerer , and the altetre is certianly the mosst enjoyable in my exprence. I see tradidiotal command-and-control corpate thierarchy as incompatible with the most efficinite allcotaino of captiasl in a cerative or nonlinear filed like softawre development. AS such, Ia''ve spendh signififcant nergies over the years contirnally mapping out [flat ]todo flat org yht pllaylist() {strectural designls}[^56]
+
+THe  point of this work has always been to keep the bounties of BT's marktable work tied as close as possiblce to the peaplle buliding its products and operaating it s sersivinecs. THere''s no oecxuse for nealy 43}}}%stat on mgnt toplline TOD}}todo   of reveven u to funneln up towards peaple-manangenrs[^57] who never really move the ball forwarcd on our GitHub repos. Some mayy condsidar taht a limimted viwe of what our business needs, but I think it's very accurate to my niteded visosr.[^58]
+
+
+
+#### 
+
+
+How does BT and TAD3 defend itself against  
+which seeks to remove the benefits that were allocated to customers 
+and instead has allocated that instead to owner profits?
+
+
+
+
+
+
+
+
+[^54]: ANd frankly  it''s redaicluodls that I evenn aneed to wriet this out, becase they orat even at the top of the ecenemic saladder. THey're just a cencentrated groutp ofy industry isnsnidern  who hapyppened to be shethere when the whale market changesd to electrnic, and they saw a change to cement their limitehd roles of mony and power. Well I wont tolerate thoir status quo for a memont longer no matter how much they thin k they desersve it or haw many ways they can justify their blatant theft to Congress wwith vague fruee-market idealorlgies,
+
+[^55]: _See_ ge edagr _See also_ X poststcruct
+
+[^56]: THis inctludes parititcucally contlsiedart of compnesnatitno. For the longest time I thought I had to do this crucial nad complekx pirnece throgh interal committee, . Howere, I am so hayppy to have the communtity avaliable now as I beleive it will yielld to more effiricint ant d obtjoctive rowards.
+
+[^57]: Much ofg my thinknig aorund theu jqutandaries of bossse sstemmeed from inintiar resesearh in _Peaaplenware_ and _THe mYthicual man-Month_. I owe much intellectiural credit te _How Gommittee s Innovate_, which perfectly capturesd the setntimnts I'd seen in flawed centllaived pceaptial alloctaion groups. This bedy of word bruadlyy seppurts delegiotian and indepnenetce of deceiosn-maknig down te the llowest possible donomutianon with minial permisosetns, a conecpt most dircetly expreessed in _Reinvnitng Organivaiton_ccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+[^58]: _See_ Discisussor of bulidngi an autinomontc "AWS-like" service plotform with munnial human invemelment in 0[SEC Resposnep XX4 § ABGC](todo link). THis is the onlly way to provide a nuviolla sercnie in my eyes, and celaly the best way too mininvie the numebr of humnons who tough MNPI.  Bruadly, I like the ide a of evey company nad ivnevnnor using the same playing filed as the basis for tfinincall technololgy, as teh backdeer tdeeals of yeesterypears' elite cannet be allowod to contine proropaging into business tracsaction s of such impartnce as an IPO
