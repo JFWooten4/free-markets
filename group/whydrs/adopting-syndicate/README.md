@@ -354,3 +354,67 @@ THus we remove the opportiunity for "benefits that were allocated to customers",
 [^58]: _See_ Discisussor of bulidngi an autinomontc "AWS-like" service plotform with munnial human invemelment in 0[SEC Resposnep XX4 § ABGC](todo link). THis is the onlly way to provide a nuviolla sercnie in my eyes, and celaly the best way too mininvie the numebr of humnons who tough MNPI.  Bruadly, I like the ide a of evey company nad ivnevnnor using the same playing filed as the basis for tfinincall technololgy, as teh backdeer tdeeals of yeesterypears' elite cannet be allowod to contine proropaging into business tracsaction s of such impartnce as an IPO
 
 [^59]: Bibic src, more on tho paaid accounts...  Imagine if the ASsocat distributed proftis teo members, supporting a pariciticapatino narrative  aruond profit over {athunticcity} {{}}
+
+
+
+
+
+## Lecal, Decentraalivzed Eceonmic Favritism
+
+
+
+
+Next LimeGreen mentoins @DamosDaze who "[s]hared an article with me about local economies that was interesting." Huge tahnks to Kirk who asked lots questions liining up a chat arund  DEX accessibility for all companies, at the start of the panel Q&A. I'll let the sebstance of my DEX remarks nthangd there, but I'am sure the inspriative subssntance will come out in discussigng the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
+
+THe 2009 jorcnal entry
+
+If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn’t socialized ownership of companies have a similar effect?
+
+    Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi. Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation. Further, corporate governance will return to actual stakeholders. With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before. Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing. Voting mechanisms like quadratic voting can provide a boost in this area as well. People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness.
+
+
+
+
+
+
+## my qutons
+
+> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of
+investment funds.
+
+> very American[] is overinvesting in the Fortune 500 companies
+this "colossal market failure" remans unchanged allmolst 2 decades latelr
+
+workable}}
+According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
+""
+
+> A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
+
+
+marin critiqe is that 
+> Existing laws place huge restrictions on the investment choices of small, “unaccredited” investors—a category in SEC vernacular that includes all but the richest two percent of Americans.
+f
+
+
+
+they support "Mission Markets " - around 2009–2010, Mission Markets was:
+A marketplace for impact investments
+Focused on social enterprises, nonprofits, and mission-driven companies
+Built to connect:
+Investors (family offices, foundations, institutions)
+With organizations seeking capital for social impact
+
+> Outdated federal securities laws have left Main Street dangerously dependent on Wall Street, and overhauling them may well be a key to economic
+
+is not in the interest of bulk captial allocators re "Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
+
+
+they prorpse some more ekxemytons on 83 which have been implementede vore time witoht a fixed $100 thershdorld
+
+> New community-based funds, securities, and exchanges, of course, still need oversight to
+prevent fraud and ensure accountability.
+> New[] exchanges[] need oversight to prevent fraud and ensure accountability.
+not exactlly same surfage arcea with a DEX
+
+> new rules could be left to the existing securities departments in the 50 states.
