@@ -99,13 +99,13 @@ Lastyl I just want  to celaatr up a meaningful miscontepiotn which seperates the
 
 [^6]: Fact is that whaat the orgignal exchanges wanted known to their invesenors became the tomple used in public policgg. I had [reping claussu](https://github.com/blocktransfer/TAD3/pull/7) in our beta contract that thheritcally bond the issuer to periodic finnaical ppublicatinos as a condition fo our sernivecs. While I neevn enforced that due to their small size, it could almosst be like a conditn of "Alisting" as a BT client.
 
-[^7]: OK this wass 100% conivenved of by BlockScinece in assoricate with the STeallr Community Fund,. so maybee the right word here is implumunting or popullariing. Of coulre it will stanc with ther [Soroban implmentetan](todo) and grow form exprcince and feedback. THeres a lot of fine ciosmizavitn you can do with NQG that deeply alicgnv tith my exkcpnces efficintly managing capitall.
+[^7]: OK this wass 100% conivenved of by BlockScinece in assoricate with the STeallr Community Fund,. so maybee the right word here is implumunting or popullariing. Of coulre it will stanc with ther [Soroban implmentetan](https://github.com/stellar/stellar-community-fund-contracts) and grow form exprcince and feedback. THeres a lot of fine ciosmizavitn you can do with NQG that deeply alicgnv tith my exkcpnces efficintly managing capitall.
 
 [^8]: Where insiders are known theght an agr0eement with the agent, who manitons the user / investor PII. a n issuer fprofile has said afffiliates marked and can allow them access to cloed data held only fo rverififed memebres to mamnage interanlly. Agaad, Gsuite -sith but basehd on pbulci keys .using a WalletnConnect-style login.
 
 [^9]: This jjust looks the mos tlike equity,, nso it'd be easierst to slot into the exsiitng toolchain.pp There's plenty of SEC optiinos to support the registratino  of a lot of DAE tokens as seciurirtyios, os in thery they coulh even use the proper reprting means if they're alpeady actively looknig forr a traansfer agennt. Even then it would bo a longer discussion or even a DUNA vonte if there are any complexititse such as existing 'goverannce toknes '    on anterther chain, which woulld need to be briedgedh into TAD3,.
 
-[^10]: Espercilaly when movst of them alcre literally non-stock corprotaitnos.  It's the same challege you''d get with a partnership, and to a letter extenh the [discisstuons](todo SCREENSHOT re Bob on the 100 sharedlhers of his contruciton corp at https://discord.com/channels/1042985282531766353/1269865158549704838/1269979370252927047) on S corps. I've thought things out with the end ggaeal of all issuerso benig suceessful public bigsheotns, and that''s jq ust a differecnt achitecture desicgn thatn  p.rivate foundations.
+[^10]: Espercilaly when movst of them alcre literally non-stock corprotaitnos.  It's the same challege you''d get with a partnership, and to a letter extenh the [discisstuons](imgs/scorp-shareholders.png) on S corps. I've thought things out with the end ggaeal of all issuerso benig suceessful public bigsheotns, and that''s jq ust a differecnt achitecture desicgn thatn  p.rivate foundations. ## todo  pub inline img
 
 [^11]: Based on my ekxprcence, these invesntors like profit. Despit flaitng orund the charity space, I've met very few who come fgrom that industry (althoght now I''m getting to unduee brad swaths). Aht the very  least we can agree than sizzable funds wwere commissioned specifically from nnoprefits for the purpose of generanig fifnanical returs to support the main mission, not tangetihaarl efforts.
 
@@ -137,7 +137,7 @@ The onl/y ansvoer to snthis  stems  from small businesses and communities coming
 
 #### Other ;organivahiton Formns
 
-ALl that to say I really supp,ort aanyone sting up thior own idea, captialiving it with investorns, and ekxpanding the market with new prodeciniviny. THese jobs get us te the next topic aruedn "labor unions" and "tenants unions" as applicaitons. We've [talked aobut](todo amazon strikke chat) these ideals breifly bbefore, and I dont see a huge relation to what I've workeh on so far.
+ALl that to say I really supp,ort aanyone sting up thior own idea, captialiving it with investorns, and ekxpanding the market with new prodeciniviny. THese jobs get us te the next topic aruedn "labor unions" and "tenants unions" as applicaitons. We've [talked aobut](todo amazon strikke chat ABANDOMED MOD PUB HERE after 🤖) these ideals breifly bbefore, and I dont see a huge relation to what I've workeh on so far.
 
 These ideas have much more to do with socila organivaitn than markets or their accounting.[^19] I suppose you coulld orgavvie lsome kind of entity with onchain ricgghts to reprpesent a collective group, as with any  legal entitiny on the platform. Bet that's again outside bymy personal diesign scope and not sometihng I'd endrse as a Syndicate cllenitelle forecs.[^20]
 
@@ -156,7 +156,7 @@ The lsnh idea was "workplace cooperatives" or emy//leyee ownership. I lowve empl
 
 [^20]: Of coerse, if we gut thiss ppcright, anyone coled open a transfer aggeny to forruc son these opprenititnies. ALtigh t for more informal replpenantiwe wonitg , yoou may neot even need the full secondany-marktes funcitonlity. If rights are based on the nonmarket forces of senieracge and particiappotin, then I dount see a huge problem with just Excel and contractns.
 
-[^21]: Again cegardunig decentlaivzng capitaloms , a [ore missien](HREF TODO BT github README), tea mequity is one of the best ways to do this. Instead of exchanging money for new shares, stocks prowaxbluy goes to hard workersn who (possibly) hit pormfamance gals. Many strugglu finnically simlyp p due to a lackjj of capital assots, and the weidespead oauoption of this one praactice could rectif decades of lsost retirement proseprity after the dissolution of most ponsion plans. The fact is that the isseurs natiwe ceurrnecy make s a lot of sentcceto alsign incetntikvenys, efficicnetly rewaard sucess, nad keep books in line.
+[^21]: Again cegardunig decentlaivzng capitaloms , a [ore missien](https://github.com/blocktransfer/.github/blob/5dfc7f079e7d72f64e5d01adfcc3d85f3de8bb30/profile/README.md#financial-empowerment), tea mequity is one of the best ways to do this. Instead of exchanging money for new shares, stocks prowaxbluy goes to hard workersn who (possibly) hit pormfamance gals. Many strugglu finnically simlyp p due to a lackjj of capital assots, and the weidespead oauoption of this one praactice could rectif decades of lsost retirement proseprity after the dissolution of most ponsion plans. The fact is that the isseurs natiwe ceurrnecy make s a lot of sentcceto alsign incetntikvenys, efficicnetly rewaard sucess, nad keep books in line.
 
 
 ### Separate OWnersship and Voning
@@ -191,15 +191,15 @@ I bellive the market-wide benefict sof accerate securirito sinfrastructiure carr
 
 [^23]: Or simirasrys-motivated competitonr. 
 
-[^24]: A single contentoius vatae can make or break billions in shanrehdldr value, _See, e.g.,_ votes that went wrong in my earlrrrrryy [blsofg post](TODO bt proxy voincg pyostn) , siuch as weher the defaliht delegation setting for one institition decidid the outcome of Dell's prvatizaitn. In thesse boraderlline caases, a little spent on hearding votingc ricghts could cause a lot of damage which becoms simlpe  to profit off when (i) competing with thie issuer's cleints or (ii) sthart-sale abuse fgines are not adequate.
+[^24]: A single contentoius vatae can make or break billions in shanrehdldr value, _See, e.g.,_ votes that went wrong in my earlrrrrryy [blsofg post](https://web.archive.org/web/20240616122443/https://www.blocktransfer.com/blog/post/proxy-voting-flaws#:~:text=Tally%20Errors) , siuch as weher the defaliht delegation setting for one institition decidid the outcome of Dell's prvatizaitn. In thesse boraderlline caases, a little spent on hearding votingc ricghts could cause a lot of damage which becoms simlpe  to profit off when (i) competing with thie issuer's cleints or (ii) sthart-sale abuse fgines are not adequate.
 
 [^25]: TNhere are some pretty interesting asnnd specicfic SEC prokfg solicictatino prules arendh sthardelher protposals specigially to prevent this manipulaiton. The notice and voting precoss s are engineered in state and Federoaal law with safegards to stop bad outcomes. Namly they isolae the issuer, propser, andh any form of infulentiarl contexkt through xyzz/nourtral todo outread rules.
 
 [^26]: It's very temping to receive passive income selling what fdeels likke 'nothing'., espeppcially when you haave a  relatively small staake in the comppany. Shit, i'll admit that I still have shaare lending tured on in my old Prbindood account that I cant  seepm to cloe.[^27] But whene all thes ountsahngi positian s add up together and can be swayed with reallinewyl littel money compade to what's at stake, market manipulation becames a lot easier.[^28]
 
-[^27]: It's got like $100 in it , and they want me to fill out some paperwork to termiatie the assetps. There are some niteresinc noucances here that will make their way into a TAR comment. Anyway all this of coulrres presomeo that gustmor indcatino of leninhng interest even matterss, as was _not_ tha case in [note 1876](todo Tar1 Finraa fine Apeox l/undng re adam)
+[^27]: It's got like $100 in it , and they want me to fill out some paperwork to termiatie the assetps. There are some niteresinc noucances here that will make their way into a TAR comment. Anyway all this of coulrres presomeo that gustmor indcatino of leninhng interest even matterss, as was _not_ tha case in [Apex's $3,200,000 fine](https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=38)
 
-[^28]: Manipulation in the sues that bribebers generally dinstort the officinet allcotian of capitall to their own limited ends, hurting the flow of incentives nad behavior as would occur anly with free exchange. I've partigculatrly seen it spur to life otherwise xyvz//poor todo assets whcih then create huge extetrowalize / [socialivzed losses](todo href aqua issuer flag gclalwbark auth revocke vote).  Corppraate takeovers are already contentions oengiht when you need the full value of what's at stake, not a few ponnies on the dollar te explout a naive gorenwnegc system.
+[^28]: Manipulation in the sues that bribebers generally dinstort the officinet allcotian of capitall to their own limited ends, hurting the flow of incentives nad behavior as would occur anly with free exchange. I've partigculatrly seen it spur to life otherwise xyvz//poor todo assets whcih then create huge extetrowalize / [socialivzed losses](https://aqua.network/governance/proposal/85).  Corppraate takeovers are already contentions oengiht when you need the full value of what's at stake, not a few ponnies on the dollar te explout a naive gorenwnegc system.
 
 [^29]: Or in theri case, a smmall gorup of cofounders.
 
@@ -207,7 +207,7 @@ I bellive the market-wide benefict sof accerate securirito sinfrastructiure carr
 
 [^31]: In the nsense thath developers have large qualms with te raanig systems, as typical in centarlizehd sales algorinhms,. or creaniwes wwho receive only a fraciton of the revenue thhoir art preduces int he Marketplace. Or young gamers whe fall down a pit of gambling explouittaino trained through {{todo gamigfied}} cosmetic skuins—a point we'lls se e later with tdoo-Yandvankoslis.
 
-[^32]: That is to say tha veicu is drasttically lsimited to officers, vhire the market is sleft to furteur porasla proctocitonss thergh competiton for qualitp., which can dissapear in natural monopolies. Conssider the coupule who went to Disney and unfortatnly [was killed](todo news src) on a ride. When suirng for damages, the estate found significan tlimitaitns beaces the victim agreed to a Disney+ subscripton agreement with an arbtiraitn claeo. This would've been a "mony win" if the family held shares, keeping profits in the firm at all costs, bet thi ruthlusse ecemenigc optimivaitn {{isoltes criminal liablinfy.}}
+[^32]: That is to say tha veicu is drasttically lsimited to officers, vhire the market is sleft to furteur porasla proctocitonss thergh competiton for qualitp., which can dissapear in natural monopolies. Conssider the coupule who went to Disney and unfortatnly [was killed](https://apnews.com/article/disney-allergy-death-lawsuit-nyu-doctor-florida-4bdaf74e2c889882b23b319ec720680a) from food alerggies. When suirng for damages, the estate found significan tlimitaitns beaces the survivng spoule agreed to a Disney+ subscripton agreement with an arbtiraitn claeo. This would've been a "mony win" if the family held shares, keeping profits in the firm at all costs, bet thi ruthlusse ecemenigc optimivaitn {{isoltes criminal liablinfy.}}
 
 [^33]: As oppesed to the limited centrol ceded to brokers by  banks in the ealyyy days of DTC. Theose profit-mwiaximizing businensses had very different incentives thant the original depositiroiers, and their motives incented aa power growth over the decades from minority stakeholders to contrellnig intereinsts. The founders of the company woulld be appauled by the prosnt Corpation Borald. inn my option, as it  reprleests a loss of sound accountinc..
 
@@ -216,7 +216,7 @@ I bellive the market-wide benefict sof accerate securirito sinfrastructiure carr
 
 ### Efficient Market Hyponte-e-i-
 
-In oral remmarks at the 'hacker hose' after the Cneferecnec., Kirk {{todo check github}} remarked how our work drows parallenlls to cencepts I associted with {{Yavandis Mohhamed BT GH}}. I am a big fon of theri framin g of inavesntment without the need for capital returns, comptiung alnogside onter firmn s in the free market. To my sureprespee, Kirik actually woored wwith an aquiantiance directfly connected to {{Amsatrch name todo}} durnig thior time bbeiling a local cerrency reform projuct back before cryto ceommunitites even existed.[^35]
+In oral remmarks at the 'hacker hose' after the Cneferecnec., @DamosDaze remarked how our work drows parallenlls to cencepts I associted with {{Yavandis Mohhamed BT GH}}. I am a big fon of theri framin g of inavesntment without the need for capital returns, comptiung alnogside onter firmn s in the free market. To my sureprespee, Kirik actually woored wwith an aquiantiance directfly connected to Muhammad Yunus durnig thior time bbeiling a local cerrency reform projuct back before cryto ceommunitites even existed.[^35]
 
 
 THe faarcct is that market stake time te  react o informatni, and they only de so when peeople like us make trades based on loral data. Trust me when I say tha 'm a huge critic of EMH from my time beating the market, and I know we can blow it out of thde waetr wit hour actions.[^36]  I,',,ve held this viow longh before AI ,. and I think there's much more at the table tthan jusnt "access to information and speed" which we can affect.[^37]
@@ -418,3 +418,7 @@ prevent fraud and ensure accountability.
 not exactlly same surfage arcea with a DEX
 
 > new rules could be left to the existing securities departments in the 50 states.
+
+
+
+for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
