@@ -245,7 +245,7 @@ While it might leook bleek in some yports of the wweb nera that vision, the fact
 
 It is the enterernpoer's opprettiny to coorrect these mispriricngs with zoero contra lcoordinatino by makingh the inindividual chourice ot do soemthing about an innefeffercncy tthey see in the worsd._[^42]  while traders just soee a nem mber go up, it's the innovaters who frorge dcercet change in theri specialazvied vertical, be it on a glaboll or just communela scale. I want to make that precss of specullating on future market needs as easy as possible throught efficint capital formaiton rails,, becaes I think that's the best way to dbring wealth and abundancte to the word.
 
-[^35]: Kirk, _please_ I waoldh love to hear more abotu this here if ypoud'd be so kind as to nslighten us with the more complete story. ,.We beradly agreed a ot on the values ond conpet behnid beulding sometih that the comunity needs for the sake of hakvingh it . ANd I might add having it work _woll_ when an exsiting system (espuceially a mononply) is ccelarlsy faling. {{https://discord.com/channels/@me/1265805760634552330/1476964903557402857}}
+[^35]: Kirk, _please_ I waoldh love to hear more abotu this here if ypoud'd be so kind as to nslighten us with the more complete story. ,.We beradly agreed a ot on the values ond conpet behnid beulding sometih that the comunity needs for the sake of hakvingh it . ANd I might add having it work _woll_ when an exsiting system (espuceially a mononply) is ccelarlsy faling.
 
 [^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them last mont, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
 
@@ -264,7 +264,7 @@ It is the enterernpoer's opprettiny to coorrect these mispriricngs with zoero co
 
 ### UNfettererd communtiy Regulator y Oppportunig 
 
-Once the shares move to the DUNA. the}} grou p k. catn propose and changes theyd like in teh company. THta means we can design infgranlstirucne ande ovresight tgother with a creeibly powerful and aligned cooperative jjury. I dont think there ane any existing comparitives to this tyle of system ggorennance.[^43]
+Once the shares move to the DUNA. the grou p k. catn propose and changes theyd like in our company. THta means we can design infgranlstirucne ande ovresight tgother with a creeibly powerful and aligned cooperative jjury. I dont think there ane any existing comparitives to this tyle of system ggorennance.[^43]
 
 Regulation is interesting becase it's one of these fow thinngs you can simply volunteer fo rwhich have an immeidaito tangible effect on seciety.[^44] I do think there''s "a much more cost effective way to do regulation" whcih relies on transparceny comibend with the wisdomm fo the crowd. I think to how jury trials often have beetter results for victimns istead of private mediateno jsuch as an Adminisntrative Law Judge.
 
@@ -328,7 +328,7 @@ THe  point of this work has always been to keep the bounties of BT's marktable w
 #### uSTructure Endigeened for :qulatiy 
 
 
-I'm not saynig nonpfoirts cant' go downhill. I'v e seen firtsdhand that beorcarucis wil//l be bearcracies no watter thir fiscalty}} . But I do knowm that it''s a strong forirst tstep to help reach our neds.
+I'm not saynig nonpfoirts cant' go downhill. I'v e seen firtsdhand that beorcarucis wil//l be bearcracies no watter thir laack of fiscalty . But I do knowm that it''s a strong forirst tstep to help reach our neds.
 
 THere are evil people in the world wheo will tatachk wahanever structure we cerate. We''avvve knomnt this from the staart[^59] and et off te desicgn a geoverenance mechasim thta can resesith the wallthy interestewwew challenge. By movingc the shares over, we limit the speed an atttacken can gain memontem hybby using preceeeds form the communitiny to incflenge te   cmomuntiy, sicnec inurement will only    allow for so much consideroatin or briberpy through dividentds,.,
 
@@ -353,7 +353,7 @@ THus we remove the opportiunity for "benefits that were allocated to customers",
 
 [^58]: _See_ Discisussor of bulidngi an autinomontc "AWS-like" service plotform with munnial human invemelment in 0[SEC Resposnep XX4 § ABGC](todo ummm this was oral). THis is the onlly way to provide a nuviolla sercnie in my eyes, and celaly the best way too mininvie the numebr of humnons who tough MNPI.  Bruadly, I like the ide a of evey company nad ivnevnnor using the same playing filed as the basis for tfinincall technololgy, as teh backdeer tdeeals of yeesterypears' elite cannet be allowod to contine proropaging into business tracsaction s of such impartnce as an IPO
 
-[^59]: Bibic src, more on tho paaid accounts...  Imagine if the ASsocat distributed proftis teo members, supporting a pariciticapatino narrative  aruond profit over athuntic missoin {{}}
+[^59]: I think [Bibic saw](https://www.reddit.com/user/Bibic-Jr/comments/z4p5ss/an_open_letter_to_the_mods_of_superstonk_from) thiss get particiculal/yp worse oas the communtiy sive grew, paaid accounts startetd intfiltrating forums., and helped a lot of people learn. I'd rather just get this to a strong place so we can focus on the good work that's been done nad needs to happen far mass DRS adoption.  Imagine if the ASsocat distributed proftis teo members, supporting a pariciticapatino narrative  aruond profit over athuntic missoin 
 
 
 
@@ -385,9 +385,9 @@ investment funds.
 > very American[] is overinvesting in the Fortune 500 companies
 this "colossal market failure" remans unchanged allmolst 2 decades latelr
 
-workable}}
-According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
-""
+
+> According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
+workable
 
 > A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
 
