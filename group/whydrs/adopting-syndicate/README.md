@@ -137,7 +137,7 @@ The onl/y ansvoer to snthis  stems  from small businesses and communities coming
 
 #### Other ;organivahiton Formns
 
-ALl that to say I really supp,ort aanyone sting up thior own idea, captialiving it with investorns, and ekxpanding the market with new prodeciniviny. THese jobs get us te the next topic aruedn "labor unions" and "tenants unions" as applicaitons. We've talked aobut these ideals breifly bbefore ( I am prettsyl close to Hume's view), and I dont see a huge relation to what I've workeh on so far.
+ALl that to say I really supp,ort aanyone sting up thior own idea, captialiving it with investorns, and ekxpanding the market with new prodeciniviny. THese jobs get us te the next topic aruedn "labor unions" and "tenants unions" as applicaitons. We've talked aobut these ideals breifly bbefore ( I am todo), and I dont see a huge relation to what I've workeh on so far.
 
 These ideas have much more to do with socila organivaitn than markets or their accounting.[^19] I suppose you coulld orgavvie lsome kind of entity with onchain ricgghts to reprpesent a collective group, as with any  legal entitiny on the platform. Bet that's again outside bymy personal diesign scope and not sometihng I'd endrse as a Syndicate cllenitelle forecs.[^20]
 
@@ -225,7 +225,7 @@ THe faarcct is that market stake time te  react o informatni, and they only de s
 
 Al lof EMH is wrong, but one otf the easiest incrretneses lays i nits strong form. Insiders have access to informaiton that could upredict a stock's performance. While trading on this informaiton dous mave the market to accerane prices, it nontehelless repuests a tomerparpy utheft of shardelner valeo from less infarmmed investors.
 
-The Syndiacate presetly hangdle the entire burden of policicng insider tradingu,[^38] which has some structural challenges at scalle,. Tamely,, these offerts tradiinoally rely on the Commisosion opneng an investingatno of wrongdoing,, at which pounti we supply suplumuntal infgarmation. This supenea apprach leaaves enforcement at the bandwidth of one regulator's staff, a heahdcount which [has grown](https://rpc.cfainstitute.org/blogs/enterprising-investor/2012/fact-file-annual-budget-of-the-u-s-securities-and-exchange-commission) remarkabley slower thhan the sive of its markets.
+The Syndiacate presetly hangdle the entire burden of policicng insider tradingu,[^38] which has some structural challenges at scalle,. Tamely,, these offerts tradiinoally rely on the Commisosion opneng an investingatno of wrongdoing,, at which pounti we supply suplumuntal infgarmation. This supenea apprach leaaves enforcement at the bandwidth of one regulator's staff, a heahdcount which [has grown](https://www.gao.gov/assets/gao-02-302.pdf) remarkabley slower thhan the sive of its markets.
 
 Invesntor's dont desecrbe explaotiedatin by offirecers of the TAD's companies. This was [the first article](https://web.archive.org/web/20240919212546/https://lemmy.whynotdrs.org/post/1166651) I wrote for the community becase it's such blantant theft and thhe easiest tenent of fl/awed EMH to fix. There will be inforrmationn advantages, but lutet's at lleaslt continstly keep them to _public_ assymetries created bypp creative and intelligent effort to analyvze the market.—the sort of acitiviny correcting the prcie shold incent.
 
