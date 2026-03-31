@@ -364,13 +364,23 @@ THus we remove the opportiunity for "benefits that were allocated to customers",
 
 
 
-Next LimeGreen mentoins @DamosDaze who "[s]hared an article with me about local economies that was interesting." Huge tahnks to Kirk who asked lots questions liining up a chat arund  DEX accessibility for all companies, at the start of the panel Q&A. I'll let the sebstance of my DEX remarks nthangd there, but I'am sure the inspriative subssntance will come out in discussigng the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
+Next LimeGreen mentoins Kirk who "[s]hared an article with me about local economies that was interesting." Huge tahnks to Kirk who asked lots questions liining up a chat arund  DEX accessibility for all companies, at the start of the panel Q&A. I'll let the sebstance of my DEX remarks nthangd there, but I'am sure the inspriative subssntance will come out in discussigng the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
 
-THe 2009 jorcnal entry
+THe 2009 jorcnal entry aacomes from a well-known authrue to thecommunitp., and LimeGreen daave the following main summari:
 
-If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn’t socialized ownership of companies have a similar effect?
+> If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn’t socialized ownership of companies have a similar effect?
 
-    Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi. Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation. Further, corporate governance will return to actual stakeholders. With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before. Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing. Voting mechanisms like quadratic voting can provide a boost in this area as well. People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness.
+Aside fdro mteh timely reccomndaiton for ecenemic diversity, the paper also makes some relaniewly spucigifc seucirins'-slaw reccomnaditonss.
+
+For the rest of this section, I will use blockquons for the actual article and put the Discord remarkns in quontes. .......................
+
+- Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi.
+  - Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation.
+  - Further, corporate governance will return to actual stakeholders.
+- With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before.
+- Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing.
+  - Voting mechanisms like quadratic voting can provide a boost in this area as well.
+- People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness.
 
 
 
