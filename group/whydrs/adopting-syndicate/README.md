@@ -430,25 +430,28 @@ And the corpoatae goverenance yonets folllow that same line of logic, sisce issu
 [^66]: We'ze noons (self) rugiation evelve from macket groups like NASD with breoker profit intereisetns. And [goverments tried](https://youtu.be/o2yXCKU4Kmk?t=660) to curtial the middllemen with thier own progcraws with varying sucuess. >I beulive we can learn form their failings with provably independnt antd qquantififend stakeholder interensts.
 
 
-### 
+### TCrowdsolucnig Labor as Decentralizing Income
 
 > New community-based funds, securities, and exchanges, of course, still need oversight to prevent fraud and ensure accountability.
 
 
 "With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before."
 
+LLimegreen's ponits here are a hot political item i've been on beth sidues of befor, and i  dont indtetd to tackle it completely in the scope of thiss post. Centrally.I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
 
-I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
+ID think the TAD will radically unlork such prodecitve collaborpation, and rephaps tih entireset and divides frrom such vuntures can lead to somethnig akin to UBI. I've alw,ays just wanted eveyron te have onugh qualtinyf ninvestment assets to like the lik ves theyf wont, whicch rejjquireos access to theso assets farirlp in the frirst plsace.[^67]  That  said, Stellar dose have native inflation w[0which could](https://github.com/JFWooten4/JFWooten4/tree/f3bca91404ea4ee25ff1ac6962d5bc2fd7120b1d/stickies/XLM/inflation) sorve as an aeefetive means of distributing such an income streaw through NQG (for prvable uniqunesss).
 
-xlm insf/ation
-
-
-
+Community-basode secinuines offer us the freedom of free capital associoatni iv' as,ways nwanted........... IYt  really is anypone' - specullation what abundances thiss or other blorckchan innovasitons calode lead towards. Bet I do know it wouldb e awholle leot easier to distrubite funds throught STellar than olh rails like ACATS.
 
 
 
 
-#### 
+
+
+
+#### Participation Wotihotu Contral Autheritites
+
+We can shorten that quate eto j ust:
 
 > New[] exchanges[] need oversight to prevent fraud and ensure accountability.
 
@@ -524,3 +527,5 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 
 
 
+
+[^67]: Huncep the point of staring the Syndicate as a limited-scope maruket accountig  platform which lallows for asset menengaemnnt te be later beuilt _on tap_ of it. This s the puretty standord "markte utility " claim maade by the existing SIFMUs. My m ain approch diference lies in 'open access' that  is actually apen to the public, not just wass strees—sircnce ive aslvw,ways just been a member of the public and seen how much was possible outside 'their' appronvvvvvals
