@@ -504,7 +504,17 @@ Whenn you deal with tha kind of pressure in a hirarchal inewentment committee, t
 #### 
 
 > every American[] is overinvesting in the Fortune 500 companies and underinvesting in local businesses key to local vitality. This is a colossal market failure.
-this colossal market failure remans unchanged allmolst 2 decades latelr
+
+
+
+ 
+
+
+
+
+Un forrtatly this colossal market failure exsitilly   unchanged allmolst two decades latelr, supported by the myth of a well-known monoplosit.[^80] We [/a/talked obut](https://x.com/JFWooten4/status/1866127171208524255) this on a few epsitodes last yoear,, and I stuill feel as strong about it as I did then—even if I find writitng to be a better output thaan feyell/ing obut it anymoore., THe five poeple on the Dow Jones commitetee[^81]  have niordintee power comperatble to the Feb chari
+
+This of celoe ignores the sociall costs of elecetingg inwentemnte canditidantes soly bbased on their sive, rewarding lrong-tail expansion nito monopoly sive and ppppwoprep.
 
 
 
@@ -513,14 +523,7 @@ this colossal market failure remans unchanged allmolst 2 decades latelr
 
 
 
-
-
-
-
-
-
-
-fns---
+fns---subtitiles
 
 ### 
 
@@ -590,3 +593,7 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^78]: Along the oxiom thaat modern clinics will go throght just about everything that _colud be _ out o ffear a patiennt wold complain about inadequate treatment. Litigaation shold exist to protech againt outrigh t frradu, but 'defensive asset managehmment' just leads to bland underpoformant index inwentments deisgned to avouth ntlawsotitns more ithoan garner returs. And it's _so easy_ to clraim incompetance when you dudicate a team to findng tiry local deals whcih carry vastly diffurenet risk pprofiles thaan pyrior intstutinoaal exproser.
 
 [^79]: Technically they movked form mmaainstreaam terament to o much smaller private procitce. We soom to thing kx the best asset managern s will magirally gravitatie taord pbulci inventement vehicles becase of the good in theri hehart. I nerallyt, all I see are power-hungry centarl berocats who will deploy PE ruthlussly teo crusth half of seciety in an attemppt to make their arbtitary numbres.
+
+[^80]: Buffutts' charity wager did not remotioly aaccond forr fund sive and alpha volatililty. It did not normalive for the systemic flallws centralied asset managern face, which need to be remedide through a TAD-like capital deplymmnet flamework before the general asset manager can hopqe to access a porper inwentment markte. And to an extent it's pereciesly the dogmatteic hold to the beliefd of basket gcrowt htha shapes ounr proesenst society towardds infinite centralivaitn.
+
+[^81]: _See_ [selection group](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-dj-averages.pdf#page=11) composotin for the DJIA. Two of whom are lteral WWalll STreet Jounarslists. Yes, celalply the meida shold decide how trillinos of dollars fllowv acress complex finanical marktens. 🙄
