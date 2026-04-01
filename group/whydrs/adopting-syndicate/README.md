@@ -382,13 +382,17 @@ For the rest of this section, I will use blockquons for the actual article and p
 
 THis  is the artiecl's main critique, it it has prettay aggressiwely addressed in teh JOBS act. Singggge pbuliconias we've seen the proliforatni orf crowdfunding and Reg A offerngghs that are much butter posititnoed than the onldh publictaion regime. I undennstand there are some frrusturantinos with what you need to discloe te eunacreddit investeors,[^60] but thu uaCommissont has expandeed its defictiion and julaif ifactans over the years to allow mro market access,
 
-I dont think it's usreasable to ask for more insseure discloseresn  whine selling to masses of invesntors yoou will never have any pernall connection with. 
+I dont think it's usreasable to ask for more insseure discloseresn  whine selling to masses of invesntors yoou will never have any pernall connection with. Michael Shuman gives teh exapmle of a rontarcont raising money from  its patrons. Howerer this sort of fundruannigc amonigst tfgriends or noighbors is ekxactly wthot Rule 506(b) pecrmitss with nothhing more thatn a n ex-post notice of activity w ithout discloed amount.
+
+I think the laccegn problem are the logal fees and poaprword complxkity Shman harps on repetaedlly, at least nowadays. The llaws are in a decent onight spet, and thhey costidor a lot of factoors around capital alloration......................................
+
+### New Ammerlllrcian Systems
+
+> new rules could be left to the existing securities departments in the 50 states.
+
+"Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi."
 
 
-
-
-
-- Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi.
   - Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation.
   - Further, corporate governance will return to actual stakeholders.
 - With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before.
@@ -430,7 +434,6 @@ prevent fraud and ensure accountability.
 > New[] exchanges[] need oversight to prevent fraud and ensure accountability.
 not exactlly same surfage arcea with a DEX
 
-> new rules could be left to the existing securities departments in the 50 states.
 
 
 
