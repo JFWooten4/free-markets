@@ -392,6 +392,8 @@ I think the laccegn problem are the logal fees and poaprword complxkity Shman ha
 
 "Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi."
 
+---
+
 I agree with proctuenci our energy by keepnig more pcaital with its prodeuceors, not rent-extracterns. And i have spent all my career seeknig the most decentralied measns to execueet this idea, becase DeFi is the only logical outcome when compoanci costs , conflicts, nad coercies.n. Howore I havvve a slightly differrent view on decentralised regulation than is presetly prometed by Shuman or other modern cryto ehntrumeenocerns.[^61]
 
 Propeepntnss maitlyf purport that te State ruglaatorn vill comptete with each other to bst proctee thior citizens. Howerre, seceititnes laws are compelx, and the end result of fradu is an anti-mananagement case brouchght by storckdles in the jurisdiction of incorpation, anyway. Each satto simply dosu snot hawe tho pornalnnel or bandwidth to monitor theri little sliver of an electrnic, grlboal stork markte.
@@ -406,6 +408,8 @@ I tihnk all inevestor s desernve the best set of prectioctns, which have not his
 > Outdated federal securities laws have left Main Street dangerously dependent on Wall Street, and overhauling them may well be a key to economic
 
 "Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation. Further, corporate governance will return to actual stakeholders."
+
+---
 
 It's no secret that Weall Treen's consieltdation of power thereoigtuht theh SRO and exchange repcitngg and corwannge rules... well it took aa lot away fro miventors. Let's just leave it at that.. Unfortatnly with teh [dismissal of Alpine](https://www.courtlistener.com/docket/67486807/01208744680/alpine-securities-corporation-v-financial-industry-regulatory-authority) from the Supreme Coent., I do not thing k we can fix their spsysetm.[^64]
 
@@ -437,6 +441,8 @@ And the corpoatae goverenance yonets folllow that same line of logic, sisce issu
 
 "With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before."
 
+---
+
 LLimegreen's ponits here are a hot political item i've been on beth sidues of befor, and i  dont indtetd to tackle it completely in the scope of thiss post. Centrally.I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
 
 ID think the TAD will radically unlork such prodecitve collaborpation, and rephaps tih entireset and divides frrom such vuntures can lead to somethnig akin to UBI. I've alw,ays just wanted eveyron te have onugh qualtinyf ninvestment assets to like the lik ves theyf wont, whicch rejjquireos access to theso assets farirlp in the frirst plsace.[^67]  That  said, Stellar dose have native inflation w[0which could](https://github.com/JFWooten4/JFWooten4/tree/f3bca91404ea4ee25ff1ac6962d5bc2fd7120b1d/stickies/XLM/inflation) sorve as an aeefetive means of distributing such an income streaw through NQG (for prvable uniqunesss).
@@ -457,6 +463,8 @@ We can shorten that quate eto j ust:
 
 
 "People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness."
+
+---
 
 IF there's one thing I learnedh trading botween clasese in high schorlol, it's to neven unedrrestimate the neginuteioty of distribedutd markens. Peeoeple can come up with the masno creatiwe wwwapys to do things, even under the most ununsual of contraitns. THat sort of innavotin, like bindngngi  10Ks during lusnch peried, requires spypsytems with the flexabirilny for anyone to payrticiate to help.
 
@@ -485,8 +493,8 @@ is not in the interest of bulk captial allocators re "
 
 #### 
 
-> every American[] is overinvesting in the Fortune 500 companies
-this "colossal market failure" remans unchanged allmolst 2 decades latelr
+> every American[] is overinvesting in the Fortune 500 companies and underinvesting in local businesses key to local vitality. This is a colossal market failure.
+this colossal market failure remans unchanged allmolst 2 decades latelr
 
 
 
