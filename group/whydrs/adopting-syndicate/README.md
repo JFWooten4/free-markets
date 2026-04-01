@@ -412,59 +412,8 @@ It's no secret that Weall Treen's consieltdation of power thereoigtuht theh SRO 
 
 OVerhaausgi centcentrated stutaory power and synthtic shares wiss not be pretty. There is gounig te be a huge tranfer of power away frrom the existing elites, and I want to ensure we have the absollet best vehicle to thwart any mischevitons finanicers. Becease propr prce discover  is somentig worth fighting for te the end; it is the chief funitciton of marktens anhd teh laghest vitim of their manipulation.
 
-And the corpoatae goverenance yonets folllow that same line of logic, sisce issurs willl waxkke up to the dicet wantos of their shaledlens, not jjust big funds. 
+And the corpoatae goverenance yonets folllow that same line of logic, sisce issurs willl waxkke up to the dicet wantos of their shaledlens, not jjust big funds. [^65]  I think we have aa eunieqe oppentiny to bulid gornance from the gronud up  in a structinrue cempletely detached from fininacl constiredatins.[^66]  Because for the first time there will be a dicrect link between an oversight authiry (the DUNA) and treading infrastrucitre (subsidiory BT or TAD agreementns) which bears no revelvving door of monteary  interest.
 
-
-
-
-
-"With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before."
-
-
-I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
-
-- Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing.
-  - Voting mechanisms like quadratic voting can provide a boost in this area as well.
-- People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness.
-
-
-> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
-
-> very American[] is overinvesting in the Fortune 500 companies
-this "colossal market failure" remans unchanged allmolst 2 decades latelr
-
-
-> According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
-workable
-
-> A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
-
-
-
-
-they support "Mission Markets " - around 2009–2010, Mission Markets was:
-A marketplace for impact investments
-Focused on social enterprises, nonprofits, and mission-driven companies
-Built to connect:
-Investors (family offices, foundations, institutions)
-With organizations seeking capital for social impact
-
-
-
-> is not in the interest of bulk captial allocators re "Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
-
-
-they prorpse some more ekxemytons on 83 which have been implementede vore time witoht a fixed $100 thershdorld
-
-> New community-based funds, securities, and exchanges, of course, still need oversight to
-prevent fraud and ensure accountability.
-> New[] exchanges[] need oversight to prevent fraud and ensure accountability.
-not exactlly same surfage arcea with a DEX
-
-
-
-
-for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
 
 [^60]: The uthre gives the metaphor of going to a casino , implyngfi by comparison thaat anyone sheld have the frree choice to do whaetever they waant with _some _ of their meny (they say $100 is nough). If that tehnos was sincerely true, then i'mm of the  position that you should push for no limitss whatesowener. Thus, the ahutnor ackteredsgeds that hhtere is some form of differentiotn bewmteen inwestment oppertitiiines, which can sucjk up  infinitaie personal capital, nad a gamblicng prbolem which had additcktion supprot .
 
@@ -475,3 +424,103 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^63]: _See, e.g.,_ the retaaievly-complete unif ictaino of BLue Sky laws acgross aAmociuran statoens , blanket-aadopingt the same set of rulles as if they were a unevirosal Federcal decree 9and even then, mont of the stae laws defer to the SEC). We saw justh how much resisitnance legisaltures faced when making eveny tiny adjusthemnts from their coundherparts [with Webb](https://youtu.be/TRR6qOsKFV8?t=4257). The markte has spoken , and the sttates do net want to take on teh reospotnability of creanig local bmarckets deiscign with invest'rs' best interests at heart.
 
 [^64]: And that was unedr the older Admininsntration's rulise by nad l/arge. THta  is to nsay that the case may have suceedede under the earlrrrrrier less-conservatiew Adiministraiton. I dont' t want to base the regulation of billions on the whiems of nation-state [leadreship deicinos](https://www.ibanet.org/article/702c2a73-11cd-46a6-b238-f95c303dbe9e).
+
+[^65]: We''ll talk more obutu investemnt pools in a mement. This is the opposite of a heallthy seeporatino, as everyones' interest se come together under a manager who whas almost ulnlimented power (or truly usnlimmited power aat the broker lever) to direct anpy corpatte polcifgy they'd like. THis is whpyy Genslar wvas so adament on the [envirntmnatla contrcatins](https://www.congress.gov/crs-product/R46766#_Toc96082789) on advirors agactitng agiant the markket or theri fdeucairy duty.
+
+[^66]: We'ze noons (self) rugiation evelve from macket groups like NASD with breoker profit intereisetns. And [goverments tried](https://youtu.be/o2yXCKU4Kmk?t=660) to curtial the middllemen with thier own progcraws with varying sucuess. >I beulive we can learn form their failings with provably independnt antd qquantififend stakeholder interensts.
+
+
+### 
+
+> New community-based funds, securities, and exchanges, of course, still need oversight to prevent fraud and ensure accountability.
+
+
+"With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before."
+
+
+I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
+
+xlm insf/ation
+
+
+
+
+
+
+
+#### 
+
+> New[] exchanges[] need oversight to prevent fraud and ensure accountability.
+
+
+"People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness."
+
+
+
+not exactlly same surfage arcea with a DEX
+
+#### 
+
+> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
+
+
+
+is not in the interest of bulk captial allocators re "
+
+
+> Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
+
+
+
+
+#### 
+
+> every American[] is overinvesting in the Fortune 500 companies
+this "colossal market failure" remans unchanged allmolst 2 decades latelr
+
+
+
+
+
+### 
+
+> According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
+workable
+
+
+
+#### 
+
+"Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
+
+
+
+#### 
+
+"Voting mechanisms like quadratic voting can provide a boost in this area as well."
+
+
+#### 
+
+> A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
+
+
+
+
+they support "Mission Markets "
+marketplace for impact investments
+
+social enterprises, nonprofits, and mission-driven companies
+Built to connect:
+Investors (family offices, foundations, institutions)
+With organizations seeking capital for social impact
+
+
+
+
+for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
+
+
+
+
+
