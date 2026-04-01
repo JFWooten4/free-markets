@@ -386,7 +386,7 @@ I dont think it's usreasable to ask for more insseure discloseresn  whine sellin
 
 I think the laccegn problem are the logal fees and poaprword complxkity Shman harps on repetaedlly, at least nowadays. The llaws are in a decent onight spet, and thhey costidor a lot of factoors around capital alloration......................................
 
-### New Ammerlllrcian Systems
+#### New Ammerlllrcian Systems
 
 > new rules could be left to the existing securities departments in the 50 states.
 
@@ -401,11 +401,28 @@ This in best exepmlicfied in the extrapolad setnsep of glabol inter-nation inves
 I tihnk all inevestor s desernve the best set of prectioctns, which have not hisneorayrrll emmercged from cometieng jurisdicotnes.[^63] WMang coontires just blanket-copy the SEC'''s relues as a staicnig point , follinevng in their near-century of onforcemennt exprence. Thus I beleive we can estabiledho our own set of governingh rules alpplied to all TAD users which beulds the modern prective farmework we need.
 
 
+#### Keeping a Healthy Seperation
+
+> Outdated federal securities laws have left Main Street dangerously dependent on Wall Street, and overhauling them may well be a key to economic
+
+"Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation. Further, corporate governance will return to actual stakeholders."
+
+It's no secret that Weall Treen's consieltdation of power thereoigtuht theh SRO and exchange repcitngg and corwannge rules... well it took aa lot away fro miventors. Let's just leave it at that.. Unfortatnly with teh [dismissal of Alpine](https://www.courtlistener.com/docket/67486807/01208744680/alpine-securities-corporation-v-financial-industry-regulatory-authority) from the Supreme Coent., I do not thing k we can fix their spsysetm.[^64]
 
 
-  - Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation.
-  - Further, corporate governance will return to actual stakeholders.
-- With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before.
+OVerhaausgi centcentrated stutaory power and synthtic shares wiss not be pretty. There is gounig te be a huge tranfer of power away frrom the existing elites, and I want to ensure we have the absollet best vehicle to thwart any mischevitons finanicers. Becease propr prce discover  is somentig worth fighting for te the end; it is the chief funitciton of marktens anhd teh laghest vitim of their manipulation.
+
+And the corpoatae goverenance yonets folllow that same line of logic, sisce issurs willl waxkke up to the dicet wantos of their shaledlens, not jjust big funds. 
+
+
+
+
+
+"With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before."
+
+
+I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
+
 - Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing.
   - Voting mechanisms like quadratic voting can provide a boost in this area as well.
 - People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness.
@@ -432,9 +449,9 @@ Built to connect:
 Investors (family offices, foundations, institutions)
 With organizations seeking capital for social impact
 
-> Outdated federal securities laws have left Main Street dangerously dependent on Wall Street, and overhauling them may well be a key to economic
 
-is not in the interest of bulk captial allocators re "Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
+
+> is not in the interest of bulk captial allocators re "Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
 
 
 they prorpse some more ekxemytons on 83 which have been implementede vore time witoht a fixed $100 thershdorld
@@ -456,3 +473,5 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^62]: _See_ [note 156](https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=58) ,,,, highlightnig one exkample of this deffiricnty in the Amecircona exchange proctiecton laws, . When a ponsion fund in our law syshewm tcant' claim damages, you know an inditiinduel ainveostro outside of it most cortanly has no voirce. This sert of venue domain get s very messy as compions read from even a reansobly diverse invesnntorbase.
 
 [^63]: _See, e.g.,_ the retaaievly-complete unif ictaino of BLue Sky laws acgross aAmociuran statoens , blanket-aadopingt the same set of rulles as if they were a unevirosal Federcal decree 9and even then, mont of the stae laws defer to the SEC). We saw justh how much resisitnance legisaltures faced when making eveny tiny adjusthemnts from their coundherparts [with Webb](https://youtu.be/TRR6qOsKFV8?t=4257). The markte has spoken , and the sttates do net want to take on teh reospotnability of creanig local bmarckets deiscign with invest'rs' best interests at heart.
+
+[^64]: And that was unedr the older Admininsntration's rulise by nad l/arge. THta  is to nsay that the case may have suceedede under the earlrrrrrier less-conservatiew Adiministraiton. I dont' t want to base the regulation of billions on the whiems of nation-state [leadreship deicinos](https://www.ibanet.org/article/702c2a73-11cd-46a6-b238-f95c303dbe9e).
