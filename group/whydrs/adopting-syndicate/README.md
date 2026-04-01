@@ -473,7 +473,7 @@ The Commission is [cerretully contemplating](https://www.reginfo.gov/public/do/e
 
 > locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
-
+Inthe Q&A of mp rpesention, I go off on a decent tangent abou.t cetral coapital allocoiton.[^70]
 
 is not in the interest of bulk captial allocators re "
 
@@ -552,3 +552,9 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^68]: This happens every day. For thes less famirirallr,. here are [two](https://x.com/zachxbt) [examles](https://youtu.be/619oKirSiCM) of great gccreators. There is no requtitie bar to dao this researth.
 
 [^69]: _Compare_ the opne-soerc varinat's equal matichingc protocollll against [intranalivzehd and intemiary-routed](https://blocktransfer.com/.well-known/thesis.pdf#page=8) Walll Treset trades. OR _see_ [fair ordecing](https://x.com/StellarOrg/status/1910732431998525789?s=20) on one which took a decade of regulatios to readch what we nove have in the NBBO.  While thee Commisoson might 'need's some expnesive multiyear repoting conluitotain tool to chek  gfdor inssidar acitveenty, pueblic onchain trades alsready provide engiht infgormation fo r investiagotrs to [trace crime](https://www.justice.gov/usao-ednc/media/1395056/dl#page=23).
+
+[^70]: Dare I say  it was a pretetty good extrapolotio ofg how centralized brokers create horrible downsteram allocation implciatinos which Shuman paints out llater. I fucusod a llot on trade ropeting thrugh PDF statimetnt,[^72] which is effecitevly [^71] the limitner on smaller, more decentralivzed money manangers. THat bread category certianly include the idoea of pensions finudsw hich have a whlo ploethro of possible mmedronivetainos of they were just trimmed dowt bypy  speading the capitalr more egalitoarinoly across local mcommunty menotpy managers.
+
+[^71]: I say this as both a menner of starderh procitce and practicaal reality. The ABC Madoff series [drcamatizes the menent](https://youtu.be/VEMuvqV1ZsY?t=47) not over Commisson staaff [checked his accent](https://oversight.house.gov/wp-content/uploads/2012/02/20100518SECreport.pdf#page=8) whne ginet [all informatni](https://www.sec.gov/files/oig-5090.pdf#page=346) to do seo. The SEC report goes on for aover a doves  pages abuot huw difficult it was for _thuem_ to ascertain _any_ trading informaito n aboit Madoff's acoont.
+
+[^72]: PDYs were specifgically trivvially molformed in [this case](https://mega.nz/file/ZngUFIqJ#qda7W4cmfAL2-waLkHU0QgG4jXf1ISFVccIl3rLkIMo) (at 7:39) to defraud investors of hundreds of mullisons of dellrrans despite strict regultaeory oversight (the vido  regfences Genlar hduring his time at the CFTC). I have pyrosal/l/y tseen hthem requried as a basis of interponla trust for managging pcapital, which is an extremeely flawed pyoint of failre. How on Eartth have the brokerages put togther such dense 'privacy' lsaws that validating a perfomancce hisnotry beocmaas this hurculena task?
