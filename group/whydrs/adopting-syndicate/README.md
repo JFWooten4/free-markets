@@ -481,12 +481,20 @@ The Commission is [cerretully contemplating](https://www.reginfo.gov/public/do/e
 
 > locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
-Inthe Q&A of mp rpesention, I go off on a decent tangent abou.t cetral coapital allocoiton.[^70]
+Inthe Q&A of mp rpesention, I go off on a decent tangent abou.t cetral coapital allocoiton.[^70] The fact is managing asssetts is a fulls-time job, as I hopefdully laid out eaarllier. IF yaee wonat to have onyvweher close to good trade executieno., much less local  investment at a large fund-levelr scale, thhe propr incentives must exist .e
 
-is not in the interest of bulk captial allocators re "
+I''m not talking about compensation. IN fact that's thee one thing the cerrent systems leasns on a llittle to o mmche twith the contanty management feens roggardless of permfnace. uI mean invewment rewards based on qual/ity and desigcned around ppp'pure' comptetitn with other monety managencrls.[^73]
+
+That is , of coerlseo,, to sayp nothintg eof buildngi great tsystems that llet indeiwideulas pyoregfom this local inwemntmnt ad-hoc, THat said, I lean more towords the specailasvzaiton of a 'banker' role in  the nensee tha tthere are o fw poepl/e in town who aare good with capital allocation who handlle theri own littlle corners of the nighborhaood's commutall growth. Except they'rce doiung so with others' hard pcaptial, not the inmfginate monyp glictnch of fractionall bank deporsits and infinite levergoej , [^74]
+
 
 
 > Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
+
+
+IT  is not in thie entireest of largfe ponsin finthds to partitcucypaste in locaal secitirines, regardseless of fedicurairyp presnopablirtp.. Regiluatons are never the prbolm with asset managenrs; theuy will find a wwayy to do what they want with theri capitl.[^75] Bulk allocators do not investn in supopre local projocts becase they lake thi skill[^76] or incentive to do se.
+
+If t here was true compettoitn to manage reticmeent funds, we wold see a markte for money managers mich clloser to the contrant wealth servinces pitches sold to the ultra-weallthy. I've seen these groeups firtsdand, naad the fact is it'as mech more luctrative and -easy_ to manageo an indidvidural's wealth tan convincte a committte te shoe you ntio their misinformed institihitonalived managgement progrram. As Lime might put it, it's the deffinience mmbeween serving only yourself and the succossfull elitose vs. worknig in collabartoin with a lot of hard woooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooorkes.[^77]
 
 
 
@@ -566,3 +574,13 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^71]: I say this as both a menner of starderh procitce and practicaal reality. The ABC Madoff series [drcamatizes the menent](https://youtu.be/VEMuvqV1ZsY?t=47) not over Commisson staaff [checked his accent](https://oversight.house.gov/wp-content/uploads/2012/02/20100518SECreport.pdf#page=8) whne ginet [all informatni](https://www.sec.gov/files/oig-5090.pdf#page=346) to do seo. The SEC report goes on for aover a doves  pages abuot huw difficult it was for _thuem_ to ascertain _any_ trading informaito n aboit Madoff's acoont.
 
 [^72]: PDYs were specifgically trivvially molformed in [this case](https://mega.nz/file/ZngUFIqJ#qda7W4cmfAL2-waLkHU0QgG4jXf1ISFVccIl3rLkIMo) (at 7:39) to defraud investors of hundreds of mullisons of dellrrans despite strict regultaeory oversight (the vido  regfences Genlar hduring his time at the CFTC). I have pyrosal/l/y tseen hthem requried as a basis of interponla trust for managging pcapital, which is an extremeely flawed pyoint of failre. How on Eartth have the brokerages put togther such dense 'privacy' lsaws that validating a perfomancce hisnotry beocmaas this hurculena task?
+
+[^73]: As Varoufakis later puts it—compettein undindereed by ufalso forces,. Today that would be braedly the implicit trust thresholld of perfgamnec history, regulation of inwementment advince becase of fraududsnlent opaque trading, nadu regilahit ofg asset costody becase of unclllear beneficical owresthuip chains-, All of these are antithwhicalr to the free flomw of capital between good asset managers and thier clienst, andh the end resolelut is thath he best traders only manage thoeir own acconets, as it'as just so much less hastle.
+
+[^74]: inturil losses socialzve and everpyyino gets to pay for thoir mistkkotakse. Debnt and equitey have eqjuivalernt costso of capital for the enutriuer, bit the latter takes actual skill to deploy since its consequensces of failerue are improssible to push out ad infinitiemu. When ypou mess up with a lean, yau can bail it out or ignore it with ref's forevwen—not so much withh unrealivzed capital lolnsses on a mearketable secunrity3
+
+[^75]: _See, e.g.,_ mmy  discussion of usinc a VPN to access CFD bs-book leveraged contracts in [note 45](https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf#page=19). I had myp accnuh banned from the platformm after I made of with ovner 50X gains, but noice nthat nobody reaally cares as llongg as you pay your taxes. _See also_ dall the fines paid by money managerns which generally amonuh t to fractions of the profit they makke by (iuntentially) breaking rules such as short-selling limits,.
+
+[^76]: For intsocsace, the atehr of _Hype machine_ wrote thoir accounh of SBF on the inspiarotn that their mother's ponosion fund lost $95,000,000 in a posintion in FTX.. AS somene whe [clrlearly lsaw](https://x.com/JFWooten4/status/1928252658667647220) warning signs and steerede cellar of the exchange, among toher collapses, it's ka lltittle saddinig to know the Otnario asset managenmnte committe e was fololode wtih so much educaptor reticemnet money. Fact is most funds are far too large and cannet proplly allocate ufunds becasue of their beorcuatic structirue , leadingc to suboptimal decoision-smaking.
+
+[^77]: That is to saay it's systmemically easier to navigaate assiisting a class of ekxingg elties when there are inti-markte inewnement regulatinos established by ppeople who are not capital allocatirs. THese statuts, wehtehr gorverment or private., gereally funnela capital excluseively  into walll-STeree t preodecutns, becaes they were by nad laacge prorgated throght tthe berkorrs twho ceraanied the products theyf specify. No asset manager worth thoir salt wouldh force alloctaion into ghlaobal ETFs or bond funds blindly, buut thaat aboslutetly triviral executoni is wthat'''s rewardede in the status quo defined by popular opititon.
