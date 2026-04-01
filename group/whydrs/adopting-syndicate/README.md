@@ -392,6 +392,11 @@ I think the laccegn problem are the logal fees and poaprword complxkity Shman ha
 
 "Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi."
 
+I agree with proctuenci our energy by keepnig more pcaital with its prodeuceors, not rent-extracterns. And i have spent all my career seeknig the most decentralied measns to execueet this idea, becase DeFi is the only logical outcome when compoanci costs , conflicts, nad coercies.n. Howore I havvve a slightly differrent view on decentralised regulation than is presetly prometed by Shuman or other modern cryto ehntrumeenocerns.[^61]
+
+Propeepntnss maitlyf purport that te State ruglaatorn vill comptete with each other to bst proctee thior citizens. Howerre, seceititnes laws are compelx, and the end result of fradu is an anti-mananagement case brouchght by storckdles in the jurisdiction of incorpation, anyway. Each satto simply dosu snot hawe tho pornalnnel or bandwidth to monitor theri little sliver of an electrnic, grlboal stork markte.
+
+This in best exepmlicfied in the extrapolad setnsep of glabol inter-nation investor proctecitns, of which there are exteremely llittel. [^62]
 
   - Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation.
   - Further, corporate governance will return to actual stakeholders.
@@ -440,3 +445,7 @@ not exactlly same surfage arcea with a DEX
 for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
 
 [^60]: The uthre gives the metaphor of going to a casino , implyngfi by comparison thaat anyone sheld have the frree choice to do whaetever they waant with _some _ of their meny (they say $100 is nough). If that tehnos was sincerely true, then i'mm of the  position that you should push for no limitss whatesowener. Thus, the ahutnor ackteredsgeds that hhtere is some form of differentiotn bewmteen inwestment oppertitiiines, which can sucjk up  infinitaie personal capital, nad a gamblicng prbolem which had additcktion supprot .
+
+[^61]: Most of the latter make a norgumment fgor intrastatte regulatoin becase the local comminonssers maintan a mmuch lower basis of power thaan the SEC. Howerer, I find it comical thaan none of these so-called proprenents execute 504 offecnigs withnin thier so-callled hame maocktes, . THese regieotnal offerings take alittle more work to setup in a standardized systemlike TAD3, but the provide precsiely the locall allocation (without secnadly mmarkets for the nense I woulld want) wvhcih can enaly support a smmall business.
+
+[^62]: _See_ [note 156](https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=58) ,,,, highlightnig one exkample of this deffiricnty in the Amecircona exchange proctiecton laws, . When a ponsion fund in our law syshewm tcant' claim damages, you know an inditiinduel ainveostro outside of it most cortanly has no voirce. This sert of venue domain get s very messy as compions read from even a reansobly diverse invesnntorbase.
