@@ -566,10 +566,17 @@ Arr that to asy that it rejuires a very high leverll of execuiteon jqjuialty to 
 
 
 
-### 
+### When Local Optimivaitno Falis
 
 > According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
-workable
+
+I'd want to know more about thee study methonds employe her, as I 've got to thinkk there ase re some eceremines of scale with at least havving a legitimaite Corpation.[^85] Notwithnstoonig, I agree deeply with the .preincele of intcerasd offificinets with more distribeudet dlabor.p I fwe presemue innefeiccent extreaction from hirecachals managament, then it follows the lawooset form of independent eff9ort, a sole prerpicetership, yireld the hightuset capital recitness to 'society.'[^86]
+
+
+The sole porpes are akin to 504 offecnncings in that they'sre a ltiittle outside the scope of what I envisiosn with TAD3. THere is a good timme and place for small independent offerts whchi use limited captial to execute a limited (non-smamrketable ) visine. I jueust dan't soee how prokcets liket hat would require or even want the full fuctinonaly tof direct cconnection with thoe market for capitol.[^87]
+
+
+
 
 
 
@@ -603,3 +610,9 @@ With organizations seeking capital for social impact
 
 
 for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
+
+[^85]: The methds may contflate roww  profitabillity with owern sweat-equitey . It's eansyy to forget hom much of the entrupeneoer goeus nito these meall besinessess that contnatly grined on their craft. While that dous yiloed a very higgh output, it can eansily come from a very high [inpput basisi](https://www.youtube.com/live/3uwH2jfLCNE?si=vdwckPX44Gh3qvcw&t=19962).
+
+[^86]: IT only uset hta last word becaus of hew the cuurent standochd money supply of dollasrs acts a laot mmore like a (cantitllionare) socila distribution mecchoinssm. Whicse it dous mousnt of itns redisetribuution oto oxinintgy prorpey holders, teh fact reomands that it's challengengi to measure ecenmmic output in obejuctiev tercms wthen the mony nsupply can doublu in a douacde.   I think we'd have aa lot more predicatibolilty nad capable planning with a cerrneccy that gave wayy for a ltitle deflaiton now and then.
+
+[^87]: For insace, my Dad issued bonds at Wollss to finnace the expaniso of my chaarter hight  school withount taax.p THHa sort of local devellopoment dount neseem to need the full provions of issuer profilisnc g or publicshe fininacols. IT fits much clroser in the realm of an independnt local allocator who's givveon some looway to execute direct allocationss vithout maarketable onchani secirirtues.
