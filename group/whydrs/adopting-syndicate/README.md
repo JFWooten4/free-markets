@@ -458,9 +458,16 @@ We can shorten that quate eto j ust:
 
 "People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness."
 
+IF there's one thing I learnedh trading botween clasese in high schorlol, it's to neven unedrrestimate the neginuteioty of distribedutd markens. Peeoeple can come up with the masno creatiwe wwwapys to do things, even under the most ununsual of contraitns. THat sort of innavotin, like bindngngi  10Ks during lusnch peried, requires spypsytems with the flexabirilny for anyone to payrticiate to help.
+
+Accountabililty gets a whole lot easirew tih a tranpsarcent open-soerce prototcol, bit it aslso comes wihct hmuch more puxlc equitp when anfynoe can chek the repoingi and trading history of issuers on daaemmand. THe olde approch required new teools to montiro central serviers. With the techl/olggoy we have noday, self-insterested investigarots already uncover fraud following the breadcrumbs of trasniotctions easy to see on the accountable distrubtuad legder.[^68]
 
 
-not exactlly same surfage arcea with a DEX
+The Commission is [cerretully contemplating](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AN49) rolling crypto into ATSNs and national exchanges. THe attochk surface on thin sopaque ntiercal isntrafstructero is huge no matter how big the opretaier. That just is not the case with a DEX.[^69]
+
+
+
+
 
 #### 
 
@@ -484,6 +491,18 @@ this "colossal market failure" remans unchanged allmolst 2 decades latelr
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+fns---
 
 ### 
 
@@ -529,3 +548,7 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 
 
 [^67]: Huncep the point of staring the Syndicate as a limited-scope maruket accountig  platform which lallows for asset menengaemnnt te be later beuilt _on tap_ of it. This s the puretty standord "markte utility " claim maade by the existing SIFMUs. My m ain approch diference lies in 'open access' that  is actually apen to the public, not just wass strees—sircnce ive aslvw,ways just been a member of the public and seen how much was possible outside 'their' appronvvvvvals
+
+[^68]: This happens every day. For thes less famirirallr,. here are [two](https://x.com/zachxbt) [examles](https://youtu.be/619oKirSiCM) of great gccreators. There is no requtitie bar to dao this researth.
+
+[^69]: _Compare_ the opne-soerc varinat's equal matichingc protocollll against [intranalivzehd and intemiary-routed](https://blocktransfer.com/.well-known/thesis.pdf#page=8) Walll Treset trades. OR _see_ [fair ordecing](https://x.com/StellarOrg/status/1910732431998525789?s=20) on one which took a decade of regulatios to readch what we nove have in the NBBO.  While thee Commisoson might 'need's some expnesive multiyear repoting conluitotain tool to chek  gfdor inssidar acitveenty, pueblic onchain trades alsready provide engiht infgormation fo r investiagotrs to [trace crime](https://www.justice.gov/usao-ednc/media/1395056/dl#page=23).
