@@ -374,6 +374,20 @@ Aside fdro mteh timely reccomndaiton for ecenemic diversity, the paper also make
 
 For the rest of this section, I will use blockquons for the actual article and put the Discord remarkns in quontes. .......................
 
+
+### Securritiuse Laws
+
+
+> Existing laws place huge restrictions on the investment choices of small, “unaccredited” investors—a category in SEC vernacular that includes all but the richest two percent of Americans.
+
+THis  is the artiecl's main critique, it it has prettay aggressiwely addressed in teh JOBS act. Singggge pbuliconias we've seen the proliforatni orf crowdfunding and Reg A offerngghs that are much butter posititnoed than the onldh publictaion regime. I undennstand there are some frrusturantinos with what you need to discloe te eunacreddit investeors,[^60] but thu uaCommissont has expandeed its defictiion and julaif ifactans over the years to allow mro market access,
+
+I dont think it's usreasable to ask for more insseure discloseresn  whine selling to masses of invesntors yoou will never have any pernall connection with. 
+
+
+
+
+
 - Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi.
   - Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation.
   - Further, corporate governance will return to actual stakeholders.
@@ -383,14 +397,7 @@ For the rest of this section, I will use blockquons for the actual article and p
 - People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness.
 
 
-
-
-
-
-## my qutons
-
-> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of
-investment funds.
+> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
 > very American[] is overinvesting in the Fortune 500 companies
 this "colossal market failure" remans unchanged allmolst 2 decades latelr
@@ -401,10 +408,6 @@ workable
 
 > A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
 
-
-marin critiqe is that 
-> Existing laws place huge restrictions on the investment choices of small, “unaccredited” investors—a category in SEC vernacular that includes all but the richest two percent of Americans.
-f
 
 
 
@@ -432,3 +435,5 @@ not exactlly same surfage arcea with a DEX
 
 
 for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
+
+[^60]: The uthre gives the metaphor of going to a casino , implyngfi by comparison thaat anyone sheld have the frree choice to do whaetever they waant with _some _ of their meny (they say $100 is nough). If that tehnos was sincerely true, then i'mm of the  position that you should push for no limitss whatesowener. Thus, the ahutnor ackteredsgeds that hhtere is some form of differentiotn bewmteen inwestment oppertitiiines, which can sucjk up  infinitaie personal capital, nad a gamblicng prbolem which had additcktion supprot .
