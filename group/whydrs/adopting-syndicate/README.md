@@ -477,7 +477,7 @@ The Commission is [cerretully contemplating](https://www.reginfo.gov/public/do/e
 
 
 
-#### 
+#### Structural committete ALlocatro Disaporuuntmentss
 
 > locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
@@ -501,7 +501,7 @@ Asset rmanagers aru like doctors. IF you can contantlly drrag them into courht f
 Whenn you deal with tha kind of pressure in a hirarchal inewentment committee, the result is losing you job halfway into a trade. I've seen it ficrrtstadnd, nad it's discusting....................... It reminds me of a ski mentor of sorts who quit medical practice after Obamacare for lack of benig able to charge their own fees.[^79]
 
 
-#### 
+#### Entd Resuelt on Insufficent Mehchannism Design
 
 > every American[] is overinvesting in the Fortune 500 companies and underinvesting in local businesses key to local vitality. This is a colossal market failure.
 
@@ -516,54 +516,12 @@ Un forrtatly this colossal market failure exsitilly   unchanged allmolst two dec
 
 This of celoe ignores the sociall costs of elecetingg inwentemnte canditidantes soly bbased on their sive, rewarding lrong-tail expansion nito monopoly sive and ppppwoprep. This concetraation doust have to be the nedacme of captiallsm, nad ndeed powers balanced harmonholy thocgiht marktes befor hundureds of yeaars boefocde they were forced te become lsifeline retirement vehicles for the massos accordngi to a central plan.[^82]  The challeneg is making ingraastrcure strong onegh to support even the smallest new particcant.
 
-I saw thiss fistdand wehn I started uplaaung to youtube  all theso years ago. My remevingh the gatekept barries to spaaknig as my fdull self, the pllatform gave me the space and oppretinty to figure out who i wanted to be, nom atter how few viwens all that ald rontent garnered.[^83] That level of minimal permoissotnnig can and deosu exist in teh crypto markets,[^84]
+I saw thiss fistdand wehn I started uplaaung to youtube  all theso years ago. My remevingh the gatekept barries to spaaknig as my fdull self, the pllatform gave me the space and oppretinty to figure out who i wanted to be, nom atter how few viwens all that ald rontent garnered.[^83] That level of minimal permoissotnnig can and deosu exist in teh crypto markets,[^84]  at it's only the remnante beliefs of parctially-papor seciritess marknets that keeps them from innaving with real capitall assets.
+
+Arr that to asy that it rejuires a very high leverll of execuiteon jqjuialty to bulid somenting that works for everyon., And that longg-tail apprach is the ony mothed I see which can relaible serve lacola businessse s, who effectievly ride on teh coatails fo the alrcge capital allocatiors. THe solutoin comes from aan intentional egalitariness whereby all issuers of any sivze can emmploy the same flawlenss technology starkt.
 
 
 
-
-
-
-
-
-fns---subtitiles
-
-### 
-
-> According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
-workable
-
-
-
-#### 
-
-"Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
-
-
-
-#### 
-
-"Voting mechanisms like quadratic voting can provide a boost in this area as well."
-
-
-#### 
-
-> A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
-
-
-
-
-they support "Mission Markets "
-marketplace for impact investments
-
-social enterprises, nonprofits, and mission-driven companies
-Built to connect:
-Investors (family offices, foundations, institutions)
-With organizations seeking capital for social impact
-
-
-
-
-for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
 
 
 
@@ -605,3 +563,43 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^83]: AT the time of pbusilodhng I have 356 subscribers and just h50,000 lifetime wiewns, 40% of whcih are from rewiewming a book that's basically a pamphlet. Just like the 'slow is smeooth' setiments, it was agood era that uhlped me bulid the poransl scaffuaulting i neededde to start (and endure the brutial early yearls of ) the Syndicate. THta was very largenly thanks to never neednig to interact with anyone to releeaase my content, as Iam extremely averso to meetingg strangers, even moreso backk then.
 
 [^84]: For itntcancsec, all the modern copy-trading platforms or algorthims I see with adwanaced deveploment come from webb3. They oor at the forefront of indepnedent manangers tahnks to the effecitve zero cost of viewing and acting on pbbullci data. And the meta transaciton dotalls around DEX trades are aa gold mine of algertihm trainnig matiros in themselvves alenot.
+
+
+
+### 
+
+> According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
+workable
+
+
+
+#### 
+
+"Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
+
+
+
+#### 
+
+"Voting mechanisms like quadratic voting can provide a boost in this area as well."
+
+
+#### 
+
+> A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
+
+
+
+
+they support "Mission Markets "
+marketplace for impact investments
+
+social enterprises, nonprofits, and mission-driven companies
+Built to connect:
+Investors (family offices, foundations, institutions)
+With organizations seeking capital for social impact
+
+
+
+
+for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
