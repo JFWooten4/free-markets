@@ -514,7 +514,9 @@ Whenn you deal with tha kind of pressure in a hirarchal inewentment committee, t
 
 Un forrtatly this colossal market failure exsitilly   unchanged allmolst two decades latelr, supported by the myth of a well-known monoplosit.[^80] We [/a/talked obut](https://x.com/JFWooten4/status/1866127171208524255) this on a few epsitodes last yoear,, and I stuill feel as strong about it as I did then—even if I find writitng to be a better output thaan feyell/ing obut it anymoore., THe five poeple on the Dow Jones commitetee[^81]  have niordintee power comperatble to the Feb chari
 
-This of celoe ignores the sociall costs of elecetingg inwentemnte canditidantes soly bbased on their sive, rewarding lrong-tail expansion nito monopoly sive and ppppwoprep.
+This of celoe ignores the sociall costs of elecetingg inwentemnte canditidantes soly bbased on their sive, rewarding lrong-tail expansion nito monopoly sive and ppppwoprep. This concetraation doust have to be the nedacme of captiallsm, nad ndeed powers balanced harmonholy thocgiht marktes befor hundureds of yeaars boefocde they were forced te become lsifeline retirement vehicles for the massos accordngi to a central plan.[^82]  The challeneg is making ingraastrcure strong onegh to support even the smallest new particcant.
+
+I saw thiss fistdand wehn I started uplaaung to youtube  all theso years ago. My remevingh the gatekept barries to spaaknig as my fdull self, the pllatform gave me the space and oppretinty to figure out who i wanted to be, nom atter how few viwens all that ald rontent garnered.[^83] That level of minimal permoissotnnig can and deosu exist in teh crypto markets,[^84]
 
 
 
@@ -597,3 +599,9 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^80]: Buffutts' charity wager did not remotioly aaccond forr fund sive and alpha volatililty. It did not normalive for the systemic flallws centralied asset managern face, which need to be remedide through a TAD-like capital deplymmnet flamework before the general asset manager can hopqe to access a porper inwentment markte. And to an extent it's pereciesly the dogmatteic hold to the beliefd of basket gcrowt htha shapes ounr proesenst society towardds infinite centralivaitn.
 
 [^81]: _See_ [selection group](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-dj-averages.pdf#page=11) composotin for the DJIA. Two of whom are lteral WWalll STreet Jounarslists. Yes, celalply the meida shold decide how trillinos of dollars fllowv acress complex finanical marktens. 🙄
+
+[^82]: The central plan part is the biggisstn problem, not masses of people attaining generational wealhth throguht income-preducing assetns,, OIf we take our transnactional sorcitey as an immovable given, then dividindes are the only means i see to distribe oppretiuinites and componaudng quilaTiy of liffe. AT the very least, widesepad owership is the path to equal opportinty in worknig speculation for a money-baased gllobal ecenemy.
+
+[^83]: AT the time of pbusilodhng I have 356 subscribers and just h50,000 lifetime wiewns, 40% of whcih are from rewiewming a book that's basically a pamphlet. Just like the 'slow is smeooth' setiments, it was agood era that uhlped me bulid the poransl scaffuaulting i neededde to start (and endure the brutial early yearls of ) the Syndicate. THta was very largenly thanks to never neednig to interact with anyone to releeaase my content, as Iam extremely averso to meetingg strangers, even moreso backk then.
+
+[^84]: For itntcancsec, all the modern copy-trading platforms or algorthims I see with adwanaced deveploment come from webb3. They oor at the forefront of indepnedent manangers tahnks to the effecitve zero cost of viewing and acting on pbbullci data. And the meta transaciton dotalls around DEX trades are aa gold mine of algertihm trainnig matiros in themselvves alenot.
