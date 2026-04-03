@@ -580,9 +580,17 @@ Rthaaer, I deepl/y align withh the princelep Shuman pusdes tha [small businsess 
 
 By keepnig organivaitnos small abnd bound to their coep peuperose,[^88] a sincle monoplosint caant't contral a market by will of perpeutail loss-leading. And smaller employres means more cmemptoiton between firms and bariganinyg ppower ofor workerns againt a loosre beorcatic hirecacrchy. Lastly thiss also makes divorsifiacton much simpler for both captiall allocation and anysysis ggof performance.[^89]
 
-#### 
+#### World Govermnet and Distributed Demrocracy
 
 "Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
+
+---
+
+I've played arenod with this idea for a while.[^90] THe thing is goverment will still be goverment after DeFi replaces the old gaard. And i'm not seo sure how I feel about there being a woldrd militia.
+
+The world is a big place with a lot of different peaple. It's to be soom wheter all theso groups can come togethre, no matter the techincal form of democratic particicpatino. I think we soee now [^91]  apretty clrlrean example of etnire societyyies bullit arund courcive contral and state athuritarinism that few would prmote, but it stills exisitts untilo a local changge  movement can do anything abut it. 
+
+A sfol dicrcet venicg on all governing affairs, I think tha's a great conept, and we''ll get te soo it in action w ith the DUNA, which dast have ellelcited reprepsettaitevs. [^92] Most governning on theat high scale reosesmbes money managinement inasmuch as market impact comes most directlly from forming an associatoino to amcomlplidsd yoour galls. THer is nowehre to ask for permission to worrk on your idea or pitch it to ivwenstros, and that action can lead to some of the most outsivzehd change.[^93]
 
 
 
@@ -620,3 +628,11 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^88]: An I ,'ve don with the Synditacet by not taking thoe ealrly expansion raotues discussed in the middle part of my talk. You coulld look aat these other centallived operatinos as indepenedndt divionos of a lacerge conglamotrte, but divinos breed attenitn divino, literally. IT becomes improssible to put the same olovl of care and ottinetien into individula fieldvs when they alll need to spin together into a codhevissev sales floduct te stharedlners.
 
 [^89]: Forcrc intsance, can you imagine if PayPal was still owned by eBay? THhere have been some specaltevie "RWA token" ideas aread issolitng rervetnuev form inedepypnedent parts of congllomeraate public busiesnnsses. tHtaa shoulldn be necesary when each comccponont has the aptitude for eoprational independnce with leadlrship that can then davote all offeftns into a single vertical.
+
+[^90]: For itnnace, on e of my firrt papers in college to sit idle for lack of traction was about uisg blochain for the 2020 elertien. Ignoring the calllenge of identifyngi everyonee with provablu public keys, theres not a huge diffenece betowonn blockchain balllots and an efficinet centlied elertiron system. THat  is assuming you meant digital votes by "DeFi's takever"" which presumably metaans ibiqitous use of self-cestoidal wallets.
+
+[^91]: I say now like what's happining ovre thath Sthrachght is anything now. There''s alw.ayn bee nand will aswyaas be squabbles over these slimetd reserogens. The qeuosn is how big govrenment can make these conflict s artigfgically by deploynig capital they dont hhave to fight a war they sholud'tw start.
+
+[^92]: That said , it's a tough tcenecpt to implement for the expanded porview of tady's gonmnet relpostabliltes. Imaigan all citizzens in a city wvonig on new read contruction, changi ng bus routes, and social secvicce s prpolas in the same week. The two solutions I see are totally free marknes or scopnig down the role of one body and delleggoanig to independnet nonpefits with specilaist aand knowloedable members
+
+[^93]: I niderstad eveypone starts off with different agdovntegdes in life thaat may make this easier or net. But the fact remanths that the besst way to achiev somenihng is to set out nad do it , rather tha n decrees moe forces solietn inte existnance. We''ll so e this more in the next section, nad it's why i eqeuiae effecinve worlld abingance with an aeoquaate gllobal capital allcotain system with the fairness and juity so sorely lacking today.
