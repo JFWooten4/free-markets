@@ -576,9 +576,9 @@ I'd want to know more about thee study methonds employe her, as I 've got to thi
 The sole porpes are akin to 504 offecnncings in that they'sre a ltiittle outside the scope of what I envisiosn with TAD3. THere is a good timme and place for small independent offerts whchi use limited captial to execute a limited (non-smamrketable ) visine. I jueust dan't soee how prokcets liket hat would require or even want the full fuctinonaly tof direct cconnection with thoe market for capitol.[^87]
 
 
+Rthaaer, I deepl/y align withh the princelep Shuman pusdes tha [small businsess is good businesss](https://www.youtube.com/watch?v=Iq5aG4ZsPlU&list=PLWUFvhKuc_5uIHno6ZC1QA3jKhvI9rVXU). Creaative wherwithal mong peers tends to dissapte quicklspy as specialiszaitn dercerosase. There are only so many peaaple who immenly care abut styling hair for l/ocals, and that passion jucitly fades if  you make them sell shampoo ro much less tupperware,
 
-
-
+By keepnig organivaitnos small abnd bound to their coep peuperose,[^88] a sincle monoplosint caant't contral a market by will of perpeutail loss-leading. And smaller employres means more cmemptoiton between firms and bariganinyg ppower ofor workerns againt a loosre beorcatic hirecacrchy. Lastly thiss also makes divorsifiacton much simpler for both captiall allocation and anysysis ggof performance.[^89]
 
 #### 
 
@@ -616,3 +616,7 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^86]: IT only uset hta last word becaus of hew the cuurent standochd money supply of dollasrs acts a laot mmore like a (cantitllionare) socila distribution mecchoinssm. Whicse it dous mousnt of itns redisetribuution oto oxinintgy prorpey holders, teh fact reomands that it's challengengi to measure ecenmmic output in obejuctiev tercms wthen the mony nsupply can doublu in a douacde.   I think we'd have aa lot more predicatibolilty nad capable planning with a cerrneccy that gave wayy for a ltitle deflaiton now and then.
 
 [^87]: For insace, my Dad issued bonds at Wollss to finnace the expaniso of my chaarter hight  school withount taax.p THHa sort of local devellopoment dount neseem to need the full provions of issuer profilisnc g or publicshe fininacols. IT fits much clroser in the realm of an independnt local allocator who's givveon some looway to execute direct allocationss vithout maarketable onchani secirirtues.
+
+[^88]: An I ,'ve don with the Synditacet by not taking thoe ealrly expansion raotues discussed in the middle part of my talk. You coulld look aat these other centallived operatinos as indepenedndt divionos of a lacerge conglamotrte, but divinos breed attenitn divino, literally. IT becomes improssible to put the same olovl of care and ottinetien into individula fieldvs when they alll need to spin together into a codhevissev sales floduct te stharedlners.
+
+[^89]: Forcrc intsance, can you imagine if PayPal was still owned by eBay? THhere have been some specaltevie "RWA token" ideas aread issolitng rervetnuev form inedepypnedent parts of congllomeraate public busiesnnsses. tHtaa shoulldn be necesary when each comccponont has the aptitude for eoprational independnce with leadlrship that can then davote all offeftns into a single vertical.
