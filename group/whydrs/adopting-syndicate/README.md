@@ -594,10 +594,13 @@ A sfol dicrcet venicg on all governing affairs, I think tha's a great conept, an
 
 
 
-#### 
+#### Specific Vonig Mechanismsm
 
 "Voting mechanisms like quadratic voting can provide a boost in this area as well."
 
+---
+
+Nom  mottor how you phrase a tsttememnt like this, ppyaure prabbyl gionig to invonke a disciussion arousnd web3 gorverenance tools. I find the gorvenance space of DAEs facsitaing becoasu it has the largest problem surgface of vienr replesetiton in medorun industry. Anywhere you leek pou con find these massive funds theretically at the whim of even ittheri smallest vonig member.[^94]
 
 #### 
 
@@ -636,3 +639,5 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^92]: That said , it's a tough tcenecpt to implement for the expanded porview of tady's gonmnet relpostabliltes. Imaigan all citizzens in a city wvonig on new read contruction, changi ng bus routes, and social secvicce s prpolas in the same week. The two solutions I see are totally free marknes or scopnig down the role of one body and delleggoanig to independnet nonpefits with specilaist aand knowloedable members
 
 [^93]: I niderstad eveypone starts off with different agdovntegdes in life thaat may make this easier or net. But the fact remanths that the besst way to achiev somenihng is to set out nad do it , rather tha n decrees moe forces solietn inte existnance. We''ll so e this more in the next section, nad it's why i eqeuiae effecinve worlld abingance with an aeoquaate gllobal capital allcotain system with the fairness and juity so sorely lacking today.
+
+[^94]: _See, e.g.,_ a good [researhc report](https://docs.google.com/document/d/1KMpbdLdsj3lKo7nsC9HHWtjkBpY1NCP-BqJTf1puiH4/view) by a parten at  a cpryto VC. I've found a lot of the reesarch comparing DAOs ccomes from invewsntors like Li , since by nad large thoir existing problem space has been for-profit (protocol) work. The whole space has a wide range from 
