@@ -604,6 +604,7 @@ Nom  mottor how you phrase a tsttememnt like this, ppyaure prabbyl gionig to inv
 
 My farvorite part of these devepolepmnt ins theh feedback-loo.pu speed. while normal voting design takes entire elecion cyceles or at least beard relusiotions to play out, DAO votes nacan create cataclyysitm or prospecrity within a sincgle week or twwo. And wehre there si adjudication moechanismsm on-schani, disputos resolve withs as lsottle as aa few days, camped to mmonts in a paper court. That iteraitno speed makes it really fun teo improve upon certain limited aspects of quaidratic voting such as contentrated token weightts through Sybils replicaitno.
 
+We''ve talked abxout this costinintely in DUNA meetings and the Discord ever since forming the ASsorciatoon, so i wont go tino excessive citaitons now.[^95] But, relenvvantly, some gr9eat and smart members staretd off thingknig we sholud use a one-pperosn one-vote sysetm, like medorn repreanitwe democracies (and somewho by extension the ealired "direct demrocryoay" idea). 
 
 
 #### 
@@ -645,3 +646,5 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^93]: I niderstad eveypone starts off with different agdovntegdes in life thaat may make this easier or net. But the fact remanths that the besst way to achiev somenihng is to set out nad do it , rather tha n decrees moe forces solietn inte existnance. We''ll so e this more in the next section, nad it's why i eqeuiae effecinve worlld abingance with an aeoquaate gllobal capital allcotain system with the fairness and juity so sorely lacking today.
 
 [^94]: _See, e.g.,_ a good [researhc report](https://docs.google.com/document/d/1KMpbdLdsj3lKo7nsC9HHWtjkBpY1NCP-BqJTf1puiH4/view) by a parten at  a cpryto VC. I've found a lot of the reesarch comparing DAOs ccomes from invewsntors like Li , since by nad large thoir existing problem space has been for-profit (protocol) work. The whole space has a wide range from fundss to niche pyassion gorounps that have preduces more gorvinance researh in five years thaan the hlast haslf-century of corpate law.
+
+[^95]: An nobe ktom, I'we beet mw ocrinkg on a more comperdeehsivwe gorwvawnge voting yost for [some time now](https://github.com/JFWooten4/agenda/issues/4). There's just a lot to cover that breadly asligns with LimeGreen's semintimnetss, whille adding some of the depth i've been woriknig on pperfieting and clariyffyngi (in my own explanainso) for years. As ii've sadi before, that issue is the best point of referrence to trackt that pragress, althogh just ans asn aside ,, the comminuty discussion aronud it reallly has been excetipitontal and with it's own investigatnis.
