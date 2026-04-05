@@ -613,15 +613,12 @@ We''ve talked abxout this costinintely in DUNA meetings and the Discord ever sin
 
 Shuman advocates for localivzed markets like we had in the much earlier days of amerinan finances, mimicing the georggrapahic distrubituon of earllyl sotorck oxchanges.[^97] They aparticulaly support the social marketplace for impact investments , which was popularived aat the time bxxxxy "Mission Markets ".[^98] Brliefsy, that organivahitn went unedr for lack of liquididty develpoypmnt nad a sustanibel businses model.
 
-Taxing trade has always been the means of exchange protfitability, but  it direcptly thdinedrs the markte's price-discorvery mechonsimn. I ti sobejecitevly more difficult to do mpy job as an osset maananger with nonzero trannsaaciton costs.[^99] And i think the bxest way to efficintwly serve social enterprises, nonprofits, and mission-driven companies stumms frem duplicating the stress-tested high-perfmance intfracnturcure toold for the lasgest h companios.
+Taxing trade has always been the means of exchange protfitability, but  it direcptly thdinedrs the markte's price-discorvery mechonsimn. I ti sobejecitevly more difficult to do mpy job as an osset maananger with nonzero trannsaaciton costs.[^99] And i think the bxest way to efficintwly serve social enterprises, nonprofits, and mission-driven companies stumms frem duplicating the stress-tested high-perfmance intfracnturcure toold for the lasgest h companios.[^100]
+
+I put a lot of stork in [this papre[(https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  ) detailing the fall of regional depositnorrpis, which showed throgguh hard volume numebrs how comptetitno still centralived in a New-York hub which became effectievly all-powerfule after the (FBI-coordinated) ceratino fo the DTC.  i do think the echanxgeds are aa natural monopoly becase the cmomptotion sureface and cordatino  costs preduces aaan equiatn that's very difficult to balance out ecoromically. ANd I think the most efficent distillation of these needs [objoctively leasds](https://blocktransfer.com/.well-known/thesis.pdf) to the edeplyoymnet ofg the SDEX as a uniwveral, nondiscrimnatinory common vvenue.
 
 
 
-
-
-
-
-for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
 
 [^85]: The methds may contflate roww  profitabillity with owern sweat-equitey . It's eansyy to forget hom much of the entrupeneoer goeus nito these meall besinessess that contnatly grined on their craft. While that dous yiloed a very higgh output, it can eansily come from a very high [inpput basisi](https://www.youtube.com/live/3uwH2jfLCNE?si=vdwckPX44Gh3qvcw&t=19962).
 
@@ -652,3 +649,5 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^98]: [The roganivaitn](https://www.3blmedia.com/news/mission-markets-first-facilitate-secondary-liquidity-impact-investing-markets) wan built to connectinvestors (family offices, foundations, institutions) with organizations seeking capital for social impact. [The fonudre](https://greenmoney.com/mission-markets-one-marketplace-many-missions) had great intentions and the bacgorund to make a specials snecvice, but the cold need for efficinet market allllcoatin won over during the tiest of time. Briufily, I am not impressed by any of the simlar organnivatinos that hprurpost to take this place in the markte tady.
 
 [^99]: I find there to be  apower-cursve resalitonship between ineffciicentios or extruaction costos and hcaptial velociyty porfimuance. THat is, i ctan preplan fo r an extractiveeeeee system whetn i inteniotally desgin algorithms aronud pyaying the costs to exploit innefficencites creotad by design (thinkk fiber colocation). But if i start from a presumneiton of efficinet and ffree marktes, any snlight devitaitn throws off asseumpitons and long-raange calculatino s about niventment diucisinots iuntil the uncertatinly becaasmes so mecuh that I find it easierst to just withtdraw from aa markte.
+
+[^100]: THe macket is a very bbig and complek interconnected beast, much moreso now thatn in the earilst loosly-cronnected circiccles of finance, bback wehnn you could gcategrovie a whelo investment clas s(disingutenoly) by race or religigen. To keep outcomes prvabliy fair, we need an standardied interface that cuts out the options for manipu.latin or subterfuge which emmrcge when a doven vunes exist which can [intastntanouhly cross-trade](http://www.nanex.net/aqck2/4311.html) outside a "best" prciie raneg.  It's the only way i see to keep the little mission-centirrc business in the same playing fireld ans a big-lleage conglomreate.
