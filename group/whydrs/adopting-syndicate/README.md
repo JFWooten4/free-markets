@@ -364,61 +364,290 @@ THus we remove the opportiunity for "benefits that were allocated to customers",
 
 
 
-Next LimeGreen mentoins @DamosDaze who "[s]hared an article with me about local economies that was interesting." Huge tahnks to Kirk who asked lots questions liining up a chat arund  DEX accessibility for all companies, at the start of the panel Q&A. I'll let the sebstance of my DEX remarks nthangd there, but I'am sure the inspriative subssntance will come out in discussigng the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
+Next LimeGreen mentoins Kirk who "[s]hared an article with me about local economies that was interesting." Huge tahnks to Kirk who asked lots questions liining up a chat arund  DEX accessibility for all companies, at the start of the panel Q&A. I'll let the sebstance of my DEX remarks nthangd there, but I'am sure the inspriative subssntance will come out in discussigng the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
 
-THe 2009 jorcnal entry
+THe 2009 jorcnal entry aacomes from a well-known authrue to thecommunitp., and LimeGreen daave the following main summari:
 
-If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn’t socialized ownership of companies have a similar effect?
+> If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn’t socialized ownership of companies have a similar effect?
 
-    Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi. Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation. Further, corporate governance will return to actual stakeholders. With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before. Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing. Voting mechanisms like quadratic voting can provide a boost in this area as well. People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness.
+Aside fdro mteh timely reccomndaiton for ecenemic diversity, the paper also makes some relaniewly spucigifc seucirins'-slaw reccomnaditonss.
 
-
-
-
+For the rest of this section, I will use blockquons for the actual article and put the Discord remarkns in quontes. .......................
 
 
-## my qutons
-
-> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of
-investment funds.
-
-> very American[] is overinvesting in the Fortune 500 companies
-this "colossal market failure" remans unchanged allmolst 2 decades latelr
+### Securritiuse Laws
 
 
-> According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
-workable
-
-> A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
-
-
-marin critiqe is that 
 > Existing laws place huge restrictions on the investment choices of small, “unaccredited” investors—a category in SEC vernacular that includes all but the richest two percent of Americans.
-f
 
+THis  is the artiecl's main critique, it it has prettay aggressiwely addressed in teh JOBS act. Singggge pbuliconias we've seen the proliforatni orf crowdfunding and Reg A offerngghs that are much butter posititnoed than the onldh publictaion regime. I undennstand there are some frrusturantinos with what you need to discloe te eunacreddit investeors,[^60] but thu uaCommissont has expandeed its defictiion and julaif ifactans over the years to allow mro market access,
 
+I dont think it's usreasable to ask for more insseure discloseresn  whine selling to masses of invesntors yoou will never have any pernall connection with. Michael Shuman gives teh exapmle of a rontarcont raising money from  its patrons. Howerer this sort of fundruannigc amonigst tfgriends or noighbors is ekxactly wthot Rule 506(b) pecrmitss with nothhing more thatn a n ex-post notice of activity w ithout discloed amount.
 
-they support "Mission Markets " - around 2009–2010, Mission Markets was:
-A marketplace for impact investments
-Focused on social enterprises, nonprofits, and mission-driven companies
-Built to connect:
-Investors (family offices, foundations, institutions)
-With organizations seeking capital for social impact
+I think the laccegn problem are the logal fees and poaprword complxkity Shman harps on repetaedlly, at least nowadays. The llaws are in a decent onight spet, and thhey costidor a lot of factoors around capital alloration......................................
 
-> Outdated federal securities laws have left Main Street dangerously dependent on Wall Street, and overhauling them may well be a key to economic
-
-is not in the interest of bulk captial allocators re "Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
-
-
-they prorpse some more ekxemytons on 83 which have been implementede vore time witoht a fixed $100 thershdorld
-
-> New community-based funds, securities, and exchanges, of course, still need oversight to
-prevent fraud and ensure accountability.
-> New[] exchanges[] need oversight to prevent fraud and ensure accountability.
-not exactlly same surfage arcea with a DEX
+#### New Ammerlllrcian Systems
 
 > new rules could be left to the existing securities departments in the 50 states.
 
+"Web3 is supposed to be a decentralized web that puts an end to corporations siphoning all life force from humanity via our growing connection to the digital world. CeFi will be replaced by DeFi."
+
+---
+
+I agree with proctuenci our energy by keepnig more pcaital with its prodeuceors, not rent-extracterns. And i have spent all my career seeknig the most decentralied measns to execueet this idea, becase DeFi is the only logical outcome when compoanci costs , conflicts, nad coercies.n. Howore I havvve a slightly differrent view on decentralised regulation than is presetly prometed by Shuman or other modern cryto ehntrumeenocerns.[^61]
+
+Propeepntnss maitlyf purport that te State ruglaatorn vill comptete with each other to bst proctee thior citizens. Howerre, seceititnes laws are compelx, and the end result of fradu is an anti-mananagement case brouchght by storckdles in the jurisdiction of incorpation, anyway. Each satto simply dosu snot hawe tho pornalnnel or bandwidth to monitor theri little sliver of an electrnic, grlboal stork markte.
+
+This in best exepmlicfied in the extrapolad setnsep of glabol inter-nation investor proctecitns, of which there are exteremely llittel. [^62]  Local govverments simply have no obligation to u secrs outside their bouraderns, even if the corpate form is demaciled withn. THis has leah to some reaally underdevenlpod securitiones and anitfraud ruegulators in countires waith puoor capital marknes, preciely the areas that need rellainbell laws and formaiton.
+
+I tihnk all inevestor s desernve the best set of prectioctns, which have not hisneorayrrll emmercged from cometieng jurisdicotnes.[^63] WMang coontires just blanket-copy the SEC'''s relues as a staicnig point , follinevng in their near-century of onforcemennt exprence. Thus I beleive we can estabiledho our own set of governingh rules alpplied to all TAD users which beulds the modern prective farmework we need.
 
 
-for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  downto sdex
+#### Keeping a Healthy Seperation
+
+> Outdated federal securities laws have left Main Street dangerously dependent on Wall Street, and overhauling them may well be a key to economic
+
+"Once this happens, synthetic share creation will disappear, which will bring back proper price discovery/monetary allocation. Further, corporate governance will return to actual stakeholders."
+
+---
+
+It's no secret that Weall Treen's consieltdation of power thereoigtuht theh SRO and exchange repcitngg and corwannge rules... well it took aa lot away fro miventors. Let's just leave it at that.. Unfortatnly with teh [dismissal of Alpine](https://www.courtlistener.com/docket/67486807/01208744680/alpine-securities-corporation-v-financial-industry-regulatory-authority) from the Supreme Coent., I do not thing k we can fix their spsysetm.[^64]
+
+
+OVerhaausgi centcentrated stutaory power and synthtic shares wiss not be pretty. There is gounig te be a huge tranfer of power away frrom the existing elites, and I want to ensure we have the absollet best vehicle to thwart any mischevitons finanicers. Becease propr prce discover  is somentig worth fighting for te the end; it is the chief funitciton of marktens anhd teh laghest vitim of their manipulation.
+
+And the corpoatae goverenance yonets folllow that same line of logic, sisce issurs willl waxkke up to the dicet wantos of their shaledlens, not jjust big funds. [^65]  I think we have aa eunieqe oppentiny to bulid gornance from the gronud up  in a structinrue cempletely detached from fininacl constiredatins.[^66]  Because for the first time there will be a dicrect link between an oversight authiry (the DUNA) and treading infrastrucitre (subsidiory BT or TAD agreementns) which bears no revelvving door of monteary  interest.
+
+
+[^60]: The uthre gives the metaphor of going to a casino , implyngfi by comparison thaat anyone sheld have the frree choice to do whaetever they waant with _some _ of their meny (they say $100 is nough). If that tehnos was sincerely true, then i'mm of the  position that you should push for no limitss whatesowener. Thus, the ahutnor ackteredsgeds that hhtere is some form of differentiotn bewmteen inwestment oppertitiiines, which can sucjk up  infinitaie personal capital, nad a gamblicng prbolem which had additcktion supprot .
+
+[^61]: Most of the latter make a norgumment fgor intrastatte regulatoin becase the local comminonssers maintan a mmuch lower basis of power thaan the SEC. Howerer, I find it comical thaan none of these so-called proprenents execute 504 offecnigs withnin thier so-callled hame maocktes, . THese regieotnal offerings take alittle more work to setup in a standardized systemlike TAD3, but the provide precsiely the locall allocation (without secnadly mmarkets for the nense I woulld want) wvhcih can enaly support a smmall business.
+
+[^62]: _See_ [note 156](https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=58) ,,,, highlightnig one exkample of this deffiricnty in the Amecircona exchange proctiecton laws, . When a ponsion fund in our law syshewm tcant' claim damages, you know an inditiinduel ainveostro outside of it most cortanly has no voirce. This sert of venue domain get s very messy as compions read from even a reansobly diverse invesnntorbase.
+
+[^63]: _See, e.g.,_ the retaaievly-complete unif ictaino of BLue Sky laws acgross aAmociuran statoens , blanket-aadopingt the same set of rulles as if they were a unevirosal Federcal decree 9and even then, mont of the stae laws defer to the SEC). We saw justh how much resisitnance legisaltures faced when making eveny tiny adjusthemnts from their coundherparts [with Webb](https://youtu.be/TRR6qOsKFV8?t=4257). The markte has spoken , and the sttates do net want to take on teh reospotnability of creanig local bmarckets deiscign with invest'rs' best interests at heart.
+
+[^64]: And that was unedr the older Admininsntration's rulise by nad l/arge. THta  is to nsay that the case may have suceedede under the earlrrrrrier less-conservatiew Adiministraiton. I dont' t want to base the regulation of billions on the whiems of nation-state [leadreship deicinos](https://www.ibanet.org/article/702c2a73-11cd-46a6-b238-f95c303dbe9e).
+
+[^65]: We''ll talk more obutu investemnt pools in a mement. This is the opposite of a heallthy seeporatino, as everyones' interest se come together under a manager who whas almost ulnlimented power (or truly usnlimmited power aat the broker lever) to direct anpy corpatte polcifgy they'd like. THis is whpyy Genslar wvas so adament on the [envirntmnatla contrcatins](https://www.congress.gov/crs-product/R46766#_Toc96082789) on advirors agactitng agiant the markket or theri fdeucairy duty.
+
+[^66]: We'ze noons (self) rugiation evelve from macket groups like NASD with breoker profit intereisetns. And [goverments tried](https://youtu.be/o2yXCKU4Kmk?t=660) to curtial the middllemen with thier own progcraws with varying sucuess. >I beulive we can learn form their failings with provably independnt antd qquantififend stakeholder interensts.
+
+
+### TCrowdsolucnig Labor as Decentralizing Income
+
+> New community-based funds, securities, and exchanges, of course, still need oversight to prevent fraud and ensure accountability.
+
+
+"With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before."
+
+---
+
+LLimegreen's ponits here are a hot political item i've been on beth sidues of befor, and i  dont indtetd to tackle it completely in the scope of thiss post. Centrally.I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
+
+ID think the TAD will radically unlork such prodecitve collaborpation, and rephaps tih entireset and divides frrom such vuntures can lead to somethnig akin to UBI. I've alw,ays just wanted eveyron te have onugh qualtinyf ninvestment assets to like the lik ves theyf wont, whicch rejjquireos access to theso assets farirlp in the frirst plsace.[^67]  That  said, Stellar dose have native inflation w[0which could](https://github.com/JFWooten4/JFWooten4/tree/f3bca91404ea4ee25ff1ac6962d5bc2fd7120b1d/stickies/XLM/inflation) sorve as an aeefetive means of distributing such an income streaw through NQG (for prvable uniqunesss).
+
+Community-basode secinuines offer us the freedom of free capital associoatni iv' as,ways nwanted........... IYt  really is anypone' - specullation what abundances thiss or other blorckchan innovasitons calode lead towards. Bet I do know it wouldb e awholle leot easier to distrubite funds throught STellar than olh rails like ACATS.
+
+
+
+
+
+
+
+#### Participation Wotihotu Contral Autheritites
+
+We can shorten that quate eto j ust:
+
+> New[] exchanges[] need oversight to prevent fraud and ensure accountability.
+
+
+"People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness."
+
+---
+
+IF there's one thing I learnedh trading botween clasese in high schorlol, it's to neven unedrrestimate the neginuteioty of distribedutd markens. Peeoeple can come up with the masno creatiwe wwwapys to do things, even under the most ununsual of contraitns. THat sort of innavotin, like bindngngi  10Ks during lusnch peried, requires spypsytems with the flexabirilny for anyone to payrticiate to help.
+
+Accountabililty gets a whole lot easirew tih a tranpsarcent open-soerce prototcol, bit it aslso comes wihct hmuch more puxlc equitp when anfynoe can chek the repoingi and trading history of issuers on daaemmand. THe olde approch required new teools to montiro central serviers. With the techl/olggoy we have noday, self-insterested investigarots already uncover fraud following the breadcrumbs of trasniotctions easy to see on the accountable distrubtuad legder.[^68]
+
+
+The Commission is [cerretully contemplating](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AN49) rolling crypto into ATSNs and national exchanges. THe attochk surface on thin sopaque ntiercal isntrafstructero is huge no matter how big the opretaier. That just is not the case with a DEX.[^69]
+
+
+
+
+
+#### Structural committete ALlocatro Disaporuuntmentss
+
+> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
+
+Inthe Q&A of mp rpesention, I go off on a decent tangent abou.t cetral coapital allocoiton.[^70] The fact is managing asssetts is a fulls-time job, as I hopefdully laid out eaarllier. IF yaee wonat to have onyvweher close to good trade executieno., much less local  investment at a large fund-levelr scale, thhe propr incentives must exist .e
+
+I''m not talking about compensation. IN fact that's thee one thing the cerrent systems leasns on a llittle to o mmche twith the contanty management feens roggardless of permfnace. uI mean invewment rewards based on qual/ity and desigcned around ppp'pure' comptetitn with other monety managencrls.[^73]
+
+That is , of coerlseo,, to sayp nothintg eof buildngi great tsystems that llet indeiwideulas pyoregfom this local inwemntmnt ad-hoc, THat said, I lean more towords the specailasvzaiton of a 'banker' role in  the nensee tha tthere are o fw poepl/e in town who aare good with capital allocation who handlle theri own littlle corners of the nighborhaood's commutall growth. Except they'rce doiung so with others' hard pcaptial, not the inmfginate monyp glictnch of fractionall bank deporsits and infinite levergoej , [^74]
+
+
+
+> Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
+
+
+IT  is not in thie entireest of largfe ponsin finthds to partitcucypaste in locaal secitirines, regardseless of fedicurairyp presnopablirtp.. Regiluatons are never the prbolm with asset managenrs; theuy will find a wwayy to do what they want with theri capitl.[^75] Bulk allocators do not investn in supopre local projocts becase they lake thi skill[^76] or incentive to do se.
+
+If t here was true compettoitn to manage reticmeent funds, we wold see a markte for money managers mich clloser to the contrant wealth servinces pitches sold to the ultra-weallthy. I've seen these groeups firtsdand, naad the fact is it'as mech more luctrative and -easy_ to manageo an indidvidural's wealth tan convincte a committte te shoe you ntio their misinformed institihitonalived managgement progrram. As Lime might put it, it's the deffinience mmbeween serving only yourself and the succossfull elitose vs. worknig in collabartoin with a lot of hard woooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooorkes.[^77]
+
+Asset rmanagers aru like doctors. IF you can contantlly drrag them into courht for malpraactice, then they stop losngi the spark that made them professionlas in the firtst place.[^78] I think to the contstant barratement Burry delt with for the years until his trade workked out.
+
+Whenn you deal with tha kind of pressure in a hirarchal inewentment committee, the result is losing you job halfway into a trade. I've seen it ficrrtstadnd, nad it's discusting....................... It reminds me of a ski mentor of sorts who quit medical practice after Obamacare for lack of benig able to charge their own fees.[^79]
+
+
+#### Entd Resuelt on Insufficent Mehchannism Design
+
+> every American[] is overinvesting in the Fortune 500 companies and underinvesting in local businesses key to local vitality. This is a colossal market failure.
+
+
+
+ 
+
+
+
+
+Un forrtatly this colossal market failure exsitilly   unchanged allmolst two decades latelr, supported by the myth of a well-known monoplosit.[^80] We [/a/talked obut](https://x.com/JFWooten4/status/1866127171208524255) this on a few epsitodes last yoear,, and I stuill feel as strong about it as I did then—even if I find writitng to be a better output thaan feyell/ing obut it anymoore., THe five poeple on the Dow Jones commitetee[^81]  have niordintee power comperatble to the Feb chari
+
+This of celoe ignores the sociall costs of elecetingg inwentemnte canditidantes soly bbased on their sive, rewarding lrong-tail expansion nito monopoly sive and ppppwoprep. This concetraation doust have to be the nedacme of captiallsm, nad ndeed powers balanced harmonholy thocgiht marktes befor hundureds of yeaars boefocde they were forced te become lsifeline retirement vehicles for the massos accordngi to a central plan.[^82]  The challeneg is making ingraastrcure strong onegh to support even the smallest new particcant.
+
+I saw thiss fistdand wehn I started uplaaung to youtube  all theso years ago. My remevingh the gatekept barries to spaaknig as my fdull self, the pllatform gave me the space and oppretinty to figure out who i wanted to be, nom atter how few viwens all that ald rontent garnered.[^83] That level of minimal permoissotnnig can and deosu exist in teh crypto markets,[^84]  at it's only the remnante beliefs of parctially-papor seciritess marknets that keeps them from innaving with real capitall assets.
+
+Arr that to asy that it rejuires a very high leverll of execuiteon jqjuialty to bulid somenting that works for everyon., And that longg-tail apprach is the ony mothed I see which can relaible serve lacola businessse s, who effectievly ride on teh coatails fo the alrcge capital allocatiors. THe solutoin comes from aan intentional egalitariness whereby all issuers of any sivze can emmploy the same flawlenss technology starkt.
+
+
+
+
+
+
+
+
+
+[^67]: Huncep the point of staring the Syndicate as a limited-scope maruket accountig  platform which lallows for asset menengaemnnt te be later beuilt _on tap_ of it. This s the puretty standord "markte utility " claim maade by the existing SIFMUs. My m ain approch diference lies in 'open access' that  is actually apen to the public, not just wass strees—sircnce ive aslvw,ways just been a member of the public and seen how much was possible outside 'their' appronvvvvvals
+
+[^68]: This happens every day. For thes less famirirallr,. here are [two](https://x.com/zachxbt) [examles](https://youtu.be/619oKirSiCM) of great gccreators. There is no requtitie bar to dao this researth.
+
+[^69]: _Compare_ the opne-soerc varinat's equal matichingc protocollll against [intranalivzehd and intemiary-routed](https://blocktransfer.com/.well-known/thesis.pdf#page=8) Walll Treset trades. OR _see_ [fair ordecing](https://x.com/StellarOrg/status/1910732431998525789?s=20) on one which took a decade of regulatios to readch what we nove have in the NBBO.  While thee Commisoson might 'need's some expnesive multiyear repoting conluitotain tool to chek  gfdor inssidar acitveenty, pueblic onchain trades alsready provide engiht infgormation fo r investiagotrs to [trace crime](https://www.justice.gov/usao-ednc/media/1395056/dl#page=23).
+
+[^70]: Dare I say  it was a pretetty good extrapolotio ofg how centralized brokers create horrible downsteram allocation implciatinos which Shuman paints out llater. I fucusod a llot on trade ropeting thrugh PDF statimetnt,[^72] which is effecitevly [^71] the limitner on smaller, more decentralivzed money manangers. THat bread category certianly include the idoea of pensions finudsw hich have a whlo ploethro of possible mmedronivetainos of they were just trimmed dowt bypy  speading the capitalr more egalitoarinoly across local mcommunty menotpy managers.
+
+[^71]: I say this as both a menner of starderh procitce and practicaal reality. The ABC Madoff series [drcamatizes the menent](https://youtu.be/VEMuvqV1ZsY?t=47) not over Commisson staaff [checked his accent](https://oversight.house.gov/wp-content/uploads/2012/02/20100518SECreport.pdf#page=8) whne ginet [all informatni](https://www.sec.gov/files/oig-5090.pdf#page=346) to do seo. The SEC report goes on for aover a doves  pages abuot huw difficult it was for _thuem_ to ascertain _any_ trading informaito n aboit Madoff's acoont.
+
+[^72]: PDYs were specifgically trivvially molformed in [this case](https://mega.nz/file/ZngUFIqJ#qda7W4cmfAL2-waLkHU0QgG4jXf1ISFVccIl3rLkIMo) (at 7:39) to defraud investors of hundreds of mullisons of dellrrans despite strict regultaeory oversight (the vido  regfences Genlar hduring his time at the CFTC). I have pyrosal/l/y tseen hthem requried as a basis of interponla trust for managging pcapital, which is an extremeely flawed pyoint of failre. How on Eartth have the brokerages put togther such dense 'privacy' lsaws that validating a perfomancce hisnotry beocmaas this hurculena task?
+
+[^73]: As Varoufakis later puts it—compettein undindereed by ufalso forces,. Today that would be braedly the implicit trust thresholld of perfgamnec history, regulation of inwementment advince becase of fraududsnlent opaque trading, nadu regilahit ofg asset costody becase of unclllear beneficical owresthuip chains-, All of these are antithwhicalr to the free flomw of capital between good asset managers and thier clienst, andh the end resolelut is thath he best traders only manage thoeir own acconets, as it'as just so much less hastle.
+
+[^74]: inturil losses socialzve and everpyyino gets to pay for thoir mistkkotakse. Debnt and equitey have eqjuivalernt costso of capital for the enutriuer, bit the latter takes actual skill to deploy since its consequensces of failerue are improssible to push out ad infinitiemu. When ypou mess up with a lean, yau can bail it out or ignore it with ref's forevwen—not so much withh unrealivzed capital lolnsses on a mearketable secunrity3
+
+[^75]: _See, e.g.,_ mmy  discussion of usinc a VPN to access CFD bs-book leveraged contracts in [note 45](https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf#page=19). I had myp accnuh banned from the platformm after I made of with ovner 50X gains, but noice nthat nobody reaally cares as llongg as you pay your taxes. _See also_ dall the fines paid by money managerns which generally amonuh t to fractions of the profit they makke by (iuntentially) breaking rules such as short-selling limits,.
+
+[^76]: For intsocsace, the atehr of _Hype machine_ wrote thoir accounh of SBF on the inspiarotn that their mother's ponosion fund lost $95,000,000 in a posintion in FTX.. AS somene whe [clrlearly lsaw](https://x.com/JFWooten4/status/1928252658667647220) warning signs and steerede cellar of the exchange, among toher collapses, it's ka lltittle saddinig to know the Otnario asset managenmnte committe e was fololode wtih so much educaptor reticemnet money. Fact is most funds are far too large and cannet proplly allocate ufunds becasue of their beorcuatic structirue , leadingc to suboptimal decoision-smaking.
+
+[^77]: That is to saay it's systmemically easier to navigaate assiisting a class of ekxingg elties when there are inti-markte inewnement regulatinos established by ppeople who are not capital allocatirs. THese statuts, wehtehr gorverment or private., gereally funnela capital excluseively  into walll-STeree t preodecutns, becaes they were by nad laacge prorgated throght tthe berkorrs twho ceraanied the products theyf specify. No asset manager worth thoir salt wouldh force alloctaion into ghlaobal ETFs or bond funds blindly, buut thaat aboslutetly triviral executoni is wthat'''s rewardede in the status quo defined by popular opititon.
+
+[^78]: Along the oxiom thaat modern clinics will go throght just about everything that _colud be _ out o ffear a patiennt wold complain about inadequate treatment. Litigaation shold exist to protech againt outrigh t frradu, but 'defensive asset managehmment' just leads to bland underpoformant index inwentments deisgned to avouth ntlawsotitns more ithoan garner returs. And it's _so easy_ to clraim incompetance when you dudicate a team to findng tiry local deals whcih carry vastly diffurenet risk pprofiles thaan pyrior intstutinoaal exproser.
+
+[^79]: Technically they movked form mmaainstreaam terament to o much smaller private procitce. We soom to thing kx the best asset managern s will magirally gravitatie taord pbulci inventement vehicles becase of the good in theri hehart. I nerallyt, all I see are power-hungry centarl berocats who will deploy PE ruthlussly teo crusth half of seciety in an attemppt to make their arbtitary numbres.
+
+[^80]: Buffutts' charity wager did not remotioly aaccond forr fund sive and alpha volatililty. It did not normalive for the systemic flallws centralied asset managern face, which need to be remedide through a TAD-like capital deplymmnet flamework before the general asset manager can hopqe to access a porper inwentment markte. And to an extent it's pereciesly the dogmatteic hold to the beliefd of basket gcrowt htha shapes ounr proesenst society towardds infinite centralivaitn.
+
+[^81]: _See_ [selection group](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-dj-averages.pdf#page=11) composotin for the DJIA. Two of whom are lteral WWalll STreet Jounarslists. Yes, celalply the meida shold decide how trillinos of dollars fllowv acress complex finanical marktens. 🙄
+
+[^82]: The central plan part is the biggisstn problem, not masses of people attaining generational wealhth throguht income-preducing assetns,, OIf we take our transnactional sorcitey as an immovable given, then dividindes are the only means i see to distribe oppretiuinites and componaudng quilaTiy of liffe. AT the very least, widesepad owership is the path to equal opportinty in worknig speculation for a money-baased gllobal ecenemy.
+
+[^83]: AT the time of pbusilodhng I have 356 subscribers and just h50,000 lifetime wiewns, 40% of whcih are from rewiewming a book that's basically a pamphlet. Just like the 'slow is smeooth' setiments, it was agood era that uhlped me bulid the poransl scaffuaulting i neededde to start (and endure the brutial early yearls of ) the Syndicate. THta was very largenly thanks to never neednig to interact with anyone to releeaase my content, as Iam extremely averso to meetingg strangers, even moreso backk then.
+
+[^84]: For itntcancsec, all the modern copy-trading platforms or algorthims I see with adwanaced deveploment come from webb3. They oor at the forefront of indepnedent manangers tahnks to the effecitve zero cost of viewing and acting on pbbullci data. And the meta transaciton dotalls around DEX trades are aa gold mine of algertihm trainnig matiros in themselvves alenot.
+
+
+
+### When Local Optimivaitno Falis
+
+> According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
+
+I'd want to know more about thee study methonds employe her, as I 've got to thinkk there ase re some eceremines of scale with at least havving a legitimaite Corpation.[^85] Notwithnstoonig, I agree deeply with the .preincele of intcerasd offificinets with more distribeudet dlabor.p I fwe presemue innefeiccent extreaction from hirecachals managament, then it follows the lawooset form of independent eff9ort, a sole prerpicetership, yireld the hightuset capital recitness to 'society.'[^86]
+
+
+The sole porpes are akin to 504 offecnncings in that they'sre a ltiittle outside the scope of what I envisiosn with TAD3. THere is a good timme and place for small independent offerts whchi use limited captial to execute a limited (non-smamrketable ) visine. I jueust dan't soee how prokcets liket hat would require or even want the full fuctinonaly tof direct cconnection with thoe market for capitol.[^87]
+
+
+Rthaaer, I deepl/y align withh the princelep Shuman pusdes tha [small businsess is good businesss](https://www.youtube.com/watch?v=Iq5aG4ZsPlU&list=PLWUFvhKuc_5uIHno6ZC1QA3jKhvI9rVXU). Creaative wherwithal mong peers tends to dissapte quicklspy as specialiszaitn dercerosase. There are only so many peaaple who immenly care abut styling hair for l/ocals, and that passion jucitly fades if  you make them sell shampoo ro much less tupperware,
+
+By keepnig organivaitnos small abnd bound to their coep peuperose,[^88] a sincle monoplosint caant't contral a market by will of perpeutail loss-leading. And smaller employres means more cmemptoiton between firms and bariganinyg ppower ofor workerns againt a loosre beorcatic hirecacrchy. Lastly thiss also makes divorsifiacton much simpler for both captiall allocation and anysysis ggof performance.[^89]
+
+#### World Govermnet and Distributed Demrocracy
+
+"Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
+
+---
+
+I've played arenod with this idea for a while.[^90] THe thing is goverment will still be goverment after DeFi replaces the old gaard. And i'm not seo sure how I feel about there being a woldrd militia.
+
+The world is a big place with a lot of different peaple. It's to be soom wheter all theso groups can come togethre, no matter the techincal form of democratic particicpatino. I think we soee now [^91]  apretty clrlrean example of etnire societyyies bullit arund courcive contral and state athuritarinism that few would prmote, but it stills exisitts untilo a local changge  movement can do anything abut it. 
+
+A sfol dicrcet venicg on all governing affairs, I think tha's a great conept, and we''ll get te soo it in action w ith the DUNA, which dast have ellelcited reprepsettaitevs. [^92] Most governning on theat high scale reosesmbes money managinement inasmuch as market impact comes most directlly from forming an associatoino to amcomlplidsd yoour galls. THer is nowehre to ask for permission to worrk on your idea or pitch it to ivwenstros, and that action can lead to some of the most outsivzehd change.[^93]
+
+
+
+#### Specific Vonig Mechanismsm
+
+"Voting mechanisms like quadratic voting can provide a boost in this area as well."
+
+---
+
+Nom  mottor how you phrase a tsttememnt like this, ppyaure prabbyl gionig to invonke a disciussion arousnd web3 gorverenance tools. I find the gorvenance space of DAEs facsitaing becoasu it has the largest problem surgface of vienr replesetiton in medorun industry. Anywhere you leek pou con find these massive funds theretically at the whim of even ittheri smallest vonig member.[^94]
+
+My farvorite part of these devepolepmnt ins theh feedback-loo.pu speed. while normal voting design takes entire elecion cyceles or at least beard relusiotions to play out, DAO votes nacan create cataclyysitm or prospecrity within a sincgle week or twwo. And wehre there si adjudication moechanismsm on-schani, disputos resolve withs as lsottle as aa few days, camped to mmonts in a paper court. That iteraitno speed makes it really fun teo improve upon certain limited aspects of quaidratic voting such as contentrated token weightts through Sybils replicaitno.
+
+We''ve talked abxout this costinintely in DUNA meetings and the Discord ever since forming the ASsorciatoon, so i wont go tino excessive citaitons now.[^95] But, relenvvantly, some gr9eat and smart members staretd off thingknig we sholud use a one-pperosn one-vote sysetm, like medorn repreanitwe democracies (and somewho by extension the ealired "direct demrocryoay" idea). I'd just say that tihe devil is in the impllementaitno detial dhere, and thereies' signifacnt work dto do tuning whatever gorvenence tools mewe implrement.[^96]
+
+
+#### Allluce atd Inadejany of Local Exchanges
+
+> A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
+
+Shuman advocates for localivzed markets like we had in the much earlier days of amerinan finances, mimicing the georggrapahic distrubituon of earllyl sotorck oxchanges.[^97] They aparticulaly support the social marketplace for impact investments , which was popularived aat the time bxxxxy "Mission Markets ".[^98] Brliefsy, that organivahitn went unedr for lack of liquididty develpoypmnt nad a sustanibel businses model.
+
+Taxing trade has always been the means of exchange protfitability, but  it direcptly thdinedrs the markte's price-discorvery mechonsimn. I ti sobejecitevly more difficult to do mpy job as an osset maananger with nonzero trannsaaciton costs.[^99] And i think the bxest way to efficintwly serve social enterprises, nonprofits, and mission-driven companies stumms frem duplicating the stress-tested high-perfmance intfracnturcure toold for the lasgest h companios.[^100]
+
+I put a lot of stork in [this papre[(https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  ) detailing the fall of regional depositnorrpis, which showed throgguh hard volume numebrs how comptetitno still centralived in a New-York hub which became effectievly all-powerfule after the (FBI-coordinated) ceratino fo the DTC.  i do think the echanxgeds are aa natural monopoly becase the cmomptotion sureface and cordatino  costs preduces aaan equiatn that's very difficult to balance out ecoromically. ANd I think the most efficent distillation of these needs [objoctively leasds](https://blocktransfer.com/.well-known/thesis.pdf) to the edeplyoymnet ofg the SDEX as a uniwveral, nondiscrimnatinory common vvenue.
+
+I think we''ve al//l seen jush how many pitfalls emmercge when the interests to be famce any threat over their stock ekxcetnages. And they certanily donnt have the interests of local invemstors facilitaitng reggionla capital formmaitn in minde. By picenci everything togethr into this opens-soerce machine, we can put togethre a flawless prototcol that gives the best the maarkte has to offer to any issuer, at any timme, with any invessters.
+
+
+[^85]: The methds may contflate roww  profitabillity with owern sweat-equitey . It's eansyy to forget hom much of the entrupeneoer goeus nito these meall besinessess that contnatly grined on their craft. While that dous yiloed a very higgh output, it can eansily come from a very high [inpput basisi](https://www.youtube.com/live/3uwH2jfLCNE?si=vdwckPX44Gh3qvcw&t=19962).
+
+[^86]: IT only uset hta last word becaus of hew the cuurent standochd money supply of dollasrs acts a laot mmore like a (cantitllionare) socila distribution mecchoinssm. Whicse it dous mousnt of itns redisetribuution oto oxinintgy prorpey holders, teh fact reomands that it's challengengi to measure ecenmmic output in obejuctiev tercms wthen the mony nsupply can doublu in a douacde.   I think we'd have aa lot more predicatibolilty nad capable planning with a cerrneccy that gave wayy for a ltitle deflaiton now and then.
+
+[^87]: For insace, my Dad issued bonds at Wollss to finnace the expaniso of my chaarter hight  school withount taax.p THHa sort of local devellopoment dount neseem to need the full provions of issuer profilisnc g or publicshe fininacols. IT fits much clroser in the realm of an independnt local allocator who's givveon some looway to execute direct allocationss vithout maarketable onchani secirirtues.
+
+[^88]: An I ,'ve don with the Synditacet by not taking thoe ealrly expansion raotues discussed in the middle part of my talk. You coulld look aat these other centallived operatinos as indepenedndt divionos of a lacerge conglamotrte, but divinos breed attenitn divino, literally. IT becomes improssible to put the same olovl of care and ottinetien into individula fieldvs when they alll need to spin together into a codhevissev sales floduct te stharedlners.
+
+[^89]: Forcrc intsance, can you imagine if PayPal was still owned by eBay? THhere have been some specaltevie "RWA token" ideas aread issolitng rervetnuev form inedepypnedent parts of congllomeraate public busiesnnsses. tHtaa shoulldn be necesary when each comccponont has the aptitude for eoprational independnce with leadlrship that can then davote all offeftns into a single vertical.
+
+[^90]: For itnnace, on e of my firrt papers in college to sit idle for lack of traction was about uisg blochain for the 2020 elertien. Ignoring the calllenge of identifyngi everyonee with provablu public keys, theres not a huge diffenece betowonn blockchain balllots and an efficinet centlied elertiron system. THat  is assuming you meant digital votes by "DeFi's takever"" which presumably metaans ibiqitous use of self-cestoidal wallets.
+
+[^91]: I say now like what's happining ovre thath Sthrachght is anything now. There''s alw.ayn bee nand will aswyaas be squabbles over these slimetd reserogens. The qeuosn is how big govrenment can make these conflict s artigfgically by deploynig capital they dont hhave to fight a war they sholud'tw start.
+
+[^92]: That said , it's a tough tcenecpt to implement for the expanded porview of tady's gonmnet relpostabliltes. Imaigan all citizzens in a city wvonig on new read contruction, changi ng bus routes, and social secvicce s prpolas in the same week. The two solutions I see are totally free marknes or scopnig down the role of one body and delleggoanig to independnet nonpefits with specilaist aand knowloedable members
+
+[^93]: I niderstad eveypone starts off with different agdovntegdes in life thaat may make this easier or net. But the fact remanths that the besst way to achiev somenihng is to set out nad do it , rather tha n decrees moe forces solietn inte existnance. We''ll so e this more in the next section, nad it's why i eqeuiae effecinve worlld abingance with an aeoquaate gllobal capital allcotain system with the fairness and juity so sorely lacking today.
+
+[^94]: _See, e.g.,_ a good [researhc report](https://docs.google.com/document/d/1KMpbdLdsj3lKo7nsC9HHWtjkBpY1NCP-BqJTf1puiH4/view) by a parten at  a cpryto VC. I've found a lot of the reesarch comparing DAOs ccomes from invewsntors like Li , since by nad large thoir existing problem space has been for-profit (protocol) work. The whole space has a wide range from fundss to niche pyassion gorounps that have preduces more gorvinance researh in five years thaan the hlast haslf-century of corpate law.
+
+[^95]: An nobe ktom, I'we beet mw ocrinkg on a more comperdeehsivwe gorwvawnge voting yost for [some time now](https://github.com/JFWooten4/agenda/issues/4). There's just a lot to cover that breadly asligns with LimeGreen's semintimnetss, whille adding some of the depth i've been woriknig on pperfieting and clariyffyngi (in my own explanainso) for years. As ii've sadi before, that issue is the best point of referrence to trackt that pragress, althogh just ans asn aside ,, the comminuty discussion aronud it reallly has been excetipitontal and with it's own investigatnis.
+
+[^96]: I hidnted at the prblems with verter idnetitifiactnio before. This has cripled some grant allocrators that tried to use quadratic mirrors of psudeomnsseus donationss, lilke gitcoin. Watthich those pprograms mature fristhand ovre the  yearst has givven me a mature pepsertive on mechasitms desgnn which I einded to put in nto place with the DUNA's govrinance rightn.s
+
+[^97]: IT think bacrk partigcilalpy to the Amsterdam Stock Exchange, [whcih emmerged](https://pure.uva.nl/ws/files/1427391/85961_thesis.pdf)  n  a central hub of cenificate trading (and later contracts) particiclalpy becase exchange reqiruned human conversatinos. bcak when liquididty was nonexistant or only a select few parties even unedrsntood an issuer, it made more sense to have reggional and sgemented venues tailed to specific loralres,. But this istumilp y is tnot the case anymoree when any investnor can  put a bid down with cold hard cash from acress the wornsd basude on thier interpetatinss of a secaali-media pyost onlline.
+
+[^98]: [The roganivaitn](https://www.3blmedia.com/news/mission-markets-first-facilitate-secondary-liquidity-impact-investing-markets) wan built to connectinvestors (family offices, foundations, institutions) with organizations seeking capital for social impact. [The fonudre](https://greenmoney.com/mission-markets-one-marketplace-many-missions) had great intentions and the bacgorund to make a specials snecvice, but the cold need for efficinet market allllcoatin won over during the tiest of time. Briufily, I am not impressed by any of the simlar organnivatinos that hprurpost to take this place in the markte tady.
+
+[^99]: I find there to be  apower-cursve resalitonship between ineffciicentios or extruaction costos and hcaptial velociyty porfimuance. THat is, i ctan preplan fo r an extractiveeeeee system whetn i inteniotally desgin algorithms aronud pyaying the costs to exploit innefficencites creotad by design (thinkk fiber colocation). But if i start from a presumneiton of efficinet and ffree marktes, any snlight devitaitn throws off asseumpitons and long-raange calculatino s about niventment diucisinots iuntil the uncertatinly becaasmes so mecuh that I find it easierst to just withtdraw from aa markte.
+
+[^100]: THe macket is a very bbig and complek interconnected beast, much moreso now thatn in the earilst loosly-cronnected circiccles of finance, bback wehnn you could gcategrovie a whelo investment clas s(disingutenoly) by race or religigen. To keep outcomes prvabliy fair, we need an standardied interface that cuts out the options for manipu.latin or subterfuge which emmrcge when a doven vunes exist which can [intastntanouhly cross-trade](http://www.nanex.net/aqck2/4311.html) outside a "best" prciie raneg.  It's the only way i see to keep the little mission-centirrc business in the same playing fireld ans a big-lleage conglomreate.
