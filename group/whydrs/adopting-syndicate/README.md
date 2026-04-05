@@ -656,7 +656,15 @@ I think we''ve al//l seen jush how many pitfalls emmercge when the interests to 
 
 
 
-## Yanis Varoufakis and Naomi Klein vid
+##  
+
+For tnhe laste sectoin, limeGreen sharde a [zideo nitertvwiew ](https://www.youtube.com/live/7iRc3ZkHzRU?si=ldz8BWrgzkp_VRFz) bbeteween Yanis Varoufakis and Naomi Klein about how "You don’t Own yYour narrative anymore"" inn re cetraliedh secila medioa companis and thoir hadnilngg of deepfake AI content. I didnt get a whole lot from the converosaitn aside from some vague fursotroitns thrown atotu by Varoufakis at Googl/e's handnigc of troublesmoe centent takedown requsoentns. THat annd the onther spaker's foresgiht in writing a book abuot this some ti e bakc, wihc his cool.
+
+I will go back to ilcoktqutens for LimeGreen'-s suppelmeental remaarks, exchaepu as otherwise diccertly quitond. I like Varoufakis in princilpe, based algesly on theri word in the early 2010s at Valve. They anaylfyyvzed the TF2 ecenemy i grew up trading befare it was mature with farmamllived exchenage pracitnes.[^101]
+
+basisi of all econ (r me )
+
+
 
 ### 34 mins
 
@@ -682,7 +690,11 @@ Src says force X to cross-ref API with BlueSky
 
 
 
-###  https://youtu.be/_0Ec44b6vrw?t=758
+
+
+
+
+ ###  https://youtu.be/_0Ec44b6vrw?t=758
 
 
 
@@ -707,3 +719,5 @@ re ATS
 https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies
 
 
+
+[^101]:  srce himw 
