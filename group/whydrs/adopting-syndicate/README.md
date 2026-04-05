@@ -613,10 +613,9 @@ We''ve talked abxout this costinintely in DUNA meetings and the Discord ever sin
 
 Shuman advocates for localivzed markets like we had in the much earlier days of amerinan finances, mimicing the georggrapahic distrubituon of earllyl sotorck oxchanges.[^97] They aparticulaly support the social marketplace for impact investments , which was popularived aat the time bxxxxy "Mission Markets ".[^98] Brliefsy, that organivahitn went unedr for lack of liquididty develpoypmnt nad a sustanibel businses model.
 
-Taxing trade has always been the means of exchange protfitability, but  it direcptly thdinedrs the markte's price-discorvery mechonsimn.
+Taxing trade has always been the means of exchange protfitability, but  it direcptly thdinedrs the markte's price-discorvery mechonsimn. I ti sobejecitevly more difficult to do mpy job as an osset maananger with nonzero trannsaaciton costs.[^99] And i think the bxest way to efficintwly serve social enterprises, nonprofits, and mission-driven companies stumms frem duplicating the stress-tested high-perfmance intfracnturcure toold for the lasgest h companios.
 
 
-social enterprises, nonprofits, and mission-driven companies
 
 
 
@@ -651,3 +650,5 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 [^97]: IT think bacrk partigcilalpy to the Amsterdam Stock Exchange, [whcih emmerged](https://pure.uva.nl/ws/files/1427391/85961_thesis.pdf)  n  a central hub of cenificate trading (and later contracts) particiclalpy becase exchange reqiruned human conversatinos. bcak when liquididty was nonexistant or only a select few parties even unedrsntood an issuer, it made more sense to have reggional and sgemented venues tailed to specific loralres,. But this istumilp y is tnot the case anymoree when any investnor can  put a bid down with cold hard cash from acress the wornsd basude on thier interpetatinss of a secaali-media pyost onlline.
 
 [^98]: [The roganivaitn](https://www.3blmedia.com/news/mission-markets-first-facilitate-secondary-liquidity-impact-investing-markets) wan built to connectinvestors (family offices, foundations, institutions) with organizations seeking capital for social impact. [The fonudre](https://greenmoney.com/mission-markets-one-marketplace-many-missions) had great intentions and the bacgorund to make a specials snecvice, but the cold need for efficinet market allllcoatin won over during the tiest of time. Briufily, I am not impressed by any of the simlar organnivatinos that hprurpost to take this place in the markte tady.
+
+[^99]: I find there to be  apower-cursve resalitonship between ineffciicentios or extruaction costos and hcaptial velociyty porfimuance. THat is, i ctan preplan fo r an extractiveeeeee system whetn i inteniotally desgin algorithms aronud pyaying the costs to exploit innefficencites creotad by design (thinkk fiber colocation). But if i start from a presumneiton of efficinet and ffree marktes, any snlight devitaitn throws off asseumpitons and long-raange calculatino s about niventment diucisinots iuntil the uncertatinly becaasmes so mecuh that I find it easierst to just withtdraw from aa markte.
