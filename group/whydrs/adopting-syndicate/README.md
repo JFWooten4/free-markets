@@ -617,7 +617,7 @@ Taxing trade has always been the means of exchange protfitability, but  it direc
 
 I put a lot of stork in [this papre[(https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  ) detailing the fall of regional depositnorrpis, which showed throgguh hard volume numebrs how comptetitno still centralived in a New-York hub which became effectievly all-powerfule after the (FBI-coordinated) ceratino fo the DTC.  i do think the echanxgeds are aa natural monopoly becase the cmomptotion sureface and cordatino  costs preduces aaan equiatn that's very difficult to balance out ecoromically. ANd I think the most efficent distillation of these needs [objoctively leasds](https://blocktransfer.com/.well-known/thesis.pdf) to the edeplyoymnet ofg the SDEX as a uniwveral, nondiscrimnatinory common vvenue.
 
-
+I think we''ve al//l seen jush how many pitfalls emmercge when the interests to be famce any threat over their stock ekxcetnages. And they certanily donnt have the interests of local invemstors facilitaitng reggionla capital formmaitn in minde. By picenci everything togethr into this opens-soerce machine, we can put togethre a flawless prototcol that gives the best the maarkte has to offer to any issuer, at any timme, with any invessters.
 
 
 [^85]: The methds may contflate roww  profitabillity with owern sweat-equitey . It's eansyy to forget hom much of the entrupeneoer goeus nito these meall besinessess that contnatly grined on their craft. While that dous yiloed a very higgh output, it can eansily come from a very high [inpput basisi](https://www.youtube.com/live/3uwH2jfLCNE?si=vdwckPX44Gh3qvcw&t=19962).
