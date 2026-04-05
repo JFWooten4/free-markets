@@ -666,7 +666,7 @@ basisi of all econ (r me )
 
 
 
-### 34 mins
+### 34 mins (LimeGreen)
 
 > As things become more efficient (financially for owners), what gets lost? We’ve come to a place of digital supremacy where people are less and less interacting in person with each other. How does this affect the social reality/realm? How does this then affect the psychic realm of individuals?
 
@@ -675,14 +675,14 @@ basisi of all econ (r me )
 Not sure, not most, but agree with decentralizing, not individual ownership.
 
 
-### 40 mins
+### 40 mins(LimeGreen)
 
 > Socializing the means of communication. Allowing people to own their digital identities, their digital footprint, their digital labors. “Theft tech,” the enclosure of everything by a digital alternative (Google Maps, Ring cameras, AI stealing all art, creativity, and human labor that had been shared on the internet). The idea of “sacred” — things that cannot be owned except owned by all and must be properly stewarded by all.
 
 This and digital serfdom / technocracy came up a lot. Not exactly what I’m getting at right now.
 
 
-### 52 mins
+### 52 mins (LimeGreen)
 
 > Need a bill of digital rights. We need interoperability. Socialization of all entities that reach network effect.
 
@@ -694,8 +694,29 @@ Src says force X to cross-ref API with BlueSky
 
 
 
- ###  https://youtu.be/_0Ec44b6vrw?t=758
+ ###  https://youtu.be/_0Ec44b6vrw?t=758 TF2 trade icon ex protoral
 
+
+
+~~~ Sordicur
+https://discord.com/channels/1102309240145707049/1102309240741310503/1477335548220805141
+
+
+what would a 'FINRA' for blockchain trades/DUNA's look like? 
+it is US government run? Can it be non-bias?
+
+ I feel like finra is biased for brokers, being run by brokers. 
+
+
+
+
+What kind of arguments would brokers make against people and companies moving to this system? 
+is it purely 'convenience to trade'. 
+
+What stops a centralization similar to DTCC where a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)
+
+
+~~~
 
 
 
@@ -716,8 +737,24 @@ re ATS
 > Trading in TF2 is very cumbersome by comparison to more refined markets such as the local grocery store. I could spent an hour going across trade servers trying to “buy” low and “sell” high, but I would be forgoing an entire hour of playing the game.
 > As a trader, I may want to seek arbitrage in order to increase my stock of items, but finding arbitrage would involve jumping from server to server.
 —  Tony Hua](https://governmentmusket.wordpress.com/)
+commentor on 
 https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies
 
 
 
+
+
+
+
+
+
+
+if im issed any :s we con end-ref on the AGHM nad commentss / cdiscord chattn
+
+
 [^101]:  srce himw 
+
+
+
+
+
