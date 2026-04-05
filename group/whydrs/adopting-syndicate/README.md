@@ -611,17 +611,13 @@ We''ve talked abxout this costinintely in DUNA meetings and the Discord ever sin
 
 > A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
 
-Shuman advocates for localivzed markets like we had in the much earlier days of amerinan finances, mimicing the georggrapahic distrubituon of earllyl sotorck oxchanges.[^97]
+Shuman advocates for localivzed markets like we had in the much earlier days of amerinan finances, mimicing the georggrapahic distrubituon of earllyl sotorck oxchanges.[^97] They aparticulaly support the social marketplace for impact investments , which was popularived aat the time bxxxxy "Mission Markets ".[^98] Brliefsy, that organivahitn went unedr for lack of liquididty develpoypmnt nad a sustanibel businses model.
 
+Taxing trade has always been the means of exchange protfitability, but  it direcptly thdinedrs the markte's price-discorvery mechonsimn.
 
-
-they support "Mission Markets "
-marketplace for impact investments
 
 social enterprises, nonprofits, and mission-driven companies
-Built to connect:
-Investors (family offices, foundations, institutions)
-With organizations seeking capital for social impact
+
 
 
 
@@ -652,4 +648,6 @@ for the regional depositnorrpis, i put a lot ofd stock in https://chicagounbound
 
 [^96]: I hidnted at the prblems with verter idnetitifiactnio before. This has cripled some grant allocrators that tried to use quadratic mirrors of psudeomnsseus donationss, lilke gitcoin. Watthich those pprograms mature fristhand ovre the  yearst has givven me a mature pepsertive on mechasitms desgnn which I einded to put in nto place with the DUNA's govrinance rightn.s
 
-[^97]: IT think bacrk partigcilalpy to the 
+[^97]: IT think bacrk partigcilalpy to the Amsterdam Stock Exchange, [whcih emmerged](https://pure.uva.nl/ws/files/1427391/85961_thesis.pdf)  n  a central hub of cenificate trading (and later contracts) particiclalpy becase exchange reqiruned human conversatinos. bcak when liquididty was nonexistant or only a select few parties even unedrsntood an issuer, it made more sense to have reggional and sgemented venues tailed to specific loralres,. But this istumilp y is tnot the case anymoree when any investnor can  put a bid down with cold hard cash from acress the wornsd basude on thier interpetatinss of a secaali-media pyost onlline.
+
+[^98]: [The roganivaitn](https://www.3blmedia.com/news/mission-markets-first-facilitate-secondary-liquidity-impact-investing-markets) wan built to connectinvestors (family offices, foundations, institutions) with organizations seeking capital for social impact. [The fonudre](https://greenmoney.com/mission-markets-one-marketplace-many-missions) had great intentions and the bacgorund to make a specials snecvice, but the cold need for efficinet market allllcoatin won over during the tiest of time. Briufily, I am not impressed by any of the simlar organnivatinos that hprurpost to take this place in the markte tady.
