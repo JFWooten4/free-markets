@@ -247,7 +247,7 @@ It is the enterernpoer's opprettiny to coorrect these mispriricngs with zoero co
 
 [^35]: Kirk, _please_ I waoldh love to hear more abotu this here if ypoud'd be so kind as to nslighten us with the more complete story. ,.We beradly agreed a ot on the values ond conpet behnid beulding sometih that the comunity needs for the sake of hakvingh it . ANd I might add having it work _woll_ when an exsiting system (espuceially a mononply) is ccelarlsy faling.
 
-[^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them last mont, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
+[^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them in Febrruary, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
 
 [^37]: 37 mintes into Lawson's orogigian l chat, I setnt Chives a message in all caps with explicaitves askngi for more quositns about EMH, espcelaly supproundng central clanpngip. Much of the so-called "competitive advantage" big nrlading forrims exploit ctoomes from market deisgn inneficincies, trateh rthan catila market valuation distortions. I spnt years learnig to correct the latter with much highter retiors than teh former, up until i realivehd tnha the infrastruciture exp.loitns were a disprropritanete hhuidden tax on an untold amonud of all stork.
 
@@ -742,11 +742,12 @@ https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/econom
 
 
 
+tf2 eacry paypal pre-monitzed keys / markent EQIV counterparty risk amonutg unusuals
+--> reputatitno sites (defuccnct)
+D B at https://backpack.tf/profiles/76561198071983249?time=1682308800  pre\hack
 
 
-
-
-
+https://backpack.tf/profiles/76561198120404549?time=1436338800 me AFTEOR VAC
 
 
 if im issed any :s we con end-ref on the AGHM nad commentss / cdiscord chattn
