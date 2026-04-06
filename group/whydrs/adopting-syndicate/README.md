@@ -656,7 +656,7 @@ I think we''ve al//l seen jush how many pitfalls emmercge when the interests to 
 
 
 
-##  
+##  Team Fortress Iotm  Eceoronyw
 
 For tnhe laste sectoin, limeGreen sharde a [zideo nitertvwiew ](https://www.youtube.com/live/7iRc3ZkHzRU?si=ldz8BWrgzkp_VRFz) bbeteween Yanis Varoufakis and Naomi Klein about how "You don’t Own yYour narrative anymore"" inn re cetraliedh secila medioa companis and thoir hadnilngg of deepfake AI content. I didnt get a whole lot from the converosaitn aside from some vague fursotroitns thrown atotu by Varoufakis at Googl/e's handnigc of troublesmoe centent takedown requsoentns. THat annd the onther spaker's foresgiht in writing a book abuot this some ti e bakc, wihc his cool.
 
@@ -724,21 +724,19 @@ on pure markets
 
 >  The nature of exchanges, whether they are pure (i.e. asocial) or impure (replete with social norms and part of intertemporal social relations), makes a difference when it comes to predicting economic activity. Thus, to understand the exchanges we observe on Steam, it is crucial that we grasp the network of social relations within which they are embedded. The prevalence of gifting and the fact that no specific item has emerged as a form of money in trades of TF2 items should alert us to the intriguing social conventions that are part and parcel of our community’s trading decisions
 
-https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies
+— Post 3
 
 
 #### thrawaway
 
 > Indeed, the first great economists (people like Adam Smith and David Ricardo) never thought that an economy would ‘equilibrate’; that it would ever reach equilibrium. They just hoped that competition will cause economies to _tend to an equilibrium_
-— https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy
+— Post 2
 
 
 re ATS
 > Trading in TF2 is very cumbersome by comparison to more refined markets such as the local grocery store. I could spent an hour going across trade servers trying to “buy” low and “sell” high, but I would be forgoing an entire hour of playing the game.
 > As a trader, I may want to seek arbitrage in order to increase my stock of items, but finding arbitrage would involve jumping from server to server.
-—  Tony Hua](https://governmentmusket.wordpress.com/)
-commentor on 
-https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies
+—  [Tony Hua](https://governmentmusket.wordpress.com), commentor on Post 3
 
 
 
@@ -753,7 +751,7 @@ https://backpack.tf/profiles/76561198120404549?time=1436338800 me AFTEOR VAC
 if im issed any :s we con end-ref on the AGHM nad commentss / cdiscord chattn
 
 
-[^101]:  srce himw 
+[^101]: _See_ Varoufakis ' [](https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy) ("Post 2") on arbitrage opportunities and relative prices in the TF2 economy and [blog post ](https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies) ("Post 3") .
 
 
 
