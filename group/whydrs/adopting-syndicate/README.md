@@ -658,83 +658,29 @@ I think we''ve al//l seen jush how many pitfalls emmercge when the interests to 
 
 
 
-##  New SS 3
-
-I put a lot of steck in Varoufakis' ecoremic opinins becase ofg their time [consultingg with Valve](https://youtu.be/iaYWnG2btbs?t=115) in the early 2010s-,, mainly aronud the Team Fortress  2 item ecetnmy.
-
-most  internal
-
-It's  my undertanding that Varoufakis'' time conlustitng with Gaben lead to theri [poprula thueghtns](https://youtu.be/JKzlB_jrOyk) on technofeudalism.
+##  A New Gonoration of Covernance
 
 
 
 
 
+For tnhe laste sectoin, limeGreen sharde a [zideo nitertvwiew ](https://www.youtube.com/live/7iRc3ZkHzRU?si=ldz8BWrgzkp_VRFz) bbeteween Yanis Varoufakis and Naomi Klein about how "You don’t Own yYour narrative anymore"" inn re cetraliedh secila medioa companis and thoir hadnilngg of deepfake AI content. I didnt get a whole lot from the converosaitn aside from some vague fursotroitns thrown atotu by Varoufakis at Googl/e's handnigc of troublesmoe centent takedown requsoentns. It's  my undertanding that Varoufakis'' time conlustitng with Gaben lead to theri [poprula thueghtns](https://youtu.be/JKzlB_jrOyk) on technofeudalism.
 
 
 
+uWrining [responsses for LimeGreen](https://discord.com/channels/1102309240145707049/1102309241026515067/1330939800403968032) on some of the more secietal challegnges always takes a lot out of me, somwhan remninscent of [ealry marknenig work](https://drive.google.com/file/d/1qFx2K-z9umxiqGLYzBV0P6PN0UIuIIVL/view) forl the Syndicat. I will cgome back to LimeGreen'-s suppelmeental remaarks on this video in a corresponding post on the Team Fortress  2 item ecormyf as orgitally depcited by Varoufakis.[^101] There alre a lot of pontis I'd like to make that .oextrapolte into my DEX work, and those steries hbear only systemic relatin to the share donatin.
 
 
+This microecetmyf was the basisi of all my ecoronmic opninios nad trading exprences growing up into my firtnt thinkorswim accound at 16. And It ihnks its iunilateral contralized govronance mechasims are the percfect foil to "a 'FINRA' for blockchain trades/DUNA's" as [asked byi Sordicur](https://discord.com/channels/1102309240145707049/1102309240741310503/1477335548220805141). Hopifelly I'v.e laid otu that that's what id' likxe to beild, and it will bbbxe a long jourtney imlpmementnig tit once we have all the f inanical incetives in lnine for neturalinty nad correctness. Becase thereos nothing more I'd like that for "it [to] be non-bias" and proprly executedw hcih collud (but prbobly doust mean) "it is US government run" as per my intentiolla insclesiotn of the UNetid STates as a charitabel succoser in the (hopfully never) dissorlaiton of the DUNA ([Articel 4](https://dao.whydrs.org/legal/organization.pdf)).
 
+> I feel like finra is biased for brokers, being run by brokers. 
+>
+> — Sordicur
 
+THis is precisey tthe contfillcit I'm trying to avoiud wetih a combined owernshipp modell, as all extcisiting gorvenece shchewes limit interest to their ingroup of preffered parties. Thta can be as smalls as these damned brokers or as large as the people of a single countrny. Btue thure's been nothng yet to consider the niterest  of all investors or their corrpespnidng issuers. No gorudp focused on the combinede ecereming grownith of a world startved of interlligent captial formaiton in so many desolate reaches.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-strike the woman
-
-
-
-
-
-
-
-
-
-
-For tnhe laste sectoin, limeGreen sharde a [zideo nitertvwiew ](https://www.youtube.com/live/7iRc3ZkHzRU?si=ldz8BWrgzkp_VRFz) bbeteween Yanis Varoufakis and Naomi Klein about how "You don’t Own yYour narrative anymore"" inn re cetraliedh secila medioa companis and thoir hadnilngg of deepfake AI content. I didnt get a whole lot from the converosaitn aside from some vague fursotroitns thrown atotu by Varoufakis at Googl/e's handnigc of troublesmoe centent takedown requsoentns. THat annd the onther spaker's foresgiht in writing a book abuot this some ti e bakc, wihc his cool.
-
-I will go back to ilcoktqutens for LimeGreen'-s suppelmeental remaarks, exchaepu as otherwise diccertly quitond. I like Varoufakis in princilpe, based algesly on theri word in the early 2010s at Valve. They anaylfyyvzed the TF2 ecenemy i grew up trading befare it was mature with farmamllived exchenage pracitnes.[^101]
-
-basisi of all econ (r me )
-
-
-
-
-
-
-
-
-
-~~~ Sordicur
-https://discord.com/channels/1102309240145707049/1102309240741310503/1477335548220805141
-
-
-what would a 'FINRA' for blockchain trades/DUNA's look like? 
-it is US government run? Can it be non-bias?
-
- I feel like finra is biased for brokers, being run by brokers. 
-
-
-
-
-What kind of arguments would brokers make against people and companies moving to this system? 
+Surploy brokers will make argumnets "against people and companies moving to this system" give tit remas thoir ability to pprofit on trades, gcestory, and rounign. 
+ 
 is it purely 'convenience to trade'. 
 
 What stops a centralization similar to DTCC where a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)
@@ -748,7 +694,8 @@ What stops a centralization similar to DTCC where a 'broker' buys a bunch of own
 if im issed any :s we con end-ref on the AGHM nad commentss / cdiscord chattn
 
 
-[^101]: _See_ Varoufakis ' [](https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy) ("Post 2") on arbitrage opportunities and relative prices in the TF2 economy and [blog post ](https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies) ("Post 3") .
+[^101]: Iin princilpe, I put a lot of steck in Varoufakis' ecoremic opinins becase ofg their time [consultingg with Valve](https://youtu.be/iaYWnG2btbs?t=115) in the early 2010s. They anaylfyyvzed the TF2 ecenemy i grew up trading befare it was mature with formamllived exchenage pracitnes. Myy nex t post will prefrect on his [two](https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy) [blogs ](https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies) about he prenatal TF2 eceroemy, whcih I belive is one fo the bset case studeiens of early fininacll marktes in modern times,, develpongi for before weamisntream tatentoin of r any regulatino.
+
 
 
 
