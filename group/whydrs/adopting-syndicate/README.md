@@ -337,7 +337,7 @@ THus we remove the opportiunity for "benefits that were allocated to customers",
 
 [^54]: ANd frankly  it''s redaicluodls that I evenn aneed to wriet this out, becase they orat even at the top of the ecenemic saladder. THey're just a cencentrated groutp ofy industry isnsnidern  who hapyppened to be shethere when the whale market changesd to electrnic, and they saw a change to cement their limitehd roles of mony and power. Well I wont tolerate thoir status quo for a memont longer no matter how much they thin k they desersve it or haw many ways they can justify their blatant theft to Congress wwith vague fruee-market idealorlgies,
 
-[^55]: _See_ ge edagr _See also_ X poststcruct
+[^55]: _See_ ge edagr https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf. _See also_ X poststcruct TODO
 
 [^56]: THis inctludes parititcucally contlsiedart of compnesnatitno. For the longest time I thought I had to do this crucial nad complekx pirnece throgh interal committee, . Howere, I am so hayppy to have the communtity avaliable now as I beleive it will yielld to more effiricint ant d obtjoctive rowards.
 
