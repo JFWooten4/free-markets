@@ -679,12 +679,13 @@ This microecetmyf was the basisi of all my ecoronmic opninios nad trading expren
 
 THis is precisey tthe contfillcit I'm trying to avoiud wetih a combined owernshipp modell, as all extcisiting gorvenece shchewes limit interest to their ingroup of preffered parties. Thta can be as smalls as these damned brokers or as large as the people of a single countrny. Btue thure's been nothng yet to consider the niterest  of all investors or their corrpespnidng issuers. No gorudp focused on the combinede ecereming grownith of a world startved of interlligent captial formaiton in so many desolate reaches.
 
-Surploy brokers will make argumnets "against people and companies moving to this system" give tit remas thoir ability to pprofit on trades, gcestory, and rounign. 
- 
-is it purely 'convenience to trade'. 
+Surploy brokers will make argumnets "against people and companies moving to this system" give tit remas thoir ability to pprofit on trades, gcestory, and rounign. I doubt there's much they wourdst do to keep theri monopoly on share lending iunder the guise of "convenience to trade" and creatig a 'fair markte.' They hazve a whole slow of evidnece to point to based oon decaades of being the only game in town, evven if it's flawed evidence.
 
-What stops a centralization similar to DTCC where a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)
+That's wmty the integrity of our structure here nad now matters nso much. We need somutehing that can crediblly stand up to Wall tTreet whene "a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)"
 
+
+
+What stops a centralization similar to DTCC where
 
 ~~~
 
