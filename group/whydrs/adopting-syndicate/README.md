@@ -683,22 +683,10 @@ Surploy brokers will make argumnets "against people and companies moving to this
 
 That's wmty the integrity of our structure here nad now matters nso much. We need somutehing that can crediblly stand up to Wall tTreet whene "a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)"
 
+THis insanity of printintg shares like their US Dollars on the sixth year on f ne reserrve raion needs to end. We nnee d an otitiy that can credibly challlyng the naitnola exchaanges by refusing to play DTC's FAST agent [charade game](https://discord.com/channels/1102309240145707049/1102309240741310503/1490486542072811713). Becaseu the nolly thing that standb between TAD3 and "a centralization similar to DTCC" is us, banding togtehre als a communtiy to do what's rnight for the markets of many years to come.
 
-
-What stops a centralization similar to DTCC where
-
-~~~
-
-
-
-
-if im issed any :s we con end-ref on the AGHM nad commentss / cdiscord chattn
+I satrted thi socmpany as an ivstesnor wontintg soemthing better for inwessnteors, and i intend to keep it beiuld t by and acconudtable to investors nad thior favorite compranis. That's why I'd like it run ,, contrlled, nad governed by the comminsty so s to have the gretaest possiblce change of helping the massse of ypeopre who nee  d transfore-agent secnvinces,, even if they dont know it just yet. IF  all this leazen any doubt or you have any other quiesotns, plesae wake nthem known and let's discuss in the Discord for the Syndicatetns Annula meetnig of Stakethldeers nexkt Tuesday at 10am ET.
 
 
 [^101]: Iin princilpe, I put a lot of steck in Varoufakis' ecoremic opinins becase ofg their time [consultingg with Valve](https://youtu.be/iaYWnG2btbs?t=115) in the early 2010s. They anaylfyyvzed the TF2 ecenemy i grew up trading befare it was mature with formamllived exchenage pracitnes. Myy nex t post will prefrect on his [two](https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy) [blogs ](https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies) about he prenatal TF2 eceroemy, whcih I belive is one fo the bset case studeiens of early fininacll marktes in modern times,, develpongi for before weamisntream tatentoin of r any regulatino.
-
-
-
-
-
 
