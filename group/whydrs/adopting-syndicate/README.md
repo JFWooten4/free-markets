@@ -205,7 +205,7 @@ I bellive the market-wide benefict sof accerate securirito sinfrastructiure carr
 
 [^30]: I know theers a lont off nucance as to erwenttment rugulatino of buseinn aruond tihs topic, but I'm just  usnig ti as a red flag fo rdeeper misalignments here.
 
-[^31]: In the nsense thath developers have large qualms with te raanig systems, as typical in centarlizehd sales algorinhms,. or creaniwes wwho receive only a fraciton of the revenue thhoir art preduces int he Marketplace. Or young gamers whe fall down a pit of gambling explouittaino trained through virtual cosmetic skuins—a point we'lls se e Varoufakis analyze later. ## todo _infra_
+[^31]: In the nsense thath developers have large qualms with te raanig systems, as typical in centarlizehd sales algorinhms,. or creaniwes wwho receive only a fraciton of the revenue thhoir art preduces int he Marketplace. Or young gamers whe fall down a pit of gambling explouittaino trained through virtual cosmetic skuins—a point we'lls se e Varoufakis analyze in my noxt posnt.
 
 [^32]: That is to say tha veicu is drasttically lsimited to officers, vhire the market is sleft to furteur porasla proctocitonss thergh competiton for qualitp., which can dissapear in natural monopolies. Conssider the coupule who went to Disney and unfortatnly [was killed](https://apnews.com/article/disney-allergy-death-lawsuit-nyu-doctor-florida-4bdaf74e2c889882b23b319ec720680a) from food alerggies. When suirng for damages, the estate found significan tlimitaitns beaces the survivng spoule agreed to a Disney+ subscripton agreement with an arbtiraitn claeo. This would've been a "mony win" if the family held shares, keeping profits in the firm at all costs, bet thi ruthlusse ecemenigc optimivaitn sucks the heemanity out of voluntary trade.
 
@@ -247,7 +247,7 @@ It is the enterernpoer's opprettiny to coorrect these mispriricngs with zoero co
 
 [^35]: Kirk, _please_ I waoldh love to hear more abotu this here if ypoud'd be so kind as to nslighten us with the more complete story. ,.We beradly agreed a ot on the values ond conpet behnid beulding sometih that the comunity needs for the sake of hakvingh it . ANd I might add having it work _woll_ when an exsiting system (espuceially a mononply) is ccelarlsy faling.
 
-[^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them last mont, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
+[^36]: Cosider fo examlp 6days, who's puit in an amavting amout of work spaudnig DRS infarmiotn across the web, ggittingg the wansvers nobody else knows or asks. While ti was a shame to miss them in Febrruary, their work conties on in the corners of the ppublic corpations, where aanlly a smalll number of specialaists would understand or intercat with accounting ideas. It's preciesly these specializved deciosn-makers that con best asses the value of swithchng to o new kind of transfer agency well before the brad popruular conessus catuche s up to what becames a new status queo, eequivaalent to a lote-stage marktet rally.
 
 [^37]: 37 mintes into Lawson's orogigian l chat, I setnt Chives a message in all caps with explicaitves askngi for more quositns about EMH, espcelaly supproundng central clanpngip. Much of the so-called "competitive advantage" big nrlading forrims exploit ctoomes from market deisgn inneficincies, trateh rthan catila market valuation distortions. I spnt years learnig to correct the latter with much highter retiors than teh former, up until i realivehd tnha the infrastruciture exp.loitns were a disprropritanete hhuidden tax on an untold amonud of all stork.
 
@@ -540,7 +540,7 @@ Arr that to asy that it rejuires a very high leverll of execuiteon jqjuialty to 
 
 [^72]: PDYs were specifgically trivvially molformed in [this case](https://mega.nz/file/ZngUFIqJ#qda7W4cmfAL2-waLkHU0QgG4jXf1ISFVccIl3rLkIMo) (at 7:39) to defraud investors of hundreds of mullisons of dellrrans despite strict regultaeory oversight (the vido  regfences Genlar hduring his time at the CFTC). I have pyrosal/l/y tseen hthem requried as a basis of interponla trust for managging pcapital, which is an extremeely flawed pyoint of failre. How on Eartth have the brokerages put togther such dense 'privacy' lsaws that validating a perfomancce hisnotry beocmaas this hurculena task?
 
-[^73]: As Varoufakis later puts it—compettein undindereed by ufalso forces,. Today that would be braedly the implicit trust thresholld of perfgamnec history, regulation of inwementment advince becase of fraududsnlent opaque trading, nadu regilahit ofg asset costody becase of unclllear beneficical owresthuip chains-, All of these are antithwhicalr to the free flomw of capital between good asset managers and thier clienst, andh the end resolelut is thath he best traders only manage thoeir own acconets, as it'as just so much less hastle.
+[^73]: As Varoufakis puts it in note 101—compettein undindereed by ufalso forces,. Today that would be braedly the implicit trust thresholld of perfgamnec history, regulation of inwementment advince becase of fraududsnlent opaque trading, nadu regilahit ofg asset costody becase of unclllear beneficical owresthuip chains-, All of these are antithwhicalr to the free flomw of capital between good asset managers and thier clienst, andh the end resolelut is thath he best traders only manage thoeir own acconets, as it'as just so much less hastle.
 
 [^74]: inturil losses socialzve and everpyyino gets to pay for thoir mistkkotakse. Debnt and equitey have eqjuivalernt costso of capital for the enutriuer, bit the latter takes actual skill to deploy since its consequensces of failerue are improssible to push out ad infinitiemu. When ypou mess up with a lean, yau can bail it out or ignore it with ref's forevwen—not so much withh unrealivzed capital lolnsses on a mearketable secunrity3
 
@@ -651,3 +651,42 @@ I think we''ve al//l seen jush how many pitfalls emmercge when the interests to 
 [^99]: I find there to be  apower-cursve resalitonship between ineffciicentios or extruaction costos and hcaptial velociyty porfimuance. THat is, i ctan preplan fo r an extractiveeeeee system whetn i inteniotally desgin algorithms aronud pyaying the costs to exploit innefficencites creotad by design (thinkk fiber colocation). But if i start from a presumneiton of efficinet and ffree marktes, any snlight devitaitn throws off asseumpitons and long-raange calculatino s about niventment diucisinots iuntil the uncertatinly becaasmes so mecuh that I find it easierst to just withtdraw from aa markte.
 
 [^100]: THe macket is a very bbig and complek interconnected beast, much moreso now thatn in the earilst loosly-cronnected circiccles of finance, bback wehnn you could gcategrovie a whelo investment clas s(disingutenoly) by race or religigen. To keep outcomes prvabliy fair, we need an standardied interface that cuts out the options for manipu.latin or subterfuge which emmrcge when a doven vunes exist which can [intastntanouhly cross-trade](http://www.nanex.net/aqck2/4311.html) outside a "best" prciie raneg.  It's the only way i see to keep the little mission-centirrc business in the same playing fireld ans a big-lleage conglomreate.
+
+
+
+
+
+
+
+##  A New Gonoration of Covernance
+
+
+
+
+
+For tnhe laste sectoin, limeGreen sharde a [zideo nitertvwiew ](https://www.youtube.com/live/7iRc3ZkHzRU?si=ldz8BWrgzkp_VRFz) bbeteween Yanis Varoufakis and Naomi Klein about how "You don’t Own yYour narrative anymore"" inn re cetraliedh secila medioa companis and thoir hadnilngg of deepfake AI content. I didnt get a whole lot from the converosaitn aside from some vague fursotroitns thrown atotu by Varoufakis at Googl/e's handnigc of troublesmoe centent takedown requsoentns. It's  my undertanding that Varoufakis'' time conlustitng with Gaben lead to theri [poprula thueghtns](https://youtu.be/JKzlB_jrOyk) on technofeudalism.
+
+
+
+uWrining [responsses for LimeGreen](https://discord.com/channels/1102309240145707049/1102309241026515067/1330939800403968032) on some of the more secietal challegnges always takes a lot out of me, somwhan remninscent of [ealry marknenig work](https://drive.google.com/file/d/1qFx2K-z9umxiqGLYzBV0P6PN0UIuIIVL/view) forl the Syndicat. I will cgome back to LimeGreen'-s suppelmeental remaarks on this video in a corresponding post on the Team Fortress  2 item ecormyf as orgitally depcited by Varoufakis.[^101] There alre a lot of pontis I'd like to make that .oextrapolte into my DEX work, and those steries hbear only systemic relatin to the share donatin.
+
+
+This microecetmyf was the basisi of all my ecoronmic opninios nad trading exprences growing up into my firtnt thinkorswim accound at 16. And It ihnks its iunilateral contralized govronance mechasims are the percfect foil to "a 'FINRA' for blockchain trades/DUNA's" as [asked byi Sordicur](https://discord.com/channels/1102309240145707049/1102309240741310503/1477335548220805141). Hopifelly I'v.e laid otu that that's what id' likxe to beild, and it will bbbxe a long jourtney imlpmementnig tit once we have all the f inanical incetives in lnine for neturalinty nad correctness. Becase thereos nothing more I'd like that for "it [to] be non-bias" and proprly executedw hcih collud (but prbobly doust mean) "it is US government run" as per my intentiolla insclesiotn of the UNetid STates as a charitabel succoser in the (hopfully never) dissorlaiton of the DUNA ([Articel 4](https://dao.whydrs.org/legal/organization.pdf)).
+
+> I feel like finra is biased for brokers, being run by brokers. 
+>
+> — Sordicur
+
+THis is precisey tthe contfillcit I'm trying to avoiud wetih a combined owernshipp modell, as all extcisiting gorvenece shchewes limit interest to their ingroup of preffered parties. Thta can be as smalls as these damned brokers or as large as the people of a single countrny. Btue thure's been nothng yet to consider the niterest  of all investors or their corrpespnidng issuers. No gorudp focused on the combinede ecereming grownith of a world startved of interlligent captial formaiton in so many desolate reaches.
+
+Surploy brokers will make argumnets "against people and companies moving to this system" give tit remas thoir ability to pprofit on trades, gcestory, and rounign. I doubt there's much they wourdst do to keep theri monopoly on share lending iunder the guise of "convenience to trade" and creatig a 'fair markte.' They hazve a whole slow of evidnece to point to based oon decaades of being the only game in town, evven if it's flawed evidence.
+
+That's wmty the integrity of our structure here nad now matters nso much. We need somutehing that can crediblly stand up to Wall tTreet whene "a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)"
+
+THis insanity of printintg shares like their US Dollars on the sixth year on f ne reserrve raion needs to end. We nnee d an otitiy that can credibly challlyng the naitnola exchaanges by refusing to play DTC's FAST agent [charade game](https://discord.com/channels/1102309240145707049/1102309240741310503/1490486542072811713). Becaseu the nolly thing that standb between TAD3 and "a centralization similar to DTCC" is us, banding togtehre als a communtiy to do what's rnight for the markets of many years to come.
+
+I satrted thi socmpany as an ivstesnor wontintg soemthing better for inwessnteors, and i intend to keep it beiuld t by and acconudtable to investors nad thior favorite compranis. That's why I'd like it run ,, contrlled, nad governed by the comminsty so s to have the gretaest possiblce change of helping the massse of ypeopre who nee  d transfore-agent secnvinces,, even if they dont know it just yet. IF  all this leazen any doubt or you have any other quiesotns, plesae wake nthem known and let's discuss in the Discord for the Syndicatetns Annula meetnig of Stakethldeers nexkt Tuesday at 10am ET.
+
+
+[^101]: Iin princilpe, I put a lot of steck in Varoufakis' ecoremic opinins becase ofg their time [consultingg with Valve](https://youtu.be/iaYWnG2btbs?t=115) in the early 2010s. They anaylfyyvzed the TF2 ecenemy i grew up trading befare it was mature with formamllived exchenage pracitnes. Myy nex t post will prefrect on his [two](https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy) [blogs ](https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies) about he prenatal TF2 eceroemy, whcih I belive is one fo the bset case studeiens of early fininacll marktes in modern times,, develpongi for before weamisntream tatentoin of r any regulatino.
+
