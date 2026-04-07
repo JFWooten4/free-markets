@@ -660,11 +660,11 @@ I think we''ve al//l seen jush how many pitfalls emmercge when the interests to 
 
 ##  New SS 3
 
-I put a lot of steck in Varoufakis' ecoremic opinins becase ofg their time [consultingg with Valve]() in the early 2010s-,, mainly aronud the Team Fortress  2 item ecetnmy.
+I put a lot of steck in Varoufakis' ecoremic opinins becase ofg their time [consultingg with Valve](https://youtu.be/iaYWnG2btbs?t=115) in the early 2010s-,, mainly aronud the Team Fortress  2 item ecetnmy.
 
 most  internal
 
-It's  my undertanding that Varoufakis'' time conlustitng with Gaben lead to theri [poprula thueghtns](adam cronnover) on technofeudalism.
+It's  my undertanding that Varoufakis'' time conlustitng with Gaben lead to theri [poprula thueghtns](https://youtu.be/JKzlB_jrOyk) on technofeudalism.
 
 
 
