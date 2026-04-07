@@ -4,52 +4,44 @@ submit: Mar 2026
 dialog: https://github.com/orgs/WhyDRS/discussions/new?category=blocktransfer &&set Notice@ re https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230
 ```
 
-# Q&A on Propolsed and Plrelimanrilly-Accepted Shre Donatnion
+# Q&A on Proposed and Preliminarily-Accepted Share Donation
 
-Hi guys and thanks again for the overweliwns summert on the deonaation vote. It'ls a real relief after all this setup work over the years... Ju.st knowming werue all really on the same team , and I'm not sintting arunod imagining possible things.
+Hi guys, and thanks again for the overwhelming support on the donation vote. It's a real relief after all this setup work over the years. Just knowing we're all really on the same team, and I'm not sitting around imagining possible things.
 
-I'm excited to get things mmoving forward at "180 MPH" lol. It's reaally only possible becaese of everyone here that makes it work togethre. IT was aweswome putting a face to some inspired names: 
+I'm excited to get things moving forward at "180 MPH" lol. It's really only possible because of everyone here that makes it work together. It was awesome putting a face to some inspired names:
 
-[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G) /> ## todo  replace when pub w/ img
+[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G) /> ## todo replace when pub w/ img
 
 ## Expanding Manpower
 
-Theres been chatter cin  a few places for a while about grovwincg the  BT teamw,, partuiugrarrllp to onbard new issures. First of all , the Commisshion has expressed no qualms with our expanding oprecations. I expllicitly refenced taking on new gclients  in Rospensoe items, and we are good so long as the _TAD systems are good_.
+There's been chatter in a few places for a while about growing the BT team, particularly to onboard new issuers. First of all, the Commission has expressed no qualms with our expanding operations. I explicitly referenced taking on new clients in response items, and we are good so long as the _TAD systems are good_.
 
-I indtent to work relentlessly on those after the crucial DEX work setup these next monts. As for ppossibly .gitting a "second underlying company to become a client"  - theres two parts to the ansevr. Thu first is just the boring techniarll reality of lackjting interfaces-.p[^1]
+I intend to work relentlessly on those after the crucial DEX work setup these next months. As for possibly getting a "second underlying company to become a client" - there are two parts to the answer. The first is just the boring technical reality of lacking interfaces.[^1]
 
-### Opet Paciicipation
+### Open Participation
 
-One of my biggest gals with moving over the shaens is permissoinsless contributions. AOOEnge wwe alighn  eceremic rewards with teh DAO, anyone can contirbite teo the projeucts with the presemmupniot of future rewards. That is their value can accre to a provably open and accepssable entitiy to which they cat get money form.
+One of my biggest goals with moving over the shares is permissionless contributions. Once we align economic rewards with the DAO, anyone can contribute to the projects with the presumption of future rewards. That is, their value can accrue to a provably open and accessible entity from which they can get money.
 
-SThe sechamntics of that willl surply take some time to develop.. Theres some real nuarrce on things that want to be nonppreift and just havve volluneteter contirbetrpso. [^2] But thue paint is that anyone shold be able to bring new clienls onbald at some pyaint, and we can trackt thaat. 
+The semantics of that will surely take some time to develop. There's some real nuance on things that want to be nonprofit and just have volunteer contributors.[^2] But the point is that anyone should be able to bring new clients onboard at some point, and we can track that.
 
-THeres twork to do like https://github.com/blocktransfer/TAD3/issues/4 to make thast specifically possible, and anyone can conturibet to it. So this when "we begin to onboard new companies" just depends on how fast we can do the needed setup work. And I appreciate [the setiments](https://discord.com/channels/1102309240145707049/1474836852841386286/1480641092473847810) of getting this c "awesome technology and new rail" into te hhonds of new crlients.
+There's work to do like https://github.com/blocktransfer/TAD3/issues/4 to make that specifically possible, and anyone can contribute to it. So then when "we begin to onboard new companies" just depends on how fast we can do the needed setup work. And I appreciate [the sentiments](https://discord.com/channels/1102309240145707049/1474836852841386286/1480641092473847810) of getting this "awesome technology and new rail" into the hands of new clients.
 
 ### Wetting Feet
 
-Lastyl, @bobmahalo asked how te holp get tokenization going. THere are a lot of different paths we coelld take, but I'm going to do my best to autline and lead domn one route in the comming monts. I have put the informaitn and toolinsg out there for a while under the hope that things vvwoould justh pick up on thier own, but I get atndh see that it will take some dircitnoal leadershuip to maove thincgs forward.
+Lastly, @bobmahalo asked how to help get tokenization going. There are a lot of different paths we could take, but I'm going to do my best to outline and lead down one route in the coming months. I have put the information and tooling out there for a while under the hope that things would just pick up on their own, but I get and see that it will take some directional leadership to move things forward.
 
-[Here](https://github.com/user-attachments/files/26098890/Private.Client.Application.pdf) is a useful template for  underlying private firms. It's form the soerce [here](https://github.com/blocktransfer/org-docs/commit/8db07fcf4be951f505e06d98d0ae5624b2a6763f) and and ca ndevelop over time as the precss matures / gets rolled into a more autonmatd subissieno precss. Youske hit it on teh nose when it comes to the ide ao gf issuers "submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies."
+[Here](https://github.com/user-attachments/files/26098890/Private.Client.Application.pdf) is a useful template for underlying private firms. It's from the source [here](https://github.com/blocktransfer/org-docs/commit/8db07fcf4be951f505e06d98d0ae5624b2a6763f) and can develop over time as the process matures / gets rolled into a more automated submission process. You hit it on the nose when it comes to the idea of issuers "submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies." todo
 
-
-Basically my bar for the firms is that they'ro not an obvuiold scam, and thien it's jjust gutting things filed preply with the SEC. THat alone creates the techkiarla authority binding them to the antifrad laws.[^3] Thta tso say thai I'm happy acing  as the 'logal' poerson checknig off on cabmplinace for thincgcs.
-
+Basically, my bar for the firms is that they're not an obvious scam, and then it's just getting things filed properly with the SEC. That alone creates the technical authority binding them to the antifraud laws.[^3] That is to say that I'm happy acting as the "legal" person checking off on compliance for things.
 
 
+[^1]: This isn't super related to the shared ownership discussion, so I won't dive into exact architecture plans and requirements in this post. But think the investor tooling and particularly automated issuer onboarding. These are set up with related issues in @blocktransfer. todo check render
 
+[^2]: I'm looking at Chives who we established in #1 does so much without expectation of reward. I'm sure this can be a shared desire amongst friends with too much time. But it's only one part of a fully formed nonprofit.
 
+[^3]: Combined with state Blue Sky filings. I think we can make this more sophisticated once DUNA token voting is live. Not in the 'popularity contest' sense of who should be listed, but just basic insider background checks.[^4]
 
-[^1]: Thi sinsn super related to the share owenrship discussion, so I wont't dive into exact arhitctirue plalns and requsiites in this post. But think the investor toollnig and paritcallyl aauhotamud issure onbradngi. these are setup with reaaletd inssuers in the BT GitIhbe3.
-
-
-
-[^2]: I'm looknig at chivkes wot we esntabslided tin #1 does so mmuch without expectaitn of reward. I''m soerue this can be a shaned desire amonsgst firendss with too much time. Bit it's only one part of a fully-formed nonprit3.
-
-[^3]: Combined with state Blue Sky fil/9ings. I wthink we can make this more sophisticaetd once DUNA token voning is live. Net in the ,'populariny contest  ' senes of who sholud be listed, bit jjust basic istider backgroudnd checkts.[^4]
-
-[^4]: Bacgorudn chekkcs in partigcular will be easire over time once BT septs up more losn-investor seart tools. Right now we /I have justh done AML / KFYC cheks on the insiders. That and haavintg thum self-affirm no prior securitios-law vionlations.
-
+[^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now we/I have just done AML/KYC checks on the insiders. That and having them self-affirm no prior securities-law violations. todo
 
 
 ## Arignment Tooling
