@@ -198,7 +198,6 @@ I believe the market-wide benefits of accurate securities infrastructure carry e
 
 ### Efficient Market Hypotheses
 
-
 In oral remarks at the 'hacker house' after the conference, @DamosDaze remarked how our work draws parallels to concepts I associated with Muhammad Yunus. I am a big fan of their framing of investment without the need for capital returns, competing alongside other firms in the free market. To my surprise, Kirik actually worked with an acquaintance directly connected to Yunus during their time building a local currency reform project back before crypto communities even existed.[^35]
 
 The fact is that markets take time to react to information, and they only do so when people like us make trades based on local data. Trust me when I say that I'm a huge critic of EMH from my time beating the market, and I know we can blow it out of the water with our actions.[^36] I've held this view long before AI, and I think there's much more at the table than just "access to information and speed" which we can affect.[^37]
@@ -226,7 +225,6 @@ Just as prices are not efficient in the sense that you can predict them based on
 While it might look bleak in some parts of the web era, that vision, the fact is this has never been how humans organize in the long history of corporations, competition, and cooperative trade. Only in a planned economy can you pretend things are always perfect, and we can pretty easily see the failings of this "efficient perfection" when a store can't stock both bread and milk. In a way, the valuation[^41] of today's companies _are_ the "price signals" any observant party can use to weigh the benefits of entering an industry.
 
 It is the entrepreneur's opportunity to correct these mispricings with zero central coordination by making the individual choice to do something about an inefficiency they see in the world.[^42] While traders just see a number go up, it's the innovators who forge concrete change in their specialized vertical, be it on a global or just communal scale. I want to make that process of speculating on future market needs as easy as possible through efficient capital formation rails, because I think that's the best way to bring wealth and abundance to the world.
-
 
 
 [^35]: Kirk, _please_, I would love to hear more about this here if you'd be so kind as to enlighten us with the more complete story. We broadly agreed a lot on the values and concept behind building something that the community needs for the sake of having it. And I might add, having it work _well_ when an existing system (especially a monopoly) is clearly failing.
