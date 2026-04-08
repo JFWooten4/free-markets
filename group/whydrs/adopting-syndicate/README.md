@@ -258,7 +258,7 @@ Again the idea of regulation "steps behind the pursuit of competitive advantage"
 
 I agree that we've seen the intermediaries of yesteryear dodge regulations again and again these last few years. Hopefully,[^46] our transparency and open participation model will steer the industry[^47] towards fair(er) dealings to the detriment of all investors. Plus, higher participation rates mean more minds at work determining the competitive value of firms,[^48] raising capital in the process.
 
-Some intermediaries might try to cheat with phantom entitlements or manipulative shorting, but this will be trivial to see with proper DEX routing enforcement.[^49] And there will always be for-profit TAs who'll let a few extra CEO shares slip into the market without proper legend removal or offer creation processes, as defined in Federal law. I think that's where we have this special place to come together, enforce some sort of TAD membership, and rectify the problems we find firsthand with our own set of rules.
+Some intermediaries might try to cheat with phantom entitlements or manipulative shorting, but this will be trivial to see with proper DEX routing enforcement.[^49] And there will always be for-profit TAs who'll let a few extra CEO shares slip into the market without proper legend removal or offer creation processes, as defined in federal law. I think that's where we have this special place to come together, enforce some sort of TAD membership, and rectify the problems we find firsthand with our own set of rules.
 
 #### Pure Protocol Integrity
 
@@ -283,7 +283,7 @@ The "drastic and profound negative impacts on most people" only exist when a sys
 
 [^49]: I think back to all the years of trouble Byrne went through to get the most basic data about his company. Squeezing the exchanges for years... it just needs to be a thing of the past. And there's no excuse in my mind for the obfuscation perpetuated by the CSD nominee holder.
 
-[^50]: Save for their internalization or proprietary methods for the same domain. I think this is an easy and inevitable outcome in Web2, where everything is services talking to services. But I find it to be a much lower risk since everything we've built requires any party, including the agent, to query and rely on the same public blockchain, providing a level playing field with _mostly_ zero insider advantages, ignoring legacy onboarding.
+[^50]: Save for their internalization or proprietary methods for the same domain. I think this is an easy and inevitable outcome in web2, where everything is services talking to services. But I find it to be a much lower risk since everything we've built requires any party, including the agent, to query and rely on the same public blockchain, providing a level playing field with _mostly_ zero insider advantages, ignoring legacy onboarding.
 
 [^51]: I realize this is somewhat of an oversimplification, as shown by the endless politics surrounding a small bit of code limiting block size to an arbitrary starting point. But I posit that systems like that did not have the governing nuance I intended to develop here, which allowed for representative voting weight resistant to self-interested narratives. If we keep governance rights [[aligned]] with the existing strong set of community morals and standards, then we can entrust long-term outcomes with the integrity of community participation, or at least that's the story I've had in my head for a long time.
 
@@ -313,12 +313,6 @@ I'm not saying nonprofits can't go downhill. I've seen firsthand that bureaucrac
 There are evil people in the world who will attack whatever structure we create. We've known this from the start[^59] and set off to design a governance mechanism that can resist the wealthy interests we challenge. By moving the shares over, we limit the speed an attacker can gain momentum by using proceeds from the community to influence the community, since inurement will only allow for so much consideration or bribery through dividends.
 
 Thus we remove the opportunity for "benefits that were allocated to customers" to instead become "owner profits" since the owner is a 501(c)(3). Any supposed profits would eventually need to be rolled into developing BT and TAD3 to offer better, faster, and cheaper service. The only other alternative is dissociation into another nonprofit entity, promising all shares held perpetually.
-
-
-
-
-
-
 
 
 [^54]: ANd frankly  it''s redaicluodls that I evenn aneed to write this out, because they orat even at the top of the ecenemic saladder. THey're just a cencentrated groutp ofy industry isnsnidern  who hapyppened to be shethere when the whale market changesd to electrnic, and they saw a change to cement their limitehd roles of mony and power. Well I wont tolerate thoir status quo for a memont longer no matter how much they thin k they desersve it or haw many ways they can justify their blatant theft to Congress wwith vague fruee-market idealorlgies,
