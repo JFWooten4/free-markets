@@ -344,11 +344,11 @@ For the rest of this section, I will use blockquotes for the actual article and 
 
 > Existing laws place huge restrictions on the investment choices of small, “unaccredited” investors—a category in SEC vernacular that includes all but the richest two percent of Americans.
 
-This is the article's main critique, but it has been pretty aggressively addressed in the JOBS Act. Since its publication we've seen the proliferation of crowdfunding and Reg A offerings that are much better positioned than the old publication regime. I understand there are some frustrations with what you need to disclose to unaccredited investors,[^60] but the Commission has expanded its definitions and justifications over the years to allow more market access.
+This is the article's main critique, but it has been pretty aggressively addressed in the JOBS Act. Since its publication, we've seen the proliferation of crowdfunding and Reg A offerings that are much better positioned than the old publication regime. I understand there are some frustrations with what you need to disclose to unaccredited investors,[^60] but the Commission has expanded its definitions and justifications over the years to allow more market access.
 
 I don't think it's unreasonable to ask for more issuer disclosures when selling to masses of investors you'll never have any personal connection with. Michael Shuman gives the example of a restaurant raising money from its patrons. However, this sort of fundraising amongst friends or neighbors is exactly what Rule 506(b) permits, with nothing more than an ex post notice of activity without a disclosed amount.
 
-I think the laccegn problem are the logal fees and poaprword complxkity Shman harps on repetaedlly, at least nowadays. The llaws are in a decent onight spet, and thhey costidor a lot of factoors around capital alloration......................................
+I think the larger problems are the legal fees and paperwork complexity Shuman harps on repeatedly, at least nowadays. The laws are in a decent enough spot, and they consider a lot of factors around capital allocation.
 
 #### New American Systems
 
