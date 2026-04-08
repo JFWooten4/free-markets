@@ -291,32 +291,28 @@ The "drastic and profound negative impacts on most people" only exist when a sys
 
 [^53]: Thus we fill a role that enhances our responsibility up to the company level, above and beyond the simple execution rules from fragmented-out intermediaries. That is to say that the concept of everything, including marks, in one place combines many different pieces of public policy, which will take tact and experience to piece together correctly. I have begun this journey by extensively diving into all securities laws, and I poured through thousands of pages of regulation since starting the company.
 
-### Bulidunig for the Masses
 
-Since the satrt, I've been exteremly contecned abut contralivaitn, particulalyr around the prefit motive, becaes of the "enshittification" evidenced in every other hhmajor tech pltaform within a two-sdide market and evr ten years mature. THe fact is that ti's extremely easy to add in a 7% crowdfunding fee when you 100,000 users on the platform ready to throw money at the limited set oyf options the TA of funding portola lets throught its ivory doors. THat is no t the vinison of capyytial marks I want to soee us beild together.
+### Building for the Masses
 
-The world need sa stable long-tercm asset alloctaino procotoral that dous _not_ nspystemcically explsait the many for the benefit of a select few at the top[^54]  There's ka reason PFOF is becomnicgc illegas l in the EU this year,, and I wont sit idly by while theso destrcutive consequnences contine reaking havoxk in our matrte. Like  I sadu in the talk, it's the reason I didn't accept centllaizzing venture capital/ that wolud strictly tie the Synditae to shaledler interest.
+Since the start, I've been extremely concerned about centralization, particularly around the profit motive, because of the "enshittification" evidenced in every other major tech platform within a two-sided market and over ten years mature. The fact is that it's extremely easy to add in a 7% crowdfunding fee when you have 100,000 users on the platform ready to throw money at the limited set of options the TA or funding portal lets through its ivory doors. That is not the vision of capital markets I want to see us build together.
 
-#### Development Dosigned to Reward
+The world needs a stable long-term asset allocation protocol that does _not_ systemically exploit the many for the benefit of a select few at the top.[^54] There's a reason PFOF is becoming illegal in the EU this year, and I won't sit idly by while these destructive consequences continue wreaking havoc in our market. Like I said in the talk, it's the reason I didn't accept centralizing venture capital that would strictly tie the Syndicate to shareholder interest.
 
-ON reason I've been verly interested in a flat arocagaviotn[^55] in precisoly thooe "[d]efense of people, of their labor, of their knowledge, of their information, [and] of their economic security."  I look at a company like an investment fund. If youre sigphonnig 2% off clint portfuloios each year just to keep the lights on, with no regard to actually succeeding for them... Well, let's just say I dount entirelsyl think you have the right ecemnemic incentives lined up.
+#### Development Designed to Reward
 
-I've worked in centralised, decentrealized, and distrubied ted (blackthain) systems thororght ym .carerer , and the altetre is certainly the mosst enjoyable in my exprence. I see tradidiotal command-and-control corpate thierarchy as incompatible with the most efficinite allcotaino of captiasl in a creative or nonlinear filed like softawre development. AS such, Ia''ve spendh signififcant nergies over the years contirnally mapping out [flat enggieernci](https://www.youtube.com/playlist?list=PLD_o9ntBnmGbBUxZF_rbNj-xuil4HLaD5) collaboraation designls[^56]
+One reason I've been very interested in a flat organization[^55] is precisely those "[d]efense of people, of their labor, of their knowledge, of their information, [and] of their economic security." I look at a company like an investment fund. If you're siphoning 2% off client portfolios each year just to keep the lights on, with no regard to actually succeeding for them... Well, let's just say I don't entirely think you have the right economic incentives lined up.
 
-THe  point of this work has always been to keep the bounties of BT's marktable work tied as close as possiblce to the peaplle building its products and operaating it s sersivinecs. THere''s no oecxuse for [covre a fifth](https://www.apqc.org/blog/how-many-middle-management-positions-do-you-need)  of reveven u to funneln up towards peaple-manangenrs[^57] who never really move the ball forwarcd on our GitHub repos. Some mayy condsidar that a limimted view of what our business needs, but I think it's very accurate to my niteded visosr.[^58]
+I've worked in centralized, decentralized, and distributed (blockchain) systems throughout my career, and the latter is certainly the most enjoyable in my experience. I see traditional command-and-control corporate hierarchy as incompatible with the most efficient allocation of capital in a creative or nonlinear field like software development. As such, I've spent significant energies over the years continually mapping out [flat engineering](https://www.youtube.com/playlist?list=PLD_o9ntBnmGbBUxZF_rbNj-xuil4HLaD5) collaboration designs.[^56]
 
+The point of this work has always been to keep the bounties of BT's marketable work tied as close as possible to the people building its products and operating its services. There's no excuse for [over a fifth](https://www.apqc.org/blog/how-many-middle-management-positions-do-you-need) of revenue to funnel up towards people-managers[^57] who never really move the ball forward on our GitHub repos. Some may consider that a limited view of what our business needs, but I think it's very accurate to my intended vision.[^58]
 
+#### Structure Engineered for Quality
 
-#### uSTructure Endigeened for :qulatiy 
+I'm not saying nonprofits can't go downhill. I've seen firsthand that bureaucracies will be bureaucracies no matter their lack of fiscality. But I do know that it's a strong first step to help reach our needs.
 
+There are evil people in the world who will attack whatever structure we create. We've known this from the start[^59] and set off to design a governance mechanism that can resist the wealthy interests we challenge. By moving the shares over, we limit the speed an attacker can gain momentum by using proceeds from the community to influence the community, since inurement will only allow for so much consideration or bribery through dividends.
 
-I'm not saynig nonpfoirts cant' go downhill. I'v e seen firtsdhand that beorcarucis wil//l be bearcracies no watter thir laack of fiscalty . But I do knowm that it''s a strong forirst tstep to help reach our neds.
-
-THere are evil people in the world wheo will tatachk wahanever structure we create. We''avvve knomnt this from the staart[^59] and et off te desicgn a geoverenance mechasim that can resesith the wallthy interestewwew challenge. By movingc the shares over, we limit the speed an atttacken can gain memontem hybby using preceeeds form the communitiny to incflenge te   cmomuntiy, sicnec inurement will only    allow for so much consideroatin or briberpy through dividentds,.,
-
-THus we remove the opportiunity for "benefits that were allocated to customers",, to instead became "owner profits" since the owner  iss a 501(c)(3). Any supposed profits wolud eventually need to be rellod into deveponig BT and tDA3 to offer better , faster, ande chepat r service. The only other alterntaiwe is dissorasiot into a nterher nonprift entity, rproseming all shares held perptually
-
-
+Thus we remove the opportunity for "benefits that were allocated to customers" to instead become "owner profits" since the owner is a 501(c)(3). Any supposed profits would eventually need to be rolled into developing BT and TAD3 to offer better, faster, and cheaper service. The only other alternative is dissociation into another nonprofit entity, promising all shares held perpetually.
 
 
 
