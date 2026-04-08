@@ -91,7 +91,7 @@ Lastly, I just want to clear up a meaningful misconception which separates the D
 
 [^7]: OK, this was 100% conceived of by BlockScience in association with the Stellar Community Fund, so maybe the right word here is implementing or popularizing. Of course it will start with the [Soroban implementation](https://github.com/stellar/stellar-community-fund-contracts) and grow from experience and feedback. There's a lot of fine customization you can do with NQG that deeply aligns with my experiences efficiently managing capital.
 
-[^8]: Where insiders are known through an agreement with the agent, who maintains at least the original user PII, be it through their own flow or the processing of a unified DRCS app frontend. An issuer profile then has said affiliates marked and can allow them access to closed data, held only for verified members to manage internally. Again, G Suite–ish but based on public keys, using a WalletConnect-style login.
+[^8]: Where insiders are known through an agreement with the agent, who maintains at least the original user PII, be it through their own flow or the processing of a unified DRCS app frontend. An issuer profile then has said affiliates marked and can allow them access to closed data, held only for verified members to manage internally. Again, G-Suite–ish but based on public keys, using a WalletConnect-style login.
 
 [^9]: This just looks the most like equity, so it'd be easiest to slot into the existing toolchain. There's plenty of SEC options to support the registration of a lot of DAE tokens as securities, so in theory they could even use the proper reporting means if they're already actively looking for a transfer agent. Even then it would be a longer discussion or even a DUNA vote if there are any complexities such as existing 'governance tokens' on another chain, which would need to be bridged into TAD3.
 
@@ -125,7 +125,7 @@ The answer to this stems from small businesses and communities coming together t
 
 #### Other Organization Forms
 
-All that to say, I really support anyone setting up their own idea, capitalizing it with investors, and expanding the market with new productivity. That gets us to the next topic around "labor unions" and "tenants unions" as applications. We've talked about these ideals briefly before ( I am todo), and I don't see a huge relation to what I've worked on so far.
+All that to say, I really support anyone setting up their own idea, capitalizing it with investors, and expanding the market with new productivity. That gets us to the next topic around "labor unions" and "tenants unions" as applications. We've talked about these ideals briefly before (which has been an exploratory point of discussion from strikes to new entrancy), and I don't see a huge relation to what I've worked on so far.
 
 These ideas have much more to do with social organization than markets or their accounting.[^19] I suppose you could organize some kind of entity with onchain rights to represent a collective group, as with any legal entity on the platform. But that's again outside my personal design scope and not something I'd endorse as a Syndicate clientele focus.[^20]
 
