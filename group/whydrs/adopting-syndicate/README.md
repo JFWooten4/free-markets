@@ -185,7 +185,7 @@ I believe the market-wide benefits of accurate securities infrastructure carry e
 
 [^29]: Or in their case, a small group of co-founders.
 
-[^30]: I know there's a lot of nuance as to entitilment regulation of business around this topic, but I'm just using it as a red flag for deeper misalignments here.
+[^30]: I know there's a lot of nuance as to entitlement regulation of business around this topic, but I'm just using it as a red flag for deeper misalignments here.
 
 [^31]: In the sense that developers have large qualms with the rating systems, as typical in centralized sales algorithms, or creatives who receive only a fraction of the revenue their art produces in the Marketplace. Or young gamers who fall down a pit of gambling exploitation trained through virtual cosmetic skins—a point we'll see Varoufakis analyze in my next post.
 
@@ -428,7 +428,7 @@ The Commission is [currently contemplating](https://www.reginfo.gov/public/do/eA
 
 #### Structural Committee Allocator Disappointments
 
-> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
+> locally owned, small businesses constitute about one-half of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
 In the Q&A of my presentation, I go off on a decent tangent about central capital allocation.[^70] The fact is managing assets is a full-time job, as I hopefully laid out earlier. If you want to have anywhere close to good trade execution, much less local investment at a large fund-level scale, the proper incentives must exist.
 
@@ -436,7 +436,7 @@ I'm not talking about compensation. In fact, that's the one thing the current sy
 
 That is, of course, to say nothing of building great systems that let individuals perform this local investment ad hoc. That said, I lean more towards the specialization of a 'banker' role in the sense that there are a few people in town who are good with capital allocation, who handle their own little corners of the neighborhood's communal growth. Except they're doing so with others' hard capital, not the imaginary money glitch of fractional bank deposits and infinite leverage.[^74]
 
-> Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
+> Pension fund participation. Let’s allow any pension fund that places as much as 5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
 
 It is not in the interest of large pension funds to participate in local securities, regardless of fiduciary responsibility. Regulations are never the problem with asset managers; they will find a way to do what they want with their capital.[^75] Bulk allocators do not invest in or support local projects because they lack the skill[^76] or incentive to do so.
 
@@ -547,7 +547,7 @@ I think we've all seen just how many pitfalls emerge when those interests face a
 
 [^85]: The methods may conflate raw profitability with owner sweat-equity. It's easy to forget how much of the entrepreneur goes into these small businesses that constantly grind on their craft. While that does yield a very high output, it can easily come from a very high [input basis](https://youtu.be/3uwH2jfLCNE?t=19962).
 
-[^86]: I only use that last word because of how the current standard money supply of dollars acts a lot more like a Cantillonaire social distribution mechanism. Since it does most of its redistribution to existing property holders, the fact remains that it's challenging to measure economic output in objective terms when the money supply can double in a decade. I think we'd have a lot more predictability and capable planning with a currency that gave way for a little deflation now and then.
+[^86]: I only use that last word because of how the current standard money supply of dollars acts a lot more like a (cantillonaire) social distribution mechanism. Since it does most of its redistribution to existing property holders, the fact remains that it's challenging to measure economic output in objective terms when the money supply can double in a decade. I think we'd have a lot more predictability and capable planning with a currency that gave way for a little deflation now and then.
 
 [^87]: For instance, my dad issued bonds at Wells to finance the expansion of my charter high school without tax. That sort of local development doesn't seem to need the full provisions of issuer profiling or published financials. It fits much closer in the realm of an independent local allocator who's given some leeway to execute direct allocations without marketable on-chain securities.
 
