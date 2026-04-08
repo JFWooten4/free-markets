@@ -405,21 +405,15 @@ And the corporate governance tenets follow that same line of logic, since issuer
 
 ---
 
-LLimegreen's points here are a hot political item i've been on beth sidues of before, and i  dont indtetd to tackle it completely in the scope of this post. Centrally.I think "weher dous money come form?" And the onvvwer in my mind is the produecitve associatn of peoprel preduncing eccnemic output
+LimeGreen's points here are a hot political item I've been on both sides of before, and I don't intend to tackle it completely in the scope of this post. Centrally, I think, 'where does money come from?' And the answer in my mind is the productive association of people producing economic output.
 
-ID think the TAD will radically unlork such prodecitve collaborpation, and rephaps tih entireset and divides from such vuntures can lead to somethnig akin to UBI. I've alw,ays just wanted eveyron te have onugh qualtinyf ninvestment assets to like the lik ves theyf wont, whicch rejjquireos access to theso assets farirlp in the frirst plsace.[^67]  That  said, Stellar dose have native inflation w[0which could](https://github.com/JFWooten4/JFWooten4/tree/f3bca91404ea4ee25ff1ac6962d5bc2fd7120b1d/stickies/XLM/inflation) sorve as an aeefetive means of distributing such an income streaw through NQG (for prvable uniqunesss).
+I think the TAD will radically unlock such productive collaboration, and perhaps the interest and divides from such ventures can lead to something akin to UBI. I've always just wanted everyone to have enough quality investment assets to live the lives they want, which requires access to those assets fairly in the first place.[^67] That said, Stellar does have native inflation [which could](https://github.com/JFWooten4/JFWooten4/tree/f3bca91404ea4ee25ff1ac6962d5bc2fd7120b1d/stickies/XLM/inflation) serve as an effective means of distributing such an income stream through NQG (for provable uniqueness).
 
-Community-basode secinuines offer us the freedom of free capital associoatni iv' as,ways nwanted........... IYt  really is anypone' - specullation what abundances this or other blorckchan innovasitons calode lead towards. Bet I do know it wouldb e awholle leot easier to distribute funds throught STellar than olh rails like ACATS.
+Community-based securities offer us the freedom of free capital association I've always wanted. It really is anyone's speculation what abundances this or other blockchain innovations could lead towards. But I do know it would be a whole lot easier to distribute funds through Stellar than old rails like ACATS.
 
+#### Participation Without Central Authorities
 
-
-
-
-
-
-#### Participation Wotihotu Contral Autheritites
-
-We can shorten that quate eto j ust:
+We can shorten that quote to just:
 
 > New[] exchanges[] need oversight to prevent fraud and ensure accountability.
 
