@@ -87,25 +87,25 @@ Lastyl I just want  to celaatr up a meaningful miscontepiotn which separates the
 
 
 
-[^5]: And, with our progress on EDGAR Next, this could automate the issuer's EDGARization. That process simply costs so much for no reason other than reprinting this same info to the SEC. Why not do it all in one place?
+[^5]: And, with our progress on EDGAR Next, this can automate the issuer's EDGARization. That process similarly costs so much for no reason other than reporting this same info to the SEC. Why not do it all in one place?
 
-[^6]: Fact is that what the original exchanges wanted known to their investors became the template used in public policy. I had [reping clause](https://github.com/blocktransfer/TAD3/pull/7) in our beta contract that theoretically bound the issuer to periodic financial publications as a condition of our services. While I never enforced that due to their small size, it could almost be like a condition of "A listing" as a BT client.
+[^6]: Fact is that what the original exchanges wanted known to their investors became the template used in public policy. I had [reporting clauses](https://github.com/blocktransfer/TAD3/pull/7) in our beta contract that theoretically bound the issuer to periodic financial publications as a condition for our services. While I never enforced that due to their small size, it could almost be like a condition of "A-listing" as a BT client.
 
-[^7]: OK, this was 100% conceived of by BlockScience in association with the Stellar Community Fund, so maybe the right word here is implementing or popularizing. Of course it will stand with their [Soroban implementation](https://github.com/stellar/stellar-community-fund-contracts) and grow from experience and feedback. There's a lot of fine customization you can do with NQG that deeply aligns with my experience efficiently managing capital.
+[^7]: OK, this was 100% conceived of by BlockScience in association with the Stellar Community Fund, so maybe the right word here is implementing or popularizing. Of course it will stand with the [Soroban implementation](https://github.com/stellar/stellar-community-fund-contracts) and grow from experience and feedback. There's a lot of fine customization you can do with NQG that deeply aligns with my experiences efficiently managing capital.
 
-[^8]: Where insiders are known, they get an agreement with the agent, who maintains the user/investor PII. An issuer profile has said affiliates marked and can allow them access to closed data held only for verified members to manage internally. Again, GSuite-ish but based on public keys using a WalletConnect-style login.
+[^8]: Where insiders are known through an agreement with the agent, who maintains the user / investor PII, an issuer profile has said affiliates marked and can allow them access to closed data held only for verified members to manage internally. Again, G-Suite-ish but based on public keys, using a WalletConnect-style login.
 
-[^9]: This just looks the most like equity, so it'd be easiest to slot into the existing toolchain. There's plenty of SEC options to support the registration of a lot of DAE tokens as securities, so in theory they could even use the proper reporting means if they're already actively looking for a transfer agent. Even then, it would be a longer discussion or even a DUNA vote if there are any complexities such as existing 'governance tokens' on another chain, which would need to be bridged into TAD3.
+[^9]: This just looks the most like equity, so it'd be easiest to slot into the existing toolchain. There's plenty of SEC options to support the registration of a lot of DAE tokens as securities, so in theory they could even use the proper reporting means if they're already actively looking for a transfer agent. Even then it would be a longer discussion or even a DUNA vote if there are any complexities such as existing 'governance tokens' on another chain, which would need to be bridged into TAD3.
 
 [^10]: Especially when most of them are literally non-stock corporations. It's the same challenge you'd get with a partnership, and to a lesser extent the [discussions](imgs/scorp-shareholders.png) on S corps. I've thought things out with the end goal of all issuers being successful public bigshots, and that's just a different architecture design than private foundations. ## todo pub inline img
 
 [^11]: Based on my experience, these investors like profit. Despite floating around the charity space, I've met very few who come from that industry (although now I'm getting to undue broad swaths). At the very least we can agree that sizable funds were commissioned specifically from nonprofits for the purpose of generating financial returns to support the main mission, not tangential efforts.
 
-[^12]: I thought about doing both this and a SAFE round for the Syndicate. The latter was a bit dishonest, which is why I never moved forward in pushing it. Basically, you can get some free startup capital if you word the agreements right and then never raise additional money (e.g., because you donate all the shares to a nonprofit).
+[^12]: I thought about doing both these and a SAFE round for the Syndicate. The latter was a bit dishonest, which is why I never moved forward in pushing it. Basically you can get some free startup capital if you word the agreements right and then never raise additional money (e.g., because you donate all the shares to a nonprofit).
 
 [^13]: This is also why I don't think public-benefit corporations lead to the most effective use of capital. I had some drafting thoughts on this for a long time, which basically boil down to having the most efficient system. Even with a broad mandate to consider some social factor, you leave the operations subject to shareholder interest at least in some regard, hence changing the product output.
 
-[^14]: This stems from both a private inurement prohibition perspective and the Wyoming organization law. The Association cannot pay dividends, keeping our funds aligned with furthering the mission alone. I think we can return value to stakeholders by offering the public a needed service at a low cost with exceptional design quality.
+[^14]: This stands from both a private inurement prohibition perspective and the Wyoming organization law. The Association cannot pay dividends, keeping our funds aligned with furthering the mission alone. I think we can return value to stakeholders by offering the public a needed service at a low cost with exceptional design quality.
 
 ### Social Orggfaviatino
 
