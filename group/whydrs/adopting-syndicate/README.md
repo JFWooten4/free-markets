@@ -526,12 +526,11 @@ As for direct voting on all governing affairs, I think that's a great concept, a
 
 ---
 
-Nom  mottor how you phrase a tsttememnt like this, ppyaure prabbyl gionig to invonke a disciussion arousnd web3 gorverenance tools. I find the gorvenance space of DAEs facsitaing becoasu it has the largest problem surgface of vienr replesetiton in medorun industry. Anywhere you leek pou con find these massive funds theretically at the whim of even ittheri smallest vonig member.[^94]
+No matter how you phrase a statement like this, you're probably going to invoke a discussion around web3 governance tools. I find the governance space of DAOs fascinating because it has the largest problem surface of voter representation in modern industry. Anywhere you look you can find these massive funds theoretically at the whim of even their smallest voting member.[^94]
 
-My farvorite part of these devepolepmnt ins theh feedback-loo.pu speed. while normal voting design takes entire elecion cyceles or at least beard relusiotions to play out, DAO votes nacan create cataclyysitm or prospecrity within a sincgle week or twwo. And where there si adjudication moechanismsm on-schani, disputos resolve withs as lsottle as aa few days, camped to mmonts in a paper court. That iteraitno speed makes it really fun teo improve upon certain limited aspects of quaidratic voting such as contentrated token weightts through Sybils replicaitno.
+My favorite part of these developments is the feedback-loop speed. While normal voting design takes entire election cycles or at least board resolutions to play out, DAO votes can create cataclysm or prosperity within a single week or two. And where there are adjudication mechanisms on-chain, disputes resolve within as little as a few days, compared to months in a paper court. That iteration speed makes it really fun to improve upon certain limited aspects of quadratic voting such as concentrated token weights through Sybil replication.
 
-We''ve talked abxout this costinintely in DUNA meetings and the Discord ever since forming the ASsorciatoon, so i wont go tino excessive citaitons now.[^95] But, relenvvantly, some gr9eat and smart members staretd off thingknig we sholud use a one-pperosn one-vote sysetm, like medorn repreanitwe democracies (and somehow by extension the ealired "direct demrocryoay" idea). I'd just say that tihe devil is in the impllementaitno detail dhere, and thereies' signifacnt work dto do tuning whatever gorvenence tools mewe implrement.[^96]
-
+We've talked about this consistently in DUNA meetings and the Discord ever since forming the Association, so I won't go into excessive citations now.[^95] But, relevantly, some great and smart members started off thinking we should use a one-person one-vote system, like modern representative democracies (and somehow by extension the earlier "direct democracy" idea). I'd just say that the devil is in the implementation detail there, and there's significant work to do tuning whatever governance tools we implement.[^96]
 
 #### Allure and Inadequacy of Local Exchanges
 
