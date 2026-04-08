@@ -46,43 +46,43 @@ Basically, my bar for the firms is that they're not an obvious scam, and then it
 
 ## Alignment Tooling
 
-The next infrastructure question [comes from](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) LimeGreen. I’ll start with his response to @tehchives’ talk. They ask if the Syndicate could “be used to help fundraising and governance for nonprofits?”
+The next infrastructure questions [come from](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) LimeGreen. I'll start with his response to @tehchives' talk. They ask if the Syndicate could "be used to help fundraising and governance for non-profits?"
 
 ### Governance Applications
 
-Traditional nonprofit governance isn’t super different from corporate governance, save the annual election of the Board by shareholders. Thus, we have about the same needs as a for-profit firm: sharing meeting documents, hosting financials, and executing the annual discussion.
+Traditional nonprofit governance isn't super different from corporate governance. Save the annual election of the Board by shareholders. Thus, we have about the same needs as a for-profit firm: sharing meeting documents, hosting financials, and executing the annual discussion.
 
-There are a lot of closed-source products for this in the market. They all do relatively similar things while broadly costing way too much. It’s a lot of permission layers built on top of what’s basically G Suite.
+There are a lot of closed-source products for this in the market. They all do relatively similar things while broadly costing way too much. It's a lot of permissioning layers built on top of what's basically G Suite.
 
-I’ve always seen `issuers.info` as an ideal place for these sorts of communications. It’s where I envision companies routinely disclosing their financials for the public.[^5] The concept isn’t entirely unlike exchange reporting baked into quarterly filing expectations.[^6]
+I've always seen `issuers.info` as an ideal place for these sorts of communications. It's where I envision companies routinely disclosing their financials for the public.[^5] The concept isn't entirely unlike exchange reporting baked into quarterly filing expectations.[^6]
 
-I’d like to keep that system relatively flexible, as I think there are a lot of benefits to voluntary financial disclosures for any companies, without consideration of operating impact. That is to say, I believe the market will rightly affect the valuation of reporting firms based on the quality and cadence of their statements, without the need for contractual incentives. Since it’s open source, that becomes pretty simple.
+I'd like to keep that system relatively flexible, as I think there are a lot of benefits to voluntary financial disclosures for any companies, without consideration of operating impact. That is to say I believe the market will rightly affect the valuation of reporting firms based on the quality and cadence of their statements, without the need for contractual incentives. Since it's open source, that becomes pretty simple.
 
 #### Voting Mechanisms
 
-Once the shares move over, I intend to spend [significant effort](https://github.com/JFWooten4/agenda/issues/4) developing a new form of governance that can be used by other nonprofit DAOs.[^7] I believe communities using this voting system will achieve markedly better decision outputs than traditional equity stakeholding or board resolutions. So there’s a little cross-synergy in just the token-mechanism design for the Association.
+Once the shares move over, I intend to spend [significant efforts](https://github.com/JFWooten4/agenda/issues/4) developing a new form of governance which can be used by other nonprofit DAOs.[^7] I believe communities using this voting system will achieve markedly better decision outputs than traditional equity stakeholding or board resolutions. So there's a little cross-synergy in just the token mechanism design for the Association.
 
-That said, as for existing nonprofits, there’s certainly nothing stopping them from _at least_ using a fork of `issuers.info`. One big piece of that tooling is cryptographic access control.[^8] If they wanted to use `issuers.info` for things akin to a formal issuer special election, they could more publicly vote on the direction and mission of the org.
+That said, as for existing nonprofits, there's certainly nothing stopping them from _at least_ using a fork of `issuers.info`. One big piece of that tooling is cryptographic access control.[^8] If they wanted to use `issuers.info` for things akin to a formal issuer special election, they could more publicly vote on the direction and mission of the org.
 
-For clarity, I have another tool in mind for the DUNA, based on discussions in prior DUNA meetings circa June last year. There’s still a lot to build out for `issuers.info`, and I think the Association should use something probably separate from BT for its governance. I don’t envision the Syndicate taking on DAOs as clients anytime soon, especially ones using anything other than token weighting.[^9]
+For clarity, I have another tool in mind for the DUNA, based on discussions in prior DUNA meetings circa June last year. There's still a lot to build out for `issuers.info`, and I think the Association should use something probably separate from BT for its governance. I don't envision the Syndicate taking on DAOs as clients anytime soon, especially ones using anything other than token weighting.[^9]
 
 ##### Help Fundraising
 
-This sounds a lot like payment processing. I’m not sure that’s exactly what I’d have us focus on at the moment, just in terms of what we can immediately be most effective at.
+This sounds a lot like payment processing. I am not sure that's exactly what I'd have us focus on at the moment, just in terms of what we can immediately be the most effective at.
 
-TAD3 is built around selling shares. It expects ownership is a fungible, tradable commodity of equal value with others in the same class. Fundraising for a nonprofit… doesn’t really work like that.[^10]
+TAD3 is built around selling shares. It expects ownership as a fungible, tradable commodity of equal value with others in the same class. Fundraising for a nonprofit... doesn't really work like that.[^10]
 
-The good news is TAD3’s built on one of the greatest payment rails in existence. The nonprofit can use the plethora of existing libraries to raise funds in stablecoins or crypto on Stellar. And, bonus, that makes our treasury compatible with fee-free securities donations for any TAD issuers.
+The good news is TAD3 is built on one of the greatest payment rails in existence. The nonprofit can use a plethora of existing libraries to fundraise in stablecoins or crypto on Stellar. And, bonus, that makes our treasury compatible with fee-free securities donations for any TAD issuers.
 
-#### People over Directors
+#### People Over Directors
 
-I know directors are people, so what I’m criticizing here is the hierarchical vesting of power in legacy nonprofits. LimeGreen gives the great anecdote of a neighbor on a board with “multi-millionaires” helping “for speculative/notoriety purposes.” I don’t think there’s anything wrong with having experienced team members lead an organization, but I don’t think we’ll see the best capital-allocation outcomes when choices are far removed from the people working on the project each day.
+I know directors are people, so what I'm more so criticizing here is the hierarchical vesting of power in legacy nonprofits. LimeGreen gives the great anecdote of a neighbor on a board with "multi-millionaires" helping "for speculative/notoriety purposes." I don't think there's anything wrong with having experienced team members lead an organization, but I don't think we will see the best capital allocation outcomes when choices are far removed from the people working on the project each day.
 
-I agree with the schematics that “DUNA + BT = grassroots-funded, decentralized, nonprofit orgs” — and this is a big point we should consider. After a donation of all the shares, the project will basically be set down a path of completely grassroots funding, as I’ve been doing for five years. There will very likely be no venture investors who’d like to get in bed with an entity completely owned by a nonprofit.[^11]
+I agree with the schematics that "DUNA + BT = grassroots funded, decentralized, non-profit orgs" - and this is a big point that we should consider. After a donation of all the shares, the project will basically be set down a path of completely grassroots funding, as I've been doing for five years. There will very likely be no venture investors who'd like to get in bed with an entity completely owned by a nonprofit.[^11]
 
-If we want to keep “public goods” in the public, I think this is the only viable path to take. Save for some complexities around return-capped investment contracts,[^12] which are relatively new and yet to be proved out, there’s always a conflict of interest between member-stakeholders and equity shareholders.[^13]
+If we want to keep "public goods" in the public, I think this is the only viable path to take, save for some complexities around return-capped investment contracts,[^12] which are relatively new and yet to be proved out. Otherwise, there's always a conflict of interest between member-stakeholders and equity shareholders.[^13]
 
-Lastly, I just want to clear up a meaningful misconception that separates the DUNA, and particularly a 501(c)(3), from normal governance. I fully agree we should pay market rates for quality contributions, but we cannot distribute profits to members.[^14] I’m proposing something much more system-aligned than the usual “blockchain project where we all pile into a token and hope others use it and our share of value increases.”
+Lastly, I just want to clear up a meaningful misconception which separates the DUNA and particularly a 501(c)(3) from normal governance. I fully agree we should pay market rates for quality working contributions, but we cannot distribute profits to members.[^14] I am proposing something much more system-aligned than your normal "blockchain project where we all pile into a token and system so that others use it and our share of value increases."
 
 
 
