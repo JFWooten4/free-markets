@@ -339,8 +339,8 @@ The 2009 journal entry comes from a well-known author in the community, and Lime
 Aside from the timely recommendation for economic diversity, the paper also makes some relatively specific securities-law recommendations.
 
 For the rest of this section, I will use blockquotes for the actual article and put the Discord remarks in quotes.
-### Securities Laws
 
+### Securities Laws
 
 > Existing laws place huge restrictions on the investment choices of small, “unaccredited” investors—a category in SEC vernacular that includes all but the richest two percent of Americans.
 
