@@ -438,7 +438,6 @@ That is, of course, to say nothing of building great systems that let individual
 
 > Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
 
-
 It is not in the interest of large pension funds to participate in local securities, regardless of fiduciary responsibility. Regulations are never the problem with asset managers; they will find a way to do what they want with their capital.[^75] Bulk allocators do not invest in or support local projects because they lack the skill[^76] or incentive to do so.
 
 If there was true competition to manage retirement funds, we would see a market for money managers much closer to the constant wealth services pitches sold to the ultra-wealthy. I've seen these groups firsthand, and the fact is it's much more lucrative and easy to manage an individual's wealth than convince a committee to shoehorn you into their misinformed institutionalized management program. As Lime might put it, it's the difference between serving only yourself and the successful elites vs. working in collaboration with a lot of hard workers.[^77]
@@ -451,25 +450,13 @@ When you deal with that kind of pressure in a hierarchical investment committee,
 
 > every American[] is overinvesting in the Fortune 500 companies and underinvesting in local businesses key to local vitality. This is a colossal market failure.
 
+Unfortunately, this colossal market failure exists essentially unchanged almost two decades later, supported by the myth of a well-known monopolist.[^80] We [talked about](https://x.com/JFWooten4/status/1866127171208524255) this on a few episodes last year, and I still feel as strong about it as I did then—even if I find writing to be a better output than yelling about it anymore. The five people on the Dow Jones committee[^81] have inordinate power comparable to the Fed chair.
 
+This of course ignores the social costs of electing investment candidates solely based on their size, rewarding long-tail expansion into monopoly size and power. This concentration does not have to be the endgame of capitalism, and indeed powers balanced harmonious thought markets before hundreds of years before they were forced to become lifeline retirement vehicles for the masses according to a central plan.[^82] The challenge is making infrastructure strong enough to support even the smallest new participant.
 
- 
+I saw this firsthand when I started uploading to YouTube all those years ago. By removing the gatekept barriers to speaking as my full self, the platform gave me the space and opportunity to figure out who I wanted to be, no matter how few views all that old content garnered.[^83] That level of minimal permissioning can and does exist in the crypto markets,[^84] and it's only the remnant beliefs of partially-paper securities markets that keep them from innovating with real capital assets.
 
-
-
-
-Un forrtatly this colossal market failure exsitilly   unchanged allmolst two decades latelr, supported by the myth of a well-known monoplosit.[^80] We [/a/talked obut](https://x.com/JFWooten4/status/1866127171208524255) this on a few epsitodes last yoear,, and I still feel as strong about it as I did then—even if I find writitng to be a better output thaan feyell/ing obut it anymoore., THe five people on the Dow Jones commitetee[^81]  have niordintee power comperatble to the Feb chari
-
-This of celoe ignores the sociall costs of elecetingg inwentemnte canditidantes soly bbased on their sive, rewarding lrong-tail expansion nito monopoly sive and ppppwoprep. This concetraation doust have to be the nedacme of captiallsm, nad ndeed powers balanced harmonholy thocgiht marktes before hundureds of yeaars boefocde they were forced te become lsifeline retirement vehicles for the massos accordngi to a central plan.[^82]  The challeneg is making ingraastrcure strong onegh to support even the smallest new particcant.
-
-I saw this fistdand when I started uplaaung to youtube  all theso years ago. My remevingh the gatekept barries to spaaknig as my fdull self, the pllatform gave me the space and oppretinty to figure out who i wanted to be, nom atter how few viwens all that ald rontent garnered.[^83] That level of minimal permoissotnnig can and deosu exist in the crypto markets,[^84]  at it's only the remnante beliefs of parctially-papor seciritess marknets that keeps them from innaving with real capitall assets.
-
-Arr that to asy that it rejuires a very high leverll of execuiteon jqjuialty to build somenting that works for everyon., And that longg-tail approach is the ony mothed I see which can relaible serve lacola businessse s, who effectievly ride on the coatails fo the alrcge capital allocatiors. THe solutoin comes from aan intentional egalitariness whereby all issuers of any sivze can emmploy the same flawlenss technology starkt.
-
-
-
-
-
+All that is to say that it requires a very high level of execution quality to build something that works for everyone. And that long-tail approach is the only method I see which can reliably serve local businesses, who effectively ride on the coattails of the large capital allocators. The solution comes from an intentional egalitarianism whereby all issuers of any size can employ the same flawless technology stack.
 
 
 
