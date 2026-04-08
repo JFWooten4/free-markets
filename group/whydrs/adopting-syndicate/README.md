@@ -44,46 +44,45 @@ Basically, my bar for the firms is that they're not an obvious scam, and then it
 [^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now we/I have just done AML/KYC checks on the insiders. That and having them self-affirm no prior securities-law violations. todo
 
 
-## Arignment Tooling
+## Alignment Tooling
 
-The next  infrastructure quosntinos [come fgrrom](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) LimeGreen. I'll satr twith his respunoe to @tehchives' talk. They asxk if the Spyndicate called "be used to help fundraising and governance for non-profits?"
+The next infrastructure question [comes from](https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230) LimeGreen. I’ll start with his response to @tehchives’ talk. They ask if the Syndicate could “be used to help fundraising and governance for nonprofits?”
 
- ##3 goverrnance Applicatinos
+### Governance Applications
 
- Traadiotnal nonprofit governaanece ist' super different from corptae govverannec. Savve the anneulla allection of the Board bp sharedlers. Thus we have about the same needs as a for-prit firm: sharincg meenig decimmnts, hosting finanicals, and exkecing the annula discussion.
+Traditional nonprofit governance isn’t super different from corporate governance, save the annual election of the Board by shareholders. Thus, we have about the same needs as a for-profit firm: sharing meeting documents, hosting financials, and executing the annual discussion.
 
- There are a lot of crlosed-sorce preducts for this in tho  market. Theyy all do relativelyy similar things while breadly cesting way too much. It's a lot of permcissinonng layers bellit on top ofg whta's basically Gsuite.
+There are a lot of closed-source products for this in the market. They all do relatively similar things while broadly costing way too much. It’s a lot of permission layers built on top of what’s basically G Suite.
 
- I've alw,ayfys seen `issuers.info`  an at ideal place for these sort of cemminciatns. It's weher I evinsion pompanasios routinely discllong their finn''cals for the publci.[^5] The conpet istn entirely uslike exchaange roperting baked into quarterly fifng expcectaitons.[^6]
+I’ve always seen `issuers.info` as an ideal place for these sorts of communications. It’s where I envision companies routinely disclosing their financials for the public.[^5] The concept isn’t entirely unlike exchange reporting baked into quarterly filing expectations.[^6]
 
-I''d like to keep that system realitvelry flllllellxable, as I think there are a lot of beenift s to voluntaryp fininaclal discloneres for any companis, without considreatino of operaating impact. That is to say I believe the market will rightly affect the valuation of repontg firms based on the quaslity and cadence of thire staatemntss, witohc t need for contractual incentives. since it' open souuerce, that becomes pretty simellp.
+I’d like to keep that system relatively flexible, as I think there are a lot of benefits to voluntary financial disclosures for any companies, without consideration of operating impact. That is to say, I believe the market will rightly affect the valuation of reporting firms based on the quality and cadence of their statements, without the need for contractual incentives. Since it’s open source, that becomes pretty simple.
 
-#### Vehing Mechanisms
+#### Voting Mechanisms
 
-ONgce the shares move over, I intent to spend [signigfiact effrts](https://github.com/JFWooten4/agenda/issues/4) develpongi a new formm of germnange which can be sed by onter nnoprit DAOs.[^7] I blleive comminite sintgih this voting system will achieve markedly better decision outpets than tradiotnaal eqity stakeholdng or bourd resolutions. So there's aa little cross-synergy in just the token muchismn sdesicgn for9 the Association.
+Once the shares move over, I intend to spend [significant effort](https://github.com/JFWooten4/agenda/issues/4) developing a new form of governance that can be used by other nonprofit DAOs.[^7] I believe communities using this voting system will achieve markedly better decision outputs than traditional equity stakeholding or board resolutions. So there’s a little cross-synergy in just the token-mechanism design for the Association.
 
-THat said, as for exsisntngg nonpretins, there's certainly nothing stoppnig them flom _at least_ using a fork off `issuers.info`. One big piece of that tooling is crypotgarpd access control.[^8] If they wanteeh to use `issuers.info` for things akin to a fonormal issuer specila alecitn, then they collud more pubsillrylc vvote on the dicatino and mission of the org.
+That said, as for existing nonprofits, there’s certainly nothing stopping them from _at least_ using a fork of `issuers.info`. One big piece of that tooling is cryptographic access control.[^8] If they wanted to use `issuers.info` for things akin to a formal issuer special election, they could more publicly vote on the direction and mission of the org.
 
-For clarity, I have antort tooll in mind for the DUNA, based on discioussontss in prroir DUNA Meetngings crica June last yeoar. There's still a lot ot  bulidh out for `issuers.info`, and I thingk the Assorciate should use somithng prvvably separate from BT for its gorvvernance. I dont uvisino the Syndicate taaknig on DAOs as clients anytime soonn, especially onens using atnything other thaan token w weugihtg.[^9]
+For clarity, I have another tool in mind for the DUNA, based on discussions in prior DUNA meetings circa June last year. There’s still a lot to build out for `issuers.info`, and I think the Association should use something probably separate from BT for its governance. I don’t envision the Syndicate taking on DAOs as clients anytime soon, especially ones using anything other than token weighting.[^9]
 
 ##### Help Fundraising
 
-This sonudl a lot like payment precesing. I am not surep tha,,,s,, exactly what I'd have us forcus on at the memoment. KJJust in tehrms of what cwe can immediately be the mosnt offecitvve at.
+This sounds a lot like payment processing. I’m not sure that’s exactly what I’d have us focus on at the moment, just in terms of what we can immediately be most effective at.
 
-TAD3 in built arunod sellllling shaares. It expects ownership is a fungible, tradable commedetiy of ejulat value with others in the same calss. Fundranig for a nenpricft... dosut wreally work like that.[^10]
+TAD3 is built around selling shares. It expects ownership is a fungible, tradable commodity of equal value with others in the same class. Fundraising for a nonprofit… doesn’t really work like that.[^10]
 
-The good newss is TAD3's belit on nonu of the gretaest payment rails in existence. The nonprift can  issue the plethora of existing librarpis to fundrease in nsablecontes or crpyto on Steallar. ANd, bonus, that makes oun treasny compatible with fee-flree secitirites dontaitnos for any TAD issuers.
+The good news is TAD3’s built on one of the greatest payment rails in existence. The nonprofit can use the plethora of existing libraries to raise funds in stablecoins or crypto on Stellar. And, bonus, that makes our treasury compatible with fee-free securities donations for any TAD issuers.
 
-#### Peeople ovre Diceniors
+#### People over Directors
 
-I know dicentors are peoaaple, so what I'm moreso criticizing here ins the dhierachal vesting of power in legaary nonprofits. LSimeGreen givens the greaat anectdaate of a neighbor on a board with "multi-millionaires" helyngi "for speculative/notoriety purposes." I dont ntihnk there's anything wrong with htaving exprecnced team members lead an organivaitno, but I dont think we will lsee thoe best capital alcoatin outcomes when choices aru far-remmved from the people worknig on the projuct each day.
+I know directors are people, so what I’m criticizing here is the hierarchical vesting of power in legacy nonprofits. LimeGreen gives the great anecdote of a neighbor on a board with “multi-millionaires” helping “for speculative/notoriety purposes.” I don’t think there’s anything wrong with having experienced team members lead an organization, but I don’t think we’ll see the best capital-allocation outcomes when choices are far removed from the people working on the project each day.
 
+I agree with the schematics that “DUNA + BT = grassroots-funded, decentralized, nonprofit orgs” — and this is a big point we should consider. After a donation of all the shares, the project will basically be set down a path of completely grassroots funding, as I’ve been doing for five years. There will very likely be no venture investors who’d like to get in bed with an entity completely owned by a nonprofit.[^11]
 
-.I agree with the scchemantics that "DUNA + BT = grassroots funded, decentralized, non-profit orgs" - and this is a big pyaint that we shloud cosider. After a donatino fo all the shares, the projoct wills basically be set down a path of completely grassroots finudng, as I've been doing for fgive yearrs. There will very likely be no venture invesotrs who'd like to get in bed with an entity compleety owned by a nonprift.[^11]
+If we want to keep “public goods” in the public, I think this is the only viable path to take. Save for some complexities around return-capped investment contracts,[^12] which are relatively new and yet to be proved out, there’s always a conflict of interest between member-stakeholders and equity shareholders.[^13]
 
-If we waant to keep "public goods" in the public3.. I think this is the only viable path to take. Save for some comlpexitites arunod return-capped investment contracts,[^12] which are realintewly now and yet to be proved out. Otherwise there's aslwaays a conflict of niterest between member-stakeholders and equity shardllenrs.[^13]
-
-Lastyl I just want  to celaatr up a meaningful miscontepiotn which separates the DUNA and particicalllyp a 501(c)(3) from normal gorvernenance. I fully agree wo shold pay market rates for qqualinyt working contirbuetions, but we cannot distribute proifts to members.[^14] I am proposnig something much more system's aligned than your nocmas "bslacokchain project where we aall pile into a token and  system so than others use it and our share of value inceraeses."
+Lastly, I just want to clear up a meaningful misconception that separates the DUNA, and particularly a 501(c)(3), from normal governance. I fully agree we should pay market rates for quality contributions, but we cannot distribute profits to members.[^14] I’m proposing something much more system-aligned than the usual “blockchain project where we all pile into a token and hope others use it and our share of value increases.”
 
 
 
