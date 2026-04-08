@@ -41,7 +41,7 @@ Basically, my bar for the firms is that they're not an obvious scam, and then it
 
 [^3]: Combined with state Blue Sky filings. I think we can make this more sophisticated once DUNA token voting is live. Not in the 'popularity contest' sense of who should be listed, but just basic insider background checks.[^4]
 
-[^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now the Python tooling side for AML/KYC checks on insiders is in flux, since I'd prefer to have an open standard to process clients through. That could involve advanced inter-signatory identity sharing and having insiders self-affirm no prior securities-law violations.
+[^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now the Python tooling side for AML/KYC checks on insiders is in flux, since I'd prefer to have an open standard to process clients through. That could involve advanced inter-agent identity sharing and having insiders self-affirm no prior securities-law violations.
 
 ## Alignment Tooling
 
@@ -91,7 +91,7 @@ Lastly, I just want to clear up a meaningful misconception which separates the D
 
 [^7]: OK, this was 100% conceived of by BlockScience in association with the Stellar Community Fund, so maybe the right word here is implementing or popularizing. Of course it will start with the [Soroban implementation](https://github.com/stellar/stellar-community-fund-contracts) and grow from experience and feedback. There's a lot of fine customization you can do with NQG that deeply aligns with my experiences efficiently managing capital.
 
-[^8]: Where insiders are known through an agreement with the agent, who maintains the user / investor PII, an issuer profile has said affiliates marked and can allow them access to closed data held only for verified members to manage internally. Again, G-Suite-ish but based on public keys, using a WalletConnect-style login. todo
+[^8]: Where insiders are known through an agreement with the agent, who maintains at least the original user PII, be it through their own flow or the processing of a unified DRCS app frontend. An issuer profile then has said affiliates marked and can allow them access to closed data, held only for verified members to manage internally. Again, G Suite–ish but based on public keys, using a WalletConnect-style login.
 
 [^9]: This just looks the most like equity, so it'd be easiest to slot into the existing toolchain. There's plenty of SEC options to support the registration of a lot of DAE tokens as securities, so in theory they could even use the proper reporting means if they're already actively looking for a transfer agent. Even then it would be a longer discussion or even a DUNA vote if there are any complexities such as existing 'governance tokens' on another chain, which would need to be bridged into TAD3.
 
