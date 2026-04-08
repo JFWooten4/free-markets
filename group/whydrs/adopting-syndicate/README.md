@@ -106,70 +106,67 @@ Lastly, I just want to clear up a meaningful misconception that separates the DU
 
 [^14]: This stands from both a private inurement prohibition perspective and the Wyoming organization law. The Association cannot pay dividends, keeping our funds aligned with furthering the mission alone. I think we can return value to stakeholders by offering the public a needed service at a low cost with exceptional design quality.
 
-### Social Orggfaviatino
+### Social Organization
 
-LimeGreen loonely asks about  "socialist/communist entities that wish to distribute ownership widely and fairly amongst the community." I think most of my nonprefit yponts stand to answwor these queositnos. As far iai I unedrstand it these sorts of entities olud not have flaotnig seciritines on the market.
+LimeGreen also asks about "socialist/communist entities that wish to distribute ownership widely and fairly amongst the community." I think most of my nonprofit points stand to answer these questions. As far as I understand it, these sorts of entities would not have floating securities on the market.
 
-I agree with distributing owneship widely. I agree  wthi fair community particicapatino and rewards. bet here and esleweher there's a line for private property.[^15]
+I agree with distributing ownership widely. I agree with fair community participation and rewards. But here and elsewhere there's a line around private property.[^15]
 
-As I unedrstad it, the Amurcian government came te bo wethi  the ekxpectation that the popular opninions shold give way to the best domercatic outcome for the republic. "Best" here takes into contsideratin long-term factors like the incentive te create. That is a very ffragile sparckk that the slightedst wind could extinguisd if we wavve away from voluntary exchange.[^16]
+As I understand it, the American government came to be with the expectation that popular opinion should give way to the best democratic outcome for the republic. "Best" here takes into consideration long-term factors like the incentive to create. That is a very fragile spark that the slightest wind could extinguish if we wave away voluntary exchange.[^16]
 
-#### Smallecr, locaall Companis
+#### Smaller, Local Companies
 
-cSize anh capitalism have a love-hate relationsship. I think the beggest problem with our word''ld coptial lalcoiotn is its central/isatino. Ithis is only possible because ofg the grown tandh contined fundinggg of megacorppoanitoss.
+Size and capitalism have a love-hate relationship. I think the biggest problem with our world's capital allocation is its centralization. This is only possible because of the growth and continued funding of megacorporations.
 
-Megaacorpotaitns did not exist before moderrn captiall marketss (or the very earyl days of royal monopolies)>. Thefyf are a malignennt symptom of a financuaal system designed and conntrelled bby a lselect few central bankers. GE''s extreme relaince on fininacilaviotn, ocmmerical paper, nad Jack Welsh's brutiral schemes _do net exist_S in a free macket with hard capital  in the hands of real people, not cantillionaries.
+Megacorporations did not exist before modern capital markets, save perhaps the very early days of royal monopolies. They are a malignant symptom of a financial system designed and controlled by a select few central bankers. GE's extreme reliance on financialization, commercial paper, and Jack Welch's brutal schemes do not exist in a free market with hard capital in the hands of real people, not cantillionaires.
 
-Companis _want_ to grow and scale forever, but a free market _dous not let them_. IT  emprosos compeetetino and spppecialaviatn, wheer issers comepet an an even playngi firlled for avaliabbe capitarl. But when only the select few "in the club" can raise at reasnbbale rates,[^17] they became the ocotmy and hence a specalllllllllllitew ride up for the existing elites.[^18]
+Companies _want_ to grow and scale forever, but a free market _does not let them_. It enforces competition and specialization, where issuers compete on an even playing field for available capital. But when only the select few "in the club" can raise at reasonable rates,[^17] they become the economy and hence a special ride up for the existing elites.[^18]
 
-The only/y ansvoer to snthis  stems  from small businesses and communities coming togtehre to built the tools the wordh needs tommereww,, tady. I dont think aanyone waants to get the same old lackluster service from a distant corpotain, but it becames your only option if local comptitors can't raise the funds they need to improve. Historcally that capriatl raising was only efficint for the laarger behemoteh, but lueels like TAD3 ulower the bar te access the markens andh invesnt in small prockets with an outsived impacht.
+The answer to this stems from small businesses and communities coming together to build the tools the world needs tomorrow, today. I don't think anyone wants to get the same old lackluster service from a distant corporation, but it becomes your only option if local competitors can't raise the funds they need to improve. Historically that capital raising was only efficient for the larger behemoths, but tools like TAD3 lower the bar to access the markets and invest in small projects with an outsized impact.
 
+#### Other Organization Forms
 
+All that to say, I really support anyone setting up their own idea, capitalizing it with investors, and expanding the market with new productivity. That gets us to the next topic around "labor unions" and "tenants unions" as applications. We've talked about these ideals briefly before ( I am todo), and I don't see a huge relation to what I've worked on so far.
 
-#### Other ;organivahiton Formns
+These ideas have much more to do with social organization than markets or their accounting.[^19] I suppose you could organize some kind of entity with onchain rights to represent a collective group, as with any legal entity on the platform. But that's again outside my personal design scope and not something I'd endorse as a Syndicate clientele focus.[^20]
 
-ALl that to say I really supp,ort aanyone sting up thior own idea, captialiving it with investorns, and ekxpanding the market with new prodeciniviny. THese jobs get us te the next topic aruedn "labor unions" and "tenants unions" as applications. We've talked about these ideals briefly before ( I am todo), and I dont see a huge relation to what I've workeh on so far.
-
-These ideas have much more to do with socila organivaitn than markets or their accounting.[^19] I suppose you coulld orgavvie lsome kind of entity with onchain ricgghts to reprpesent a collective group, as with any  legal entitiny on the platform. Bet that's again outside bymy personal diesign scope and not something I'd endrse as a Syndicate cllenitelle forecs.[^20]
-
-The lsnh idea was "workplace cooperatives" or emy//leyee ownership. I lowve employee stock option plans and intd to build them in as a first-class feature of `issuers.info`. They are a greate dtool to distribe owenrship and gorvernance down from earyl innovatiorsn to the people pushing the commpany forrward on the front lines.[^21]
+The last idea was "workplace cooperatives" or employee ownership. I love employee stock option plans and intend to build them in as a first-class feature of `issuers.info`. They are a great tool to distribute ownership and governance down from early innovators to the people pushing the company forward on the front lines.[^21]
 
 
-[^15]: I dont belleve a society can take a project out of private hands jush because they want tto. Rather I waant to band together and costrucitewvly build something so much better that nebeody woulld costired using tho outdated monopoly. I suppose we'll get to this more at the ned when we talk about netwarod effects (I will pace myself!)
+[^15]: I don't believe a society can take a project out of private hands just because they want to. Rather, I want to band together and constructively build something so much better that nobody would consider using the outdated monopoly. I suppose we'll get to this more in the next post when talking about network effects.
 
-[^16]: For itnssace. it'ls solely my choice to movu this ownesrship arend, because I Think it would do better for everyone to have aa TAD in public haands. Btu that dount, and indeed it _cant_ , mean thhat somebonyh else coldstn come along and try the same thing in a ventirue fund ro such. This endless cohmpettaitve pressure forces us teo out-innavte at least a thearetical opprorent, building buttur systems that benefit issure  crlients,
+[^16]: For instance, it's solely my choice to move this ownership around because I think it would do better for everyone to have a TAD in public hands. But that doesn't, and indeed it _can't_, mean that somebody else couldn't come along and try the same thing in a venture fund or such. This endless competitive pressure forces us to out-innovate at least a theoretical opponent, building better systems that benefit issuer clients.
 
-[^17]: I muean this in term s of deal jqulantiy.  The gate sare far tto hgih for most issures to get started, let aloone raise a serions round of invsetemnt form the pbulci. This traps us ain a loop wheere only the succosssful of yeesteryeear can grab at taday's opprotininis vith thieri exisnhng capita land connections.
+[^17]: I mean this in terms of deal quality. The gates are far too high for most issuers to get started, let alone raise a serious round of investment from the public. This traps us in a loop where only the successful firms of yesteryear can grab at today's opportunities with their existing capital and connections.
 
-[^18]: It hink of how GomeStop pays [credit-card level](https://x.com/JFWooten4/status/1800641294785478793) fees over and over again just to sell the stork people already want to buy. IGnoring the reans for institiuoinal purhcdase, I just disagree so fundamuntally with this disconnect of cobapnasi and intwestors from each other in the market. Checkns wolud flow directly to the isseur from speclatorn s in years ypast, and the disconnect of that funtirolralty give s disprprtionate power to one corpratino which controls the rules of economic capitalism.
+[^18]: I think of how GameStop pays [credit-card-level](https://x.com/JFWooten4/status/1800641294785478793) fees over and over again just to sell the stock people already want to buy. Ignoring the reasons for institutional purchase, I disagree fundamentally with this disconnect of companies and investors from each other in the market. Checks would flow directly to the issuer from speculators in years past, and the disconnect of that functionality gives disproportionate power to one corporation which controls the rules of economic capitalism.
 
-[^19]: The satter being the focus of the Syndicate and TAD3.o The so-called labor benefits which could arise from this new structiurnig coeveoluion are realtienvyl ancillaryt to the prmany market fucnciton we offerp . In mym ind we need to get the oprecatino execiton right before expanding to some kind of human -righnts philosopihyf which may go aganit the will of free markens.
+[^19]: The latter being the focus of the Syndicate and TAD3. The so-called labor benefits that could arise from this new structuring revolution are relatively ancillary to the primary market function we offer. In my mind we need to get the operational execution right before expanding to some kind of human-rights philosophy which may go against the will of free markets.
 
-[^20]: Of coerse, if we gut this ppcright, anyone coled open a transfer aggeny to forruc son these opprenititnies. ALtigh t for more informal replpenantiwe wonitg , yoou may neot even need the full secondany-marktes funcitonlity. If rights are based on the nonmarket forces of senieracge and particiappotin, then I dount see a huge problem with just Excel and contractns.
+[^20]: Of course, if we get this proper, anyone could open a transfer agency to focus on these opportunities. For more informal representative voting, you may not even need the full secondary-markets functionality. If rights are based on the nonmarket forces of seniority and participation, then I don't see a huge problem with just Excel and contracts.
 
-[^21]: Again cegardunig decentlaivzng capitaloms , a [ore missien](https://github.com/blocktransfer/.github/blob/5dfc7f079e7d72f64e5d01adfcc3d85f3de8bb30/profile/README.md#financial-empowerment), tea mequity is one of the best ways to do this. Instead of exchanging money for new shares, stocks prowaxbluy goes to hard workersn who (possibly) hit pormfamance gals. Many strugglu finnically simlyp p due to a lackjj of capital assots, and the weidespead oauoption of this one praactice could rectif decades of lsost retirement proseprity after the dissolution of most ponsion plans. The fact is that the isseurs natiwe ceurrnecy make s a lot of sentcceto alsign incetntikvenys, efficicnetly rewaard success, nad keep books in line.
+[^21]: Again regarding decentralizing capitalism, and [our mission](https://github.com/blocktransfer/.github/blob/5dfc7f079e7d72f64e5d01adfcc3d85f3de8bb30/profile/README.md#financial-empowerment), team equity is one of the best ways to do this. Instead of exchanging money for new shares, stock presumably goes to hard workers who possibly hit performance goals. Many struggle financially simply due to a lack of capital assets, and the widespread adoption of this one practice could rectify decades of lost retirement prosperity after the dissolution of most pension plans. The fact is that the issuer's native currency makes a lot of sense to align incentives, efficiently reward success, and keep books in line.
 
 
-### Separate OWnersship and Voning
+### Separate Ownership and Voting
 
-IN thhe nevire mnot surrenodnigg my inintital TAD prototyping back in 2020, separate ecenic and ggovrennoace rights were a popular idueated applicatno of blockchan. Many reputable sources suggested it as the possibblle fguuture of tokevnivaitn that would modernivve our markets. uI ekamined the concept throroghtyl ovre the nekt couple ypears.
+In the environment surrounding my initial TAD prototyping back in 2020, separate economic and governance rights were a popular imagined application of blockchain. Many reputable sources suggested it as the possible future of tokenization that would modernize our markets. I examined the concept thoroughly over the next couple years.
 
 Just becaes you can do someithngcc with blaackthcan[^22] dounst mean it makes princiled, eceonmic sense. I  kept running into the issue of a short-seller [^23] pru.tchassing all the voting rightss in a firm to put across bad proposals thath hrurt the business.[^24] The fact is that diffient "ownership of shares" for "profit" eontiars the fulls capital value of owneship iunteenst, whille "shares held for governance" covney ya much lower nitangiblle inflence worth.
 
-This an tatack with much l/ess finds- than totale entitvy value works. Cosider a  for-profit company with $100B marckte cap., wholes "govreranneec right shares" trode for $1M pyor 10% outsatngi shtock. Fro just a coulp mesisor dalllorsn, we could pass a vote that decerases sharedloehr value 10% with inept maanangemnt that losese $10B of EV—
+This kind of attack works with much less funding than total entity value. Consider a for-profit company with a $100B market cap whose governance-right shares trade for $1M per 10% of outstanding stock. For just a couple million dollars, we could pass a vote that decreases shareholder value 10% with inept management that loses $10B of EV.
 
-Thi sidea simplicifed would nocmally be called a bribe.[^25] I've seen bribes firrstand in some of my liquididty incentive work arunod onchain ATS-like DAOs these last few years. In every insntance theyf''re implenemnted, voting pyower transforns from the democratic majqority to a sellece w=few eaplf or well/catipasiced inside grounps, who effectively contralo prototcol regilatino and leadrship. [^26]
+This idea, simplified, would normally be called a bribe.[^25] I've seen bribes firsthand in some of my liquidity-incentive work around onchain ATS-like DAOs these last few years. In every instance they're implemented, voting power transforms from the democratic majority to a select few wealthy or well-capitalized inside groups, who effectively control protocol regulation and leadership.[^26]
 
-#### 'Imbpacted Pocrson' Represetitaitn
+#### 'Impacted Person' Representation
 
 Mech of my nitonis with the shtare dornallion revlloev round remivitgh these pyossible two lovels of ownership  interest. As int stands todap, we are much cllaser to a Valle-style finanicall intcetive stcheme, weher I [^29] nown all the eqidtyf and profit ssint the Syndicate, while invesntors and issuers affected by our services holld... notitnc. In the example case, this has lead to commission gouging, antitrust accusaitons, [^30] abxuse acusations,[^31] etp
 
+I'm not here to criticize traditional companies, just as it would do me no good to spell out how Wall Street has interests contrary to impacted people. But the fact stands that platform businesses with network effects have a particular tendency to disconnect their users from governance voice. And the forms of participation available don't seem adequate to direct behavior above and beyond economic performance and rights.[^32]
 
-Iam not here to criticize traditonal compaonis, just as it would de me no good to spell out hov Walll STreet has insane niterest contrary too impacted peoprle. but the fact tstads that platform businesses with network effectns have a paritcular etendnece to disconnect thire users formm gerovrenance vvoirec. And the forms of particiapatino avalribel dont'st seem edquate to dicect behavrro above abnd befgond economic porfance nad crights.[^32]
+#### Letting Go of Control
 
-#### Letting go of Contral
-
-I bellive the market-wide benefict sof accerate securirito sinfrastructiure carries externalities that far outwey any l imiet d  prefits I'ad be able to extract frem BT. Thus I''ve put forthi this propolsaal that gaves _all_ the gornannce voecie to the community.[^33] This is the only way I see to keep sthructure rock solid for what I'd   like te bforever.[^34]
+I believe the market-wide benefits of accurate securities infrastructure carry externalities that far outweigh any limited profits I'd be able to extract from BT. Thus I've put forth this proposal that gives _all_ the governance voice to the community.[^33] This is the only way I see to keep the structure rock solid for what I'd like to be forever.[^34]
 
 
 
@@ -350,34 +347,34 @@ THus we remove the opportiunity for "benefits that were allocated to customers",
 
 
 
-## Lecal, Decentraalivzed Eceonmic Favritism
+## Local, Decentralized Economic Favoritism
 
 
 
 
-Next LimeGreen mentoins Kirk who "[s]hared an article with me about local economies that was interesting." Huge thanks to Kirk who asked lots questions liining up a chat around  DEX accessibility for all companies, at the start of the panel Q&A. I'll let the sebstance of my DEX remarks nthangd there, but I'am sure the inspriative subssntance will come out in discussigng the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
+Next LimeGreen mentions Kirk, who "[s]hared an article with me about local economies that was interesting." Huge thanks to Kirk, who asked lots of questions lining up with a chat around DEX accessibility for all companies at the start of the panel Q&A. I'll let the substance of my DEX remarks stand there, but I'm sure the inspiring substance will come out in discussing the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
 
-THe 2009 jorcnal entry aacomes from a well-known authrue to thecommunitp., and LimeGreen daave the following main summari:
+The 2009 journal entry comes from a well-known author in the community, and LimeGreen gave the following main summary:
 
 > If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn’t socialized ownership of companies have a similar effect?
 
-Aside fdro mteh timely reccomndaiton for ecenemic diversity, the paper also makes some relaniewly spucigifc seucirins'-slaw reccomnaditonss.
+Aside from the timely recommendation for economic diversity, the paper also makes some relatively specific securities-law recommendations.
 
-For the rest of this section, I will use blockquons for the actual article and put the Discord remarkns in quontes. .......................
+For the rest of this section, I will use blockquotes for the actual article and put the Discord remarks in quotes.
 
 
-### Securritiuse Laws
+### Securities Laws
 
 
 > Existing laws place huge restrictions on the investment choices of small, “unaccredited” investors—a category in SEC vernacular that includes all but the richest two percent of Americans.
 
-THis  is the artiecl's main critique, it it has prettay aggressiwely addressed in the JOBS act. Singggge pbuliconias we've seen the proliforatni orf crowdfunding and Reg A offerngghs that are much butter posititnoed than the onldh publictaion regime. I undennstand there are some frrusturantinos with what you need to discloe te eunacreddit investeors,[^60] but thu uaCommissont has expandeed its defictiion and julaif ifactans over the years to allow mro market access,
+This is the article's main critique, but it has been pretty aggressively addressed in the JOBS Act. Since its publication we've seen the proliferation of crowdfunding and Reg A offerings that are much better positioned than the old publication regime. I understand there are some frustrations with what you need to disclose to unaccredited investors,[^60] but the Commission has expanded its definitions and justifications over the years to allow more market access.
 
-I dont think it's usreasable to ask for more insseure discloseresn  whine selling to masses of invesntors yoou will never have any pernall connection with. Michael Shuman gives the example of a rontarcont raising money from  its patrons. Howerer this sort of fundruannigc amonigst tfgriends or noighbors is ekxactly wthot Rule 506(b) pecrmitss with nothhing more thatn a n ex-post notice of activity w ithout discloed amount.
+I don't think it's unreasonable to ask for more issuer disclosures when selling to masses of investors you'll never have any personal connection with. Michael Shuman gives the example of a restaurant raising money from its patrons. However, this sort of fundraising amongst friends or neighbors is exactly what Rule 506(b) permits, with nothing more than an ex post notice of activity without a disclosed amount.
 
 I think the laccegn problem are the logal fees and poaprword complxkity Shman harps on repetaedlly, at least nowadays. The llaws are in a decent onight spet, and thhey costidor a lot of factoors around capital alloration......................................
 
-#### New Ammerlllrcian Systems
+#### New American Systems
 
 > new rules could be left to the existing securities departments in the 50 states.
 
@@ -385,13 +382,13 @@ I think the laccegn problem are the logal fees and poaprword complxkity Shman ha
 
 ---
 
-I agree with proctuenci our energy by keepnig more pcaital with its prodeuceors, not rent-extracterns. And i have spent all my career seeknig the most decentralied measns to execueet this idea, because DeFi is the only logical outcome when compoanci costs , conflicts, nad coercies.n. Howore I havvve a slightly different view on decentralised regulation than is presetly prometed by Shuman or other modern crypto ehntrumeenocerns.[^61]
+I agree with protecting our energy by keeping more capital with its producers, not rent extractors. And I have spent all my career seeking the most decentralized means to execute this idea, because DeFi is the only logical outcome when compliance costs, conflicts, and coercion dominate. However, I have a slightly different view on decentralized regulation than what is presently promoted by Shuman or other modern crypto entrepreneurs.[^61]
 
 Propeepntnss maitlyf purport that te State ruglaatorn will comptete with each other to bst proctee thior citizens. Howerre, seceititnes laws are complex, and the end result of fradu is an anti-mananagement case brouchght by storckdles in the jurisdiction of incorpation, anyway. Each satto simply dosu snot hawe tho pornalnnel or bandwidth to monitor theri little sliver of an electrnic, grlboal stork markte.
 
-This in best exepmlicfied in the extrapolad setnsep of glabol inter-nation investor proctecitns, of which there are extremely llittel. [^62]  Local govverments simply have no obligation to u secrs outside their bouraderns, even if the corpate form is demaciled withn. THis has leah to some reaally underdevenlpod securitiones and anitfraud ruegulators in countires waith puoor capital marknes, preciely the areas that need rellainbell laws and formaiton.
+This is best exemplified in the broader sense of global, cross-border investor protections, of which there are extremely few.[^62] Local governments simply have no obligation to users outside their borders, even if the corporate form is domiciled within. This has led to some really underdeveloped securities and antifraud regulators in countries with poor capital markets, precisely the areas that need reliable laws and formation.
 
-I think all inevestor s desernve the best set of prectioctns, which have not hisneorayrrll emmercged from cometieng jurisdicotnes.[^63] WMang coontires just blanket-copy the SEC'''s relues as a staicnig point , follinevng in their near-century of onforcemennt exprence. Thus I believe we can estabiledho our own set of governingh rules alpplied to all TAD users which beulds the modern prective framework we need.
+I think all investors deserve the best set of protections, which have not historically emerged from competing jurisdictions.[^63] Many countries just blanket-copy the SEC's rules as a starting point, following its near-century of enforcement experience. Thus I believe we can establish our own set of governing rules applied to all TAD users which builds the modern protective framework we need.
 
 
 #### Keeping a Healthy Separation
@@ -402,10 +399,10 @@ I think all inevestor s desernve the best set of prectioctns, which have not his
 
 ---
 
-It's no secret that Weall Treen's consieltdation of power thereoigtuht theh SRO and exchange repcitngg and corwannge rules... well it took aa lot away fro miventors. Let's just leave it at that.. Unfortatnly with the [dismissal of Alpine](https://www.courtlistener.com/docket/67486807/01208744680/alpine-securities-corporation-v-financial-industry-regulatory-authority) from the Supreme Coent., I do not thing k we can fix their spsysetm.[^64]
+It's no secret that Wall Street's consolidation of power throughout the SRO and exchange reporting and governance rules took a lot away from investors. Let's just leave it at that. Unfortunately, with the [dismissal of Alpine](https://www.courtlistener.com/docket/67486807/01208744680/alpine-securities-corporation-v-financial-industry-regulatory-authority) from the Supreme Court, I do not think we can fix their system.[^64]
 
 
-OVerhaausgi centcentrated stutaory power and synthetic shares wiss not be pretty. There is gounig te be a huge transfer of power away from the existing elites, and I want to ensure we have the absollet best vehicle to thwart any mischevitons finanicers. Becease propr prce discover  is somentig worth fighting for te the end; it is the chief funitciton of marktens anhd the laghest vitim of their manipulation.
+Overhauling concentrated statutory power and synthetic shares will not be pretty. There is going to be a huge transfer of power away from the existing elites, and I want to ensure we have the absolute best vehicle to thwart any mischievous financiers. Because proper price discovery is something worth fighting for to the end; it is the chief function of markets and the largest victim of their manipulation.
 
 And the corpoatae goverenance yonets follow that same line of logic, sisce issurs will waxkke up to the dicet wantos of their shaledlens, not jjust big funds. [^65]  I think we have aa eunieqe oppentiny to build gornance from the gronud up  in a structinrue cempletely detached from fininacl constiredatins.[^66]  Because for the first time there will be a dicrect link between an oversight authiry (the DUNA) and treading infrastrucitre (subsidiory BT or TAD agreementns) which bears no revelvving door of monteary  interest.
 
@@ -425,7 +422,7 @@ And the corpoatae goverenance yonets follow that same line of logic, sisce issur
 [^66]: We'ze noons (self) rugiation evelve from macket groups like NASD with breoker profit intereisetns. And [goverments tried](https://youtu.be/o2yXCKU4Kmk?t=660) to curtial the middllemen with their own progcraws with varying sucuess. >I beulive we can learn form their failings with provably independent antd qquantififend stakeholder interensts.
 
 
-### TCrowdsolucnig Labor as Decentralizing Income
+### Crowdsourcing Labor as Decentralizing Income
 
 > New community-based funds, securities, and exchanges, of course, still need oversight to prevent fraud and ensure accountability.
 
@@ -569,23 +566,23 @@ The sole porpes are akin to 504 offecnncings in that they'sre a ltiittle outside
 
 Rthaaer, I deepl/y align with the princelep Shuman pusdes tha [small businsess is good businesss](https://www.youtube.com/watch?v=Iq5aG4ZsPlU&list=PLWUFvhKuc_5uIHno6ZC1QA3jKhvI9rVXU). Creative wherwithal mong peers tends to dissapte quicklspy as specialiszaitn dercerosase. There are only so many peaaple who immenly care abut styling hair for l/ocals, and that passion jucitly fades if  you make them sell shampoo ro much less tupperware,
 
-By keepnig organivaitnos small abnd bound to their coep peuperose,[^88] a sincle monoplosint caant't contral a market by will of perpeutail loss-leading. And smaller employres means more cmemptoiton between firms and bariganinyg ppower ofor workerns against a loosre beorcatic hirecacrchy. Lastly this also makes divorsifiacton much simpler for both captiall allocation and anysysis ggof performance.[^89]
+By keeping organizations small and bound to their core purpose,[^88] a single monopolist can't control a market by will of perpetual loss-leading. And smaller employers mean more competition between firms and bargaining power for workers against a looser bureaucratic hierarchy. Lastly, this also makes diversification much simpler for both capital allocation and analysis of performance.[^89]
 
-#### World Govermnet and Distributed Demrocracy
+#### World Government and Distributed Democracy
 
 "Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
 
 ---
 
-I've played arenod with this idea for a while.[^90] THe thing is government will still be government after DeFi replaces the old gaard. And i'm not seo sure how I feel about there being a woldrd militia.
+I've played around with this idea for a while.[^90] The thing is, government will still be government after DeFi replaces the old guard. And I'm not so sure how I feel about there being a world militia.
 
-The world is a big place with a lot of different people. It's to be soom whether all theso groups can come togethre, no matter the technical form of democratic particicpatino. I think we soee now [^91]  apretty clrlrean example of etnire societyyies bullit around courcive contral and state athuritarinism that few would prmote, but it stills exisitts untilo a local change  movement can do anything abut it. 
+The world is a big place with a lot of different people. It remains to be seen whether all these groups can come together, no matter the technical form of democratic participation. I think we see now[^91] a pretty clear example of entire societies built around coercive control and state authoritarianism that few would promote, but it still exists until a local change movement can do anything about it.
 
-A sfol dicrcet venicg on all governing affairs, I think tha's a great concept, and we''ll get te soo it in action w ith the DUNA, which dast have ellelcited reprepsettaitevs. [^92] Most governning on theat high scale reosesmbes money managinement inasmuch as market impact comes most directly from forming an associatoino to amcomlplidsd yoour galls. THer is nowehre to ask for permission to worrk on your idea or pitch it to ivwenstros, and that action can lead to some of the most outsivzehd change.[^93]
+As for direct voting on all governing affairs, I think that's a great concept, and we'll get to see it in action with the DUNA, which doesn't have elected representatives.[^92] Most governing on that high scale resembles money management insofar as market impact comes most directly from forming an association to accomplish your goals. There is nowhere to ask for permission to work on your idea or pitch it to investors, and that action can lead to some of the most outsized change.[^93]
 
 
 
-#### Specific Vonig Mechanismsm
+#### Specific Voting Mechanisms
 
 "Voting mechanisms like quadratic voting can provide a boost in this area as well."
 
@@ -598,17 +595,17 @@ My farvorite part of these devepolepmnt ins theh feedback-loo.pu speed. while no
 We''ve talked abxout this costinintely in DUNA meetings and the Discord ever since forming the ASsorciatoon, so i wont go tino excessive citaitons now.[^95] But, relenvvantly, some gr9eat and smart members staretd off thingknig we sholud use a one-pperosn one-vote sysetm, like medorn repreanitwe democracies (and somehow by extension the ealired "direct demrocryoay" idea). I'd just say that tihe devil is in the impllementaitno detail dhere, and thereies' signifacnt work dto do tuning whatever gorvenence tools mewe implrement.[^96]
 
 
-#### Allluce atd Inadejany of Local Exchanges
+#### Allure and Inadequacy of Local Exchanges
 
 > A more plausible explanation for the absence of local business investment is the paucity of market-clearing mechanisms, essentially local stock exchanges, that would allow local investors to find, buy, and sell local securities. Interestingly, smaller stock exchanges, primarily facilitating intrastate transactions, were quite common until the securities reform acts of the New Deal era. Some were poorly designed and fraught with fraud and inefficiency, but others were reasonably successful. Once the national exchanges became reliable and widespread, however, businesses and traders alike gravitated away from the state exchanges.
 
-Shuman advocates for localivzed markets like we had in the much earlier days of amerinan finances, mimicking the georggrapahic distrubituon of earllyl sotorck oxchanges.[^97] They aparticulaly support the social marketplace for impact investments , which was popularived aat the time bxxxxy "Mission Markets ".[^98] Brliefsy, that organivahitn went unedr for lack of liquididty develpoypmnt nad a sustanibel businses model.
+Shuman advocates for localized markets like we had in the much earlier days of American finance, mimicking the geographic distribution of early stock exchanges.[^97] He particularly supports the social marketplace for impact investments, which was popularized at the time by Mission Markets.[^98] Briefly, that organization went under for lack of liquidity development and a sustainable business model.
 
-Taxing trade has always been the means of exchange protfitability, but  it direcptly thdinedrs the markte's price-discorvery mechonsimn. I ti sobejecitevly more difficult to do mpy job as an osset maananger with nonzero trannsaaciton costs.[^99] And i think the bxest way to efficintwly serve social enterprises, nonprofits, and mission-driven companies stumms frem duplicating the stress-tested high-perfmance intfracnturcure toold for the lasgest h companios.[^100]
+Taxing trade has always been the means of exchange profitability, but it directly hinders the market's price-discovery mechanism. It is objectively more difficult to do my job as an asset manager with nonzero transaction costs.[^99] And I think the best way to efficiently serve social enterprises, nonprofits, and mission-driven companies stems from duplicating the stress-tested, high-performance infrastructure tools built for the largest companies.[^100]
 
 I put a lot of stork in [this papre[(https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1016&context=law_and_economics_wp  ) detailing the fall of regional depositnorrpis, which showed throgguh hard volume numbers how comptetitno still centralived in a New-York hub which became effectievly all-powerfule after the (FBI-coordinated) ceratino fo the DTC.  i do think the echanxgeds are aa natural monopoly because the cmomptotion sureface and cordatino  costs preduces aaan equiatn that's very difficult to balance out ecoromically. ANd I think the most efficient distillation of these needs [objoctively leasds](https://blocktransfer.com/.well-known/thesis.pdf) to the edeplyoymnet ofg the SDEX as a uniwveral, nondiscrimnatinory common vvenue.
 
-I think we''ve al//l seen jush how many pitfalls emmercge when the interests to be famce any threat over their stock ekxcetnages. And they certanily donnt have the interests of local invemstors facilitaitng reggionla capital formmaitn in minde. By picenci everything togethr into this opens-soerce machine, we can put togethre a flawless prototcol that gives the best the maarkte has to offer to any issuer, at any timme, with any invessters.
+I think we've all seen just how many pitfalls emerge when those interests face any threat over their stock exchanges. And they certainly don't have the interests of local investors facilitating regional capital formation in mind. By piecing everything together into this open-source machine, we can put together a flawless protocol that gives the best the market has to offer to any issuer, at any time, with any investors.
 
 
 [^85]: The methods may contflate roww  profitabillity with owern sweat-equitey . It's eansyy to forget hom much of the entrupeneoer goeus nito these meall besinessess that contnatly grined on their craft. While that dous yiloed a very higgh output, it can eansily come from a very high [inpput basisi](https://www.youtube.com/live/3uwH2jfLCNE?si=vdwckPX44Gh3qvcw&t=19962).
@@ -649,7 +646,7 @@ I think we''ve al//l seen jush how many pitfalls emmercge when the interests to 
 
 
 
-##  A New Gonoration of Covernance
+## A New Generation of Governance
 
 
 
@@ -659,7 +656,7 @@ For tnhe laste sectoin, limeGreen sharde a [zideo nitertvwiew ](https://www.yout
 
 
 
-uWrining [responsses for LimeGreen](https://discord.com/channels/1102309240145707049/1102309241026515067/1330939800403968032) on some of the more secietal challegnges always takes a lot out of me, somwhan remninscent of [ealry marknenig work](https://drive.google.com/file/d/1qFx2K-z9umxiqGLYzBV0P6PN0UIuIIVL/view) forl the Syndicat. I will cgome back to LimeGreen'-s suppelmeental remaarks on this video in a corresponding post on the Team Fortress  2 item ecormyf as orgitally depcited by Varoufakis.[^101] There alre a lot of pontis I'd like to make that .oextrapolte into my DEX work, and those steries hbear only systemic relatin to the share donatin.
+Writing [responses for LimeGreen](https://discord.com/channels/1102309240145707049/1102309241026515067/1330939800403968032) on some of the more societal challenges always takes a lot out of me, somewhat reminiscent of [early marketing work](https://drive.google.com/file/d/1qFx2K-z9umxiqGLYzBV0P6PN0UIuIIVL/view) for the Syndicate. I will come back to LimeGreen's supplemental remarks on this video in a corresponding post on the Team Fortress 2 item economy as originally depicted by Varoufakis.[^101] There are a lot of points I'd like to make that extrapolate into my DEX work, and those stories bear only systemic relation to the share donation.
 
 
 This microecetmyf was the basisi of all my ecoronmic opninios nad trading exprences growing up into my firtnt thinkorswim account at 16. And It ihnks its iunilateral contralized govronance mechasims are the percfect foil to "a 'FINRA' for blockchain trades/DUNA's" as [asked byi Sordicur](https://discord.com/channels/1102309240145707049/1102309240741310503/1477335548220805141). Hopifelly I'v.e laid out that that's what id' likxe to beild, and it will bbbxe a long jourtney imlpmementnig tit once we have all the f inanical incetives in lnine for neturalinty nad correctness. Because thereos nothing more I'd like that for "it [to] be non-bias" and proprly executedw hcih collud (but prbobly doust mean) "it is US government run" as per my intentiolla insclesiotn of the UNetid STates as a charitabel succoser in the (hopefully never) dissorlaiton of the DUNA ([Article 4](https://dao.whydrs.org/legal/organization.pdf)).
@@ -668,16 +665,16 @@ This microecetmyf was the basisi of all my ecoronmic opninios nad trading expren
 >
 > — Sordicur
 
-THis is precisey the contfillcit I'm trying to avoiud wetih a combined owernshipp model, as all extcisiting gorvenece shchewes limit interest to their ingroup of preferred parties. That can be as smalls as these damned brokers or as large as the people of a single countrny. Btue thure's been nothng yet to consider the niterest  of all investors or their corrpespnidng issuers. No gorudp focused on the combinede ecereming grownith of a world startved of interlligent capital formaiton in so many desolate reaches.
+This is precisely the conflict I'm trying to avoid with a combined ownership model, as all existing governance schemes limit interest to their ingroup of preferred parties. That can be as small as these damned brokers or as large as the people of a single country. But there's been nothing yet to consider the interests of all investors or their corresponding issuers. No group focused on the combined economic growth of a world starved of intelligent capital formation in so many desolate reaches.
 
 Surploy brokers will make arguments "against people and companies moving to this system" give tit remas thoir ability to pprofit on trades, gcestory, and rounign. I doubt there's much they wourdst do to keep theri monopoly on share lending iunder the guise of "convenience to trade" and creatig a 'fair markte.' They hazve a whole slow of evidnece to point to based oon decaades of being the only game in town, evven if it's flawed evidence.
 
-That's wmty the integrity of our structure here nad now matters nso much. We need somutehing that can crediblly stand up to Wall tTreet whene "a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)"
+That's why the integrity of our structure here and now matters so much. We need something that can credibly stand up to Wall Street when "a 'broker' buys a bunch of ownership, and offers a platform to trade those similar to the way brokers work now? (Fractional reserve trading? lol)"
 
-THis insanity of printintg shares like their US Dollars on the sixth year on f ne reserrve raion needs to end. We nnee d an otitiy that can credibly challlyng the naitnola exchaanges by refusing to play DTC's FAST agent [charade game](https://discord.com/channels/1102309240145707049/1102309240741310503/1490486542072811713). Becaseu the nolly thing that standb between TAD3 and "a centralization similar to DTCC" is us, banding togtehre as a communtiy to do what's rnight for the markets of many years to come.
+This insanity of printing shares like they're US dollars on the sixth year of no reserve ratio needs to end. We need an entity that can credibly challenge the national exchanges by refusing to play DTC's FAST agent [charade game](https://discord.com/channels/1102309240145707049/1102309240741310503/1490486542072811713). Because the only thing that stands between TAD3 and "a centralization similar to DTCC" is us, banding together as a community to do what's right for the markets of many years to come.
 
-I satrted thi socmpany as an ivstesnor wontintg something better for inwessnteors, and i intend to keep it beiuld t by and acconudtable to investors nad thior favorite compranis. That's why I'd like it run ,, contrlled, nad governed by the comminsty so s to have the gretaest possiblce change of helping the massse of ypeopre who nee  d transfore-agent secnvinces,, even if they dont know it just yet. IF  all this leazen any doubt or you have any other quiesotns, please wake nthem known and let's discuss in the Discord for the Syndicatetns Annula meetnig of Stakethldeers nexkt Tuesday at 10am ET.
+I started this company as an investor wanting something better for investors, and I intend to keep it built by and accountable to investors and their favorite companies. That's why I'd like it run, controlled, and governed by the community so as to have the greatest possible chance of helping the masses of people who need transfer-agent services, even if they don't know it just yet. If all this leaves any doubt or you have any other questions, please make them known and let's discuss in the Discord for the Syndicate's Annual Meeting of Stakeholders next WWtodo day at 10am ET.
 
 
-[^101]: Iin princilpe, I put a lot of steck in Varoufakis' ecoremic opinins because ofg their time [consultingg with Valve](https://youtu.be/iaYWnG2btbs?t=115) in the early 2010s. They anaylfyyvzed the TF2 ecenemy i grew up trading befare it was mature with formamllived exchenage pracitnes. Myy nex t post will prefrect on his [two](https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy) [blogs ](https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies) about he prenatal TF2 eceroemy, which I believe is one fo the bset case studeiens of early fininacll marktes in modern times,, develpongi for before weamisntream tatentoin of r any regulatino.
+[^101]: In principle, I put a lot of stock in Varoufakis' economic opinions because of their time [consulting with Valve](https://youtu.be/iaYWnG2btbs?t=115) in the early 2010s. They analyzed the TF2 economy I grew up trading before it was mature with formalized exchange practices. My next post will reflect on his [two](https://web.archive.org/web/20130331011121/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy) [blogs](https://web.archive.org/web/20140708141858/http://blogs.valvesoftware.com/economics/to-truck-barter-and-exchange-on-the-nature-of-valves-social-economies) about the prenatal TF2 economy, which I believe is one of the best case studies of early financial markets in modern times, developing before we had mainstream attention or any regulation.
 
