@@ -502,7 +502,6 @@ All that is to say that it requires a very high level of execution quality to bu
 
 I'd want to know more about the study methods employed here, as I've got to think there are some economies of scale with at least having a legitimate corporation.[^85] Notwithstanding, I agree deeply with the principle of increased efficiencies with more distributed labor. If we presume inefficient extraction from hierarchical management, then it follows the lowest form of independent effort, a sole proprietorship, yields the highest capital richness to 'society.'[^86]
 
-
 The sole props are akin to 504 offerings in that they're a little outside the scope of what I envision with TAD3. There is a good time and place for small independent offers which use limited capital to execute a limited (non-marketable) vision. I just don't see how projects like that would require or even want the full functionality of direct connection with the market for capital.[^87]
 
 Rather, I deeply align with the principle Shuman pushes that [small business is good business](https://youtu.be/Iq5aG4ZsPlU?list=PLWUFvhKuc_5uIHno6ZC1QA3jKhvI9rVXU). Creative wherewithal among peers tends to dissipate quickly as specialization decreases. There are only so many people who immensely care about styling hair for locals, and that passion justly fades if you make them sell shampoo or much less Tupperware.
@@ -510,6 +509,7 @@ Rather, I deeply align with the principle Shuman pushes that [small business is 
 By keeping organizations small and bound to their core purpose,[^88] a single monopolist can't control a market by will of perpetual loss-leading. And smaller employers mean more competition between firms and bargaining power for workers against a looser bureaucratic hierarchy. Lastly, this also makes diversification much simpler for both capital allocation and analysis of performance.[^89]
 
 #### World Government and Distributed Democracy
+
 "Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
 
 ---
@@ -518,9 +518,7 @@ I've played around with this idea for a while.[^90] The thing is, government wil
 
 The world is a big place with a lot of different people. It remains to be seen whether all these groups can come together, no matter the technical form of democratic participation. I think we see now[^91] a pretty clear example of entire societies built around coercive control and state authoritarianism that few would promote, but it still exists until a local change movement can do anything about it.
 
-As for direct voting on all governing affairs, I think that's a great concept, and we'll get to see it in action with the DUNA, which doesn't have elected representatives.[^92] Most governing on that high scale resembles money management insofar as market impact comes most directly from forming an association to accomplish your goals. There is nowhere to ask for permission to work on your idea or pitch it to investors, and that action can lead to some of the most outsized change.[^93]
-
-
+As for direct voting on all governing affairs, I think that's a great concept, and we'll get to see it in action with the DUNA, which doesn't have elected representatives.[^92] Most governing at that high scale resembles money management insofar as market impact comes most directly from forming an association to accomplish your goals. There is nowhere to ask for permission to work on your idea or pitch it to investors, and that action can lead to some of the most outsized change.[^93]
 
 #### Specific Voting Mechanisms
 
