@@ -328,25 +328,17 @@ Thus we remove the opportunity for "benefits that were allocated to customers" t
 [^59]: I think [Bibic saw](https://www.reddit.com/user/Bibic-Jr/comments/z4p5ss/an_open_letter_to_the_mods_of_superstonk_from) this get particiculal/yp worse oas the communtiy sive grew, paaid accounts startetd intfiltrating forums., and helped a lot of people learn. I'd rather just get this to a strong place so we can focus on the good work that's been done nad needs to happen far mass DRS adoption.  Imagine if the ASsocat distributed proftis teo members, supporting a pariciticapatino narrative  aruond profit over athuntic missoin 
 
 
-
-
-
 ## Local, Decentralized Economic Favoritism
 
-
-
-
-Next LimeGreen mentions Kirk, who "[s]hared an article with me about local economies that was interesting." Huge thanks to Kirk, who asked lots of questions lining up with a chat around DEX accessibility for all companies at the start of the panel Q&A. I'll let the substance of my DEX remarks stand there, but I'm sure the inspiring substance will come out in discussing the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
+Next, LimeGreen mentions Kirk, who "[s]hared an article with me about local economies that was interesting." Huge thanks to Kirk, who asked lots of questions lining up with a chat around DEX accessibility for all companies at the start of the panel Q&A. I'll let the substance of my DEX remarks stand there, but I'm sure the inspiring substance will come out in discussing the [Fed paper](https://www.frbsf.org/wp-content/uploads/schuman.pdf).
 
 The 2009 journal entry comes from a well-known author in the community, and LimeGreen gave the following main summary:
 
-> If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn’t socialized ownership of companies have a similar effect?
+> If buying local generates 2–4x more economic benefit than a dollar spent at a globally owned business, then wouldn't socialized ownership of companies have a similar effect?
 
 Aside from the timely recommendation for economic diversity, the paper also makes some relatively specific securities-law recommendations.
 
 For the rest of this section, I will use blockquotes for the actual article and put the Discord remarks in quotes.
-
-
 ### Securities Laws
 
 
