@@ -1,7 +1,7 @@
 ```
-status: Draft
-submit: Mar 2026
-dialog: https://github.com/orgs/WhyDRS/discussions/new?category=blocktransfer &&set Notice@ re https://discord.com/channels/1102309240145707049/1102309240741310503/1477309355757015230
+status: Published
+submit: 8 Apr 2026
+dialog: https://github.com/orgs/WhyDRS/discussions/62
 ```
 
 # Q&A on Proposed and Preliminarily-Accepted Share Donation
@@ -10,7 +10,7 @@ Hi guys, and thanks again for the overwhelming support on the donation vote. It'
 
 I'm excited to get things moving forward at "180 MPH" lol. It's really only possible because of everyone here that makes it work together. It was awesome putting a face to some inspired names:
 
-[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G)
+[<img width="740" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f">](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G)
 
 ## Expanding Manpower
 
@@ -65,7 +65,7 @@ That said, as for existing nonprofits, there's certainly nothing stopping them f
 
 For clarity, I have another tool in mind for the DUNA, based on discussions in prior DUNA meetings circa June last year. There's still a lot to build out for `issuers.info`, and I think the Association should use something probably separate from BT for its governance. I don't envision the Syndicate taking on DAOs as clients anytime soon, especially ones using anything other than token weighting.[^9]
 
-##### Help Fundraising
+#### Help Fundraising
 
 This sounds a lot like payment processing. I am not sure that's exactly what I'd have us focus on at the moment, just in terms of what we can immediately be the most effective at.
 
@@ -82,7 +82,6 @@ I agree with the schematics that "DUNA + BT = grassroots funded, decentralized, 
 If we want to keep "public goods" in the public, I think this is the only viable path to take, save for some complexities around return-capped investment contracts,[^12] which are relatively new and yet to be proved out. Otherwise, there's always a conflict of interest between member-stakeholders and equity shareholders.[^13]
 
 Lastly, I just want to clear up a meaningful misconception which separates the DUNA and particularly a 501(c)(3) from normal governance. I fully agree we should pay market rates for quality working contributions, but we cannot distribute profits to members.[^14] I am proposing something much more system-aligned than your normal "blockchain project where we all pile into a token and system so that others use it and our share of value increases."
-
 
 
 [^5]: And, with our progress on EDGAR Next, this can automate the issuer's EDGARization. That process similarly costs so much for no reason other than reporting this same info to the SEC. Why not do it all in one place?
