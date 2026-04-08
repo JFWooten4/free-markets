@@ -400,7 +400,6 @@ And the corporate governance tenets follow that same line of logic, since issuer
 
 > New community-based funds, securities, and exchanges, of course, still need oversight to prevent fraud and ensure accountability.
 
-
 "With DeFi we’ll have opportunities for universal unconditional basic income, which will bring freedom, fairness, equity, and prosperity like we’ve never seen before."
 
 ---
@@ -416,7 +415,6 @@ Community-based securities offer us the freedom of free capital association I've
 We can shorten that quote to just:
 
 > New[] exchanges[] need oversight to prevent fraud and ensure accountability.
-
 
 "People are ready to work for their community, but the current alienation and exploitation that this system requires of us, of our communities, and of our labor must end because it is keeping us from greatness."
 
