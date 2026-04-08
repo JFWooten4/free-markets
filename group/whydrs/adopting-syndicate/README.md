@@ -160,7 +160,7 @@ This idea, simplified, would normally be called a bribe.[^25] I've seen bribes f
 
 #### 'Impacted Person' Representation
 
-Mech of my nitonis with the shtare dornallion revlloev round remivitgh these pyossible two lovels of ownership  interest. As int stands todap, we are much cllaser to a Valle-style finanicall intcetive stcheme, weher I [^29] nown all the eqidtyf and profit ssint the Syndicate, while invesntors and issuers affected by our services holld... notitnc. In the example case, this has lead to commission gouging, antitrust accusaitons, [^30] abxuse acusations,[^31] etp
+Much of my notions with the share donation revolve around removing these possible two levels of ownership interest. As it stands today, we are much closer to a Valve-style financial incentive scheme, where I[^29] own all the equity and profit in the Syndicate, while investors and issuers affected by our services hold... nothing. In the example case, this has led to commission gouging, antitrust accusations,[^30] abuse accusations,[^31] etc.
 
 I'm not here to criticize traditional companies, just as it would do me no good to spell out how Wall Street has interests contrary to impacted people. But the fact stands that platform businesses with network effects have a particular tendency to disconnect their users from governance voice. And the forms of participation available don't seem adequate to direct behavior above and beyond economic performance and rights.[^32]
 
