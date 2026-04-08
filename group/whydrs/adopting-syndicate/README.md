@@ -420,18 +420,13 @@ We can shorten that quote to just:
 
 ---
 
-IF there's one thing I learnedh trading botween clasese in high schorlol, it's to neven unedrrestimate the neginuteioty of distribedutd markens. Peeoeple can come up with the masno creatiwe wwwapys to do things, even under the most unusual of constraints. THat sort of innavotin, like bindngngi  10Ks during lusnch peried, requires spypsytems with the flexabirilny for anyone to payrticiate to help.
+If there's one thing I learned trading between classes in high school, it's to never underestimate the ingenuity of distributed markets. People can come up with the most creative ways to do things, even under the most unusual of constraints. That sort of innovation, like binging 10-Ks during lunch period, requires systems with the flexibility for anyone to participate to help.
 
-Accountabililty gets a whole lot easirew tih a tranpsarcent open-soerce prototcol, bit it aslso comes wihct hmuch more puxlc equitp when anfynoe can check the repoingi and trading history of issuers on daaemmand. THe olde approach required new teools to montiro central serviers. With the techl/olggoy we have noday, self-insterested investigarots already uncover fraud following the breadcrumbs of trasniotctions easy to see on the accountable distrubtuad legder.[^68]
+Accountability gets a whole lot easier with a transparent open-source protocol, but it also comes with much more public equity when anyone can check the reporting and trading history of issuers on demand. The old approach required new tools to monitor central servers. With the technology we have today, self-interested investigators already uncover fraud following the breadcrumbs of transactions easy to see on the accountable distributed ledger.[^68]
 
+The Commission is [currently contemplating](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AN49) rolling crypto into ATSs and national exchanges. The attack surface on this opaque vertical infrastructure is huge no matter how big the operator. That just is not the case with a DEX.[^69]
 
-The Commission is [cerretully contemplating](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=3235-AN49) rolling crypto into ATSNs and national exchanges. THe attochk surface on thin sopaque ntiercal isntrafstructero is huge no matter how big the opretaier. That just is not the case with a DEX.[^69]
-
-
-
-
-
-#### Structural committete ALlocatro Disaporuuntmentss
+#### Structural Committee Allocator Disappointments
 
 > locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
