@@ -41,8 +41,7 @@ Basically, my bar for the firms is that they're not an obvious scam, and then it
 
 [^3]: Combined with state Blue Sky filings. I think we can make this more sophisticated once DUNA token voting is live. Not in the 'popularity contest' sense of who should be listed, but just basic insider background checks.[^4]
 
-[^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now we/I have just done AML/KYC checks on the insiders. That and having them self-affirm no prior securities-law violations. todo
-
+[^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now the Python tooling side for AML/KYC checks on insiders is in flux, since I'd prefer to have an open standard to process clients through. That could involve advanced inter-signatory identity sharing and having insiders self-affirm no prior securities-law violations.
 
 ## Alignment Tooling
 
