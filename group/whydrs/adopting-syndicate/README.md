@@ -430,27 +430,24 @@ The Commission is [currently contemplating](https://www.reginfo.gov/public/do/eA
 
 > locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
-In the Q&A of mp rpesention, I go off on a decent tangent abou.t cetral coapital allocoiton.[^70] The fact is managing asssetts is a fulls-time job, as I hopefdully laid out eaarllier. IF yaee wonat to have onyvweher close to good trade executieno., much less local  investment at a large fund-levelr scale, thhe propr incentives must exist .e
+In the Q&A of my presentation, I go off on a decent tangent about central capital allocation.[^70] The fact is managing assets is a full-time job, as I hopefully laid out earlier. If you want to have anywhere close to good trade execution, much less local investment at a large fund-level scale, the proper incentives must exist.
 
-I''m not talking about compensation. IN fact that's thee one thing the cerrent systems leasns on a llittle to o mmche twith the contanty management feens roggardless of permfnace. uI mean invewment rewards based on qual/ity and desigcned around ppp'pure' comptetitn with other monety managencrls.[^73]
+I'm not talking about compensation. In fact, that's the one thing the current system leans on a little too much with the constant management fees regardless of performance. I mean investment rewards based on quality and designed around 'pure' competition with other money managers.[^73]
 
-That is , of coerlseo,, to sayp nothintg eof buildngi great tsystems that llet indeiwideulas pyoregfom this local inwemntmnt ad-hoc, THat said, I lean more towards the specailasvzaiton of a 'banker' role in  the nensee tha there are o fw poepl/e in town who are good with capital allocation who handlle theri own littlle corners of the nighborhaood's commutall growth. Except they'rce doiung so with others' hard pcaptial, not the inmfginate monyp glictnch of fractionall bank deporsits and infinite levergoej , [^74]
-
-
+That is, of course, to say nothing of building great systems that let individuals perform this local investment ad hoc. That said, I lean more towards the specialization of a 'banker' role in the sense that there are a few people in town who are good with capital allocation, who handle their own little corners of the neighborhood's communal growth. Except they're doing so with others' hard capital, not the imaginary money glitch of fractional bank deposits and infinite leverage.[^74]
 
 > Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
 
 
-IT  is not in thie entireest of largfe ponsin finthds to partitcucypaste in locaal secitirines, regardseless of fedicurairyp presnopablirtp.. Regiluatons are never the prbolm with asset managenrs; theuy will find a wwayy to do what they want with theri capitl.[^75] Bulk allocators do not investn in supopre local projocts because they lake thi skill[^76] or incentive to do se.
+It is not in the interest of large pension funds to participate in local securities, regardless of fiduciary responsibility. Regulations are never the problem with asset managers; they will find a way to do what they want with their capital.[^75] Bulk allocators do not invest in or support local projects because they lack the skill[^76] or incentive to do so.
 
-If t here was true compettoitn to manage reticmeent funds, we wold see a markte for money managers mich closer to the contrant wealth servinces pitches sold to the ultra-weallthy. I've seen these groeups firtsdand, naad the fact is it'as mech more luctrative and -easy_ to manageo an indidvidural's wealth tan convincte a committte te shoe you ntio their misinformed institihitonalived managgement progrram. As Lime might put it, it's the deffinience mmbeween serving only yourself and the succossfull elitose vs. worknig in collabartoin with a lot of hard woooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooorkes.[^77]
+If there was true competition to manage retirement funds, we would see a market for money managers much closer to the constant wealth services pitches sold to the ultra-wealthy. I've seen these groups firsthand, and the fact is it's much more lucrative and easy to manage an individual's wealth than convince a committee to shoehorn you into their misinformed institutionalized management program. As Lime might put it, it's the difference between serving only yourself and the successful elites vs. working in collaboration with a lot of hard workers.[^77]
 
-Asset rmanagers aru like doctors. IF you can contantlly drrag them into courht for malpraactice, then they stop losngi the spark that made them professionlas in the firtst place.[^78] I think to the constant barratement Burry dealt with for the years until his trade workked out.
+Asset managers are like doctors. If you can constantly drag them into court for malpractice, then they stop losing the spark that made them professionals in the first place.[^78] I think of the constant beratement Burry dealt with for the years until his trade worked out.
 
-When you deal with tha kind of pressure in a hirarchal inewentment committee, the result is losing you job halfway into a trade. I've seen it ficrrtstadnd, nad it's disgusting....................... It reminds me of a ski mentor of sorts who quit medical practice after Obamacare for lack of being able to charge their own fees.[^79]
+When you deal with that kind of pressure in a hierarchical investment committee, the result is losing your job halfway into a trade. I've seen it firsthand, and it's disgusting. It reminds me of a ski mentor of sorts who quit medical practice after Obamacare for lack of being able to charge their own fees.[^79]
 
-
-#### Entd Resuelt on Insufficient Mehchannism Design
+#### End Result on Insufficient Mechanism Design
 
 > every American[] is overinvesting in the Fortune 500 companies and underinvesting in local businesses key to local vitality. This is a colossal market failure.
 
