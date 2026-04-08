@@ -10,7 +10,7 @@ Hi guys, and thanks again for the overwhelming support on the donation vote. It'
 
 I'm excited to get things moving forward at "180 MPH" lol. It's really only possible because of everyone here that makes it work together. It was awesome putting a face to some inspired names:
 
-[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G) /> ## todo replace when pub w/ img
+[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G)
 
 ## Expanding Manpower
 
@@ -30,19 +30,18 @@ There's work to do like https://github.com/blocktransfer/TAD3/issues/4 to make t
 
 Lastly, @bobmahalo asked how to help get tokenization going. There are a lot of different paths we could take, but I'm going to do my best to outline and lead down one route in the coming months. I have put the information and tooling out there for a while under the hope that things would just pick up on their own, but I get and see that it will take some directional leadership to move things forward.
 
-[Here](https://github.com/user-attachments/files/26098890/Private.Client.Application.pdf) is a useful template for underlying private firms. It's from the source [here](https://github.com/blocktransfer/org-docs/commit/8db07fcf4be951f505e06d98d0ae5624b2a6763f) and can develop over time as the process matures / gets rolled into a more automated submission process. You hit it on the nose when it comes to the idea of issuers "submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies." todo
+[Here](https://github.com/user-attachments/files/26098890/Private.Client.Application.pdf) is a useful template for underlying private firms. It's from the source [here](https://github.com/blocktransfer/org-docs/commit/8db07fcf4be951f505e06d98d0ae5624b2a6763f) and can develop over time as the process matures internally or gets rolled into a more automated (open-source) submission process. You hit it on the nose when it comes to the idea of issuers "submitted to legal for any issues to be rectified before submitting to the proper regulatory bodies."
 
 Basically, my bar for the firms is that they're not an obvious scam, and then it's just getting things filed properly with the SEC. That alone creates the technical authority binding them to the antifraud laws.[^3] That is to say that I'm happy acting as the "legal" person checking off on compliance for things.
 
 
-[^1]: This isn't super related to the shared ownership discussion, so I won't dive into exact architecture plans and requirements in this post. But think the investor tooling and particularly automated issuer onboarding. These are set up with related issues in @blocktransfer. todo check render
+[^1]: This isn't super related to the shared ownership discussion, so I won't dive into exact architecture plans and requirements in this post. But think the investor tooling and particularly automated issuer onboarding. These are set up with related issues in @blocktransfer.
 
 [^2]: I'm looking at Chives who we established in #1 does so much without expectation of reward. I'm sure this can be a shared desire amongst friends with too much time. But it's only one part of a fully formed nonprofit.
 
 [^3]: Combined with state Blue Sky filings. I think we can make this more sophisticated once DUNA token voting is live. Not in the 'popularity contest' sense of who should be listed, but just basic insider background checks.[^4]
 
-[^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now we/I have just done AML/KYC checks on the insiders. That and having them self-affirm no prior securities-law violations. todo
-
+[^4]: Background checks in particular will be easier over time once BT sets up more long-investor search tools. Right now the Python tooling side for AML/KYC checks on insiders is in flux, since I'd prefer to have an open standard to process clients through. That could involve advanced inter-agent identity sharing and having insiders self-affirm no prior securities-law violations.
 
 ## Alignment Tooling
 
@@ -90,13 +89,13 @@ Lastly, I just want to clear up a meaningful misconception which separates the D
 
 [^6]: Fact is that what the original exchanges wanted known to their investors became the template used in public policy. I had [reporting clauses](https://github.com/blocktransfer/TAD3/pull/7) in our beta contract that theoretically bound the issuer to periodic financial publications as a condition for our services. While I never enforced that due to their small size, it could almost be like a condition of "A-listing" as a BT client.
 
-[^7]: OK, this was 100% conceived of by BlockScience in association with the Stellar Community Fund, so maybe the right word here is implementing or popularizing. Of course it will stand with the [Soroban implementation](https://github.com/stellar/stellar-community-fund-contracts) and grow from experience and feedback. There's a lot of fine customization you can do with NQG that deeply aligns with my experiences efficiently managing capital.
+[^7]: OK, this was 100% conceived of by BlockScience in association with the Stellar Community Fund, so maybe the right word here is implementing or popularizing. Of course it will start with the [Soroban implementation](https://github.com/stellar/stellar-community-fund-contracts) and grow from experience and feedback. There's a lot of fine customization you can do with NQG that deeply aligns with my experiences efficiently managing capital.
 
-[^8]: Where insiders are known through an agreement with the agent, who maintains the user / investor PII, an issuer profile has said affiliates marked and can allow them access to closed data held only for verified members to manage internally. Again, G-Suite-ish but based on public keys, using a WalletConnect-style login.
+[^8]: Where insiders are known through an agreement with the agent, who maintains at least the original user PII, be it through their own flow or the processing of a unified DRCS app frontend. An issuer profile then has said affiliates marked and can allow them access to closed data, held only for verified members to manage internally. Again, G-Suite–ish but based on public keys, using a WalletConnect-style login.
 
 [^9]: This just looks the most like equity, so it'd be easiest to slot into the existing toolchain. There's plenty of SEC options to support the registration of a lot of DAE tokens as securities, so in theory they could even use the proper reporting means if they're already actively looking for a transfer agent. Even then it would be a longer discussion or even a DUNA vote if there are any complexities such as existing 'governance tokens' on another chain, which would need to be bridged into TAD3.
 
-[^10]: Especially when most of them are literally non-stock corporations. It's the same challenge you'd get with a partnership, and to a lesser extent the [discussions](imgs/scorp-shareholders.png) on S corps. I've thought things out with the end goal of all issuers being successful public bigshots, and that's just a different architecture design than private foundations. ## todo pub inline img
+[^10]: Especially when most of them are literally non-stock corporations. It's the same challenge you'd get with a partnership, and to a lesser extent the [discussions](https://github.com/user-attachments/assets/98647b34-b101-4d0a-a616-7dc41d94ab18) on S corps. I've thought things out with the end goal of all issuers being successful public bigshots, and that's just a different architecture design than private foundations.
 
 [^11]: Based on my experience, these investors like profit. Despite floating around the charity space, I've met very few who come from that industry (although now I'm getting to undue broad swaths). At the very least we can agree that sizable funds were commissioned specifically from nonprofits for the purpose of generating financial returns to support the main mission, not tangential efforts.
 
@@ -126,7 +125,7 @@ The answer to this stems from small businesses and communities coming together t
 
 #### Other Organization Forms
 
-All that to say, I really support anyone setting up their own idea, capitalizing it with investors, and expanding the market with new productivity. That gets us to the next topic around "labor unions" and "tenants unions" as applications. We've talked about these ideals briefly before ( I am todo), and I don't see a huge relation to what I've worked on so far.
+All that to say, I really support anyone setting up their own idea, capitalizing it with investors, and expanding the market with new productivity. That gets us to the next topic around "labor unions" and "tenants unions" as applications. We've talked about these ideals briefly before (which has been an exploratory point of discussion from strikes to new entrancy), and I don't see a huge relation to what I've worked on so far.
 
 These ideas have much more to do with social organization than markets or their accounting.[^19] I suppose you could organize some kind of entity with onchain rights to represent a collective group, as with any legal entity on the platform. But that's again outside my personal design scope and not something I'd endorse as a Syndicate clientele focus.[^20]
 
@@ -175,17 +174,17 @@ I believe the market-wide benefits of accurate securities infrastructure carry e
 
 [^24]: A single contentious vote can make or break billions in shareholder value. _See, e.g.,_ votes that went wrong in my early [blog post](https://web.archive.org/web/20240616122443/https://www.blocktransfer.com/blog/post/proxy-voting-flaws), such as where the default delegation setting for one institution decided the outcome of Dell's privatization. In these borderline cases, a little spent on herding voting rights could cause a lot of damage, which becomes simple to profit off when (i) competing with the issuer's clients or (ii) short-sale abuse fines are not adequate.
 
-[^25]: There are some pretty interesting and specific SEC proxy solicitation rules around shareholder proposals specifically to prevent this manipulation. The notice and voting processes are engineered in state and federal law with safeguards to stop bad outcomes. Namely, they isolate the issuer, proposer, and any form of influential context through xyzz/neutral todo outreach rules.
+[^25]: There are some pretty interesting and specific SEC proxy solicitation rules around shareholder proposals specifically to prevent this manipulation. The notice and voting processes are engineered in state and federal law with safeguards to stop bad outcomes. Namely, they isolate the issuer, proposer, and any form of influential context through neutral solicitor outreach rules.
 
 [^26]: It's very tempting to receive passive income selling what feels like 'nothing,' especially when you have a relatively small stake in the company. Shit, I'll admit that I still have share lending turned on in my old Robinhood account that I can't seem to close.[^27] But when all these outstanding positions add up together and can be swayed with relatively little money compared to what's at stake, market manipulation becomes a lot easier.[^28]
 
 [^27]: It's got like $100 in it, and they want me to fill out some paperwork to terminate the assets. There are some interesting nuances here that will make their way into a TAR comment. Anyway, all this of course presumes that customer indication of lending interest even matters, as was _not_ the case in [Apex's $3,200,000 fine](https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=38).
 
-[^28]: Manipulation in the sense that bribers generally distort the efficient allocation of capital to their own limited ends, hurting the flow of incentives and behavior as would occur only with free exchange. I've particularly seen it spur to life in otherwise xyvz//poor todo assets, which then create huge externalized / [socialized losses](https://aqua.network/governance/proposal/85). Corporate takeovers are already contentious enough when you need the full value of what's at stake, not a few pennies on the dollar to exploit a naive governance system. todo
+[^28]: Manipulation in the sense that bribers generally distort the efficient allocation of capital to a briber's own limited ends, hurting the flow of incentives and behavior as would occur only with free exchange. I've particularly seen it spur to life volume in otherwise illiquid and dead assets, which then create huge [socialized loss externalities](https://aqua.network/governance/proposal/85). Corporate takeovers are already contentious enough when you need the full value of what's at stake, not a few pennies on the dollar to exploit a naive governance system.
 
 [^29]: Or in their case, a small group of co-founders.
 
-[^30]: I know there's a lot of nuance as to entitilment regulation of business around this topic, but I'm just using it as a red flag for deeper misalignments here.
+[^30]: I know there's a lot of nuance as to entitlement regulation of business around this topic, but I'm just using it as a red flag for deeper misalignments here.
 
 [^31]: In the sense that developers have large qualms with the rating systems, as typical in centralized sales algorithms, or creatives who receive only a fraction of the revenue their art produces in the Marketplace. Or young gamers who fall down a pit of gambling exploitation trained through virtual cosmetic skins—a point we'll see Varoufakis analyze in my next post.
 
@@ -198,7 +197,7 @@ I believe the market-wide benefits of accurate securities infrastructure carry e
 
 ### Efficient Market Hypotheses
 
-In oral remarks at the 'hacker house' after the conference, @DamosDaze remarked how our work draws parallels to concepts I associated with Muhammad Yunus. I am a big fan of their framing of investment without the need for capital returns, competing alongside other firms in the free market. To my surprise, Kirik actually worked with an acquaintance directly connected to Yunus during their time building a local currency reform project back before crypto communities even existed.[^35]
+In oral remarks at the 'hacker house' after the conference, @DamosDaze remarked how our work draws parallels to concepts I associated with Muhammad Yunus. I am a big fan of their framing of investment without the need for capital returns, competing alongside other firms in the free market. To my surprise, Kirk actually worked with an acquaintance directly connected to Yunus during their time building a local currency reform project back before crypto communities even existed.[^35]
 
 The fact is that markets take time to react to information, and they only do so when people like us make trades based on local data. Trust me when I say that I'm a huge critic of EMH from my time beating the market, and I know we can blow it out of the water with our actions.[^36] I've held this view long before AI, and I think there's much more at the table than just "access to information and speed" which we can affect.[^37]
 
@@ -212,7 +211,7 @@ Investors don't deserve exploitation by officers of the TAD's companies. This wa
 
 #### Socializing PNL
 
-Comparative advantage emerges from intentional effort and smart people.[^39] I do not think we can turn the "winner" of this labor into a "public good" without removing the incentive that inspires their (my) demanding work in the first place. There wasn't much specifics given about a proposed mechanism here other than to "redistribute all or most profits evenly amongst all impacted people" within the market.
+Competitive advantage emerges from intentional effort and smart people.[^39] I do not think we can turn the "winner" of this labor into a "public good" without removing the incentive that inspires their (my) demanding work in the first place. There wasn't much specifics given about a proposed mechanism here other than to "redistribute all or most profits evenly amongst all impacted people" within the market.
 
 Firstly, that sounds like a policy goal which is already somewhat achieved through taxes and systems I disagree with which pay for conformity. Notwithstanding that, the surface area of affected people is very large when it comes to efficiently finding the price. Even if we could somehow analyze and steal the profits of traders, we would be ignoring the immense value they bring to society by cementing the value of securities.
 
@@ -227,7 +226,7 @@ While it might look bleak in some parts of the web era, that vision, the fact is
 It is the entrepreneur's opportunity to correct these mispricings with zero central coordination by making the individual choice to do something about an inefficiency they see in the world.[^42] While traders just see a number go up, it's the innovators who forge concrete change in their specialized vertical, be it on a global or just communal scale. I want to make that process of speculating on future market needs as easy as possible through efficient capital formation rails, because I think that's the best way to bring wealth and abundance to the world.
 
 
-[^35]: Kirk, _please_, I would love to hear more about this here if you'd be so kind as to enlighten us with the more complete story. We broadly agreed a lot on the values and concept behind building something that the community needs for the sake of having it. And I might add, having it work _well_ when an existing system (especially a monopoly) is clearly failing.
+[^35]: Damo, _please_, I would love to hear more about this here if you'd be so kind as to enlighten us with the more complete story. We broadly agreed a lot on the values and concept behind building something that the community needs for the sake of having it. And I might add, having it work _well_ when an existing system (especially a monopoly) is clearly failing.
 
 [^36]: Consider, for example, 6days, who's put in an amazing amount of work spreading DRS information across the web, getting the answers nobody else knows or asks. While it was a shame to miss them in February, their work continues on in the corners of the public corporations, where actually only a small number of specialists would understand or interact with accounting ideas. It's precisely these specialized decision-makers that can best assess the value of switching to a new kind of transfer agency well before the broad popular consensus catches up to what becomes a new status quo, equivalent to a late-stage market rally.
 
@@ -235,7 +234,7 @@ It is the entrepreneur's opportunity to correct these mispricings with zero cent
 
 [^38]: I think we have a unique opportunity to protect investors at the TA level, which has been written into law before, since only exchanges previously handled the matching of trades. Even though we do not handle the matching of trades, I've always envisioned a sort of community-led governance mechanism that takes advantage of DEX transparency and accessibility. It is the ultimate form of buying and selling, and I'd like to couple it with a modern take on investor protections without a central intermediary subject to Congressional funding concerns.
 
-[^39]: _See, e.g.,_ [note 7](https://github.com/orgs/stellar/discussions/1558), discussing how a colleague wired up Arduinos to test HFT strategies. While I don't respect this work as much as legitimate trend or sentiment analysis, it is a legitimate form of furthering the market and profits by connecting the flawed disparate ATS landscape. Notwithstanding how much I'd like to remove this subgroup of exploitations, the fact remains that funds procure some of the [smartest individuals](https://youtu.be/QNznD9hMEh0?t=1957) because of the complexities in allocating capital, which make it a demanding job. todo whp pll like bing a puppygirl / legitimate
+[^39]: _See, e.g.,_ [note 7](https://github.com/orgs/stellar/discussions/1558), discussing how a colleague wired up Arduinos to test HFT strategies. While I don't respect this work as much as legitimate trend or sentiment analysis, it is a tender form of furthering the market and profits by connecting the flawed disparate ATS landscape. Notwithstanding how much I'd like to remove this subgroup of formative exploitations, the fact remains that funds procure some of the [smartest individuals](https://youtu.be/QNznD9hMEh0?t=1957) because of the complexities in allocating capital, which make it a demanding job.
 
 [^40]: For instance, I would never have started working on the Syndicate if it wasn't painfully obvious how inefficient ATS routing became. The flaws in one part of the industry lead to grassroots analysis and frustrations that inspire competition and innovation. Without the suboptimal temporary failings of yesterday's corporate interests, we lose the motivation to do something a better way when someone new sees the market opportunity differently.
 
@@ -252,7 +251,7 @@ Regulation is interesting because it's one of these few things you can simply vo
 
 I suspect a community-focused approach to oversight will keep us high level. It can steer towards doing the right thing without entrapment in a narrow set of policies which forget justice in their distance from actual conflict. That is to say that I believe we can best organize governance decisions with the more intimate understanding and care shown that community members already have discussing these market challenges.
 
-#### "Catching" Comparative Advantage
+#### "Catching" Competitive Advantage
 
 Again the idea of regulation "steps behind the pursuit of competitive advantage" isn't entirely scoped out, but I think I understand the gist of what you're getting at. While there's nothing I would regulate away from price discovery, there is real and complex fraud that we will deal with over time. People will use the securities for transfer scams, we will need to stop terrorist financing, and there must be no tolerance on synthetic shares.[^45]
 
@@ -275,7 +274,7 @@ The "drastic and profound negative impacts on most people" only exist when a sys
 
 [^45]: For that last point, see a cool relevant discussion on [Soroban deployments](https://discord.com/channels/1102309240145707049/1262090967381577759/1309318677128020008). Now that the network has the flexibility of arbitrary login without intermediaries, there's a lot more nuance in how we implement securities management tools like clawbacks. There are some fundamental features we need to implement, like [reverse splits](https://github.com/blocktransfer/py-TAD3-horizon/blob/def8aaa17338073afe871de5881a30e406ba3d3c/investors/stockSplit.py), which introduce significant central trust and hence power over share balances, even if you can easily audit everything a TAD agent does onchain.
 
-[^46]: My naivety here comes from a lack of scaled deployment of TAD3, not economic or governance ignorance. Recall that I took the whole codebase private before discovering the community for fear of what unrestricted use of a TAD could allow bad actors to market. >>I'm confident in my ability to keep the issuers and agents in line by suggesting statutory policy changes binding American agents as they adopt our system.  todo region
+[^46]: My naivety here comes from a lack of scaled deployment of TAD3, not economic or governance ignorance. [Recall](https://discord.com/channels/1102309240145707049/1262090967381577759/1278378605197393990) that I took the whole codebase private before discovering the community for fear of what unrestricted use of a TAD could allow bad actors to market. I'm confident in my ability to keep the issuers and agents in line by suggesting statutory policy changes binding American agents as they adopt our system.
 
 [^47]: Or at least the agents who adopt the TAD concept. In a way, their migration into honest recordkeeping can become the competitive pressure needed to change the legacy side. Fact is that it will take some time to fully transition away from custodial holdings of retirement portfolios or complex trusts under ERISA.
 
@@ -285,7 +284,7 @@ The "drastic and profound negative impacts on most people" only exist when a sys
 
 [^50]: Save for their internalization or proprietary methods for the same domain. I think this is an easy and inevitable outcome in web2, where everything is services talking to services. But I find it to be a much lower risk since everything we've built requires any party, including the agent, to query and rely on the same public blockchain, providing a level playing field with _mostly_ zero insider advantages, ignoring legacy onboarding.
 
-[^51]: I realize this is somewhat of an oversimplification, as shown by the endless politics surrounding a small bit of code limiting block size to an arbitrary starting point. But I posit that systems like that did not have the governing nuance I intended to develop here, which allowed for representative voting weight resistant to self-interested narratives. If we keep governance rights [[aligned]] with the existing strong set of community morals and standards, then we can entrust long-term outcomes with the integrity of community participation, or at least that's the story I've had in my head for a long time.
+[^51]: I realize this is somewhat of an oversimplification, as shown by the endless politics surrounding a small bit of code limiting block size to an arbitrary starting point. But I posit that systems like that did not have the governing nuance I intended to develop here, which allowed for representative voting weight resistant to self-interested narratives. If we keep governance rights principally aligned with the existing strong set of community morals and standards, then we can entrust long-term outcomes with the integrity of community participation, or at least that's the story I've had in my head for a long time.
 
 [^52]: Or any government that entrusted the concept to the free market. There are some notable exceptions in Spain and India where a central implementation of the direct holding structure came alongside government rollouts. I use these implementations as light inspirations with a unique set of improvement opportunities should something built by open-source engineers come to replace their relatively initial implementations.
 
@@ -315,17 +314,17 @@ There are evil people in the world who will attack whatever structure we create.
 Thus we remove the opportunity for "benefits that were allocated to customers" to instead become "owner profits" since the owner is a 501(c)(3). Any supposed profits would eventually need to be rolled into developing BT and TAD3 to offer better, faster, and cheaper service. The only other alternative is dissociation into another nonprofit entity, promising all shares held perpetually.
 
 
-[^54]: ANd frankly  it''s redaicluodls that I evenn aneed to write this out, because they orat even at the top of the ecenemic saladder. THey're just a cencentrated groutp ofy industry isnsnidern  who hapyppened to be shethere when the whale market changesd to electrnic, and they saw a change to cement their limitehd roles of mony and power. Well I wont tolerate thoir status quo for a memont longer no matter how much they thin k they desersve it or haw many ways they can justify their blatant theft to Congress wwith vague fruee-market idealorlgies,
+[^54]: And frankly, it's ridiculous that I even need to write this out, because they are not even at the top of the economic ladder. They're just a concentrated group of industry insiders who happened to be there when the whole market changed to electronic, and they saw a chance to cement their limited roles of money and power. Well, I won't tolerate their status quo for a moment longer no matter how much they think they deserve it or how many ways they can justify their blatant theft to Congress with vague free-market ideologies.
 
-[^55]: _See_ ge edagr https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf. _See also_ X poststcruct TODO
+[^55]: I lay a surprising amount of this out in my [first comment](https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf#page=60). The fact is COVID struck precisely as my peers entered physical job markets, and it gave me a lasting interpretation of central office work that I was already leaning toward thanks to all my time researching crypto protocols independently. _See also_ the postscript on the last page of [Response 8](https://workdrive.zohoexternal.com/writer/open/a1vvyeef50b7575f84f1d846559dc867d2845), discussing the distributed workshop a folk musician created.
 
-[^56]: THis inctludes parititcucally contlsiedart of compnesnatitno. For the longest time I thought I had to do this crucial nad complekx pirnece through interal committee, . Howere, I am so hayppy to have the communtity available now as I believe it will yielld to more effiricint ant d obtjoctive rowards.
+[^56]: This includes particularly consideration of compensation. For the longest time I thought I had to do this crucial and complex piece through internal committee. However, I am so happy to have the community available now as I believe it will yield more efficient and objective rewards.
 
-[^57]: Much ofg my thinknig around theu jqutandaries of bossse sstemmeed from inintiar resesearh in _Peaaplenware_ and _THe mYthicual man-Month_. I owe much intellectiural credit te _How Gommittee s Innovate_, which perfectly capturesd the setntimnts I'd seen in flawed centllaived pceaptial alloctaion groups. This bedy of word bruadlyy seppurts delegiotian and indepnenetce of deceiosn-maknig down te the llowest possible donomutianon with minial permisosetns, a concept most directly expreessed in _Reinvnitng Organivaiton_ccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+[^57]: Much of my thinking around the quandaries of bosses stemmed from initial research in _Peopleware_ and _The Mythical Man-Month_. I owe much intellectual credit to _How Do Committees Invent_, which perfectly captured the sentiments I'd seen in flawed centralized capital allocation groups. This body of work broadly supports delegation and independence of decision-making down to the lowest possible denomination with minimal permissions, a concept most directly expressed in _Reinventing Organizations_.
 
-[^58]: _See_ Discisussor of bulidngi an autinomontc "AWS-like" service plotform with munnial human invemelment in 0[SEC Resposnep XX4 § ABGC](todo ummm this was oral). THis is the only way to provide a nuviolla sercnie in my eyes, and celaly the best way too mininvie the number of humnons who tough MNPI.  Bruadly, I like the ide a of every company nad ivnevnnor using the same playing filed as the basis for tfinincall technololgy, as the backdeer tdeeals of yeesterypears' elite cannet be allowod to contine proropaging into business tracsaction s of such impartnce as an IPO
+[^58]: For instance, I spent a significant amount of my first meeting with [NY-Regional](https://github.com/JFWooten4/agenda/issues/7) Examination staff discussing my intent to build an autonomous "AWS-like" service platform with minimal human involvement. This is the only way to provide a neutral service in my eyes, and clearly the best way to minimize the number of humans who touch MNPI. Broadly, I like the idea of every company and investor using the same playing field as the basis for financial technology, as the backdoor deals of yesteryear's elite cannot be allowed to continue propagating into business transactions of such importance as an IPO.
 
-[^59]: I think [Bibic saw](https://www.reddit.com/user/Bibic-Jr/comments/z4p5ss/an_open_letter_to_the_mods_of_superstonk_from) this get particiculal/yp worse oas the communtiy sive grew, paaid accounts startetd intfiltrating forums., and helped a lot of people learn. I'd rather just get this to a strong place so we can focus on the good work that's been done nad needs to happen far mass DRS adoption.  Imagine if the ASsocat distributed proftis teo members, supporting a pariciticapatino narrative  aruond profit over athuntic missoin 
+[^59]: I think [Bibic saw](https://www.reddit.com/user/Bibic-Jr/comments/z4p5ss/an_open_letter_to_the_mods_of_superstonk_from) this get particularly worse as the community size grew, paid accounts started infiltrating forums, and helped a lot of people learn. I'd rather just get this to a strong place so we can focus on the good work that's been done and needs to happen for mass DRS adoption. Imagine if the Association distributed profits to members, supporting a participation narrative around profit over authentic mission.
 
 
 ## Local, Decentralized Economic Favoritism
@@ -428,7 +427,7 @@ The Commission is [currently contemplating](https://www.reginfo.gov/public/do/eA
 
 #### Structural Committee Allocator Disappointments
 
-> locally owned, small businesses constitute about onehalf of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
+> locally owned, small businesses constitute about one-half of the private economy in terms of output and jobs, but they receive almost no investment from the nation’s pension funds or from mutual, hedge, venture, or any other kind of investment funds.
 
 In the Q&A of my presentation, I go off on a decent tangent about central capital allocation.[^70] The fact is managing assets is a full-time job, as I hopefully laid out earlier. If you want to have anywhere close to good trade execution, much less local investment at a large fund-level scale, the proper incentives must exist.
 
@@ -436,7 +435,7 @@ I'm not talking about compensation. In fact, that's the one thing the current sy
 
 That is, of course, to say nothing of building great systems that let individuals perform this local investment ad hoc. That said, I lean more towards the specialization of a 'banker' role in the sense that there are a few people in town who are good with capital allocation, who handle their own little corners of the neighborhood's communal growth. Except they're doing so with others' hard capital, not the imaginary money glitch of fractional bank deposits and infinite leverage.[^74]
 
-> Pension fund participation. Let’s allow any pension fund that places as much as5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
+> Pension fund participation. Let’s allow any pension fund that places as much as 5 percent in local securities, either directly or through microbusiness investment funds, to meet legal standards of “fiduciary responsibility.” (Current regulations define the term in a way that directs virtually all such investments must go to global companies.)
 
 It is not in the interest of large pension funds to participate in local securities, regardless of fiduciary responsibility. Regulations are never the problem with asset managers; they will find a way to do what they want with their capital.[^75] Bulk allocators do not invest in or support local projects because they lack the skill[^76] or incentive to do so.
 
@@ -547,7 +546,7 @@ I think we've all seen just how many pitfalls emerge when those interests face a
 
 [^85]: The methods may conflate raw profitability with owner sweat-equity. It's easy to forget how much of the entrepreneur goes into these small businesses that constantly grind on their craft. While that does yield a very high output, it can easily come from a very high [input basis](https://youtu.be/3uwH2jfLCNE?t=19962).
 
-[^86]: I only use that last word because of how the current standard money supply of dollars acts a lot more like a Cantillonaire social distribution mechanism. Since it does most of its redistribution to existing property holders, the fact remains that it's challenging to measure economic output in objective terms when the money supply can double in a decade. I think we'd have a lot more predictability and capable planning with a currency that gave way for a little deflation now and then.
+[^86]: I only use that last word because of how the current standard money supply of dollars acts a lot more like a (cantillonaire) social distribution mechanism. Since it does most of its redistribution to existing property holders, the fact remains that it's challenging to measure economic output in objective terms when the money supply can double in a decade. I think we'd have a lot more predictability and capable planning with a currency that gave way for a little deflation now and then.
 
 [^87]: For instance, my dad issued bonds at Wells to finance the expansion of my charter high school without tax. That sort of local development doesn't seem to need the full provisions of issuer profiling or published financials. It fits much closer in the realm of an independent local allocator who's given some leeway to execute direct allocations without marketable on-chain securities.
 
@@ -565,7 +564,7 @@ I think we've all seen just how many pitfalls emerge when those interests face a
 
 [^94]: _See, e.g.,_ a good [research report](https://docs.google.com/document/d/1KMpbdLdsj3lKo7nsC9HHWtjkBpY1NCP-BqJTf1puiH4/view) by a partner at a crypto VC. I've found a lot of the research comparing DAOs comes from investors like Li, since by and large their existing problem space has been for-profit (protocol) work. The whole space has a wide range from funds to niche passion groups that have produced more governance research in five years than the last half-century of corporate law.
 
-[^95]: On note too, I've been working on a more comprehensive governance voting post for [some time now](https://github.com/JFWooten4/agenda/issues/4). There's just a lot to cover that broadly aligns with LimeGreen's sentiments, while adding some of the depth I've been working on perfecting and clarifying (in my own explanations) for years. As I've said before, that issue is the best point of reference to track that progress, although just as an aside, the community discussion around it really has been exceptional and with its own investigations.
+[^95]: On that item, I've been working on a more comprehensive governance voting post for [some time now](https://github.com/JFWooten4/agenda/issues/4). There's just a lot to cover that broadly aligns with LimeGreen's sentiments, while adding some of the depth I've been working on perfecting and clarifying (in my own explanations) for years. As I've said before, that issue is the best point of reference to track that progress, although just as an aside, the community discussion around it really has been exceptional and with its own investigations.
 
 [^96]: I hinted at the problems with voter identification before. This has crippled some grant allocators that tried to use quadratic mirrors of pseudonymous donations, like Gitcoin. Watching those programs mature firsthand over the years has given me a mature perspective on mechanism design, which I intend to put into place with the DUNA's governance rights.
 
