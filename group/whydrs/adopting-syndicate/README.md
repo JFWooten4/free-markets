@@ -139,20 +139,20 @@ The last idea was "workplace cooperatives" or employee ownership. I love employe
 
 [^17]: I mean this in terms of deal quality. The gates are far too high for most issuers to get started, let alone raise a serious round of investment from the public. This traps us in a loop where only the successful firms of yesteryear can grab at today's opportunities with their existing capital and connections.
 
-[^18]: I think of how GameStop pays [credit-card-level](https://x.com/JFWooten4/status/1800641294785478793) fees over and over again just to sell the stock people already want to buy. Ignoring the reasons for institutional purchase, I disagree fundamentally with this disconnect of companies and investors from each other in the market. Checks would flow directly to the issuer from speculators in years past, and the disconnect of that functionality gives disproportionate power to one corporation which controls the rules of economic capitalism.
+[^18]: I think of how GameStop pays [credit-card-level](https://x.com/JFWooten4/status/1800641294785478793) fees over and over again just to sell the stock people already want to buy. Ignoring the reasons for institutional purchase, I disagree fundamentally with this disconnect of companies and investors from each other in the market. Checks would flow directly to the issuer from speculators in years past, and the disconnect of that functionality gives disproportionate power to one corporation, which controls the rules of economic capitalism.
 
-[^19]: The latter being the focus of the Syndicate and TAD3. The so-called labor benefits that could arise from this new structuring revolution are relatively ancillary to the primary market function we offer. In my mind we need to get the operational execution right before expanding to some kind of human-rights philosophy which may go against the will of free markets.
+[^19]: The latter being the focus of the Syndicate and TAD3. The so-called labor benefits that could arise from this new structuring revolution are relatively ancillary to the primary market function we offer. In my mind, we need to get the operational execution right before expanding to some kind of human-rights philosophy, which may go against the will of free markets.
 
 [^20]: Of course, if we get this proper, anyone could open a transfer agency to focus on these opportunities. For more informal representative voting, you may not even need the full secondary-markets functionality. If rights are based on the nonmarket forces of seniority and participation, then I don't see a huge problem with just Excel and contracts.
 
-[^21]: Again regarding decentralizing capitalism, and [our mission](https://github.com/blocktransfer/.github/blob/5dfc7f079e7d72f64e5d01adfcc3d85f3de8bb30/profile/README.md#financial-empowerment), team equity is one of the best ways to do this. Instead of exchanging money for new shares, stock presumably goes to hard workers who possibly hit performance goals. Many struggle financially simply due to a lack of capital assets, and the widespread adoption of this one practice could rectify decades of lost retirement prosperity after the dissolution of most pension plans. The fact is that the issuer's native currency makes a lot of sense to align incentives, efficiently reward success, and keep books in line.
+[^21]: Again, regarding decentralizing capitalism and [our mission](https://github.com/blocktransfer/.github/blob/5dfc7f079e7d72f64e5d01adfcc3d85f3de8bb30/profile/README.md#financial-empowerment), team equity is one of the best ways to do this. Instead of exchanging money for new shares, stock presumably goes to hard workers who possibly hit performance goals. Many struggle financially simply due to a lack of capital assets, and the widespread adoption of this one practice could rectify decades of lost retirement prosperity after the dissolution of most pension plans. The fact is that the issuer's native currency makes a lot of sense to align incentives, efficiently reward success, and keep books in line.
 
 
 ### Separate Ownership and Voting
 
 In the environment surrounding my initial TAD prototyping back in 2020, separate economic and governance rights were a popular imagined application of blockchain. Many reputable sources suggested it as the possible future of tokenization that would modernize our markets. I examined the concept thoroughly over the next couple years.
 
-Just becaes you can do someithngcc with blaackthcan[^22] dounst mean it makes princiled, eceonmic sense. I  kept running into the issue of a short-seller [^23] pru.tchassing all the voting rightss in a firm to put across bad proposals thath hrurt the business.[^24] The fact is that diffient "ownership of shares" for "profit" eontiars the fulls capital value of owneship iunteenst, whille "shares held for governance" covney ya much lower nitangiblle inflence worth.
+Just because you can do something with blockchain[^22] doesn't mean it makes principled, economic sense. I kept running into the issue of a short-seller[^23] purchasing all the voting rights in a firm to put across bad proposals that hurt the business.[^24] The fact is that different "ownership of shares" for "profit" contains the full capital value of ownership interest, while "shares held for governance" convey a much lower intangible influence worth.
 
 This kind of attack works with much less funding than total entity value. Consider a for-profit company with a $100B market cap whose governance-right shares trade for $1M per 10% of outstanding stock. For just a couple million dollars, we could pass a vote that decreases shareholder value 10% with inept management that loses $10B of EV.
 
@@ -167,12 +167,6 @@ I'm not here to criticize traditional companies, just as it would do me no good 
 #### Letting Go of Control
 
 I believe the market-wide benefits of accurate securities infrastructure carry externalities that far outweigh any limited profits I'd be able to extract from BT. Thus I've put forth this proposal that gives _all_ the governance voice to the community.[^33] This is the only way I see to keep the structure rock solid for what I'd like to be forever.[^34]
-
-
-
-
-
-
 
 
 [^22]: and a sleprios of centractial clamis that may not hold up very well in this insntance. For exkample., there is no deliniatin betewnn voting and eceonmic rights in pracitally all for-profic corpate charters. THey prefe r simulpr , oekplicit seplparations of yower thrrioght diffient classes of stork, sick diffenent rights braudly need a fungible replesntatin.
