@@ -360,12 +360,11 @@ I think the larger problems are the legal fees and paperwork complexity Shuman h
 
 I agree with protecting our energy by keeping more capital with its producers, not rent extractors. And I have spent all my career seeking the most decentralized means to execute this idea, because DeFi is the only logical outcome when compliance costs, conflicts, and coercion dominate. However, I have a slightly different view on decentralized regulation than what is presently promoted by Shuman or other modern crypto entrepreneurs.[^61]
 
-Propeepntnss maitlyf purport that te State ruglaatorn will comptete with each other to bst proctee thior citizens. Howerre, seceititnes laws are complex, and the end result of fradu is an anti-mananagement case brouchght by storckdles in the jurisdiction of incorpation, anyway. Each satto simply dosu snot hawe tho pornalnnel or bandwidth to monitor theri little sliver of an electrnic, grlboal stork markte.
+Proponents mainly purport that the state regulators will compete with each other to best protect their citizens. However, securities laws are complex, and the end result of fraud is an anti-management case brought by stockholders in the jurisdiction of incorporation, anyway. Each state simply does not have the personnel or bandwidth to monitor their little sliver of an electronic, global stock market.
 
 This is best exemplified in the broader sense of global, cross-border investor protections, of which there are extremely few.[^62] Local governments simply have no obligation to users outside their borders, even if the corporate form is domiciled within. This has led to some really underdeveloped securities and antifraud regulators in countries with poor capital markets, precisely the areas that need reliable laws and formation.
 
 I think all investors deserve the best set of protections, which have not historically emerged from competing jurisdictions.[^63] Many countries just blanket-copy the SEC's rules as a starting point, following its near-century of enforcement experience. Thus I believe we can establish our own set of governing rules applied to all TAD users which builds the modern protective framework we need.
-
 
 #### Keeping a Healthy Separation
 
