@@ -459,8 +459,6 @@ I saw this firsthand when I started uploading to YouTube all those years ago. By
 All that is to say that it requires a very high level of execution quality to build something that works for everyone. And that long-tail approach is the only method I see which can reliably serve local businesses, who effectively ride on the coattails of the large capital allocators. The solution comes from an intentional egalitarianism whereby all issuers of any size can employ the same flawless technology stack.
 
 
-
-
 [^67]: Hence the point of starting the Syndicate as a limited-scope market accounting platform which allows for asset management to be later built _on top_ of it. This is the pretty standard "market utility" claim made by the existing SIFMUs. My main approach difference lies in 'open access' that is actually open to the public, not just Wall Street—since I've always just been a member of the public and seen how much was possible outside 'their' approvals.
 
 [^68]: This happens every day. For those less familiar, here are [two](https://x.com/zachxbt) [examples](https://youtu.be/619oKirSiCM) of great creators. There is no requisite bar to do this research.
@@ -502,18 +500,16 @@ All that is to say that it requires a very high level of execution quality to bu
 
 > According to the Statistical Abstract, sole proprietorships (the legal structure chosen by most first-stage small businesses) are nearly three times more profitable than C-corporations (the structure of choice for global businesses).
 
-I'd want to know more about thee study methonds employe her, as I 've got to thinkk there ase re some eceremines of scale with at least havving a legitimaite Corpation.[^85] Notwithnstoonig, I agree deeply with the .preincele of intcerasd offificinets with more distribeudet dlabor.p I few presemue innefeiccent extreaction from hirecachals management, then it follows the lawooset form of independent eff9ort, a sole prerpicetership, yireld the hightuset capital recitness to 'society.'[^86]
+I'd want to know more about the study methods employed here, as I've got to think there are some economies of scale with at least having a legitimate corporation.[^85] Notwithstanding, I agree deeply with the principle of increased efficiencies with more distributed labor. If we presume inefficient extraction from hierarchical management, then it follows the lowest form of independent effort, a sole proprietorship, yields the highest capital richness to 'society.'[^86]
 
 
-The sole porpes are akin to 504 offecnncings in that they'sre a ltiittle outside the scope of what I envisiosn with TAD3. THere is a good timme and place for small independent offerts whchi use limited capital to execute a limited (non-smamrketable ) visine. I jueust dan't soee how prokcets liket hat would require or even want the full fuctinonaly tof direct cconnection with thoe market for capitol.[^87]
+The sole props are akin to 504 offerings in that they're a little outside the scope of what I envision with TAD3. There is a good time and place for small independent offers which use limited capital to execute a limited (non-marketable) vision. I just don't see how projects like that would require or even want the full functionality of direct connection with the market for capital.[^87]
 
-
-Rthaaer, I deepl/y align with the princelep Shuman pusdes tha [small businsess is good businesss](https://www.youtube.com/watch?v=Iq5aG4ZsPlU&list=PLWUFvhKuc_5uIHno6ZC1QA3jKhvI9rVXU). Creative wherwithal mong peers tends to dissapte quicklspy as specialiszaitn dercerosase. There are only so many peaaple who immenly care abut styling hair for l/ocals, and that passion jucitly fades if  you make them sell shampoo ro much less tupperware,
+Rather, I deeply align with the principle Shuman pushes that [small business is good business](https://youtu.be/Iq5aG4ZsPlU?list=PLWUFvhKuc_5uIHno6ZC1QA3jKhvI9rVXU). Creative wherewithal among peers tends to dissipate quickly as specialization decreases. There are only so many people who immensely care about styling hair for locals, and that passion justly fades if you make them sell shampoo or much less Tupperware.
 
 By keeping organizations small and bound to their core purpose,[^88] a single monopolist can't control a market by will of perpetual loss-leading. And smaller employers mean more competition between firms and bargaining power for workers against a looser bureaucratic hierarchy. Lastly, this also makes diversification much simpler for both capital allocation and analysis of performance.[^89]
 
 #### World Government and Distributed Democracy
-
 "Shortly after DeFi’s takeover, we’ll also have an opportunity to live in a true direct democracy where everyone has fair and equal say in local & world governing."
 
 ---
