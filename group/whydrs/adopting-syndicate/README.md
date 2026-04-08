@@ -180,7 +180,7 @@ I believe the market-wide benefits of accurate securities infrastructure carry e
 
 [^27]: It's got like $100 in it, and they want me to fill out some paperwork to terminate the assets. There are some interesting nuances here that will make their way into a TAR comment. Anyway, all this of course presumes that customer indication of lending interest even matters, as was _not_ the case in [Apex's $3,200,000 fine](https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf#page=38).
 
-[^28]: Manipulation in the sense that bribers generally distort the efficient allocation of capital to their own limited ends, hurting the flow of incentives and behavior as would occur only with free exchange. I've particularly seen it spur to life in otherwise xyvz//poor todo assets, which then create huge externalized / [socialized losses](https://aqua.network/governance/proposal/85). Corporate takeovers are already contentious enough when you need the full value of what's at stake, not a few pennies on the dollar to exploit a naive governance system. todo
+[^28]: Manipulation in the sense that bribers generally distort the efficient allocation of capital to a briber's own limited ends, hurting the flow of incentives and behavior as would occur only with free exchange. I've particularly seen it spur to life volume in otherwise illiquid and dead assets, which then create huge [socialized loss externalities](https://aqua.network/governance/proposal/85). Corporate takeovers are already contentious enough when you need the full value of what's at stake, not a few pennies on the dollar to exploit a naive governance system.
 
 [^29]: Or in their case, a small group of co-founders.
 
