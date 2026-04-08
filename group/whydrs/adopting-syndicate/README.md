@@ -10,7 +10,7 @@ Hi guys, and thanks again for the overwhelming support on the donation vote. It'
 
 I'm excited to get things moving forward at "180 MPH" lol. It's really only possible because of everyone here that makes it work together. It was awesome putting a face to some inspired names:
 
-[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G) /> ## todo replace when pub w/ img
+[<img width="700" alt="Meetup Group" src="https://github.com/user-attachments/assets/88b9528a-9e52-4777-bbf1-827cbd76825f"](https://www.youtube.com/playlist?list=PLvvYoUV4FxuZY_V-_M2aYCKxdbd87DY1G)
 
 ## Expanding Manpower
 
@@ -285,7 +285,7 @@ The "drastic and profound negative impacts on most people" only exist when a sys
 
 [^50]: Save for their internalization or proprietary methods for the same domain. I think this is an easy and inevitable outcome in web2, where everything is services talking to services. But I find it to be a much lower risk since everything we've built requires any party, including the agent, to query and rely on the same public blockchain, providing a level playing field with _mostly_ zero insider advantages, ignoring legacy onboarding.
 
-[^51]: I realize this is somewhat of an oversimplification, as shown by the endless politics surrounding a small bit of code limiting block size to an arbitrary starting point. But I posit that systems like that did not have the governing nuance I intended to develop here, which allowed for representative voting weight resistant to self-interested narratives. If we keep governance rights [[aligned]] with the existing strong set of community morals and standards, then we can entrust long-term outcomes with the integrity of community participation, or at least that's the story I've had in my head for a long time.
+[^51]: I realize this is somewhat of an oversimplification, as shown by the endless politics surrounding a small bit of code limiting block size to an arbitrary starting point. But I posit that systems like that did not have the governing nuance I intended to develop here, which allowed for representative voting weight resistant to self-interested narratives. If we keep governance rights [[aligned]] with the existing strong set of community morals and standards, then we can entrust long-term outcomes with the integrity of community participation, or at least that's the story I've had in my head for a long time.  todo
 
 [^52]: Or any government that entrusted the concept to the free market. There are some notable exceptions in Spain and India where a central implementation of the direct holding structure came alongside government rollouts. I use these implementations as light inspirations with a unique set of improvement opportunities should something built by open-source engineers come to replace their relatively initial implementations.
 
