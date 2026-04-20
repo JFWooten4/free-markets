@@ -1,13 +1,11 @@
-baseURL = "https://john.lgbt"
+baseURL = "https://jfwooten4.com"
 theme = "hugo-bearblog"
 
-title = ""
-author = "masculine@john.lgbt"
+title = "Free Markets"
+author = "john.xlm"
 copyright = "CC BY-SA 4.0"
 languageCode = "en-US"
-
-# Generate a nice robots.txt for SEO
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
@@ -17,19 +15,18 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
-  title = "JCRS"
+  title = "Free Markets"
   description = "Taking our environment by the steering wheeel. 💜"
   favicon = "favicon.ico"
-  images = ["tricky-canon.jpg"]
+  images = ["icon.png"]
   
   hideMadeWithLine = true
   enablePostNavigator = true
-  dateFormat = "Mon Jan 2 06"
+  dateFormat = "2 Jan 06"
   mainSections = ["micro"]
 
 
-# Configure markup highlighter to match "Bearblog" aesthetics
-# see https://gohugo.io/configuration/markup/#highlight
+# Configure https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
