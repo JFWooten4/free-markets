@@ -17,17 +17,6 @@
       {{- $date = printf "%s-%s-%02d" $year $month (int $day) -}}
     {{- end -}}
   {{- end -}}
-{{- else if eq .Section "macro" -}}
-  {{- $monthMap := dict "Jan" "01" "Feb" "02" "Mar" "03" "Apr" "04" "May" "05" "Jun" "06" "Jul" "07" "Aug" "08" "Sep" "09" "Oct" "10" "Nov" "11" "Dec" "12" -}}
-  {{- $parts := split .File.BaseFileName "-" -}}
-  {{- if ge (len $parts) 3 -}}
-    {{- $year := index $parts 0 -}}
-    {{- $month := index $monthMap (index $parts 1) -}}
-    {{- $day := replaceRE `^([0-9]+).*$` "$1" (index $parts 2) -}}
-    {{- if and $year $month $day -}}
-      {{- $date = printf "%s-%s-%02d" $year $month (int $day) -}}
-    {{- end -}}
-  {{- end -}}
 {{- end -}}
 
 {{- return $date -}}
