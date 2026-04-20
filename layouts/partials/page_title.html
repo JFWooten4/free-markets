@@ -2,5 +2,12 @@
 {{- $matches := findRE `(?m)^#\s+.+$` .RawContent 1 -}}
 {{- if gt (len $matches) 0 -}}
   {{- $title = index $matches 0 | replaceRE `(?m)^#\s+` "" | replaceRE `\s+\{#.*\}$` "" | plainify -}}
+{{- else if not $title -}}
+  {{- $lines := findRE `(?m)^\S.*$` .RawContent 1 -}}
+  {{- if gt (len $lines) 0 -}}
+    {{- $title = index $lines 0 | plainify | truncate 90 -}}
+  {{- else -}}
+    {{- $title = .File.BaseFileName -}}
+  {{- end -}}
 {{- end -}}
 {{- $title -}}
