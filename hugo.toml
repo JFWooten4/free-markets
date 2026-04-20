@@ -25,7 +25,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   hideMadeWithLine = true
   enablePostNavigator = true
   dateFormat = "Mon Jan 2 06"
-  mainSections = ["blog"]
+  mainSections = ["micro"]
 
 
 # Configure markup highlighter to match "Bearblog" aesthetics
