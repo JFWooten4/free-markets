@@ -29,6 +29,9 @@ ignoreErrors = ["error-disable-taxonomy"]
 # Configure https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.typographer]
+        disable = true
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
