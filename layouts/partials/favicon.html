@@ -1,0 +1,9 @@
+{{- with .Site.Params.favicon }}
+<link rel="icon" href="{{ . | relURL }}" sizes="any">
+<link rel="shortcut icon" href="{{ . | relURL }}">
+{{- end }}
+{{- with .Site.Params.images }}
+  {{- with index . 0 }}
+<link rel="apple-touch-icon" href="{{ . | relURL }}">
+  {{- end }}
+{{- end }}
