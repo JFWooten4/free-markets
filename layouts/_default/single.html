@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ $hasHeading := gt (len (findRE `(?m)^#\s+.+$` .RawContent 1)) 0 }}
+{{ if and (not .Params.menu) (not $hasHeading) }}
+<h1>{{ partial "page_title.html" . }}</h1>
+{{ end }}
+{{ if not .Params.menu }}
+{{ $displayDate := partial "page_date.html" . }}
+{{ if $displayDate }}
+<p>
+  <i>
+    <time datetime='{{ partial "page_sort_key.html" . }}'>
+      {{ $displayDate }}
+    </time>
+  </i>
+</p>
+{{ end }}
+{{ end }}
+<content>
+  {{ .Content }}
+</content>
+
+{{ if (.Param "enablePostNavigator") }}
+{{ partial "post_navigator.html" . }}
+{{ end }}
+
+<p>
+  {{ range (.GetTerms "tags") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+</p>
+{{ end }}

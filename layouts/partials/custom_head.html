@@ -1,0 +1,193 @@
+<style>
+  body {
+    background-color: #002E5D;
+    background-image:
+      radial-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
+      radial-gradient(rgba(0,0,0,0.15) 2px, transparent 2px);
+    background-size: 22px 22px, 60px 60px;
+    background-attachment: fixed;
+    color: #ffffff;
+    font-size: 1.2em;
+    position: relative;
+    min-height: 88vh;
+    max-width: 88%;
+    width: 88%;
+    margin: 0;
+  }
+
+  header {
+    padding: 21px 0;
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    background: transparent;
+  }
+
+  header .title {
+    justify-content: center;
+  }
+
+  main {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 28px 52px 40px;
+    border-radius: 18px;
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
+    margin: 20px auto 0;
+    position: relative;
+    z-index: 1;
+    width: min(80%, 80rem);
+  }
+
+  footer {
+    position: relative;
+    z-index: 1;
+  }
+
+  .x-embed {
+    display: flex;
+    justify-content: center;
+    margin: 2.5rem 0;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+    margin-top: 1.8em;
+  }
+
+  h3 {
+    font-size: 1.1em;
+  }
+
+  .footnote-popup-host {
+    position: relative;
+  }
+
+  .footnote-popup-host > a[data-footnote-popup] {
+    display: inline;
+    cursor: pointer;
+  }
+
+  .footnote-popover {
+    display: none;
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 0.45rem);
+    transform: translateX(-50%);
+    width: min(24rem, 75vw);
+    padding: 0.55rem 0.7rem;
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    border-radius: 0.5rem;
+    background: rgba(15, 15, 15, 0.96);
+    color: #fff;
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45);
+    font-size: 0.88rem;
+    line-height: 1.35;
+    text-align: left;
+    z-index: 999;
+  }
+
+  .footnote-popup-host:hover .footnote-popover,
+  .footnote-popup-host:focus-within .footnote-popover,
+  .footnote-popup-host.is-open .footnote-popover {
+    display: block;
+  }
+
+  .footnote-popover p {
+    margin: 0;
+  }
+
+  .footnote-popover a {
+    color: #FDDA24;
+  }
+
+  html.footnote-popovers-enabled .footnotes {
+    display: none;
+  }
+
+  a { color: #FDDA24; }
+  a:hover { color: #FDDA24; text-decoration: underline; }
+  a:visited { color: #B7ACE8; }
+  ul.blog-posts li a,
+  ul.blog-posts li a:hover {
+    color: #FDDA24;
+  }
+  ul.blog-posts li a:visited {
+    color: #B7ACE8;
+  }
+
+  @media (max-width: 768px) {
+    main {
+      width: 100%;
+      margin: 10px auto 0;
+      padding: 24px 20px 32px;
+      border-radius: 0;
+    }
+  }
+</style>
+<script>
+  (function () {
+    function initFootnotePopovers() {
+      const refs = Array.from(document.querySelectorAll('sup a[href^="#fn:"]'));
+      if (!refs.length) return;
+
+      const hosts = [];
+
+      const closeAll = () => {
+        hosts.forEach((host) => host.classList.remove('is-open'));
+      };
+
+      refs.forEach((ref) => {
+        const targetId = ref.getAttribute('href');
+        if (!targetId) return;
+
+        const noteId = targetId.replace(/^#/, '');
+        const note = document.getElementById(noteId);
+        if (!note) return;
+
+        const clone = note.cloneNode(true);
+        clone.querySelectorAll('.footnote-backref').forEach((el) => el.remove());
+
+        const popover = document.createElement('span');
+        popover.className = 'footnote-popover';
+        popover.innerHTML = clone.innerHTML.trim();
+
+        const host = ref.parentElement;
+        if (!host) return;
+        host.classList.add('footnote-popup-host');
+        hosts.push(host);
+
+        ref.setAttribute('data-footnote-popup', 'true');
+        host.appendChild(popover);
+
+        ref.addEventListener('click', function (event) {
+          event.preventDefault();
+          const willOpen = !host.classList.contains('is-open');
+          closeAll();
+          if (willOpen) host.classList.add('is-open');
+        });
+      });
+
+      if (!hosts.length) return;
+      document.documentElement.classList.add('footnote-popovers-enabled');
+
+      document.addEventListener('click', function (event) {
+        if (event.target.closest('.footnote-popup-host')) return;
+        closeAll();
+      });
+
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') closeAll();
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initFootnotePopovers);
+    } else {
+      initFootnotePopovers();
+    }
+  })();
+</script>

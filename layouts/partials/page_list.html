@@ -1,0 +1,27 @@
+{{- $items := slice -}}
+{{- range . -}}
+  {{- $items = $items | append (dict
+    "page" .
+    "sortKey" (partial "page_sort_key.html" .)
+    "title" (partial "page_title.html" .)
+  ) -}}
+{{- end -}}
+
+<ul class="blog-posts">
+  {{- range sort $items "sortKey" "desc" -}}
+  <li>
+    {{- if .sortKey }}
+    <span>
+      <i>
+        <time datetime='{{ .sortKey }}'>
+          {{ partial "page_date.html" .page }}
+        </time>
+      </i>
+    </span>
+    {{- end }}
+    <a href="{{ .page.RelPermalink }}">{{ .title }}</a>
+  </li>
+  {{- else -}}
+  <li>No posts yet</li>
+  {{- end -}}
+</ul>

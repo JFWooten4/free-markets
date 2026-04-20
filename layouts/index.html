@@ -1,0 +1,5 @@
+{{ define "main" }}
+<content>
+  {{ partial "page_list.html" (where .Site.RegularPages "Section" "micro") }}
+</content>
+{{ end }}

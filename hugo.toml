@@ -1,0 +1,46 @@
+baseURL = "https://jfwooten4.com"
+theme = "hugo-bearblog"
+
+title = "Free Markets"
+author = "john.xlm"
+copyright = "CC BY-SA 4.0"
+languageCode = "en-US"
+enableRobotsTXT = true
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  title = "Free Markets"
+  description = "Taking our environment by the steering wheeel. 💜"
+  favicon = "favicon.ico"
+  images = ["icon.png"]
+  
+  hideMadeWithLine = true
+  enablePostNavigator = true
+  dateFormat = "2 Jan 06"
+  mainSections = ["micro"]
+
+
+# Configure https://gohugo.io/configuration/markup/#highlight
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.typographer]
+        disable = true
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
