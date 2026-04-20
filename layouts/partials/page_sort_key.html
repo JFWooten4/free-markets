@@ -8,7 +8,11 @@
   {{- if ge (len $parts) 4 -}}
     {{- $year := index $parts 1 -}}
     {{- $month := index $monthMap (index $parts 2) -}}
-    {{- $day := replaceRE `^([0-9]+).*$` "$1" .File.BaseFileName -}}
+    {{- $daySource := .File.BaseFileName -}}
+    {{- if and (eq .File.BaseFileName "README") (ge (len $parts) 5) -}}
+      {{- $daySource = index $parts 3 -}}
+    {{- end -}}
+    {{- $day := replaceRE `^([0-9]+).*$` "$1" $daySource -}}
     {{- if and $year $month $day -}}
       {{- $date = printf "%s-%s-%02d" $year $month (int $day) -}}
     {{- end -}}
@@ -26,4 +30,4 @@
   {{- end -}}
 {{- end -}}
 
-{{- $date -}}
+{{- return $date -}}
