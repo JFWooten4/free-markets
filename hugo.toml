@@ -44,3 +44,26 @@ ignoreErrors = ["error-disable-taxonomy"]
   home = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
   page = ["HTML"]
+
+[module]
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "posts"
+    target = "content/posts"
+  [[module.mounts]]
+    source = "micro"
+    target = "content/micro"
+  [[module.mounts]]
+    source = "macro"
+    target = "content/macro"
+  [[module.mounts]]
+    source = "group"
+    target = "content/group"

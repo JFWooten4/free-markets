@@ -1,0 +1,4 @@
+{{- $sortKey := partial "page_sort_key.html" . -}}
+{{- if $sortKey -}}
+  {{- time.AsTime $sortKey | time.Format (default "02 Jan, 2006" .Site.Params.dateFormat) -}}
+{{- end -}}

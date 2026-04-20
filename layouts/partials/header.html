@@ -1,5 +1,5 @@
 <a href="{{ "" | relURL }}" class="title" style="display:flex; align-items:center; gap:0.4em;">
   <img src="/icon.png" alt="pony" style="height:4em; width:4em; margin-right:0.6em; border-radius:8px; object-fit:cover;">
-  <h2 style="margin:0;">{{ .Site.Title }}</h2>
+  <h2 style="margin:0;">{{ or .Site.Title .Site.Params.title }}</h2>
 </a>
 <!--- <nav>{{- partial "nav.html" . -}}</nav> --->

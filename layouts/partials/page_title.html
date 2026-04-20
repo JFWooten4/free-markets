@@ -1,0 +1,6 @@
+{{- $title := .Title -}}
+{{- $matches := findRE `(?m)^#\s+.+$` .RawContent 1 -}}
+{{- if gt (len $matches) 0 -}}
+  {{- $title = index $matches 0 | replaceRE `(?m)^#\s+` "" | replaceRE `\s+\{#.*\}$` "" | plainify -}}
+{{- end -}}
+{{- $title -}}
