@@ -24,7 +24,7 @@ In a perfect world, each category of change would have its own commit detailing 
 
 ![prsnl-repo](imgs/pretty-specific-commits.png)
 
-Emojis let you add valuable context that would otherwise necessitate a bland tag. Consider a 🐛 instead of `bug:`, 🔨 instead of `fix:`, etc. It's a quick [keyboard shortcut](TODO_WRITE_ARTICLE_ON_HOW_USE_EMOJI_SHORTCUTS) and search that really only takes a second even though it adds so much appeal. <!-- lol -->
+Emojis let you add valuable context that would otherwise necessitate a bland tag. Consider a 🐛 instead of `bug:`, 🔨 instead of `fix:`, etc. It's a quick keyboard shortcut and search that really only takes a second even though it adds so much appeal.
 
 [^whop]: The hasty `Update resources.html` was a [quick fix](https://github.com/JFWooten4/JFWooten4/commit/2fcfedad073958a44bbd3034c3e2c58ac9e734a6) after [updating](https://github.com/JFWooten4/JFWooten4/commit/4436b5c81dd50f8f5ad8d142bd69bfcc3dd985bb) the page's redirect URL. By not following my own convention,[^tst] I drastically limited the valuable public disclosure, auditability, and transmission.
 
