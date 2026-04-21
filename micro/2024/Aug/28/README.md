@@ -1,8 +1,10 @@
+# On Bulk Git Commits
+
 I made a silly mistake recently which created a messy git repo. I thought this would be fine because other people / myself would continually update the more active documents, but looking back this was fairly short-sighted/aggressively long-sighted because there probably won't be many changes for some time.[^bib] Let me explain.
 
 [^bib]: Namely, I doubt any new sources will be added as references imminently.
 
-# Bulk Git Commits
+## Bulk Git Commits
 
 It's common[^src] for contributors to collate diverse changes into a single commit for the sake of simplicity, ease of writing less, etc. Take your motivations as you will. I've personally found that it's the easiest way to obfuscate otherwise material information / nuanced details.
 
