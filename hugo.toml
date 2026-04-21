@@ -22,6 +22,9 @@ ignoreErrors = ["error-disable-taxonomy"]
     source = "micro"
     target = "content/micro"
   [[module.mounts]]
+    source = "micro/2024/Aug/imgs"
+    target = "static/micro/2024/aug/imgs"
+  [[module.mounts]]
     source = "static"
     target = "static"
 
