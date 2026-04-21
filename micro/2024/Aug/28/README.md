@@ -1,4 +1,4 @@
-# On Bulk Git Commits
+# Creating a Pretty, Inviting Repo
 
 I made a silly mistake recently which created a messy git repo. I thought this would be fine because other people / myself would continually update the more active documents, but looking back this was fairly short-sighted/aggressively long-sighted because there probably won't be many changes for some time.[^bib] Let me explain.
 
@@ -16,7 +16,7 @@ Accordingly, the view here now looks relatively trashy:
 
 ![yp-commits](imgs/universal-disorganized-bulk.png)
 
-# Rebase and Merge 🙏
+## Rebase and Merge 🙏
 
 However, more relevant to adequate public disclosures, the logic behind the changes to each item is not properly documented. Namely, I filled in a gap on the third page that's existed for at least a year. This change, alongside the explicit reference to the Stellar dev docs, should have been documented in the commit name or details regarding `main.tex` specifically&mdash;and they weren't.
 
