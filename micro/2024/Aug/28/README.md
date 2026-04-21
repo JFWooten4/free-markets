@@ -1,8 +1,10 @@
+# Creating a Pretty, Inviting Repo
+
 I made a silly mistake recently which created a messy git repo. I thought this would be fine because other people / myself would continually update the more active documents, but looking back this was fairly short-sighted/aggressively long-sighted because there probably won't be many changes for some time.[^bib] Let me explain.
 
 [^bib]: Namely, I doubt any new sources will be added as references imminently.
 
-# Bulk Git Commits
+## Bulk Git Commits
 
 It's common[^src] for contributors to collate diverse changes into a single commit for the sake of simplicity, ease of writing less, etc. Take your motivations as you will. I've personally found that it's the easiest way to obfuscate otherwise material information / nuanced details.
 
@@ -14,7 +16,7 @@ Accordingly, the view here now looks relatively trashy:
 
 ![yp-commits](imgs/universal-disorganized-bulk.png)
 
-# Rebase and Merge 🙏
+## Rebase and Merge 🙏
 
 However, more relevant to adequate public disclosures, the logic behind the changes to each item is not properly documented. Namely, I filled in a gap on the third page that's existed for at least a year. This change, alongside the explicit reference to the Stellar dev docs, should have been documented in the commit name or details regarding `main.tex` specifically&mdash;and they weren't.
 
@@ -22,7 +24,7 @@ In a perfect world, each category of change would have its own commit detailing 
 
 ![prsnl-repo](imgs/pretty-specific-commits.png)
 
-Emojis let you add valuable context that would otherwise necessitate a bland tag. Consider a 🐛 instead of `bug:`, 🔨 instead of `fix:`, etc. It's a quick [keyboard shortcut](TODO_WRITE_ARTICLE_ON_HOW_USE_EMOJI_SHORTCUTS) and search that really only takes a second even though it adds so much appeal. <!-- lol -->
+Emojis let you add valuable context that would otherwise necessitate a bland tag. Consider a 🐛 instead of `bug:`, 🔨 instead of `fix:`, etc. It's a quick keyboard shortcut and search that really only takes a second even though it adds so much appeal.
 
 [^whop]: The hasty `Update resources.html` was a [quick fix](https://github.com/JFWooten4/JFWooten4/commit/2fcfedad073958a44bbd3034c3e2c58ac9e734a6) after [updating](https://github.com/JFWooten4/JFWooten4/commit/4436b5c81dd50f8f5ad8d142bd69bfcc3dd985bb) the page's redirect URL. By not following my own convention,[^tst] I drastically limited the valuable public disclosure, auditability, and transmission.
 
