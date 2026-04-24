@@ -21,7 +21,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   [[module.mounts]]
     source = "micro"
     target = "content/micro"
-    includeFiles = "_content.gotmpl"
+    excludeFiles = ["**/*.md", "**/imgs/**"]
   [[module.mounts]]
     source = "micro/2024/Aug/imgs"
     target = "static/micro/2024/aug/imgs"
