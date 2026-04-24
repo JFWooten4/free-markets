@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ruby scripts/generate-content.rb
+node scripts/generate-content.mjs
 "${HUGO_BIN:-hugo}" "$@"
