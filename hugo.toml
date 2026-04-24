@@ -21,6 +21,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   [[module.mounts]]
     source = "micro"
     target = "content/micro"
+    includeFiles = "_content.gotmpl"
   [[module.mounts]]
     source = "micro/2024/Aug/imgs"
     target = "static/micro/2024/aug/imgs"
@@ -29,7 +30,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     target = "static"
 
 [permalinks]
-  blog = "/:slug/"
+  micro = "/:slug/"
   tags = "/blog/:slug"
 
 [params]

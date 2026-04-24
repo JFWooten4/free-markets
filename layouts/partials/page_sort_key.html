@@ -1,6 +1,8 @@
 {{- $date := "" -}}
 
-{{- if .Params.date -}}
+{{- if .Params.sortKey -}}
+  {{- $date = .Params.sortKey -}}
+{{- else if .Params.date -}}
   {{- $date = .Date.Format "2006-01-02" -}}
 {{- else if eq .Section "micro" -}}
   {{- $monthMap := dict "Jan" "01" "Feb" "02" "Mar" "03" "Apr" "04" "May" "05" "Jun" "06" "Jul" "07" "Aug" "08" "Sep" "09" "Oct" "10" "Nov" "11" "Dec" "12" -}}
