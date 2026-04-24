@@ -1,3 +1,5 @@
+{{ define "title" }}{{ .Site.Params.title }} | {{ .Site.Title }}{{ end }}
+
 {{ define "main" }}
 <content>
   {{ partial "page_list.html" (where .Site.RegularPages "Section" "micro") }}
