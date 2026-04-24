@@ -19,9 +19,8 @@ ignoreErrors = ["error-disable-taxonomy"]
     source = "layouts"
     target = "layouts"
   [[module.mounts]]
-    source = "micro"
+    source = ".generated-content/micro"
     target = "content/micro"
-    excludeFiles = ["**/*.md", "**/imgs/**"]
   [[module.mounts]]
     source = "micro/2024/Aug/imgs"
     target = "static/micro/2024/aug/imgs"
