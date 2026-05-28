@@ -3,7 +3,7 @@ theme = "hugo-bearblog"
 
 title = "John Wooten"
 author = "john.xlm"
-copyright = "CC BY-SA 4.0"
+copyright = "CC BY-SA 4"
 languageCode = "en-US"
 enableRobotsTXT = true
 
