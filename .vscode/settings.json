@@ -1,5 +1,17 @@
 {
-    "background.windowBackgrounds": [
-        "/.vscode/Participants-UndreamedPanic.png"
-    ]
+  "editor.minimap.enabled": false,
+  "terminal.integrated.defaultLocation": "editor",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.hideOnStartup": true,
+  "background.enabled": true,
+  "background.useDefault": false,
+  "background.windowBackgrounds": [
+    "/Users/bass/GitHub/free-markets/.vscode/Participants-UndreamedPanic.png"
+  ],
+  "background.backgroundOpacity": [
+    0.2,
+    0.1,
+    0.1,
+    0.1
+  ]
 }
