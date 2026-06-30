@@ -1,2 +1,4 @@
 .generated-content/
 public/
+.icp/cache/
+.icp/tmp/
