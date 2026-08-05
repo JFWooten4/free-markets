@@ -15,22 +15,23 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  ICP_CLI_VERSION: "1.0.2"
+  ICP_CLI_VERSION: "1.2.0"
+  ICP_CLI_PLUGIN_COMPUTE_LIMIT_SECS: "300"
   DO_NOT_TRACK: "1"
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           submodules: recursive
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 22
 
@@ -79,8 +80,14 @@ jobs:
             --storage plaintext
           shred --remove "${key_file}"
 
+      - name: Verify deployment identity controls canister
+        if: steps.deployment.outputs.ready == 'true'
+        env:
+          ICP_HOME: ${{ runner.temp }}/icp-home
+        run: icp canister settings show frontend --identity github-actions -e ic --json
+
       - name: Sync site to ICP
         if: steps.deployment.outputs.ready == 'true'
         env:
           ICP_HOME: ${{ runner.temp }}/icp-home
-        run: icp sync frontend --identity github-actions -e ic
+        run: icp --debug sync frontend --identity github-actions -e ic
