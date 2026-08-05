@@ -1,0 +1,86 @@
+name: Build and deploy to ICP
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: icp-production
+  cancel-in-progress: false
+
+env:
+  ICP_CLI_VERSION: "1.0.2"
+  DO_NOT_TRACK: "1"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: latest
+          extended: true
+
+      - name: Build site
+        run: ./scripts/build.sh --minify
+
+      - name: Check deployment prerequisites
+        if: github.event_name != 'pull_request'
+        id: deployment
+        shell: bash
+        env:
+          ICP_DEPLOYER_PEM: ${{ secrets.ICP_DEPLOYER_PEM }}
+        run: |
+          if [[ -z "${ICP_DEPLOYER_PEM}" ]]; then
+            echo "ICP_DEPLOYER_PEM is not configured; build completed without deploying."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          elif [[ ! -f .icp/data/mappings/ic.ids.json ]]; then
+            echo "The mainnet canister mapping is not committed; build completed without deploying."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install ICP CLI
+        if: steps.deployment.outputs.ready == 'true'
+        run: npm install --global "@icp-sdk/icp-cli@${ICP_CLI_VERSION}" @icp-sdk/ic-wasm
+
+      - name: Import deployment identity
+        if: steps.deployment.outputs.ready == 'true'
+        shell: bash
+        env:
+          ICP_DEPLOYER_PEM: ${{ secrets.ICP_DEPLOYER_PEM }}
+          ICP_HOME: ${{ runner.temp }}/icp-home
+        run: |
+          key_file="${RUNNER_TEMP}/github-actions.pem"
+          umask 077
+          printf '%s' "${ICP_DEPLOYER_PEM}" > "${key_file}"
+          icp identity import github-actions \
+            --from-pem "${key_file}" \
+            --storage plaintext
+          shred --remove "${key_file}"
+
+      - name: Sync site to ICP
+        if: steps.deployment.outputs.ready == 'true'
+        env:
+          ICP_HOME: ${{ runner.temp }}/icp-home
+        run: icp sync frontend --identity github-actions -e ic
