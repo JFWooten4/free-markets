@@ -1,5 +1,5 @@
 name: 🌐 Build and deploy to ICP
-run-name: 🚀 Deploy ICP site — ${{ github.event.head_commit.message || github.event.pull_request.title || github.event_name }}
+run-name: 🚀 Deploy ICP site — ${{ github.event_name == 'pull_request' && format('{0} (#{1})', github.event.pull_request.title, github.event.pull_request.number) || format('{0} ({1})', github.sha, github.event_name) }}
 
 on:
   pull_request:
@@ -18,7 +18,7 @@ concurrency:
 env:
   ICP_CLI_VERSION: "1.2.0"
   ICP_CLI_PLUGIN_COMPUTE_LIMIT_SECS: "300"
-  DFX_VERSION: "0.29.2"
+  ICX_ASSET_VERSION: "0.29.0"
   DO_NOT_TRACK: "1"
 
 jobs:
@@ -68,11 +68,13 @@ jobs:
         if: steps.deployment.outputs.ready == 'true'
         run: npm install --global "@icp-sdk/icp-cli@${ICP_CLI_VERSION}" @icp-sdk/ic-wasm
 
-      - name: Install DFX asset uploader
+      - name: Install asset uploader
         if: steps.deployment.outputs.ready == 'true'
-        uses: dfinity/setup-dfx@e50c04f104ee4285ec010f10609483cf41e4d365
-        with:
-          dfx-version: ${{ env.DFX_VERSION }}
+        run: |
+          cargo install icx-asset \
+            --version "${ICX_ASSET_VERSION}" \
+            --locked \
+            --root "${RUNNER_TEMP}/icx-asset"
 
       - name: Import deployment identity
         if: steps.deployment.outputs.ready == 'true'
@@ -99,7 +101,7 @@ jobs:
         shell: bash
         run: |
           canister_id="$(jq --exit-status --raw-output '.frontend' .icp/data/mappings/ic.ids.json)"
-          timeout --signal=TERM 15m "$(dfx cache show)/icx-asset" \
+          timeout --signal=TERM 15m "${RUNNER_TEMP}/icx-asset/bin/icx-asset" \
             --replica https://icp0.io \
             --pem "${RUNNER_TEMP}/github-actions.pem" \
             --log-level debug \
