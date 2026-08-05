@@ -1,5 +1,5 @@
 name: 🌐 Build and deploy to ICP
-run-name: 🚀 Deploy ICP site — ${{ github.event_name == 'pull_request' && format('{0} (#{1})', github.event.pull_request.title, github.event.pull_request.number) || format('{0} ({1})', github.sha, github.event_name) }}
+run-name: 🚀 Deploy ICP site — ${{ github.event.pull_request.title || github.event_name }}
 
 on:
   pull_request:
@@ -111,6 +111,29 @@ jobs:
         env:
           ICP_HOME: ${{ runner.temp }}/icp-home
         run: icp canister settings show frontend --identity github-actions -e ic --json
+
+      - name: Grant asset upload permission
+        if: steps.deployment.outputs.ready == 'true'
+        shell: bash
+        env:
+          ICP_HOME: ${{ runner.temp }}/icp-home
+        run: |
+          uploader_principal="$(icp identity principal --identity github-actions)"
+          icp canister call frontend grant_permission \
+            "(record { to_principal = principal \"${uploader_principal}\"; permission = variant { Commit }; })" \
+            --identity github-actions \
+            -e ic
+
+          permitted="$(icp canister call frontend list_permitted \
+            '(record { permission = variant { Commit }; })' \
+            --identity github-actions \
+            --query \
+            --output candid \
+            -e ic)"
+          if [[ "${permitted}" != *"${uploader_principal}"* ]]; then
+            echo "The deployment identity was not granted Commit permission." >&2
+            exit 1
+          fi
 
       - name: Sync site to ICP
         if: steps.deployment.outputs.ready == 'true'
