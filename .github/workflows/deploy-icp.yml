@@ -84,11 +84,27 @@ jobs:
           ICP_HOME: ${{ runner.temp }}/icp-home
         run: |
           key_file="${RUNNER_TEMP}/github-actions.pem"
+          uploader_key_file="${RUNNER_TEMP}/github-actions-icx.pem"
           umask 077
           printf '%s' "${ICP_DEPLOYER_PEM}" > "${key_file}"
           icp identity import github-actions \
             --from-pem "${key_file}" \
             --storage plaintext
+          openssl pkey \
+            -in "${key_file}" \
+            -traditional \
+            -out "${uploader_key_file}"
+          openssl pkey -in "${uploader_key_file}" -check -noout
+          icp identity import github-actions-uploader \
+            --from-pem "${uploader_key_file}" \
+            --storage plaintext
+
+          original_principal="$(icp identity principal --identity github-actions)"
+          uploader_principal="$(icp identity principal --identity github-actions-uploader)"
+          if [[ "${original_principal}" != "${uploader_principal}" ]]; then
+            echo "The converted uploader key does not match the deployment identity." >&2
+            exit 1
+          fi
 
       - name: Verify deployment identity controls canister
         if: steps.deployment.outputs.ready == 'true'
@@ -103,7 +119,7 @@ jobs:
           canister_id="$(jq --exit-status --raw-output '.frontend' .icp/data/mappings/ic.ids.json)"
           timeout --signal=TERM 15m "${RUNNER_TEMP}/icx-asset/bin/icx-asset" \
             --replica https://icp0.io \
-            --pem "${RUNNER_TEMP}/github-actions.pem" \
+            --pem "${RUNNER_TEMP}/github-actions-icx.pem" \
             --log-level debug \
             sync "${canister_id}" public
 
@@ -111,7 +127,11 @@ jobs:
         if: always() && steps.deployment.outputs.ready == 'true'
         shell: bash
         run: |
-          key_file="${RUNNER_TEMP}/github-actions.pem"
-          if [[ -f "${key_file}" ]]; then
-            shred --remove "${key_file}"
-          fi
+          for key_file in \
+            "${RUNNER_TEMP}/github-actions.pem" \
+            "${RUNNER_TEMP}/github-actions-icx.pem"
+          do
+            if [[ -f "${key_file}" ]]; then
+              shred --remove "${key_file}"
+            fi
+          done
