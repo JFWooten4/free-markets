@@ -127,7 +127,6 @@ jobs:
           permitted="$(icp canister call frontend list_permitted \
             '(record { permission = variant { Commit }; })' \
             --identity github-actions \
-            --query \
             --output candid \
             -e ic)"
           if [[ "${permitted}" != *"${uploader_principal}"* ]]; then
