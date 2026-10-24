@@ -109,11 +109,17 @@
 
   .footnote-popover {
     display: none;
-    position: absolute;
-    left: 50%;
-    bottom: calc(100% + 0.45rem);
-    transform: translateX(-50%);
-    width: min(24rem, 75vw);
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: auto;
+    transform: none;
+    width: min(24rem, calc(100vw - 1rem));
+    max-height: calc(100dvh - 1rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    overflow-wrap: anywhere;
+    box-sizing: border-box;
     padding: 0.55rem 0.7rem;
     border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 0.5rem;
@@ -171,6 +177,37 @@
       if (!refs.length) return;
 
       const hosts = [];
+      const popovers = [];
+      const positionPopover = (ref, popover) => {
+        const viewport = window.visualViewport;
+        const leftEdge = viewport ? viewport.offsetLeft : 0;
+        const topEdge = viewport ? viewport.offsetTop : 0;
+        const width = viewport ? viewport.width : window.innerWidth;
+        const height = viewport ? viewport.height : window.innerHeight;
+        const padding = 8;
+        const gap = 8;
+        const anchor = ref.getBoundingClientRect();
+
+        // Measure the entire note before restricting it to the available vertical space.
+        popover.style.maxWidth = `${Math.max(0, width - padding * 2)}px`;
+        popover.style.maxHeight = `${Math.max(0, height - padding * 2)}px`;
+        const noteHeight = popover.scrollHeight;
+        const aboveRoom = Math.max(0, anchor.top - topEdge - gap - padding);
+        const belowRoom = Math.max(0, topEdge + height - anchor.bottom - gap - padding);
+        const showAbove = aboveRoom >= noteHeight ||
+          (belowRoom < noteHeight && aboveRoom > belowRoom);
+        popover.style.maxHeight = `${showAbove ? aboveRoom : belowRoom}px`;
+
+        const bounds = popover.getBoundingClientRect();
+        const left = Math.max(leftEdge + padding, Math.min(
+          anchor.left + anchor.width / 2 - bounds.width / 2,
+          leftEdge + width - padding - bounds.width
+        ));
+        popover.style.left = `${left}px`;
+        popover.style.top = `${showAbove
+          ? anchor.top - gap - bounds.height
+          : anchor.bottom + gap}px`;
+      };
 
       const closeAll = () => {
         hosts.forEach((host) => host.classList.remove('is-open'));
@@ -195,19 +232,36 @@
         if (!host) return;
         host.classList.add('footnote-popup-host');
         hosts.push(host);
+        popovers.push({ ref, popover });
 
         ref.setAttribute('data-footnote-popup', 'true');
         host.appendChild(popover);
+
+        host.addEventListener('pointerenter', () => positionPopover(ref, popover));
+        host.addEventListener('focusin', () => positionPopover(ref, popover));
 
         ref.addEventListener('click', function (event) {
           event.preventDefault();
           const willOpen = !host.classList.contains('is-open');
           closeAll();
-          if (willOpen) host.classList.add('is-open');
+          if (willOpen) {
+            host.classList.add('is-open');
+            positionPopover(ref, popover);
+          }
         });
       });
 
       if (!hosts.length) return;
+
+      const repositionVisible = () => {
+        popovers.forEach(({ ref, popover }) => {
+          if (popover.getClientRects().length) positionPopover(ref, popover);
+        });
+      };
+      window.addEventListener('resize', repositionVisible);
+      window.addEventListener('scroll', repositionVisible, true);
+      window.visualViewport?.addEventListener('resize', repositionVisible);
+      window.visualViewport?.addEventListener('scroll', repositionVisible);
       document.documentElement.classList.add('footnote-popovers-enabled');
 
       document.addEventListener('click', function (event) {
